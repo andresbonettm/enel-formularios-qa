@@ -1,0 +1,818 @@
+ @font-face {
+            font-family: 'RoobertENEL-Black';
+            src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Black.eot');
+            src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Black.eot?#iefix') format('embedded-opentype'),
+                url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Black.woff2') format('woff2'),
+                url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Black.woff') format('woff');
+            font-weight: 900;
+            font-style: normal;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'RoobertENEL-Light';
+            src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Light.eot');
+            src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Light.eot?#iefix') format('embedded-opentype'),
+                url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Light.woff2') format('woff2'),
+                url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Light.woff') format('woff');
+            font-weight: 300;
+            font-style: normal;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'RoobertENEL-LightItalic';
+            src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-LightItalic.eot');
+            src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-LightItalic.eot?#iefix') format('embedded-opentype'),
+                url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-LightItalic.woff2') format('woff2'),
+                url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-LightItalic.woff') format('woff');
+            font-weight: 300;
+            font-style: italic;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'RoobertENEL-Bold';
+            src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Bold.eot');
+            src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Bold.eot?#iefix') format('embedded-opentype'),
+                url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Bold.woff2') format('woff2'),
+                url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Bold.woff') format('woff');
+            font-weight: bold;
+            font-style: normal;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'RoobertENEL-BoldItalic';
+            src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-BoldItalic.eot');
+            src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-BoldItalic.woff2') format('woff2'),
+                url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-BoldItalic.woff') format('woff');
+            font-weight: bold;
+            font-style: italic;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'RoobertENEL-BlackItalic';
+            src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-BlackItalic.eot');
+            src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-BlackItalic.woff2') format('woff2'),
+                url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-BlackItalic.woff') format('woff');
+            font-weight: 900;
+            font-style: italic;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'RoobertENEL-RegularItalic';
+            src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-RegularItalic.eot');
+            src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-RegularItalic.eot?#iefix') format('embedded-opentype'),
+                url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-RegularItalic.woff2') format('woff2'),
+                url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-RegularItalic.woff') format('woff');
+            font-weight: normal;
+            font-style: italic;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'RoobertENEL-Regular';
+            src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Regular.eot');
+            src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Regular.eot?#iefix') format('embedded-opentype'),
+                url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Regular.woff2') format('woff2'),
+                url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Regular.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+            font-display: swap;
+        }
+
+
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    outline: none;
+    text-align: center;
+    font-family: 'RoobertENEL-Regular';
+}
+
+html {
+    text-align: center;
+}
+
+body {
+    max-width: 1900px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.container {
+    padding: 0;
+}
+
+img {
+    max-width: 100%;
+    overflow: visible;
+    vertical-align: middle;
+}
+
+
+section {
+    text-align: left;
+}
+
+section.main {
+    background-color: #0555fa;
+    background-size: cover;
+    width: 100%;
+    align-items: center;
+}
+
+section.main div.logo {
+    top: 7%;
+    left: 3%;
+    width: 200px;
+}
+
+section.main div.logo img {
+    width: 100%;
+    margin-top: 15%;
+}
+
+
+section.main .contenedor {
+    display: flex;
+    height: 80vh;
+}
+
+section.main div.aside_left {
+    background-image: url('https://assets.enelcol.com.co/2021/landings/20210211_Landing_cfc/images/icono-mujer.png');
+    background-repeat: no-repeat;
+    background-position-y: 100%;
+    text-align: center;
+    max-width: 55%;
+    vertical-align: middle;
+    padding-left: 24%;
+}
+
+section.main div.aside_left p img.titulo {
+    width: 6%;
+}
+
+section.main div.aside_left p span.titulo {
+    font-size: 35px;
+    line-height: 100%;
+}
+
+section.main div.aside_left p img,
+section.main div.aside_left p span {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+}
+
+section.main div.aside_left p img {
+    width: 9%;
+}
+
+section.main div.aside_left p span{
+    width: 80%;
+}
+
+section.main div.aside_left h1 {
+    font-size: 36px;
+    text-align: left;
+    color: #ffffff;
+    font-weight: bold;
+    line-height: 40px;
+    margin-bottom: 3%;
+    margin-top: 9%;
+}
+
+section.main div.aside_left p {
+    font-size: 18px;
+    text-align: left;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+section.main div.aside_left li {
+    font-size: 18px;
+    text-align: left;
+    color: #ffffff;
+    margin-bottom: 98px;
+    line-height: 22px;
+}
+
+section.main div.aside_right {
+    background: #ffffff;
+    max-width: 543px;
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 15px;
+    padding: 35px 35px;
+    display:-ms-grid;
+    display: grid;
+}
+
+section.main div.aside_right h2 {
+    font-size: 28px;
+    color: #0555fa;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.v-info {
+  max-width: 600px;
+  width: 95%;
+  margin: 0 auto;
+  position: relative;
+  flex-direction: row;
+  justify-content: space-around;
+  position: relative;
+  display: flex;
+}
+
+.v-info-item {
+  display:inline-block;
+  padding:20px 30px;
+  letter-spacing:2px;
+  font-size:20px;
+  border-right:1px dotted var(--colorOne); 
+}
+.complement_text {
+    font-size: 18px;
+    color: #0555fa;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.co_text {
+    font-size: 11.5px;
+    color: #676767;
+    text-align: right;
+    margin: 0;
+    padding-right: 15px;
+    padding-bottom: 5px;
+}
+
+form div {
+    padding: 0 !important;
+}
+
+form input[type="text"], form input[type="number"], form input[type="email"] {
+    width: 100%;
+    background-color: #f8f8f8;
+    color: #000000;
+    text-align: left;
+    font-size: 12px;
+    border-radius: 8px;
+    padding: 10px 20px;
+    margin: 6px 0;
+}
+form select {
+    width: 100%;
+    background-color: #f8f8f8;
+    color: #000000;
+    text-align: left;
+    font-size: 12px;
+    border-radius: 8px;
+    padding: 10px 20px;
+    margin: 6px 0;
+}
+form input.nit {
+    width: 80%;
+}
+
+form div.space {
+    width: 2%;
+    display: inline-block;
+}
+
+form input.dv {
+    width: 15%;
+    text-align: center;
+    padding: 8px 0;
+}
+
+form div.terms {
+    text-align: left;
+    /* width: 100%; */
+    margin-top: 15px;
+}
+
+form input[type="checkbox"] {
+    width: 12%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+form div.terms p.check {
+    display: inline-block;
+    margin: 0;
+    font-size: 12px;
+    color: #676767;
+    text-align: left;
+    width: 85%;
+    line-height: 15px;
+}
+
+form div.terms p.check a {
+    color: #0555fa;
+    text-decoration: underline;
+}
+
+form input.button {
+    background: #0555fa;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 16px;
+    width: 180px;
+    border-radius: 50px;
+    padding: 12px 0;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+form input.ng-invalid {
+    background-color: pink;
+}
+
+form input.ng-pristine {
+    background-color: #f8f8f8;
+    color: #000000;
+} 
+form select.ng-invalid {
+    background-color: pink;
+}
+
+form select.ng-pristine {
+    background-color: #f8f8f8;
+    color: #000000;
+} 
+
+section.video {
+    text-align: center;
+    background: #ffffff;
+    padding: 40px 0;
+}
+
+section.promos {
+    text-align: center;
+    background: #ededed;
+    padding: 50px 30px;   
+}
+
+section.promos article.promo {
+    display: inline-block;
+    vertical-align: top;
+    background: #ffffff;
+    width: 23.7%;
+    margin: 0 5px;
+    box-shadow: 2px 2px 5px #999;
+    -webkit-box-shadow: 2px 2px 5px #999;
+    -moz-box-shadow: 2px 2px 5px #999;
+}
+
+section.promos article.promo img {
+    width: 100%;
+}
+
+section.promos article.promo div {
+    padding: 30px 35px;
+}
+
+section.promos article.promo div h3 {
+    font-size: 25px;
+    color: #fd6600;
+    font-weight: bold;
+    height: 60px;
+    display: inline-flex;
+    align-items: center;
+    margin-bottom: 20px;
+    line-height: 30px;
+}
+
+section.promos article.promo div p {
+    font-size: 15px;
+    color: #676767;
+    height: 230px;
+    margin: 0;
+    line-height: 20px;
+}
+
+footer {
+    background: #ffffff;
+    padding: 20px 35px;
+}
+
+footer .c-nav3__list {
+    text-align: left;
+}
+
+footer .c-navrounded1__list {
+    text-align: right;
+}
+
+footer .c-nav3>.c-inner nav .c-nav3__list .c-nav3__item--text, .c-nav3>.c-inner nav .c-nav3__list .c-nav3__item--text a {
+    color: #4d4d4d;
+}
+
+footer .c-nav3>.c-inner nav .c-nav3__list .c-nav3__item, .c-nav3>.c-inner nav .c-nav3__list .c-nav3__item a {
+    color: #4d4d4d;
+}
+
+footer .c-nav3>.c-inner nav .c-nav3__list .c-nav3__item:not(:last-child):after {
+    border-right: 1px solid #4d4d4d !important;
+}
+
+footer .c-navrounded1>.c-inner nav .c-navrounded1__list .c-navrounded1__item a {
+    color: transparent !important;
+    border-color: transparent !important;
+}
+
+footer .col-md-3 {
+    padding: 10px;
+}
+
+span.enel-x-ist-common-flag-container-1.enel-x-ist-common-flag-container-1--var1 {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+span.enel-x-ist-common-flag-container-1.enel-x-ist-common-flag-container-1--var1 span {
+    padding-left: 0px;
+}
+
+.ty_bg {
+    background-image: url('https://assets.enelcol.com.co/2021/landings/20210211_Landing_cfc/images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; 
+    width: 100%;
+    height: 100%;
+}
+
+.ty_main {
+    background-image: initial !important;
+    height: auto !important;
+
+}
+
+.ty_main .logo {
+    margin-top: 2%;
+}
+
+.modalOverlay {
+    position: fixed;
+    background-color: rgba(0, 0, 0, .4);
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: auto;
+    display: flex;
+    align-items: center;
+    z-index: 100;
+}
+
+.modalOverlay .modalOver {
+    text-align: center;
+    max-width: 536px;
+    width: 100%;
+    margin: 200px auto;
+    position: relative;
+    background-color: #fff;
+    padding: 20px 20px;
+    display: block;
+    border-radius: 10px;
+}
+
+.modalOverlay .modalOver img {
+    width: 70px;
+    display: inline-block;
+    height: auto;
+    position: relative;
+    /* left: 50px; */
+}
+
+.modalOverlay .modalClose a {
+    position: absolute;
+    right: 6px;
+    top: 0;
+    padding: 5px;
+    color: #ff0f64;
+    text-decoration: none;
+    font-family: 'RoobertENEL-Regular';
+    font-size: 20px;
+    font-weight: bold;
+    z-index: 2;
+}
+
+.modalOverlay .title {
+    background-color: #fff;
+    padding: 0px 0;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    color: #0555fa;
+    padding-left: 10px;
+    padding-top: 11px;
+    font-family: 'RoobertENEL-Regular';
+}
+
+.modalOverlay .tex .description {
+    background-color: #fff;
+    padding: 10px;
+    color: #676767;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    font-family: 'RoobertENEL-Regular';
+}
+
+.modalOverlay .tex {
+    /* border-left: 17px solid #55be5a; */
+    background-color: #fff;
+    padding: 10px 30px;
+    color: #717171;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    font-family: 'RoobertENEL-Regular';
+}
+
+
+@media (max-width: 768px) {
+    section.main div.aside_left {
+        background: none !important;
+    }
+
+    section.main .contenedor {
+    align-items: center !important;
+    flex-direction: column !important;
+    }
+
+    section.main div.aside_left p img {
+    width: 7% !important;
+    }
+
+    section.main div.aside_left,
+    section.main div.half {
+    width: 90% !important;
+    }
+
+    section.main div.aside_right {
+    max-width: 100% !important;
+    }
+
+}
+
+
+@media (max-width: 414px){
+  .c-nav3 > .c-inner nav .c-nav3__list .c-nav3__item:nth-last-child(2) .separator_footer{
+      display:none;
+    }
+}
+
+@media (max-height: 660px){
+   section.main section.contenedor {
+        height: auto !important;
+    }
+}
+
+@media (min-height: 1000px){
+   section.main section.contenedor {
+        height: auto !important;
+    }
+}
+
+
+/*@media (max-height: 1349px){
+    section.contenedor {
+        height: auto;
+    }
+}
+
+@media (max-height: 1317px){
+    section.contenedor {
+        height: auto;
+    }
+}*/
+
+@media (max-width: 1317px){
+    section.main div.aside_left {
+    background-position-x: -15%;
+    padding-left: 23%;
+    }
+
+    section.main div.aside_left p img.titulo {
+    width: 8%;
+    }
+}
+
+
+@media (max-width: 1271px){
+    section.contenedor {
+        height: auto;
+    }
+
+    section.main div.aside_left {
+    padding-left: 23%;
+    }
+
+    section.main div.aside_left p img.titulo {
+    width: 8%;
+    }
+}
+
+@media (max-width: 1205px){
+    section.contenedor {
+        height: auto;
+    }
+
+    section.main div.half {
+    padding-right: 3%;
+    }
+
+    section.main div.aside_left p img.titulo {
+    width: 10%;
+    }
+}
+
+@media (max-width: 1160px) {
+    section.contenedor {
+        height: auto;
+    }
+
+    section.main div.aside_left {
+    padding-left: 25%;
+    }
+
+    section.main div.aside_left p img.titulo {
+    width: 13%;
+    }
+}
+
+@media (max-width: 1000px) {
+    section.main section.contenedor {
+        height: auto;
+    }
+
+    section.main div.aside_left {
+        background-position-x: -25%;
+        padding-left: 28%;
+    }
+
+    section.main div.aside_left p img.titulo {
+        display: none;
+    }
+}
+
+@media (max-width: 784px){
+    section.main {
+        background: #0555fa;
+        display: block;
+        background-size: inherit;
+        height: auto;
+        padding-bottom: 50px;
+    }
+    section.main div.logo {
+        position: relative;
+        top: 0;
+        left: 0;
+        padding: 40px 0;
+        margin: 0 auto;
+    }
+    section.main div.half {
+        display: block;
+        margin: 0 auto;
+        width: 320px;
+    }
+    section.main div.aside_left {
+        padding-left: 0;
+        width: 300px;
+        margin: 0 auto;
+        margin-bottom: 40px;
+        text-align: center;
+        background-image: none;
+    }
+
+    section.main div.aside_left p img.titulo {
+        display: none;
+    }
+
+    section.main div.aside_left h1, section.main div.aside_left p {
+        text-align: center;
+    }
+    section.main div.aside_right {
+        padding: 30px 10px;
+    }
+    section.video iframe {
+        width: 85% !important;
+        height: 250px !important;
+    }
+    section.promos article.promo {
+        width: 45%;
+    }
+    .c-navrounded1>.c-inner nav .c-navrounded1__list {
+        margin-left: -5px;
+        text-align: center;
+        margin-top: 25px;
+    }
+    .ty_bg {
+        /*background: #461e7d !important;*/
+        display: block !important;
+        background-size: inherit !important;
+        height: auto !important;
+        background-image: url('https://assets.enelcol.com.co/2021/landings/20210211_Landing_cfc/images/background.jpg');
+        background-size: cover;
+        background-repeat: no-repeat; 
+        /*width: 100%;
+        height: 100%;*/
+        }
+
+    .modalOverlay .modalOver {
+        width: 90%;
+        padding: 10px 20px;
+        display: block;
+        margin: 100px auto;
+    }
+
+    .modalOverlay .title {
+       font-size: 21px;
+       line-height: 25px;
+       text-align: center;
+       border-left: none;
+    }
+    .modalOverlay .description {
+        font-size: 19px;
+        line-height: 20px;
+    }
+
+    .modalOverlay .description {
+        padding: 30px 19px;
+    }
+    .modalOverlay .tex .description {
+        text-align: center;
+        font-size: 18px;
+        border: none;
+    }
+
+    .modalOverlay .tex {
+        display: block;
+        font-size: 15px !important;
+        border-left: none;
+    }
+
+    .modalOverlay .modalOver img {
+        width: 70px;
+        display: inline-block;
+        height: auto;
+        position: relative;
+        right: 0;
+        top: 0;
+        left: 0;
+        margin-top: 17px;
+    }
+
+    .modalOverlay .tex .description br {
+        display: none;
+    }
+}
+
+@media (max-width: 470px){
+    section.video iframe {
+        width: 90% !important;
+        height: 200px !important;
+    }
+    section.promos article.promo {
+        width: 320px;
+        margin: 0;
+        margin-bottom: 30px;
+    }
+    section.promos article.promo div p {
+        height: 150px;
+    }
+
+    section.main div.aside_left p img.titulo {
+        display: none;
+    }
+}
+
+@media (max-width: 320px){
+    section.main div.half {
+        width: 300px;
+    }
+    section.main div.aside_right {
+        padding: 30px 1px;
+    }
+    section.promos article.promo {
+        width: 300px;
+    }
+
+    section.main div.aside_left p img.titulo {
+        display: none;
+    }
+}

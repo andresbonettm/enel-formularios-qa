@@ -1,0 +1,91 @@
+REPORTE DE ESTADO: SANEAMIENTO DE PÁGINAS CON CDN COMPROMETIDO (cdnsafbapps.com)
+Cliente: Enel Colombia
+Fecha: 2026-11-05
+Estado General: 100% Saneado y Replicado en Producción (0 referencias residuales)
+
+======================================================================
+1. ARTÍCULOS EN PORTAL AEM (enel.com.co)
+======================================================================
+
+1.
+URL Pública (Canónica):
+https://www.enel.com.co/es/historias/archive/2017/11/nuestra-verdadera-energia-son-las-personas.html
+URL Pública (Vanity / Corta):
+https://www.enel.com.co/es/historias/a201711-nuestra-verdadera-energia-son-las-personas.html
+Recurso Comprometido Eliminado:
+https://www.cdnsafbapps.com/2017/ejemplo-historia/imagenes/IMG-verdadera-energia-infografia.jpg
+Estado: Saneado y Replicado en Producción (HTTP 200)
+
+2.
+URL Pública (Canónica):
+https://www.enel.com.co/es/historias/archive/2017/11/transformacion-digital-empresarial.html
+URL Pública (Vanity / Corta):
+https://www.enel.com.co/es/historias/a201711-transformacion-digital-empresarial.html
+Recurso Comprometido Eliminado:
+https://www.cdnsafbapps.com/2017/ejemplo-historia/imagenes/IMG-hackday-1.jpg
+Estado: Saneado y Replicado en Producción (HTTP 200)
+
+3.
+URL Pública (Canónica):
+https://www.enel.com.co/es/historias/archive/2017/11/de-los-rayos-del-sol-a-la-energia-electrica.html
+URL Pública (Vanity / Corta):
+https://www.enel.com.co/es/historias/a201711-de-los-rayos-del-sol-a-la-energia-electrica.html
+Recurso Comprometido Eliminado:
+https://www.cdnsafbapps.com/2017/ejemplo-historia/imagenes/IMG-energia-electrica-2.jpg
+Estado: Saneado y Replicado en Producción (HTTP 200)
+
+4.
+URL Pública (Canónica):
+https://www.enel.com.co/es/historias/archive/2017/11/la-tecnologia-que-impulsa-la-evolucion-de-la-energia-electrica.html
+URL Pública (Vanity / Corta):
+https://www.enel.com.co/es/historias/a201711-la-tecnologia-que-impulsa-la-evolucion-de-la-energia-electrica.html
+Recurso Comprometido Eliminado:
+https://www.cdnsafbapps.com/2017/ejemplo-historia/imagenes/Cont_hist_telecontrol.jpg
+Estado: Saneado y Replicado en Producción (HTTP 200)
+
+5.
+URL Pública (Canónica):
+https://www.enel.com.co/es/historias/archive/2018/04/beca-excelencia-academica.html
+URL Pública (Vanity / Corta):
+https://www.enel.com.co/es/historias/a201804-beca-excelencia-academica.html
+Recurso Comprometido Eliminado:
+https://www.cdnsafbapps.com/2017/ejemplo-historia/imagenes/IMG-excelencia-academica-info-cod.jpg
+Estado: Saneado y Replicado en Producción (HTTP 200)
+
+6.
+URL Pública (Canónica):
+https://www.enel.com.co/en/stories/archive/2017/11/innovative-projects-as-part-of-the-transformation-of-the-world.html
+URL Pública (Vanity / Corta):
+https://www.enel.com.co/en/stories/a201711-innovative-projects-as-part-of-the-transformation-of-the-world.html
+Recursos Comprometidos Eliminados:
+https://www.cdnsafbapps.com/2017/ejemplo-historia/imagenes/imagen-maqueta.jpg
+https://www.cdnsafbapps.com/2017/ejemplo-historia/imagenes/imagen-ninos-compartiendo.jpg
+Estado: Saneado y Replicado en Producción (HTTP 200)
+
+7.
+URL Pública (Canónica):
+https://www.enel.com.co/en/stories/archive/2017/11/investing-to-improve-the-quality-of-our-energy.html
+URL Pública (Vanity / Corta):
+https://www.enel.com.co/en/stories/a201711-investing-to-improve-the-quality-of-our-energy.html
+Recurso Comprometido Eliminado:
+https://www.cdnsafbapps.com/2017/ejemplo-historia/imagenes/imagen-incorporando-nuevas-tecnologias.jpg
+Estado: Saneado y Replicado en Producción (HTTP 200)
+
+======================================================================
+2. FORMULARIO EXTERNO (Marketing Cloud)
+======================================================================
+
+8.
+Formulario: Factura Corporativa (Formulario 08)
+URL Pública en Producción:
+https://enelsud.info-enel.com/EFacturaCorp
+Recursos Comprometidos Eliminados / Sustituidos:
+- https://www.cdnsafbapps.com/2018/saleforce/registro-factura-virtual/node_modules/bootstrap/dist/css/bootstrap.min.css
+- https://www.cdnsafbapps.com/2019/Landings/saleforce/registro-factura-virtual/css/sale.css
+- https://www.cdnsafbapps.com/2018/saleforce/registro-factura-virtual/node_modules/bootstrap/dist/js/bootstrap.min.js
+- https://www.cdnsafbapps.com/2019/Landings/saleforce/registro-factura-virtual/img/favicon.png
+- https://www.cdnsafbapps.com/2019/Landings/saleforce/20190326_Landing_pago_factura_virtual/img/logo.png
+- http://www.cdnsafbapps.com/2018/saleforce/registro-factura-virtual/img/facebook.png?v=1
+- http://www.cdnsafbapps.com/2018/saleforce/registro-factura-virtual/img/twitter.png
+- http://www.cdnsafbapps.com/2018/saleforce/registro-factura-virtual/img/linke.png
+Estado: Saneado en código fuente entregable y reemplazado por CDN oficial de jsdelivr y Enel.

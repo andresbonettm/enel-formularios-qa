@@ -1,0 +1,3717 @@
+<html lang="es" class="no-touch"><head><style type="text/css">.truste_caIcon_display {display: block !important;}</style><style type="text/css">.truste_cursor_pointer {cursor: pointer;}.truste_border_none {border: none;}</style><style type="text/css">.ta-display-none { display: none; }</style><style type="text/css">.tippy-touch{cursor:pointer!important}.tippy-notransition{transition:none!important}.tippy-popper{max-width:350px;-webkit-perspective:700px;perspective:700px;z-index:9999;outline:0;transition-timing-function:cubic-bezier(.165,.84,.44,1);pointer-events:none;line-height:1.4}.tippy-popper[data-html]{max-width:96%;max-width:calc(100% - 20px)}.tippy-popper[x-placement^=top] .tippy-backdrop{border-radius:40% 40% 0 0}.tippy-popper[x-placement^=top] .tippy-roundarrow{bottom:-8px;-webkit-transform-origin:50% 0;transform-origin:50% 0}.tippy-popper[x-placement^=top] .tippy-roundarrow svg{position:absolute;left:0;-webkit-transform:rotate(180deg);transform:rotate(180deg)}.tippy-popper[x-placement^=top] .tippy-arrow{border-top:7px solid #333;border-right:7px solid transparent;border-left:7px solid transparent;bottom:-7px;margin:0 6px;-webkit-transform-origin:50% 0;transform-origin:50% 0}.tippy-popper[x-placement^=top] .tippy-backdrop{-webkit-transform-origin:0 90%;transform-origin:0 90%}.tippy-popper[x-placement^=top] .tippy-backdrop[data-state=visible]{-webkit-transform:scale(6) translate(-50%,25%);transform:scale(6) translate(-50%,25%);opacity:1}.tippy-popper[x-placement^=top] .tippy-backdrop[data-state=hidden]{-webkit-transform:scale(1) translate(-50%,25%);transform:scale(1) translate(-50%,25%);opacity:0}.tippy-popper[x-placement^=top] [data-animation=shift-toward][data-state=visible]{opacity:1;-webkit-transform:translateY(-10px);transform:translateY(-10px)}.tippy-popper[x-placement^=top] [data-animation=shift-toward][data-state=hidden]{opacity:0;-webkit-transform:translateY(-20px);transform:translateY(-20px)}.tippy-popper[x-placement^=top] [data-animation=perspective]{-webkit-transform-origin:bottom;transform-origin:bottom}.tippy-popper[x-placement^=top] [data-animation=perspective][data-state=visible]{opacity:1;-webkit-transform:translateY(-10px) rotateX(0);transform:translateY(-10px) rotateX(0)}.tippy-popper[x-placement^=top] [data-animation=perspective][data-state=hidden]{opacity:0;-webkit-transform:translateY(0) rotateX(90deg);transform:translateY(0) rotateX(90deg)}.tippy-popper[x-placement^=top] [data-animation=fade][data-state=visible]{opacity:1;-webkit-transform:translateY(-10px);transform:translateY(-10px)}.tippy-popper[x-placement^=top] [data-animation=fade][data-state=hidden]{opacity:0;-webkit-transform:translateY(-10px);transform:translateY(-10px)}.tippy-popper[x-placement^=top] [data-animation=shift-away][data-state=visible]{opacity:1;-webkit-transform:translateY(-10px);transform:translateY(-10px)}.tippy-popper[x-placement^=top] [data-animation=shift-away][data-state=hidden]{opacity:0;-webkit-transform:translateY(0);transform:translateY(0)}.tippy-popper[x-placement^=top] [data-animation=scale][data-state=visible]{opacity:1;-webkit-transform:translateY(-10px) scale(1);transform:translateY(-10px) scale(1)}.tippy-popper[x-placement^=top] [data-animation=scale][data-state=hidden]{opacity:0;-webkit-transform:translateY(0) scale(0);transform:translateY(0) scale(0)}.tippy-popper[x-placement^=bottom] .tippy-backdrop{border-radius:0 0 30% 30%}.tippy-popper[x-placement^=bottom] .tippy-roundarrow{top:-8px;-webkit-transform-origin:50% 100%;transform-origin:50% 100%}.tippy-popper[x-placement^=bottom] .tippy-roundarrow svg{position:absolute;left:0;-webkit-transform:rotate(0);transform:rotate(0)}.tippy-popper[x-placement^=bottom] .tippy-arrow{border-bottom:7px solid #333;border-right:7px solid transparent;border-left:7px solid transparent;top:-7px;margin:0 6px;-webkit-transform-origin:50% 100%;transform-origin:50% 100%}.tippy-popper[x-placement^=bottom] .tippy-backdrop{-webkit-transform-origin:0 -90%;transform-origin:0 -90%}.tippy-popper[x-placement^=bottom] .tippy-backdrop[data-state=visible]{-webkit-transform:scale(6) translate(-50%,-125%);transform:scale(6) translate(-50%,-125%);opacity:1}.tippy-popper[x-placement^=bottom] .tippy-backdrop[data-state=hidden]{-webkit-transform:scale(1) translate(-50%,-125%);transform:scale(1) translate(-50%,-125%);opacity:0}.tippy-popper[x-placement^=bottom] [data-animation=shift-toward][data-state=visible]{opacity:1;-webkit-transform:translateY(10px);transform:translateY(10px)}.tippy-popper[x-placement^=bottom] [data-animation=shift-toward][data-state=hidden]{opacity:0;-webkit-transform:translateY(20px);transform:translateY(20px)}.tippy-popper[x-placement^=bottom] [data-animation=perspective]{-webkit-transform-origin:top;transform-origin:top}.tippy-popper[x-placement^=bottom] [data-animation=perspective][data-state=visible]{opacity:1;-webkit-transform:translateY(10px) rotateX(0);transform:translateY(10px) rotateX(0)}.tippy-popper[x-placement^=bottom] [data-animation=perspective][data-state=hidden]{opacity:0;-webkit-transform:translateY(0) rotateX(-90deg);transform:translateY(0) rotateX(-90deg)}.tippy-popper[x-placement^=bottom] [data-animation=fade][data-state=visible]{opacity:1;-webkit-transform:translateY(10px);transform:translateY(10px)}.tippy-popper[x-placement^=bottom] [data-animation=fade][data-state=hidden]{opacity:0;-webkit-transform:translateY(10px);transform:translateY(10px)}.tippy-popper[x-placement^=bottom] [data-animation=shift-away][data-state=visible]{opacity:1;-webkit-transform:translateY(10px);transform:translateY(10px)}.tippy-popper[x-placement^=bottom] [data-animation=shift-away][data-state=hidden]{opacity:0;-webkit-transform:translateY(0);transform:translateY(0)}.tippy-popper[x-placement^=bottom] [data-animation=scale][data-state=visible]{opacity:1;-webkit-transform:translateY(10px) scale(1);transform:translateY(10px) scale(1)}.tippy-popper[x-placement^=bottom] [data-animation=scale][data-state=hidden]{opacity:0;-webkit-transform:translateY(0) scale(0);transform:translateY(0) scale(0)}.tippy-popper[x-placement^=left] .tippy-backdrop{border-radius:50% 0 0 50%}.tippy-popper[x-placement^=left] .tippy-roundarrow{right:-16px;-webkit-transform-origin:33.33333333% 50%;transform-origin:33.33333333% 50%}.tippy-popper[x-placement^=left] .tippy-roundarrow svg{position:absolute;left:0;-webkit-transform:rotate(90deg);transform:rotate(90deg)}.tippy-popper[x-placement^=left] .tippy-arrow{border-left:7px solid #333;border-top:7px solid transparent;border-bottom:7px solid transparent;right:-7px;margin:3px 0;-webkit-transform-origin:0 50%;transform-origin:0 50%}.tippy-popper[x-placement^=left] .tippy-backdrop{-webkit-transform-origin:100% 0;transform-origin:100% 0}.tippy-popper[x-placement^=left] .tippy-backdrop[data-state=visible]{-webkit-transform:scale(6) translate(40%,-50%);transform:scale(6) translate(40%,-50%);opacity:1}.tippy-popper[x-placement^=left] .tippy-backdrop[data-state=hidden]{-webkit-transform:scale(1.5) translate(40%,-50%);transform:scale(1.5) translate(40%,-50%);opacity:0}.tippy-popper[x-placement^=left] [data-animation=shift-toward][data-state=visible]{opacity:1;-webkit-transform:translateX(-10px);transform:translateX(-10px)}.tippy-popper[x-placement^=left] [data-animation=shift-toward][data-state=hidden]{opacity:0;-webkit-transform:translateX(-20px);transform:translateX(-20px)}.tippy-popper[x-placement^=left] [data-animation=perspective]{-webkit-transform-origin:right;transform-origin:right}.tippy-popper[x-placement^=left] [data-animation=perspective][data-state=visible]{opacity:1;-webkit-transform:translateX(-10px) rotateY(0);transform:translateX(-10px) rotateY(0)}.tippy-popper[x-placement^=left] [data-animation=perspective][data-state=hidden]{opacity:0;-webkit-transform:translateX(0) rotateY(-90deg);transform:translateX(0) rotateY(-90deg)}.tippy-popper[x-placement^=left] [data-animation=fade][data-state=visible]{opacity:1;-webkit-transform:translateX(-10px);transform:translateX(-10px)}.tippy-popper[x-placement^=left] [data-animation=fade][data-state=hidden]{opacity:0;-webkit-transform:translateX(-10px);transform:translateX(-10px)}.tippy-popper[x-placement^=left] [data-animation=shift-away][data-state=visible]{opacity:1;-webkit-transform:translateX(-10px);transform:translateX(-10px)}.tippy-popper[x-placement^=left] [data-animation=shift-away][data-state=hidden]{opacity:0;-webkit-transform:translateX(0);transform:translateX(0)}.tippy-popper[x-placement^=left] [data-animation=scale][data-state=visible]{opacity:1;-webkit-transform:translateX(-10px) scale(1);transform:translateX(-10px) scale(1)}.tippy-popper[x-placement^=left] [data-animation=scale][data-state=hidden]{opacity:0;-webkit-transform:translateX(0) scale(0);transform:translateX(0) scale(0)}.tippy-popper[x-placement^=right] .tippy-backdrop{border-radius:0 50% 50% 0}.tippy-popper[x-placement^=right] .tippy-roundarrow{left:-16px;-webkit-transform-origin:66.66666666% 50%;transform-origin:66.66666666% 50%}.tippy-popper[x-placement^=right] .tippy-roundarrow svg{position:absolute;left:0;-webkit-transform:rotate(-90deg);transform:rotate(-90deg)}.tippy-popper[x-placement^=right] .tippy-arrow{border-right:7px solid #333;border-top:7px solid transparent;border-bottom:7px solid transparent;left:-7px;margin:3px 0;-webkit-transform-origin:100% 50%;transform-origin:100% 50%}.tippy-popper[x-placement^=right] .tippy-backdrop{-webkit-transform-origin:-100% 0;transform-origin:-100% 0}.tippy-popper[x-placement^=right] .tippy-backdrop[data-state=visible]{-webkit-transform:scale(6) translate(-140%,-50%);transform:scale(6) translate(-140%,-50%);opacity:1}.tippy-popper[x-placement^=right] .tippy-backdrop[data-state=hidden]{-webkit-transform:scale(1.5) translate(-140%,-50%);transform:scale(1.5) translate(-140%,-50%);opacity:0}.tippy-popper[x-placement^=right] [data-animation=shift-toward][data-state=visible]{opacity:1;-webkit-transform:translateX(10px);transform:translateX(10px)}.tippy-popper[x-placement^=right] [data-animation=shift-toward][data-state=hidden]{opacity:0;-webkit-transform:translateX(20px);transform:translateX(20px)}.tippy-popper[x-placement^=right] [data-animation=perspective]{-webkit-transform-origin:left;transform-origin:left}.tippy-popper[x-placement^=right] [data-animation=perspective][data-state=visible]{opacity:1;-webkit-transform:translateX(10px) rotateY(0);transform:translateX(10px) rotateY(0)}.tippy-popper[x-placement^=right] [data-animation=perspective][data-state=hidden]{opacity:0;-webkit-transform:translateX(0) rotateY(90deg);transform:translateX(0) rotateY(90deg)}.tippy-popper[x-placement^=right] [data-animation=fade][data-state=visible]{opacity:1;-webkit-transform:translateX(10px);transform:translateX(10px)}.tippy-popper[x-placement^=right] [data-animation=fade][data-state=hidden]{opacity:0;-webkit-transform:translateX(10px);transform:translateX(10px)}.tippy-popper[x-placement^=right] [data-animation=shift-away][data-state=visible]{opacity:1;-webkit-transform:translateX(10px);transform:translateX(10px)}.tippy-popper[x-placement^=right] [data-animation=shift-away][data-state=hidden]{opacity:0;-webkit-transform:translateX(0);transform:translateX(0)}.tippy-popper[x-placement^=right] [data-animation=scale][data-state=visible]{opacity:1;-webkit-transform:translateX(10px) scale(1);transform:translateX(10px) scale(1)}.tippy-popper[x-placement^=right] [data-animation=scale][data-state=hidden]{opacity:0;-webkit-transform:translateX(0) scale(0);transform:translateX(0) scale(0)}.tippy-tooltip{position:relative;color:#fff;border-radius:4px;font-size:.9rem;padding:.3rem .6rem;text-align:center;will-change:transform;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;background-color:#333}.tippy-tooltip[data-size=small]{padding:.2rem .4rem;font-size:.75rem}.tippy-tooltip[data-size=large]{padding:.4rem .8rem;font-size:1rem}.tippy-tooltip[data-animatefill]{overflow:hidden;background-color:transparent}.tippy-tooltip[data-animatefill] .tippy-content{transition:-webkit-clip-path cubic-bezier(.46,.1,.52,.98);transition:clip-path cubic-bezier(.46,.1,.52,.98);transition:clip-path cubic-bezier(.46,.1,.52,.98),-webkit-clip-path cubic-bezier(.46,.1,.52,.98)}.tippy-tooltip[data-interactive],.tippy-tooltip[data-interactive] path{pointer-events:auto}.tippy-tooltip[data-inertia][data-state=visible]{transition-timing-function:cubic-bezier(.53,2,.36,.85)}.tippy-tooltip[data-inertia][data-state=hidden]{transition-timing-function:ease}.tippy-arrow,.tippy-roundarrow{position:absolute;width:0;height:0}.tippy-roundarrow{width:24px;height:8px;fill:#333;pointer-events:none}.tippy-backdrop{position:absolute;will-change:transform;background-color:#333;border-radius:50%;width:26%;left:50%;top:50%;z-index:-1;transition:all cubic-bezier(.46,.1,.52,.98);-webkit-backface-visibility:hidden;backface-visibility:hidden}.tippy-backdrop:after{content:"";float:left;padding-top:100%}body:not(.tippy-touch) .tippy-tooltip[data-animatefill][data-state=visible] .tippy-content{-webkit-clip-path:ellipse(100% 100% at 50% 50%);clip-path:ellipse(100% 100% at 50% 50%)}body:not(.tippy-touch) .tippy-tooltip[data-animatefill][data-state=hidden] .tippy-content{-webkit-clip-path:ellipse(5% 50% at 50% 50%);clip-path:ellipse(5% 50% at 50% 50%)}body:not(.tippy-touch) .tippy-popper[x-placement=right] .tippy-tooltip[data-animatefill][data-state=visible] .tippy-content{-webkit-clip-path:ellipse(135% 100% at 0 50%);clip-path:ellipse(135% 100% at 0 50%)}body:not(.tippy-touch) .tippy-popper[x-placement=right] .tippy-tooltip[data-animatefill][data-state=hidden] .tippy-content{-webkit-clip-path:ellipse(40% 100% at 0 50%);clip-path:ellipse(40% 100% at 0 50%)}body:not(.tippy-touch) .tippy-popper[x-placement=left] .tippy-tooltip[data-animatefill][data-state=visible] .tippy-content{-webkit-clip-path:ellipse(135% 100% at 100% 50%);clip-path:ellipse(135% 100% at 100% 50%)}body:not(.tippy-touch) .tippy-popper[x-placement=left] .tippy-tooltip[data-animatefill][data-state=hidden] .tippy-content{-webkit-clip-path:ellipse(40% 100% at 100% 50%);clip-path:ellipse(40% 100% at 100% 50%)}@media (max-width:360px){.tippy-popper{max-width:96%;max-width:calc(100% - 20px)}}</style><script src="/hysicking-an-Who-way-requete-vp-not-stranch-This" async=""></script>
+  
+    
+    <script>
+        function readCookie(name) {
+            var nameEQ = name + "=";
+            var ca = document.cookie.split(';');
+            for(var i=0;i < ca.length;i++) {
+                var c = ca[i];
+                while (c.charAt(0)==' ') c = c.substring(1,c.length);
+                if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+            }
+            return null;
+        }
+
+        function getDuplicatedParameters (parameterMap) {
+            var arr = parameterMap;
+            var sorted_arr = arr.slice().sort();
+            var results = [];
+            for (var i = 0; i < arr.length - 1; i++) {
+                if (sorted_arr[i + 1] == sorted_arr[i]) {
+                    results.push(sorted_arr[i]);
+                }
+            }
+            return results;
+        }
+
+        function getParameterMapName (url) {
+            var queryString = getQueryString(url);
+            var parameterMaps = queryString.split("=");
+            var paramsName = [];
+            for(var i in parameterMaps)
+            {
+                var param = parameterMaps[i];
+                var paramName;
+                if (param.indexOf('?')>= 0) {
+                    paramName = param.split('?')[1];
+                } else {
+                    paramName = param.split('&')[1];
+                }
+                paramsName[i] = paramName;
+            }
+            return paramsName;
+        }
+
+        function purgeDuplicatedParams (url) {
+            var urlResult = url;
+            var duplicatedParams = getDuplicatedParameters(getParameterMapName(url));
+            for (var i in duplicatedParams) {
+                urlResult = removeURLParameter(urlResult,duplicatedParams[i]);
+            }
+            return urlResult;
+        }
+
+        function updateQueryStringParameter(uri, key, value) {
+            if (value != null && value.length > 0) {
+                var re = new RegExp("([?&])" + key + "=.*?(&|$)", "i");
+                var separator = uri.indexOf('?') !== -1 ? "&" : "?";
+                if (uri.match(re)) {
+                    return uri.replace(re, '$1' + key + "=" + value + '$2');
+                }
+                else {
+                    return uri + separator + key + "=" + value;
+                }
+            }
+            return uri;
+        }
+
+        function removeURLParameter(url, parameter) {
+            var urlparts= url.split('?');
+            if (urlparts.length>=2) {
+                var prefix= encodeURIComponent(parameter)+'=';
+                var pars= urlparts[1].split(/[&;]/g);
+                var removed = false;
+                for (var i= pars.length; i-- > 0;) {
+                    if (pars[i].lastIndexOf(prefix, 0) !== -1 && !removed) {
+                        pars.splice(i, 1);
+                        removed = true;
+                    }
+                }
+                url= urlparts[0] + (pars.length > 0 ? '?' + pars.join('&') : "");
+                return url;
+            } else {
+                return url;
+            }
+        }
+
+        function getQueryString(url, redirect) {
+            var queryString = url.split('?')[1];
+            if (typeof queryString == 'undefined') {
+                queryString = '';
+            } else {
+                if (typeof (redirect)!= 'undefined' && redirect.indexOf('?')>0) {
+                    queryString = '&' + queryString;
+                } else {
+                    queryString = '?' + queryString;
+                }
+            }
+            return queryString;
+        }
+
+        try {
+	        if(readCookie('langRedirect') == null){
+	            document.cookie = "langRedirect=MQ==;path=/" ;
+	            var langMapString = "";
+	            if( langMapString != null ){
+	                var browserlanguage = navigator.language;
+	                browserlanguage = browserlanguage.split("-")[0];
+	                var obj = JSON.parse(langMapString);
+	                var redirect = obj[browserlanguage];
+	                if(redirect != null){
+	                    redirect = purgeDuplicatedParams (redirect + getQueryString(window.location.href, redirect));
+	                    window.location.href=updateQueryStringParameter(redirect,'refred', document.referrer);
+	                }
+	            }
+	        }
+        } catch (e) {
+        	console.log(e.message);
+        }
+        
+    document.addEventListener("DOMContentLoaded", function(event) { 
+   		history.replaceState({}, 'Title', removeURLParameter(location.href, 'refred'));
+   	});
+    </script>
+
+    
+    
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1">
+    
+
+    <meta name="description" content="Paga tu factura de energía Enel con PSE, app móvil, débito automático, billetera móvil o web de tu banco. Rápido, seguro y desde cualquier lugar.">
+
+
+
+    
+    
+    
+<script type="text/javascript" src="/ruxitagentjs_ICA27NVfjqrux_10263230921131557.js" data-dtconfig="rid=RID_1305946866|rpid=-1526229182|domain=enel.com.co|reportUrl=/rb_a0585c7b-16a9-4040-b14e-0e26e2d473fe|app=29c144ad9e623ab8|cuc=bka6fatw|srtbv=4|owasp=1|mel=100000|featureHash=ICA27NVfjqrux|lastModification=1793901010024|tp=500,50,0,1|rdnt=1|uxrgce=1|srbbv=3|agentUri=/ruxitagentjs_ICA27NVfjqrux_10263230921131557.js"></script><link rel="stylesheet" href="/etc.clientlibs/foundation/clientlibs/main.min.css" type="text/css">
+<script src="/etc.clientlibs/clientlibs/granite/jquery.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/utils.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/jquery/granite.min.js"></script>
+<script src="/etc.clientlibs/foundation/clientlibs/jquery.min.js"></script>
+<script src="/etc.clientlibs/foundation/clientlibs/shared.min.js"></script>
+<script src="/etc.clientlibs/foundation/clientlibs/main.min.js"></script>
+
+
+
+    
+    <link href="/etc/designs/enel-co.css" rel="stylesheet" type="text/css">
+
+    
+
+
+
+
+
+
+
+
+    
+
+    
+    
+<link rel="stylesheet" href="/etc/designs/enel-latam-com/clientlibs/brick.min.css" type="text/css">
+
+
+
+    <!--Fix Font Variable-->
+    
+    
+    
+    
+    
+        
+    
+<link rel="stylesheet" href="/etc/designs/enel-co/brick.min.css" type="text/css">
+
+
+
+    
+    
+    <!--<sly data-sly-use.clientLib="/libs/granite/sightly/templates/clientlib.html" data-sly-call=""/>-->
+
+    
+<link rel="stylesheet" href="/etc/designs/enel-co/clientlib-site.min.css" type="text/css">
+
+
+
+
+    
+<script src="/etc/designs/enel-co/localizatorColombia.min.js"></script>
+
+
+
+
+
+    
+<link rel="stylesheet" href="/etc/designs/enel-latam-com/clientlibs/darksite.min.css" type="text/css">
+
+
+
+<!--Fix Font Variable-->
+
+
+
+
+
+    
+    
+<link rel="stylesheet" href="/etc/designs/enel-co/darksite.min.css" type="text/css">
+
+
+
+
+
+<!--Fix Font Variable End-->
+
+    
+<link rel="stylesheet" href="/etc/designs/enel-latam-com/clientlibs/owlCarousel.min.css" type="text/css">
+
+
+
+
+
+
+
+<style>
+    .hero-footer.parbase {
+        position: relative;
+        float: left;
+        width: 100%;
+        z-index: 3;
+        margin-bottom: 10%;
+    }
+
+    .search-form{
+        top:0;
+    }
+
+    .bannerfullwidthimage section.container.full-width-banner-outer.cq-placeholder.anchor {
+        min-height:340px;
+    }
+
+    .tile_description.text--tile-description {
+        display: inherit;
+        font-size: large;
+    }
+
+    /*fix image height in hub module left */ 
+    /*mobile*/
+    .tile--gbody .tile_inner {
+        max-height: 410px;
+    }
+    @media screen and (max-width: 767px)
+    {   
+        .tile_inner {
+            height: 410px;
+        }
+    }
+    /*Desktop*/
+    @media screen and (min-width: 1318px){
+        .tile--gbody .tile_inner {
+            min-height: 410px;
+        }
+    }
+    @media screen and (min-width: 768px){
+        .tile--gbody .tile_inner {
+            min-height: 350px;
+        }
+    }
+
+    @media screen and (max-width: 1024px) and (min-width: 768px){
+        .module-content .tile--small .tile_inner {
+            height: 410px;
+        }
+    }
+
+    /*fix space in card*/
+    /* 
+    .tile--small .tile_image-wrapper{
+        padding-bottom: 0;
+    }
+    @media screen and (max-width: 767px){
+        tile--small .tile_inner {
+            height: fit-content;
+        }
+    }
+
+    @media screen and (max-width: 767px){
+        .hub_group--header-left .module-content.parbase .tile--small {
+            height: fit-content;
+        }
+    } */
+
+    /*Checkboxs better readability*/
+    .form-content input[type="checkbox"]+label::before {
+        border: #000000ab solid 1px;
+    }
+
+    .form-content input[type="checkbox"]:checked+label::before {
+        border: #000000ab solid 1px;
+    }
+
+    /*Fix "X" in header from ranks buttons script
+    body div.modalClose {
+        display: none;
+    }*/
+</style>
+    
+    <meta name="author" content="">
+
+
+
+	<meta name="robots" content="index,follow">
+
+    
+<meta property="og:locale" content="es">
+<meta property="og:url" content="https://enel.com.co/content/enel-co/es/megamenu/pago-medios-electronicos.html">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Medios de Pago Electrónicos Enel Colombia | PSE, App y más">
+<meta property="og:description" content="Conoce todos los medios electrónicos para pagar tu factura de energía Enel: PSE, app móvil, débito automático, billeteras móviles, web y app de tu banco.">
+<meta property="og:image" content="https://www.enel.com.co/content/dam/enel-co/español/medios-de-pago/banner-medios-de-pago.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Conoce todos los medios electrónicos para pagar tu factura de energía Enel: PSE, app móvil, débito automático, billeteras móviles, web y app de tu banco.">
+<meta name="twitter:title" content="Medios de Pago Electrónicos Enel Colombia | PSE, App y más">
+    <link rel="icon" type="image/vnd.microsoft.icon" href="/etc/designs/enel-co/favicon.ico">
+    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/etc/designs/enel-co/favicon.ico">
+    
+    
+     <title>Medios de Pago Electrónicos Enel Colombia | PSE, App y más</title>
+    
+    
+    
+     <link rel="alternate" hreflang="es" href="https://www.enel.com.co/es/pago-medios-electronicos.html">
+    
+     <link rel="alternate" hreflang="en" href="https://www.enel.com.co/en/electronic-payment-methods.html">
+    
+
+    
+     <link rel="canonical" href="https://www.enel.com.co/es/pago-medios-electronicos.html">
+    
+    
+    <script>document.createElement( "picture" );</script>
+    <script async="async" src="/etc/designs/enel-co/js/picturefill.min.js"></script>
+    
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Medios de Pago Electrónicos Enel Colombia | PSE, App y más",
+  "description": "Paga tu factura de energía Enel con PSE, app móvil, débito automático, billetera móvil o web de tu banco. Rápido, seguro y desde cualquier lugar.",
+  "url": "https://www.enel.com.co/es/pago-medios-electronicos.html",
+  "inLanguage": "es-CO",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Enel Colombia",
+    "url": "https://www.enel.com.co"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Enel Colombia",
+    "url": "https://www.enel.com.co",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.enel.com.co/content/dam/enel-co/imágenes-home/logo-white.png"
+    },
+    "sameAs": [
+      "https://www.facebook.com/EnelColombia",
+      "https://twitter.com/EnelColombia",
+      "https://www.linkedin.com/company/enel-colombia"
+    ]
+  },
+  "about": {
+    "@type": "Service",
+    "name": "Medios de pago electrónicos de factura de energía",
+    "description": "Opciones de pago electrónico disponibles para clientes de Enel Colombia: botón de pago PSE, app móvil, débito automático, billetera móvil, página web de bancos, app de bancos, teléfono bancario y cajero electrónico.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Enel Colombia",
+      "url": "https://www.enel.com.co"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "Colombia"
+    },
+    "serviceType": "Pago de factura de energía eléctrica en línea"
+  },
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://www.enel.com.co/content/enel-co/es/megamenu/pago-medios-electronicos/jcr:content/carousel/items/image.img.jpg/1756936782089.jpg",
+    "contentUrl": "https://www.enel.com.co/content/enel-co/es/megamenu/pago-medios-electronicos/jcr:content/carousel/items/image.img.jpg/1756936782089.jpg",
+    "description": "Persona realizando pago electrónico de factura de energía desde computador con tarjeta"
+  }
+}
+</script>
+    <style>
+
+
+
+@media(max-width: 850px) {
+		body {
+			margin-top: 0 !important;
+		}
+
+}
+.article-content_inner .rich-text--social{
+display:none
+}
+
+.button_rank {
+    	position: absolute;
+	width: auto;
+    	background: #ff1065;
+    	padding: 14px 23px;
+    	color: #ffffff;
+    	font-size: 14px;
+    	bottom: 65px;
+    	left: 0;
+    	z-index: 10000;
+    	font-family: sans-serif;
+    	display: inline-block;
+    	text-transform: uppercase;
+}
+@media (max-width: 600px) {
+  .button_rank {
+    bottom: 319px;
+  }
+}		
+</style>
+<script type="text/javascript">
+	document.write("<a class=\"button_rank \" href=\"https:\/\/www.getfeedback.com\/r\/cXEn5CLM\" target=\"_blank\">Cuéntanos tu experiencia<\/a>");
+</script><script src="https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement.min.js" async=""></script><script src="https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement_Module_ActivityMap.min.js" async=""></script><style type="text/css">/* Chart.js */
+@-webkit-keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}@keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}.chartjs-render-monitor{-webkit-animation:chartjs-render-animation 0.001s;animation:chartjs-render-animation 0.001s;}</style><script src="https://assets.adobedtm.com/58373ae8f4f6/1b8196dc8ed3/bf656c2642c9/RCc5d2369da8c04905b5610367c54e41ab-source.min.js" async=""></script><script src="https://assets.adobedtm.com/58373ae8f4f6/1b8196dc8ed3/bf656c2642c9/RCdaefbfdcad894d33a178eec858eb89d1-source.min.js" async=""></script><script src="https://assets.adobedtm.com/58373ae8f4f6/1b8196dc8ed3/bf656c2642c9/RCc80fedd0c6404341b734882944150eff-source.min.js" async=""></script><link href="https://service.force.com/embeddedservice/5.0/esw.min.css" type="text/css" rel="stylesheet"><style id="inert-style">
+[inert] {
+	pointer-events: none;
+	cursor: default;
+}
+
+[inert], [inert] * {
+	user-select: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+}
+</style></head><body class="page-article color-scheme--pink"><a class="button_rank " href="https://www.getfeedback.com/r/cXEn5CLM" target="_blank">Cuéntanos tu experiencia</a>
+<apex:page showheader="false" sidebar="false" standardstylesheets="false">
+  <div id="info-chat-interval" class="info-chat" style="display: none">
+    👋 Hola, ¿En qué te puedo ayudar?
+  </div>
+  <style type="text/css">
+    .embeddedServiceHelpButton .helpButton .uiButton {
+      background-color: #ff0f64;
+      font-family: "Arial", sans-serif;
+      margin-top: -40px;
+      border-radius: 50%;
+      min-width: 80px;
+      min-height: 80px;
+      box-shadow: none;
+    }
+    .embeddedServiceHelpButton .helpButton::before {
+      content: "";
+      position: absolute;
+      left: 72%;
+      top: 20px;
+      width: 0;
+      height: 0;
+      border-top: 13px solid transparent;
+      border-left: 26px solid #ff0f64;
+      border-bottom: 13px solid transparent;
+      transform: rotate(45deg);
+    }
+    .embeddedServiceHelpButton .helpButton .helpButtonEnabled:hover::before,
+    .embeddedServiceHelpButton .helpButton .helpButtonEnabled:focus::before {
+      opacity: 0;
+    }
+    .embeddedServiceHelpButton .helpButton .uiButton .embeddedServiceIcon {
+      margin-left: 20px;
+    }
+    .info-chat {
+      position: fixed;
+      bottom: 10px;
+      right: 120px;
+      background-color: #f0f0f0;
+      border-radius: 4px;
+      color: black;
+      width: 160px;
+      padding: 4px;
+      z-index: 1001;
+    }
+    .info-chat:before {
+      content: "";
+      position: absolute;
+      right: 0;
+      top: 50%;
+      width: 0;
+      height: 0;
+      border: 10px solid transparent;
+      border-left-color: #f0f0f0;
+      border-right: 0;
+      margin-top: -15px;
+      margin-right: -10px;
+    }
+    .embeddedServiceIcon {
+      display: inline-block !important;
+    }
+    .embeddedServiceHelpButton
+      .helpButton
+      .helpButtonEnabled
+      .embeddedServiceIcon {
+      display: none !important;
+    }
+    .embeddedServiceSidebarFormField.inputSplitName {
+      width: 96% !important;
+    }
+    .embeddedServiceSidebarMinimizedDefaultUI {
+      min-width: 0 !important;
+      max-width: 91px !important;
+      width: 91px !important;
+    }
+  </style>
+  <script type="text/javascript" src="https://service.force.com/embeddedservice/5.0/esw.min.js"></script>
+  <script type="text/javascript">
+    var changeHelp = true;
+    var spanImg = "";
+    var spanItems = "";
+    var hijo1 = true;
+    var hijo2 = true;
+    setInterval(() => {
+      changeHelpButton();
+    }, 10000);
+    function changeHelpButton() {
+      if (changeHelp) {
+        document.getElementById("info-chat-interval").style.display = "flex";
+        changeHelp = false;
+      } else {
+        document.getElementById("info-chat-interval").style.display = "none";
+        changeHelp = true;
+      }
+    }
+    var imgChat = document.createElement("img");
+    imgChat.src =
+      "https://www.enel.com.co/content/dam/enel-co/español/iconos-hub/Chat_32x32.png";
+    imgChat.style = "width:30px;height:30px;";
+    if (hijo1) {
+      setInterval(() => {
+        evaluarSpan();
+      }, 1000);
+    }
+    if (hijo2) {
+      setInterval(() => {
+        evaluarSpan();
+      }, 1000);
+    }
+    function evaluarSpan() {
+      spanImg = document.getElementsByClassName("message");
+      spanItems = spanImg.length;
+      if (spanItems !== 0) {
+        switch (spanItems) {
+          case 1:
+            hijo1 = false;
+            spanImg[0].firstChild.nodeValue = "";
+            spanImg[0].appendChild(imgChat);
+            break;
+          case 2:
+            hijo2 = false;
+            spanImg[1].firstChild.nodeValue = "";
+            spanImg[1].appendChild(imgChat);
+            break;
+          default:
+            break;
+        }
+      }
+    }
+    var initESW = function (gslbBaseURL) {
+      embedded_svc.settings.displayHelpButton = true; //O falso
+      embedded_svc.settings.language = "es_CO"; //Por ejemplo, introduzca 'en' o 'en-US'
+      embedded_svc.settings.defaultMinimizedText = "."; //(Defaults to Chat with an Expert)
+      //embedded_svc.settings.offlineSupportMinimizedText = “...”;
+      embedded_svc.snippetSettingsFile.headerBackgroundURL =
+        "https://yourwebsite.here/header_background.jpg";
+      embedded_svc.settings.loadingText = "Cargando"; //(Toma como valor predeterminado Cargando)
+      embedded_svc.settings.extraPrechatFormDetails = [
+        {
+          label: "País",
+          value: "COLOMBIA",
+          transcriptFields: [],
+          displayToAgent: true,
+        },
+        { label: "Nombre", transcriptFields: ["PrechatNAME__c"] },
+        { label: "Correo electrónico", transcriptFields: ["prechatEMAIL__c"] },
+        { label: "Teléfono principal", transcriptFields: ["PrechatPHONE__c"] },
+        { label: "Apellido Paterno", transcriptFields: ["prechatLASTNAME__c"] },
+        {
+          label: "Tipo de Identidad",
+          transcriptFields: ["prechatTipoDOCTO__c"],
+        },
+        {
+          label: "Número de Identidad",
+          transcriptFields: ["prechatINumber__c"],
+        },
+      ];
+      embedded_svc.settings.extraPrechatInfo = [
+        {
+          entityName: "Contact",
+          showOnCreate: true,
+          linkToEntityName: "LiveChatTranscript",
+          entityFieldMaps: [
+            {
+              isExactMatch: true,
+              fieldName: "FirstName",
+              doCreate: false,
+              doFind: false,
+              label: "Nombre",
+            },
+            {
+              isExactMatch: true,
+              fieldName: "LastName",
+              doCreate: false,
+              doFind: false,
+              label: "Apellido Paterno",
+            },
+            {
+              isExactMatch: true,
+              fieldName: "Phone",
+              doCreate: false,
+              doFind: false,
+              label: "Teléfono principal",
+            },
+            {
+              isExactMatch: false,
+              fieldName: "Email",
+              doCreate: false,
+              doFind: false,
+              label: "Correo electrónico",
+            },
+            {
+              isExactMatch: true,
+              fieldName: "IdentityNumber__c",
+              doCreate: false,
+              doFind: true,
+              label: "Número de Identidad",
+            },
+            {
+              isExactMatch: true,
+              fieldName: "IdentityType__c",
+              doCreate: false,
+              doFind: true,
+              label: "Tipo de Identidad",
+            },
+            {
+              isExactMatch: true,
+              fieldName: "Country__c",
+              doCreate: false,
+              doFind: true,
+              label: "País",
+            },
+          ],
+          entityName: "Contact",
+        },
+      ];
+      embedded_svc.settings.enabledFeatures = ["LiveAgent"];
+      embedded_svc.settings.entryFeature = "LiveAgent";
+      embedded_svc.init(
+        "https://enelsud.my.salesforce.com",
+        "https://enelsud.force.com/Perdidas",
+        gslbBaseURL,
+        "00D36000001Gau6",
+        "WebChat_Team_Colombia",
+        {
+          baseLiveAgentContentURL:
+            "https://c.la3-c2-fra.salesforceliveagent.com/content",
+          deploymentId: "57206000000TR3q",
+          buttonId: "57306000000TRui",
+          baseLiveAgentURL: "https://d.la3-c2-fra.salesforceliveagent.com/chat",
+          eswLiveAgentDevName: "WebChat_Team_Colombia",
+          isOfflineSupportEnabled: true,
+        }
+      );
+    };
+    if (!window.embedded_svc) {
+      var s = document.createElement("script");
+      s.setAttribute(
+        "src",
+        "https://enelsud.my.salesforce.com/embeddedservice/5.0/esw.min.js"
+      );
+      s.onload = function () {
+        initESW(null);
+      };
+      document.body.appendChild(s);
+    } else {
+      initESW("https://service.force.com");
+    }
+  </script>
+  <script>
+    window.addEventListener("load", () => {
+      window.isPhoneOk = false;
+      window.isIdentityOk = false;
+      let identityTypeOptions;
+      //identityTypeOptions = document.getElementsByClassName('helpButton');
+      //identityTypeOptions[0].addEventListener("click",function() {
+      //  getPickListField();
+      //}, false);
+    });
+    embedded_svc.addEventHandler("onHelpButtonClick", function (data) {
+      console.log("onHelpButtonClick event was fired.");
+      let startButton = document.getElementsByClassName("startButton")[0];
+      if (startButton) {
+        //console.log('Existe Elemento startButton');
+      } else {
+        //console.log('no Existe Elemento startButton: ' + startButton);
+        let i = 1;
+        setTimeout(function run() {
+          i++;
+          startButton = document.getElementsByClassName("startButton")[0];
+          if (startButton) {
+            console.log("Finalmente Existe startButton");
+            getPickListField();
+            let j = 1;
+            setTimeout(function run() {
+              j++;
+              setConfigurationFields();
+              setTimeout(run, 10000);
+            }, 10000);
+          } else {
+            setTimeout(run, 50);
+          }
+        }, 50);
+      }
+    });
+    function getPickListField() {
+      document.getElementsByClassName("startButton")[0].disabled = true;
+      let selectobject = document.getElementById("IdentityType__c");
+      let optionLength = selectobject.length - 1;
+      for (option = 0; option <= optionLength; option++) {
+        if (
+          selectobject[option] &&
+          !["CE", "CC", "NIT", "NUIP"].includes(selectobject[option].value)
+        ) {
+          selectobject.remove(option);
+          option--;
+        }
+      }
+      document
+        .getElementById("FirstName")
+        .addEventListener("change", function () {
+          setTimeout(function () {
+            setConfigurationFields();
+          }, 100);
+        });
+      document
+        .getElementById("LastName")
+        .addEventListener("change", function () {
+          setTimeout(function () {
+            setConfigurationFields();
+          }, 100);
+        });
+      document.getElementById("Email").addEventListener("change", function () {
+        setTimeout(function () {
+          setConfigurationFields();
+        }, 100);
+      });
+      document
+        .getElementById("IdentityType__c")
+        .addEventListener("change", function () {
+          setTimeout(function () {
+            setConfigurationFields();
+          }, 100);
+        });
+      let country = document.getElementById("Country__c");
+      country.value = "COLOMBIA";
+      country.readOnly = true;
+      country.style.display = "none";
+      country.parentNode.style.display = "none";
+      document.getElementById("Phone").setAttribute("maxlength", "10");
+      document
+        .getElementById("IdentityNumber__c")
+        .setAttribute("maxlength", "11");
+      document
+        .getElementById("Phone")
+        .addEventListener("change", function (event) {
+          setTimeout(function () {
+            setConfigurationFields();
+          }, 100);
+          if (/^([0-9]{7,10})$/.test(event.target.value)) {
+            document.getElementById("Phone").setAttribute("maxlength", "11");
+            document.getElementById("Phone").setCustomValidity("");
+            window.isPhoneOk = true;
+            var labels = document.getElementsByTagName("LABEL");
+            for (var i = 0; i < labels.length; i++) {
+              if (labels[i].htmlFor != "") {
+                var elem = document.getElementById(labels[i].htmlFor);
+                if (elem) elem.label = labels[i];
+              }
+            }
+            var textLabel = document.getElementById("Phone").label.textContent;
+            document.getElementById("Phone").label.innerHTML =
+              '<span style="color:red;">*</span>Teléfono principal';
+          } else {
+            document
+              .getElementById("Phone")
+              .setCustomValidity("Ingresa un teléfono válido.");
+            window.isPhoneOk = false;
+            var labels = document.getElementsByTagName("LABEL");
+            for (var i = 0; i < labels.length; i++) {
+              if (labels[i].htmlFor != "") {
+                var elem = document.getElementById(labels[i].htmlFor);
+                if (elem) elem.label = labels[i];
+              }
+            }
+            var textLabel = document.getElementById("Phone").label.textContent;
+            document.getElementById("Phone").label.innerHTML =
+              '<span style="color:red;">*</span>Teléfono principal<br/><span style="color:red;">Por favor ingrese mínimo 7 y máximo 10 dígitos</span>';
+          }
+          if (window.isPhoneOk && window.isIdentityOk) {
+            document.getElementsByClassName("startButton")[0].disabled = false;
+          } else {
+            document.getElementsByClassName("startButton")[0].disabled = true;
+          }
+        });
+      document
+        .getElementById("IdentityNumber__c")
+        .addEventListener("change", function (event) {
+          setTimeout(function () {
+            setConfigurationFields();
+          }, 100);
+          document
+            .getElementById("IdentityNumber__c")
+            .setAttribute("maxlength", "11");
+          if (/^([0-9]{6,11})$/.test(event.target.value)) {
+            window.isIdentityOk = true;
+            document.getElementById("IdentityNumber__c").setCustomValidity("");
+            var labels = document.getElementsByTagName("LABEL");
+            for (var i = 0; i < labels.length; i++) {
+              if (labels[i].htmlFor != "") {
+                var elem = document.getElementById(labels[i].htmlFor);
+                if (elem) elem.label = labels[i];
+              }
+            }
+            var textLabel =
+              document.getElementById("IdentityNumber__c").label.textContent;
+            document.getElementById("IdentityNumber__c").label.innerHTML =
+              '<span style="color:red;">*</span>Número de Identidad';
+          } else {
+            document
+              .getElementById("IdentityNumber__c")
+              .setCustomValidity("Ingresa un número de identidad válido.");
+            window.isIdentityOk = false;
+            window.isPhoneOk = true;
+            var labels = document.getElementsByTagName("LABEL");
+            for (var i = 0; i < labels.length; i++) {
+              if (labels[i].htmlFor != "") {
+                var elem = document.getElementById(labels[i].htmlFor);
+                if (elem) elem.label = labels[i];
+              }
+            }
+            var textLabel =
+              document.getElementById("IdentityNumber__c").label.textContent;
+            document.getElementById("IdentityNumber__c").label.innerHTML =
+              '<span style="color:red;">*</span>Número de Identidad<br/><span style="color:red;">Por favor ingrese de 6 a 11 caracteres</span>';
+          }
+          if (window.isPhoneOk && window.isIdentityOk) {
+            document.getElementsByClassName("startButton")[0].disabled = false;
+          } else {
+            document.getElementsByClassName("startButton")[0].disabled = true;
+          }
+        });
+    }
+    function setConfigurationFields() {
+      let selectIdentityType = document.getElementById("IdentityType__c");
+      let optionLength = selectIdentityType.length - 1;
+      for (option = 0; option < optionLength; option++) {
+        //console.log('Opcion[' + option + ']: ' + selectIdentityType[option].value);
+        if (
+          selectIdentityType[option] &&
+          !["CE", "CC", "NIT", "NUIP"].includes(
+            selectIdentityType[option].value
+          )
+        ) {
+          selectIdentityType.remove(option);
+          option--;
+        }
+      }
+      document.getElementById("Phone").setAttribute("maxlength", "10");
+      document
+        .getElementById("IdentityNumber__c")
+        .setAttribute("maxlength", "11");
+      let country = document.getElementById("Country__c");
+      country.value = "COLOMBIA";
+      country.readOnly = true;
+      country.style.display = "none";
+      country.parentNode.style.display = "none";
+    }
+    embedded_svc.addEventHandler("onChatEndedByAgent", function (data) {
+      let chatMsgs = document.getElementsByClassName("chatMessage ");
+      chatMsgs[chatMsgs.length - 1].insertAdjacentHTML(
+        "afterend",
+        '<li class="wrapper chatMessage agent embeddedServiceLiveAgentStateChatItem embeddedServiceLiveAgentStateChatMessage" data-aura-rendered-by="3552:0" data-aura-class="embeddedServiceLiveAgentStateChatItem embeddedServiceLiveAgentStateChatMessage"><div class="isLightningOutContext embeddedServiceLiveAgentStateChatAvatar" data-aura-rendered-by="3557:0" data-aura-class="embeddedServiceLiveAgentStateChatAvatar"><div class="avatar iconAvatar agentInitial agentIconColor0" aria-hidden="true" data-aura-rendered-by="3559:0">E</div></div><div class="chatContent " data-aura-rendered-by="3561:0"><div class="plaintextContent agent embeddedServiceLiveAgentStateChatPlaintextMessageDefaultUI" data-aura-rendered-by="3572:0" data-aura-class="embeddedServiceLiveAgentStateChatPlaintextMessageDefaultUI"><div dir="ltr" data-aura-rendered-by="3575:0" class="uiOutputRichText" data-aura-class="uiOutputRichText">Fue un gusto atender tu solicitud. Para Enel-Codensa es muy importante tú opinión, a continuación, encontrarás un enlace donde podrás calificar tu experiencia con el canal 😊.<a style="color:#ff0000;text-decoration:none"  href="https://www.getfeedback.com/r/uQm461bd">https://www.getfeedback.com/r/uQm461bd</a></div></div></div><div class="nameAndTimeContent" data-aura-rendered-by="3563:0"><div class="agentName" data-aura-rendered-by="3566:0">ElenaBot</div><div class="" data-aura-rendered-by="3568:0"></div><!--render facet: 3569:0--></div></li>'
+      );
+    });
+    embedded_svc.addEventHandler("onConnectionError", function (data) {
+      let chatMsgs = document.getElementsByClassName("chatMessage ");
+      chatMsgs[chatMsgs.length - 1].insertAdjacentHTML(
+        "afterend",
+        '<li class="wrapper chatMessage agent embeddedServiceLiveAgentStateChatItem embeddedServiceLiveAgentStateChatMessage" data-aura-rendered-by="3552:0" data-aura-class="embeddedServiceLiveAgentStateChatItem embeddedServiceLiveAgentStateChatMessage"><div class="isLightningOutContext embeddedServiceLiveAgentStateChatAvatar" data-aura-rendered-by="3557:0" data-aura-class="embeddedServiceLiveAgentStateChatAvatar"><div class="avatar iconAvatar agentInitial agentIconColor0" aria-hidden="true" data-aura-rendered-by="3559:0">E</div></div><div class="chatContent " data-aura-rendered-by="3561:0"><div class="plaintextContent agent embeddedServiceLiveAgentStateChatPlaintextMessageDefaultUI" data-aura-rendered-by="3572:0" data-aura-class="embeddedServiceLiveAgentStateChatPlaintextMessageDefaultUI"><div dir="ltr" data-aura-rendered-by="3575:0" class="uiOutputRichText" data-aura-class="uiOutputRichText">Texto que se muestra cuando se desconecta el usuario :( </div></div></div><div class="nameAndTimeContent" data-aura-rendered-by="3563:0"><div class="agentName" data-aura-rendered-by="3566:0">ElenaBot</div><div class="" data-aura-rendered-by="3568:0"></div><!--render facet: 3569:0--></div></li>'
+      );
+    });
+  </script>
+</apex:page><script id="common-script" type="text/javascript" src="https://service.force.com/embeddedservice/5.0/utils/common.min.js"></script>
+   
+
+    
+
+    
+<script src="/etc/designs/enel-latam-com/clientlibs/main-common.min.js"></script>
+
+
+
+	 
+
+
+
+
+<script type="text/javascript"> 
+	var enel_data = {};
+	var enel_data_navigation_base = [];
+
+	//Fix manejo de apostrofes en nombres de paginas. 
+	try {
+		let rawStr = String('');
+		let tempStr = rawStr.replace(/([a-zA-Z])'([a-zA-Z])/g, '$1§$2');
+		let matches = tempStr.match(/'([^']+)'/g) || [];
+		enel_data.navigation = matches.map(s => s.slice(1, -1).replace(/§/g, "'"));
+		enel_data_navigation_base = [...enel_data.navigation];
+		
+		console.log('enel_data.navigation:', enel_data.navigation.toString);
+	} catch (e) {
+		console.error('Error al procesar enel_data.navigation:', e);
+		enel_data.navigation = [];
+		enel_data_navigation_base = [];
+	}
+
+	var countryDTM = "CO";
+	enel_data.country_state = getDtmCountryState(countryDTM);
+	enel_data.page_lang = "es";
+
+	// User information
+	dtmLoadLoginValues(enel_data);
+
+	// Layuot
+	enel_data.layout = dtmDetectLayout();
+
+	var searchKeyDtm = "";
+	if (searchKeyDtm != '') { 
+		enel_data.keyword = searchKeyDtm;
+		enel_data.results = '';
+	}	
+	if ('' != '') {
+		enel_data.map_type = '';
+	}
+	var prov = getDtmProvValue();
+	if (prov != null && typeof prov != 'undefined' && prov != '') {
+		enel_data.prov = prov;
+	}
+</script>
+
+<!-- Adobe Script -->
+<script>window.adobeDataLayer = window.adobeDataLayer || [];</script>
+<script src="https://assets.adobedtm.com/58373ae8f4f6/1b8196dc8ed3/launch-bf0b791f2a5e.min.js"></script>
+<!-- End Adobe Script -->
+
+ 
+
+
+
+<div><style>
+	#globalHedaer {
+		margin-top: 8vh;
+		z-index: 9997;
+	}
+	#bannercontainer {
+		font-family: "RobertEnelLight",Calibri,Myriad,Tahoma,Geneva,"Helvetica Neue",Helvetica,Arial,sans-serif;
+		display: flex;
+		height: 11vh;
+		background-color: white;
+		position: fixed;
+		width: 100%;
+		z-index:99998;
+		top: 0;
+		box-shadow:  0 5px 5px -5px #f62c6440;	
+	}
+	#imgcontainer {
+		background: transparent 0% 0% no-repeat padding-box;
+		width: 7%;
+		padding-left: 1%;
+		align-items: center;
+		display: flex;
+		justify-content: left;
+		max-height: 10vh;
+	}
+	#imgcontainer object {
+		max-width: 100%;
+		padding-left: 1%;
+		align-items: center;
+		display: flex;
+		justify-content: left;
+		max-height: 8vh;
+	}
+	#textcontainer, 
+    .textcontainer {
+		font-family: "RobertEnelLight",Calibri,Myriad,Tahoma,Geneva,"Helvetica Neue",Helvetica,Arial,sans-serif;
+		background: transparent 0% 0% no-repeat padding-box;
+		width: 63%;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		padding: 0 2%;
+	}
+	.eneltitle {
+		font-family: "RobertEnelBold",Calibri,Myriad,Tahoma,Geneva,"Helvetica Neue",Helvetica,Arial,sans-serif;
+		text-align: left;
+		letter-spacing: 0px;
+		color: #3e3e3e;
+		opacity: 1;
+		font-weight: bold;
+		font-size: 17px;
+		display: inline-block;
+	}
+	#enelsubtitle {
+		font-family: "RobertEnelLight",Calibri,Myriad,Tahoma,Geneva,"Helvetica Neue",Helvetica,Arial,sans-serif;
+		font-size: 14px;
+		display: inline-block;
+		color: #3e3e3e;
+	}
+	.buttoncontainer {
+		width: 30%;
+		display: flex;
+		/*width: 27rem;*/
+		align-items: center;
+		justify-content: right;
+		padding: 0 2% 0 0;
+	}
+	.buttoncontainer a, .buttoncontainer a:hover{
+		font-family: "RobertEnelLight",Calibri,Myriad,Tahoma,Geneva,"Helvetica Neue",Helvetica,Arial,sans-serif;
+		height: 45%;
+		width: 30%;
+		background: #d3135a 0% 0% no-repeat padding-box;
+		border-radius: 2rem;
+		opacity: 1;
+		color: white;
+		min-height: 30px;
+		font-size:16px;
+		border:0;
+		display: inline-flex;
+		justify-content: center;
+		align-items: center;
+		text-decoration: none;
+	}
+	.buttoncontainer .second{
+		margin-left: 5%;
+	}
+	@media(min-width: 850px) {
+		#dotcom-header__main{
+			padding : 19px 15px 15px 15px;
+		}
+	}
+
+	@media(max-width: 850px){
+		#bannercontainer{
+			font-family: "RobertEnelLight",Calibri,Myriad,Tahoma,Geneva,"Helvetica Neue",Helvetica,Arial,sans-serif;
+			height: 11vh;
+		}
+		#imgcontainer {
+			width: 7%;
+			padding-left: 1%;
+			align-items: center;
+			display: flex;
+			justify-content: left;
+			max-height: 10vh;
+		}
+		#textcontainer {
+			font-family: "RobertEnelLight",Calibri,Myriad,Tahoma,Geneva,"Helvetica Neue",Helvetica,Arial,sans-serif;
+			width: 63%;
+		}
+		#textcontainer .eneltitle{
+			font-size: 15px;
+		}
+		#textcontainer #enelsubtitle{
+			font-size: 14px;
+		}
+		.buttoncontainer {
+			font-family: "RobertEnelLight",Calibri,Myriad,Tahoma,Geneva,"Helvetica Neue",Helvetica,Arial,sans-serif;
+			width: 45%;
+			padding: 0 2% 0 0;
+		}
+		.buttoncontainer a {
+			font-size: 12px;
+			width: 60px;
+		}
+		.buttoncontainer a.second {
+			width: 80px;
+		}
+	}
+
+	@media(max-width: 850px) {
+		body {
+			margin-top: 80px;
+		}
+        .textcontainer {
+            font-family: "RobertEnelLight", Calibri, Myriad, Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+            width: 63%;
+        }
+
+        .textcontainer .eneltitle {
+            font-size: 15px;
+        }
+
+        .textcontainer .enelsubtitle {
+            font-size: 14px;
+        }
+
+        .buttoncontainer.container-android a,
+        .buttoncontainer.container-android a:hover,
+        .buttoncontainer.container-huawei a,
+        .buttoncontainer.container-huawei a:hover,
+        .buttoncontainer.container-ios a,
+        .buttoncontainer.container-ios a:hover{
+            font-size: 12px;
+            min-width: 130px;
+        }
+    }
+</style>
+
+
+<script>
+    $(document).ready(function () {
+        var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+        var pluz = window.location.host.includes("pluz");
+
+		if(pluz){
+        	$('.buttoncontainer a').css('background', '#66AE5E');
+            $('#imgcontainer').hide();
+			if (/android/i.test(userAgent)) {
+                $('.container-android, .text-mobile').show();
+				$('.container-desktop, .text-desktop').hide();
+            } else if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+                $('.container-ios, .text-mobile').show();
+                $('.container-desktop, .text-desktop').hide();
+            } else if (/huawei/i.test(userAgent)) {
+                $('.container-huawei, .text-mobile').show();
+                $('.container-desktop, .text-desktop').hide();
+            } else {
+                $('.container-desktop, .text-desktop').show();
+            }
+		}
+    });
+</script>
+
+</div>
+
+
+<!-- HEADER COMMON START -->
+
+
+<!-- START MODULE: GLOBAL-HEADER-->
+
+
+  
+  
+  
+  
+  
+  
+  <header id="globalheader" data-module="global-header" class="module global-header common module--initialized">
+      <!-- <input data-sly-test="true" class="redirectUrlLogin" type="hidden" data-redirectUrl="https://www.enel.com.co/es/private-area.html" data-country="enel-co" /> -->
+      <input class="redirectUrlLoginBtn" type="hidden" data-sessiondatakeyurl="https://accounts.enel.com/samlsso?spEntityID=ENEL_WEB_COL" data-logouturl="https://accounts.enel.com/samlsso?slo=true&amp;spEntityID=ENEL_WEB_COL&amp;returnTo=https://www.enel.com.co/es/AccessMyEnel.html">
+      <div class="global-header__main">
+    
+
+    <style>
+      @media screen and (max-width:767px) {
+        .global-header__logo{
+          max-width: 60px !important;
+        }
+      }
+    </style>
+    <div itemscope="" itemtype="http://schema.org/Organization" class="global-header__logo" style="max-width:109px;">
+
+      
+      
+          
+          
+          
+              <a data-bannerdtm="logo" itemprop="url" href="https://www.enel.com.co/es.html">
+          
+
+          <img itemprop="logo" src="/content/dam/enel-co/imágenes-home/logo-white.png" title="Enel Colombia" aria-label="Ir al inicio del sitio." alt="Enel Colombia" class="global-header__logo__bw">
+          <img itemprop="logo" src="/content/dam/enel-co/imágenes-home/logo-white.png" title="Enel Colombia" aria-label="Ir al inicio del sitio." alt="Enel Colombia" class="global-header__logo__color">
+        </a>
+      
+    </div>
+      <div class="global-header__links">
+          <ul>
+              <li>
+                  <a style="font-family: inherit;" data-bannerdtm="header link" href="https://www.enel.com.co/es/personas.html" target="_self">Hogares</a>
+              </li>
+          
+              <li>
+                  <a style="font-family: inherit;" data-bannerdtm="header link" href="https://www.enel.com.co/es/empresas.html" target="_self">Empresas</a>
+              </li>
+          
+              <li>
+                  <a style="font-family: inherit;" data-bannerdtm="header link" href="https://www.enel.com.co/es/conoce-enel.html" target="_self">Conoce Enel</a>
+              </li>
+          
+              <li>
+                  <a style="font-family: inherit;" data-bannerdtm="header link" href="https://www.enel.com.co/es/historias.html" target="_self">Historias</a>
+              </li>
+          
+              <li>
+                  <a style="font-family: inherit;" data-bannerdtm="header link" href="https://www.enel.com.co/es/medio-ambiente-desarrollo-sostenible.html" target="_self">Innovación y Sostenibilidad</a>
+              </li>
+          
+              <li>
+                  <a style="font-family: inherit;" data-bannerdtm="header link" href="https://www.enel.com.co/es/inversionista.html" target="_self">Inversionistas</a>
+              </li>
+          
+              <li>
+                  <a style="font-family: inherit;" data-bannerdtm="header link" href="https://www.enel.com.co/es/personas/ayuda.html" target="_self">Ayuda</a>
+              </li>
+          </ul>
+      </div>
+    <div class="global-header__btns">
+      
+
+        
+          <!-- casi di apertura modale form login - inizio -->
+          <!-- area privata caso autenticato desktop:  ovale mi enel-->
+          <!--<button class="pvtArea-btn-myEnel desktop-visible" title="Ingresar a mi cuenta enel" aria-label="Ingresar a mi cuenta enel" style="display:none" data-src="#login-wrapper" data-sly-test="false" onclick="disconnetti()"><span>Mi Enel</span></button>-->
+          
+          <!-- area privata caso autenticato mobile: omino doppio-->
+          <!-- area pubblica: omino singolo-->
+          <!-- casi di apertura modale - fine -->
+
+          <!-- casi di link a pagina di login - inizio (il brasile ha componente specializzato non passa qui)-->
+          <!-- area privata caso autenticato desktop:  ovale mi enel--><button class="pvtArea-btn-myEnel desktop-visible" style="display:none" data-src="#login-wrapper" onclick="goPrivateArea()"><span>Mi Enel</span></button>
+          <!-- area privata caso autenticato mobile: omino doppio--><button class="global-header__btn btn-user-open desktop-hidden" style="display:none" data-src="#login-wrapper" onclick="goPrivateArea()"><span class="icon-user-twice"></span></button>
+          <!-- area pubblica: omino singolo--><a class="global-header__btn btn-user" href="https://www.enel.com.co/es/AccessMyEnel.html"><span class="icon-user"></span></a>
+          <!-- area pubblica: omino singolo br-->
+          <!-- casi di link a pagina - fine -->
+         
+         <button class="global-header__btn btn-search-open" aria-label="Buscar en Enel." title="Buscar en Enel."><span class="icon-search-small"></span></button>
+         
+         <button class="global-header__btn btn-menu" aria-label="Menú." title="Menú."><span class="icon-menu"></span></button>
+
+         
+
+       </div>
+     </div>
+
+  </header>
+
+
+
+<!-- END MODULE: GLOBAL-HEADER-->
+
+<!-- START MODULE: GLOBAL-SEARCH-->
+
+
+    <div data-module="globalSearch" class="module search-form common hide module--initialized" style="background-color:#ff0f64">
+        <!-- START MODULE: GLOBAL-SEARCH-HEADER COMMON-->
+        
+        
+  <div class="search-form__header">
+   <!--<div itemscope itemtype="http://schema.org/Organization" class="search-form__logo search-form__logo_upload">
+        <sly data-sly-test.hasExternalPath="">
+            <a itemprop="url" href="" target="" data-sly-unwrap="false"><img itemprop="logo" src="/content/dam/enel-co/imágenes-home/logo-white.png" alt="Enel Colombia" aria-label="Ir al inicio del sitio." title="Enel Colombia"/>
+            </a>
+        </sly>
+        <sly data-sly-test.hasInternalPath="">
+            <a itemprop="url" href="" target="" data-sly-unwrap="false"><img itemprop="logo" src="/content/dam/enel-co/imágenes-home/logo-white.png" alt="Enel Colombia" aria-label="Ir al inicio del sitio." title="Enel Colombia"/>
+            </a>
+        </sly>
+        <sly data-sly-test="true">
+            <a itemprop="url" data-sly-attribute.href="/content/enel-co/es.html" ><img itemprop="logo" src="/content/dam/enel-co/imágenes-home/logo-white.png" alt="Enel Colombia" aria-label="Ir al inicio del sitio." title="Enel Colombia"/>
+            </a>
+        </sly>
+              
+    </div> -->
+    <div class="search-form__btns">
+      <button class="global-header__btn search-form__btn-close" aria-label="Cerrar." title="Cerrar."><span class="cross-icon"></span></button>
+    </div>
+  </div>
+
+        <!-- END MODULE: GLOBAL-SEARCH-HEADER-->
+
+        
+        <style>
+		.search-form__input::placeholder {
+        color: #CC4305 !important;
+        opacity: 1;
+        }
+        .search-form__input:-ms-input-placeholder {
+        color: #CC4305 !important;
+        }
+        .search-form__input::-ms-input-placeholder {
+        color: #CC4305 !important;
+        }
+	    </style>
+
+
+        <div class="search-form__inner">
+            <div class="container">
+                <form id="global_search_form" action="https://www.enel.com.co/es/resultados-de-busqueda.html" method="GET" autocomplete="off" data-json-url="https://www.enel.com.co/es/_jcr_content.jsonsearch.html?type=keywords">
+                    <div class="search-form__input__wrap">
+                        <input type="search" name="search" placeholder="¿Te ayudamos?" class="search-form__input" style="background-color:#ff0f64; color:#CC4305 !important;">
+                    </div>
+                    <div class="search-form__submit__wrap">
+                        <button type="submit" class="search-form__submit icon-search"><span>Submit</span></button>
+                    </div>
+                </form>
+
+                
+                <span class="search-form__content" data-bannerdtm="header quick link">
+                    <div class="search-form__links search-form__links--quick">
+                        <span class="search-form__heading" style="color:#CC4305 !important;">Sugerencias</span>
+                        
+                    </div>
+                </span>
+
+
+            </div>
+        </div>
+    </div>
+
+    <script type="text/template" id="TMPL--search-form__content">
+        <div class="search-form__links search-form__links--quick search-form__suggestions">
+            <span class="search-form__heading" style="color:#CC4305 !important;"></span>
+            <ul>
+                <% if (results) { %>
+                <% for (var i=0; i<results.length; i++) { %>
+                <li><a href="https://www.enel.com.co/es/resultados-de-busqueda.html?search=<%-results[i]%>"><%-results[i]%></a></li>
+                <% } %>
+                <% } %>
+            </ul>
+        </div>
+    </script>
+
+<!-- END MODULE: GLOBAL-SEARCH-->
+
+<!-- START MODULE: GLOBAL-SIDE-MENU-->
+
+
+    
+    <div data-module="global-megamenu" class="megamenu module hide module--initialized" style="z-index:99999">
+
+  
+    
+    
+
+<style>
+.megamenu__new {
+	display: flex !important;
+}
+
+@media screen and (max-width:768px) {
+	.megamenu__news {
+		display: none !important;
+	}
+}
+</style>
+
+	<div class="megamenu__main">
+		<div class="megamenu__main__inner">
+			<div class="megamenu__main__header">
+				
+
+    
+
+    
+
+    
+        <a href="https://www.enel.com.co/es.html" class="megamenu-content-header-logo" data-bannerdtm="megamenu-logo">
+    
+        <img src="/content/dam/enel-co/español/iconos-hub/logo.png" aria-label="Ir al inicio del sitio." title="Ir al inicio del sitio." alt="Enel Colombia">
+    </a>
+
+			</div>
+			<div class="megamenu__main__body">
+				<nav class="megamenu__navSecondary"><div class="megamenu__accordian secondaryMenu publishmode" data-bannerdtm="megamenu-secundary-navigation">
+    
+    
+  </div><div class="megamenu__accordian secondaryMenu publishmode" data-bannerdtm="megamenu-secundary-navigation">
+    <div class="megamenu__accordian__header  open" style="border-top: 0px solid">
+      Sitios Globales
+    </div>
+    <div class="megamenu__accordian__body">
+      <ul class="megamenu__links" style="display:block;">
+        <li>
+          <ul class="megamenu__submenu">
+            <li>
+              <a name="&amp;lid=conoce-al-grupo-enel&amp;lpos=megamenu" title="Conoce al Grupo Enel, Se abre en ventana nueva" target="_blank" href="https://www.enel.com/es">Conoce al Grupo Enel</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=enel-americas&amp;lpos=megamenu" title="Enel Americas, Se abre en ventana nueva" target="_blank" href="https://www.enelamericas.com">Enel Americas</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=conoce-sobre-enel-green-power&amp;lpos=megamenu" title="Conoce sobre Enel Green Power, Se abre en ventana nueva" target="_blank" href="https://www.enelgreenpower.com/es">Conoce sobre Enel Green Power</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=enel-x&amp;lpos=megamenu" title="Enel X, Se abre en ventana nueva" target="_blank" href="https://www.enelx.com/">Enel X</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=global-trading&amp;lpos=megamenu" title="Global Trading, Se abre en ventana nueva" target="_blank" href="https://globaltrading.enel.com/es.html">Global Trading</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=enel-open-innovability&amp;lpos=megamenu" title="Enel Open Innovability, Se abre en ventana nueva" target="_blank" href="https://openinnovability.enel.com/">Enel Open Innovability</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=global-procurement&amp;lpos=megamenu" title="Global Procurement, Se abre en ventana nueva" target="_blank" href="https://globalprocurement.enel.com/es.html">Global Procurement</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=conoce-sobre-enel-foundation&amp;lpos=megamenu" title="Conoce sobre Enel Foundation, Se abre en ventana nueva" target="_blank" href="https://www.enelfoundation.org/">Conoce sobre Enel Foundation</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=canal-tico&amp;lpos=megamenu" title="Canal Ético, Se abre en ventana nueva" target="_blank" href="https://secure.ethicspoint.eu/domain/media/es/gui/102504/index.html">Canal Ético</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div></nav>
+				<div class="megamenu__news"><div class="megamenu__news__inner">
+ 
+
+
+
+
+    
+    
+    
+
+
+<article class="megamenu__article megamenu__article--large" data-bannerdtm="megamenu-module">
+ <a href="https://www.enel.com.co/es/historias/a202311-colombia-avanza-en-movilidad-sostenible.html" target="_self" name="&amp;lid=conoce-cmo-en-enel-le-apostamos-a-la-movilidad-sostenible&amp;lpos=megamenu">
+  
+  <div class="megamenu__article__img">
+   
+
+
+<img src="/content/enel-co/es/megamenu/historias/archive/2023/11/colombia-avanza-en-movilidad-sostenible/_jcr_content/hero/image2.img.jpg/1790197295515.jpg" alt="Infraestructura eléctrica de Enel Colombia para la movilidad sostenible en el país. " title="infraestructura-electrica-para-movilidad-sostenible-enel-principal" class="">
+  </div>
+  
+  <div class="megamenu__article__content">
+   <p class="megamenu__article__topic">
+    
+   </p>
+   <span class="megamenu__article__title">Conoce cómo en ENEL le apostamos a la movilidad sostenible</span>
+   <div class="megamenu__article__copy"> 
+    <p>El municipio de Carmen de Carupa, Cundinamarca, tiene una razón para llenarse de energía este año nuevo.</p>
+   </div> 
+  </div>
+  
+ </a>
+</article>
+
+
+    
+    
+    
+
+
+<article class="megamenu__article " data-bannerdtm="megamenu-module2">
+ <a href="https://www.enel.com.co/es/historias/a202310-consejos-para-cuidar-historial-crediticio.html" target="_self" name="&amp;lid=cmo-cuidar-tu-historial-crediticio-5-consejos-clave-para-hacerlo&amp;lpos=megamenu">
+  
+  <div class="megamenu__article__img">
+   
+
+
+<img src="/content/enel-co/es/megamenu/historias/archive/2023/10/consejos-para-cuidar-historial-crediticio/_jcr_content/hero/image2.img.jpg/1787847374460.jpg" alt="Mujer feliz por el buen manejo financiero y de mejorar su historial crediticio." title="historial-crediticio-cfc.enel-principal" class="">
+  </div>
+  
+  <div class="megamenu__article__content">
+   <p class="megamenu__article__topic">
+    
+   </p>
+   <span class="megamenu__article__title">¿Cómo cuidar tu historial crediticio? 5 consejos clave para hacerlo</span>
+    
+  </div>
+  
+ </a>
+</article>
+
+
+    
+    
+    
+
+
+<article class="megamenu__article " data-bannerdtm="megamenu-module3">
+ 
+  
+  
+  
+  <div class="megamenu__article__content">
+   <p class="megamenu__article__topic">
+    
+   </p>
+   
+   <div class="megamenu__article__copy"> 
+    <p></p>
+   </div> 
+  </div>
+  
+ 
+</article>
+
+
+
+</div></div>
+			</div>
+		</div>
+	</div>
+
+	<nav class="megamenu__nav">
+  <div class="megamenu__nav__header">
+    
+      <ul class="megamenu__lang-links">
+        <li class="selected activeLang">
+          <a alt="es" style="text-transform: uppercase;" href="https://www.enel.com.co/es/pago-medios-electronicos.html">ES</a>
+        </li>
+      
+        <li class="activeLang">
+          <a alt="en" style="text-transform: uppercase;" href="https://www.enel.com.co/en/electronic-payment-methods.html">EN</a>
+        </li>
+      </ul>
+    
+    <button class="btn-close" aria-label="Cerrar." title="Cerrar."><span class="cross-icon"></span></button>
+  </div>
+  <div class="megamenu__nav__body">
+    
+  <div class="dotcom-megamenu__accordian open primaryMenu" id="notLoggedBox">
+	   <div class="dotcom-megamenu__accordian__header open">Acceder a mi Enel</div>
+	   <div class="dotcom-megamenu__accordian__body" style="display:block;">							 
+	       <div class="nav-login">
+	           
+	           
+	           
+	           <div class="nav-forgot"></div>
+	           <div class="nav-forgot">
+	           	<a href="https://www.enel.com.co/es/AccessMyEnel.html">Login</a>
+	           </div>
+		       
+	       </div>
+	   </div>
+  </div>
+  <div class="dotcom-megamenu__accordian open primaryMenu" id="loggedBox" style="display: none;">
+	  	<div class="user-info-wrapper">
+	          <div class="dotcom-megamenu__accordian__header open">
+	              <h3 class="user-info-heading">Bienvenido</h3>
+	              <h3 class="user-name"></h3>
+	          </div>
+	          <div class="dotcom-megamenu__accordian__body" style="display: block;">
+	              <a onclick="privateAreaCheck(this); return false;" href="https://www.enel.com.co/es/private-area.html" class="btn-cta">Ir al área cliente</a>
+	              <ul class="dotcom-megamenu__submenu">
+	                  <li><a onclick="privateAreaCheck(this); return false;" href="https://www.enel.com.co/es/private-area/MisDatos.html">Modificar perfil</a></li>
+	                  <li><a id="logoutBtn" href="javascript:disconnetti();">Logout</a></li>
+	              </ul>
+	          </div> 
+	      </div>
+  </div>
+
+
+
+
+
+<script>
+	
+	const checkUserIsLogged = () =>{
+		return sessionStorage.getItem("logoutInfo") != null;
+	};
+
+	const checkSocialLogin = ()=>{
+		return sessionStorage.getItem("socialLogin") == "true";
+  	};
+  
+  	const setSecondaryLogoutDataFromCookies = ()=>{
+		if(!checkSocialLogin()) return;
+		if(sessionStorage.getItem("logoutInfo")) return;
+		const logoutButtonData = {
+					  "customerType": "personas",
+					  "username":  getCookieValue("socialohUEmail"),
+					  "socialOneHubMail": getCookieValue("socialohUEmail"),
+					  "socialOneHubUid": getCookieValue("socialohUid"),
+					  "socialOneHubName": getCookieValue("socialohName"),
+					  "socialOneHubLastName": getCookieValue("socialohLName"),
+					  "socialOneHubMobile": getCookieValue("socialohMobile"),
+		};
+		sessionStorage.setItem("logoutInfo",JSON.stringify(logoutButtonData));
+  	};
+
+	const setStatusLogged = () =>{
+		if(checkSocialLogin()) setSecondaryLogoutDataFromCookies();
+		if(checkUserIsLogged()) {
+			try {
+				const logoutInfo = JSON.parse(sessionStorage.getItem("logoutInfo"));
+				const name = getCookieValue("socialohName") ||  logoutInfo?.socialOneHubName;
+				const lastname = getCookieValue("socialohLName") || logoutInfo?.socialOneHubLastName;
+				const usernameField = document.querySelector("h3.user-name");
+				if(usernameField != null ) usernameField.innerHTML = name + " " + lastname;
+				showLogoutFrame();
+			} catch (error) {
+				console.error(error);
+			}
+		}
+	}
+
+	const hydrateLogoutInfoFromSession = (onComplete) => {
+		if (typeof commonLatamAjaxCall !== "function") {
+			if (typeof onComplete === "function") onComplete(false);
+			return;
+		}
+
+		commonLatamAjaxCall(null, null, "checkAuthentication", "POST", function (authResponse) {
+			const authData = authResponse && authResponse.data !== undefined ? authResponse.data : authResponse;
+			const isAuthenticated = authData === true || authData === "true";
+
+			if (!isAuthenticated) {
+				if (typeof onComplete === "function") onComplete(false);
+				return;
+			}
+
+			commonLatamAjaxCall(null, null, "getProfileUIDCl", "POST", function (profileResponse) {
+				const rawProfile = profileResponse && profileResponse.data !== undefined ? profileResponse.data : profileResponse;
+				let profile = rawProfile;
+
+				if (typeof rawProfile === "string") {
+					try {
+						profile = JSON.parse(rawProfile);
+					} catch (error) {
+						profile = null;
+					}
+				}
+
+				if (!profile) {
+					if (typeof onComplete === "function") onComplete(false);
+					return;
+				}
+
+				const logoutButtonData = {
+					"customerType": "personas",
+					"username": profile?.email || "",
+					"socialOneHubMail": profile?.email || "",
+					"socialOneHubUid": profile?.enelId || "",
+					"socialOneHubName": profile?.firstName || "",
+					"socialOneHubLastName": profile?.lastName || "",
+					"socialOneHubMobile": profile?.phoneNumber || ""
+				};
+				sessionStorage.setItem("socialLogin", "true");
+				sessionStorage.setItem("logoutInfo", JSON.stringify(logoutButtonData));
+				if (typeof onComplete === "function") onComplete(true);
+			});
+		});
+	};
+
+	const ensureLoggedMenuState = () => {
+		const currentCountry = "CO";
+
+		if (currentCountry !== "CL") {
+			setStatusLogged();
+			return;
+		}
+
+		if (checkUserIsLogged() || checkSocialLogin()) {
+			setStatusLogged();
+			return;
+		}
+
+		hydrateLogoutInfoFromSession((success) => {
+			if (success) {
+				setStatusLogged();
+			} else {
+				hideLogoutFrame();
+			}
+		});
+	};
+
+	const showLogoutFrame = () =>{
+		document.querySelector("#notLoggedBox").style.display = "none";
+		document.querySelector("#loggedBox").style = {};
+	}
+
+	const hideLogoutFrame = () =>{
+		document.querySelector("#loggedBox").style.display = "none";
+		document.querySelector("#notLoggedBox").style = {};
+	}
+	
+	const checkCookieExists = (key) => {
+		return document.cookie.split(";").some((item) => item.trim().startsWith(key+"="));
+	}
+
+	const getCookieValue =(key) =>{
+		return document.cookie.split("; ").find((row) => row.startsWith(key+"="))?.split("=")[1];
+	}
+
+	$( document ).ready(function() {
+		document.querySelector(".global-header__btn.btn-menu")?.addEventListener("click", ensureLoggedMenuState);
+	});
+
+	const privateAreaCheck = (element) => {
+		const currentCountry = "CO";
+		let showAceptarTerminos = true;
+		let getProfileUID = "getProfileUID";
+
+		const redirects = {
+			"CO": "/es/personas/aceptar-terminos.html",
+			"CL": "/es/clientes/aceptar-terminos.html",
+			"PE": "/es/personas/aceptar-terminos.html",
+			"BR": "/pt/servico/aceptar-terminos.html"
+		};
+
+		jQuery.ajaxSetup({ async: false });
+
+		if(currentCountry === "CL"){
+			getProfileUID = "getProfileUIDCl";
+		}
+
+		commonLatamAjaxCall(null, '', getProfileUID, 'POST', function (response, xhr) {
+			
+			if (!response || response?.result == "KO") { console.log("usuario no logeado"); return;}
+			let result = response;
+			if (typeof response == 'string') { result = JSON.parse(response); }
+			if (result?.attributes) {
+				for (att of result.attributes) {
+					if (currentCountry == att.country) { showAceptarTerminos = false; break; };
+				}
+			}
+			jQuery.ajaxSetup({ async: true });
+			if (showAceptarTerminos) { window.location.href = redirects[currentCountry] || "#"; return;} 
+			else { window.location.href = element.href; return; }
+		});
+	}
+</script>
+
+    <div class="megamenu__accordian open primaryMenu">
+      <!--START: NAVIGATION PRIMARY-->
+
+
+
+
+<div class="megamenu__accordian__header open">
+    Links Importantes
+</div>
+
+<div class="megamenu__accordian__body" style="display: block;" data-bannerdtm="megamenu-primary-navigation">
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=hogares&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/personas.html">
+                        Hogares
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=empresas&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/empresas.html">
+                        Empresas
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=inversionistas&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/inversionista.html">
+                        Inversionistas
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=innovacin-y-sostenibilidad&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/medio-ambiente-desarrollo-sostenible.html">
+                        Innovación y Sostenibilidad
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=conoce-enel&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/conoce-enel.html">
+                        Conoce Enel
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=prensa&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/prensa.html">
+                        Prensa
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=trabaja-con-nosotros&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/conoce-enel/empleos-enel/marca-empleadora.html">
+                        Trabaja con nosotros
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=ayuda&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/personas/ayuda.html">
+                        Ayuda
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+    
+    
+</div>
+<!--END: NAVIGATION PRIMARY-->
+
+
+    
+      <!--START: NAVIGATION PRIMARY-->
+
+
+
+
+
+
+
+<!--END: NAVIGATION PRIMARY-->
+
+
+    
+      <!--START: NAVIGATION PRIMARY-->
+
+
+
+
+
+
+
+<!--END: NAVIGATION PRIMARY-->
+
+
+    
+      <!--START: NAVIGATION PRIMARY-->
+
+
+
+
+
+
+
+<!--END: NAVIGATION PRIMARY-->
+
+
+    
+    </div>
+    
+      <!--START: NAVIGATION SECONDARY-->
+
+
+  <div class="megamenu__accordian secondaryMenu publishmode" data-bannerdtm="megamenu-secundary-navigation">
+    
+    
+  </div>
+  <div class="megamenu__accordian secondaryMenu publishmode" data-bannerdtm="megamenu-secundary-navigation">
+    <div class="megamenu__accordian__header " style="border-top: 0px solid">
+      Sitios Globales
+    </div>
+    <div class="megamenu__accordian__body">
+      <ul class="megamenu__links" style="display:block;">
+        <li>
+          <ul class="megamenu__submenu">
+            <li>
+              <a name="&amp;lid=conoce-al-grupo-enel&amp;lpos=megamenu" title="Conoce al Grupo Enel, Se abre en ventana nueva" target="_blank" href="https://www.enel.com/es">Conoce al Grupo Enel</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=enel-americas&amp;lpos=megamenu" title="Enel Americas, Se abre en ventana nueva" target="_blank" href="https://www.enelamericas.com">Enel Americas</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=conoce-sobre-enel-green-power&amp;lpos=megamenu" title="Conoce sobre Enel Green Power, Se abre en ventana nueva" target="_blank" href="https://www.enelgreenpower.com/es">Conoce sobre Enel Green Power</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=enel-x&amp;lpos=megamenu" title="Enel X, Se abre en ventana nueva" target="_blank" href="https://www.enelx.com/">Enel X</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=global-trading&amp;lpos=megamenu" title="Global Trading, Se abre en ventana nueva" target="_blank" href="https://globaltrading.enel.com/es.html">Global Trading</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=enel-open-innovability&amp;lpos=megamenu" title="Enel Open Innovability, Se abre en ventana nueva" target="_blank" href="https://openinnovability.enel.com/">Enel Open Innovability</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=global-procurement&amp;lpos=megamenu" title="Global Procurement, Se abre en ventana nueva" target="_blank" href="https://globalprocurement.enel.com/es.html">Global Procurement</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=conoce-sobre-enel-foundation&amp;lpos=megamenu" title="Conoce sobre Enel Foundation, Se abre en ventana nueva" target="_blank" href="https://www.enelfoundation.org/">Conoce sobre Enel Foundation</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=canal-tico&amp;lpos=megamenu" title="Canal Ético, Se abre en ventana nueva" target="_blank" href="https://secure.ethicspoint.eu/domain/media/es/gui/102504/index.html">Canal Ético</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+<!--END: NAVIGATION SECONDARY-->
+
+    
+    <div class="megamenu__news__mobile"><div class="swiper-container swiper-container-horizontal"><div class="swiper-wrapper" style="transition-duration: 0ms;"><div class="swiper-slide swiper-slide-active"><article class="megamenu__article megamenu__article--large" data-bannerdtm="megamenu-module">
+ <a href="https://www.enel.com.co/es/historias/a202311-colombia-avanza-en-movilidad-sostenible.html" target="_self" name="&amp;lid=conoce-cmo-en-enel-le-apostamos-a-la-movilidad-sostenible&amp;lpos=megamenu">
+  
+  <div class="megamenu__article__img">
+   
+
+
+<img src="/content/enel-co/es/megamenu/historias/archive/2023/11/colombia-avanza-en-movilidad-sostenible/_jcr_content/hero/image2.img.jpg/1790197295515.jpg" alt="Infraestructura eléctrica de Enel Colombia para la movilidad sostenible en el país. " title="infraestructura-electrica-para-movilidad-sostenible-enel-principal" class="">
+  </div>
+  
+  <div class="megamenu__article__content">
+   <p class="megamenu__article__topic">
+    
+   </p>
+   <span class="megamenu__article__title">Conoce cómo en ENEL le apostamos a la movilidad sostenible</span>
+   <div class="megamenu__article__copy"> 
+    <p>El municipio de Carmen de Carupa, Cundinamarca, tiene una razón para llenarse de energía este año nuevo.</p>
+   </div> 
+  </div>
+  
+ </a>
+</article></div><div class="swiper-slide swiper-slide-next"><article class="megamenu__article " data-bannerdtm="megamenu-module2">
+ <a href="https://www.enel.com.co/es/historias/a202310-consejos-para-cuidar-historial-crediticio.html" target="_self" name="&amp;lid=cmo-cuidar-tu-historial-crediticio-5-consejos-clave-para-hacerlo&amp;lpos=megamenu">
+  
+  <div class="megamenu__article__img">
+   
+
+
+<img src="/content/enel-co/es/megamenu/historias/archive/2023/10/consejos-para-cuidar-historial-crediticio/_jcr_content/hero/image2.img.jpg/1787847374460.jpg" alt="Mujer feliz por el buen manejo financiero y de mejorar su historial crediticio." title="historial-crediticio-cfc.enel-principal" class="">
+  </div>
+  
+  <div class="megamenu__article__content">
+   <p class="megamenu__article__topic">
+    
+   </p>
+   <span class="megamenu__article__title">¿Cómo cuidar tu historial crediticio? 5 consejos clave para hacerlo</span>
+    
+  </div>
+  
+ </a>
+</article></div><div class="swiper-slide"><article class="megamenu__article " data-bannerdtm="megamenu-module3">
+ 
+  
+  
+  
+  <div class="megamenu__article__content">
+   <p class="megamenu__article__topic">
+    
+   </p>
+   
+   <div class="megamenu__article__copy"> 
+    <p></p>
+   </div> 
+  </div>
+  
+ 
+</article></div></div><div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"></div></div></div>
+  </div>
+</nav>
+
+
+
+  
+
+
+  
+
+  
+
+
+  
+
+  
+
+</div>
+
+<!-- END MODULE: GLOBAL-SIDE-MENU-->
+
+
+    
+
+
+<!-- HEADER COMMON END -->
+
+<main id="main" class="home-layout">
+
+
+<section data-module="hero" class="hero module" data-bannerdtm="hero">
+  <div class="hero_inner container">
+    <div class="hero_content-wrapper">
+      
+      
+  <nav class="hero_breadcrumbs">
+    <ol class="breadcrumbs component" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+      
+      
+	      <li class="breadcrumbs_item breadcrumbs_item text--breadcrumb" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+	        <a itemprop="item" href="https://www.enel.com.co/es.html" title="Ir a la pagina Enel Colombia - Energía Sostenible para Hogares y Empresas ." class="breadcrumbs_link">
+	          <span itemprop="name">Enel Colombia - Energía Sostenible para Hogares y Empresas </span>
+	        </a>
+	        <meta itemprop="position" content="1">
+	      </li>
+      
+      <li class="breadcrumbs_item breadcrumbs_item text--breadcrumb" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+        <a itemprop="item" href="https://www.enel.com.co/es/pago-medios-electronicos.html" title="Ir a la pagina Medios de pago electrónicos." class="breadcrumbs_link">
+          <span itemprop="name">Medios de pago electrónicos</span>
+        </a>
+        <meta itemprop="position" content="2">
+      </li>
+      
+      
+    </ol>
+  </nav>
+
+      <h1 class="hero_title text--page-heading">Medios de pago electrónicos</h1>
+      
+      
+      
+    </div>
+  </div>
+</section>
+
+
+
+
+	<div>
+<div data-module="article-carousel" class="article-carousel module module--initialized">
+	
+	
+	  
+	    <div class="article-carousel_inner">
+	
+	      <div class="component carousel component--initialized" data-bannerdtm="carousel">
+	        <div class="carousel_wrap carousel_wrap--single slick-initialized slick-slider"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 1280px;"><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 1280px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;"><div><div data-index="0" class="carousel_item" data-bannerdtm="carousel2" style="width: 100%; display: inline-block;">
+	
+  <picture class="carousel_item_wrap" data-image-name="banner-medios-de-pago.jpg">
+    <source srcset="/content/enel-co/es/megamenu/pago-medios-electronicos/jcr:content/carousel/items/image.img.jpg/1772577466262.jpg" media="(min-width: 768px)">
+    <img src="/content/enel-co/es/megamenu/pago-medios-electronicos/_jcr_content/carousel/items/image.img.jpg/1772577466262.jpg" alt="Persona pagando factura de energía Enel en línea desde computador – medios de pago electrónicos" class="full-bleed-image_image" data-emptytext="Image">
+</picture>
+
+
+
+</div></div></div></div></div></div>
+	        
+	      </div>
+	      
+	
+	    </div>
+	    
+	  
+	  
+	  
+	
+	
+
+</div>
+
+
+
+
+</div>
+
+
+
+
+<div data-module="article-content" class="article-content module module--initialized">
+	<div class="article-content_inner">
+		<div class="component rich-text container rich-text--social">
+			<div class="component share-links">
+				<div><ul class="share-links_list">
+  <li class="share-links_list-item"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.enel.com.co%2Fes%2Fpago-medios-electronicos.html" class="share-links_link share-links_fb" target="_blank">Facebook</a></li>
+  <li class="share-links_list-item"><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.enel.com.co%2Fes%2Fpago-medios-electronicos.html&amp;original_referer=https%3A%2F%2Fwww.enel.com.co%2Fes%2Fpago-medios-electronicos.html" class="share-links_link share-links_twitter" target="_blank">Twitter</a></li>
+  
+  <li class="share-links_list-item"><a href="mailto:?Subject=From https://www.enel.com.co/es&amp;Body=Page:https://www.enel.com.co/es/pago-medios-electronicos.html" class="share-links_link share-links_email">Email</a></li>
+  <li class="share-links_list-item"><a href="#" class="share-links_link share-links_print">Print</a></li>
+</ul>
+
+</div>
+			</div>
+			<div class="rich-text_inner">
+				<section class="anchor">
+	
+ 		
+  			
+  			
+ 		
+	
+</section>
+			</div> 
+		</div>
+		
+		<div class="component">
+
+
+
+
+    
+    
+    <div class="hero-footer parbase">
+
+
+
+
+
+     
+     
+<section data-anchor="electronicos" class="anchor module footer-hero-cta" style="background: url()no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; background-color:#0555fa;" data-bannerdtm="hero-footer">
+    <div class="container footer-hero-container">
+        <h2 class="footer-hero-cta__title">¿Cómo realizar el pago de tu factura de energía Enel?</h2>
+        <p>Paga tu factura de energía, rápido y seguro, desde donde estés. Aquí encuentras todos nuestros medios de pago electrónicos en un solo lugar, para que elijas el que mejor se adapte a ti. Sin filas, sin complicaciones, solo energía bien administrada. Además, podrás consultar donde pagar las facturas que se encuentren vencidas.</p>
+        <div class="container-footer-hero-button" id="container-footer-hero-button-id">
+            <div class="btn-mgm">
+                    
+
+                    
+
+            </div>
+        </div>
+        
+    </div>
+</section>
+
+
+
+
+</div>
+
+
+    
+    
+    <div class="text parbase"><section class="anchor">
+	<div class="component rich-text container reductwidth">
+ 		<div class="rich-text_inner nosquares">
+  			
+<h2 style="text-align: center;">Medios electrónicos</h2>
+<p style="text-align: center;">Son sistemas de pago seguros, rápidos y eficientes, basados en plataformas digitales como páginas web, botones de pago y apps. Es indispensable contar con conexión a Internet y no se necesitan comprobantes físicos ni desplazamientos ya que se realizan a través del computador o el celular.</p>
+
+
+  			
+ 		</div>
+	</div>
+</section></div>
+
+
+    
+    
+    <div class="group parbase bg-gray">
+<section id="carousel-home-module" data-name="group_copy" data-module="hub" class="module-layout                              home-group                    bg-gray strip_pink            module--initialized">
+    <div data-anchor="electronico" class="hub_group anchor">
+        
+            <div class="related-content__cards" id="related-content-wrapper_related">
+        
+        
+        
+            <div class="hub_header ">
+        
+        <div class="hub_header_inner" data-bannerdtm="hub group">
+            <h2 class="text--page-subheading latam-h2 hub-group-title-no-bold"></h2>
+            
+            
+            
+        </div>
+    </div>
+
+
+
+
+    <div class="hub_inner hubgroup-items-section module-simple-boxes module-layout">
+        
+
+
+
+
+    
+    
+    <div class="module-content parbase">
+
+    
+
+    
+        
+    
+
+
+    
+
+    
+        
+
+        
+            
+            
+                
+                    <a href="https://www.enel.com.co/es/personas/boton-de-pago.html" alt="" class="tile tile--small bg " data-bannerdtm="module">
+                
+                
+            
+        
+    
+
+    
+
+    <div class="tile_inner ">
+        <div class="tile_image-wrapper" style="background-image:url('/content/dam/enel-co/español/medios-de-pago/logo-bancolombia-tam-actual-botones.png')">
+        </div>
+
+        <div class="tile_content-wrapper">
+            
+                <span class="tile_topic"></span>
+            
+
+            
+
+            
+            <h3 class="tile_header text--tile-heading single-module-heading" style="display:inline-block;width:310px">Botón de pagos | PSE
+                
+            </h3>
+            <p class="tile_description text--tile-description">Paga tu factura por el botón de pago PSE o Bancolombia.</p>
+        </div>
+    </div>
+    </a>
+
+    
+
+    
+
+
+
+
+</div>
+
+
+    
+    
+    <div class="module-content parbase">
+
+    
+
+    
+        
+    
+
+
+    
+
+    
+        
+
+        
+            
+            
+                
+                
+                    <a class="tile tile--small bg" data-bannerdtm="module2" href="https://www.enel.com.co/es/personas/app.html">
+                
+            
+        
+    
+
+    
+
+    <div class="tile_inner ">
+        <div class="tile_image-wrapper" style="background-image:url('/content/dam/enel-co/español/medios-de-pago/MP%20APP.jpg')">
+        </div>
+
+        <div class="tile_content-wrapper">
+            
+                <span class="tile_topic"></span>
+            
+
+            
+
+            
+            <h3 class="tile_header text--tile-heading single-module-heading" style="display:inline-block;width:310px">App Enel Colombia
+                
+            </h3>
+            <p class="tile_description text--tile-description">Descarga nuestra App y soluciona tu vida.</p>
+        </div>
+    </div>
+    </a>
+
+    
+
+    
+
+
+
+
+</div>
+
+
+    
+    
+    <div class="module-content parbase">
+
+    
+
+    
+        
+    
+
+
+    
+
+    
+        
+
+        
+            
+            
+                
+                
+                    <a class="tile tile--small bg" data-bannerdtm="module3">
+                
+            
+        
+    
+
+    
+
+    <div class="tile_inner ">
+        <div class="tile_image-wrapper" style="background-image:url('/content/dam/enel-co/español/medios-de-pago/banner-debito-automatico-mod.png')">
+        </div>
+
+        <div class="tile_content-wrapper">
+            
+
+            
+                <div class="tile_issue text--tile-issue">
+                    <span>*Permite débito con Tarjeta de Crédito</span>
+                    <span></span>
+                </div>
+            
+
+            
+            <h3 class="tile_header text--tile-heading single-module-heading" style="display:inline-block;width:310px">Débito automático
+                
+            </h3>
+            <p class="tile_description text--tile-description">Habilita el débito de tu banco y programa tu pago mensual.</p>
+        </div>
+    </div>
+    </a>
+
+    
+
+    
+
+
+
+
+</div>
+
+
+    
+    
+    <div class="module-content parbase">
+
+    
+
+    
+        
+    
+
+
+    
+
+    
+        
+
+        
+            
+            
+                
+                
+                    <a class="tile tile--small bg" data-bannerdtm="module4">
+                
+            
+        
+    
+
+    
+
+    <div class="tile_inner ">
+        <div class="tile_image-wrapper" style="background-image:url('/content/dam/enel-co/español/medios-de-pago/banner-pagobancos-mod.png')">
+        </div>
+
+        <div class="tile_content-wrapper">
+            
+
+            
+                <div class="tile_issue text--tile-issue">
+                    <span>*Recibe facturas vencidas</span>
+                    <span></span>
+                </div>
+            
+
+            
+            <h3 class="tile_header text--tile-heading single-module-heading" style="display:inline-block;width:310px">Página web bancos
+                
+            </h3>
+            <p class="tile_description text--tile-description">Ingresa a la web de tu banco y paga.</p>
+        </div>
+    </div>
+    </a>
+
+    
+
+    
+
+
+
+
+</div>
+
+
+    
+    
+    <div class="module-content parbase">
+
+    
+
+    
+        
+    
+
+
+    
+
+    
+        
+
+        
+            
+            
+                
+                
+                    <a class="tile tile--small bg" data-bannerdtm="module5">
+                
+            
+        
+    
+
+    
+
+    <div class="tile_inner ">
+        <div class="tile_image-wrapper" style="background-image:url('/content/dam/enel-co/español/medios-de-pago/billetera-movil-actualizado.png')">
+        </div>
+
+        <div class="tile_content-wrapper">
+            
+
+            
+                <div class="tile_issue text--tile-issue">
+                    <span>*Recibe facturas vencidas</span>
+                    <span></span>
+                </div>
+            
+
+            
+            <h3 class="tile_header text--tile-heading single-module-heading" style="display:inline-block;width:310px">Billetera móvil
+                
+            </h3>
+            <p class="tile_description text--tile-description">Paga cómodamente desde tu celular y sin tener cuenta bancaria.</p>
+        </div>
+    </div>
+    </a>
+
+    
+
+    
+
+
+
+
+</div>
+
+
+    
+    
+    <div class="module-content parbase">
+
+    
+
+    
+        
+    
+
+
+    
+
+    
+        
+
+        
+            
+            
+                
+                
+                    <a class="tile tile--small bg" data-bannerdtm="module6">
+                
+            
+        
+    
+
+    
+
+    <div class="tile_inner ">
+        <div class="tile_image-wrapper" style="background-image:url('/content/dam/enel-co/español/medios-de-pago/app-bancos.png')">
+        </div>
+
+        <div class="tile_content-wrapper">
+            
+                <span class="tile_topic"></span>
+            
+
+            
+
+            
+            <h3 class="tile_header text--tile-heading single-module-heading" style="display:inline-block;width:310px">App bancos
+                
+            </h3>
+            <p class="tile_description text--tile-description">Descarga la App de tu banco y paga.</p>
+        </div>
+    </div>
+    </a>
+
+    
+
+    
+
+
+
+
+</div>
+
+
+    
+    
+    <div class="module-content parbase">
+
+    
+
+    
+        
+    
+
+
+    
+
+    
+        
+
+        
+            
+            
+                
+                
+                    <a class="tile tile--small bg" data-bannerdtm="module7">
+                
+            
+        
+    
+
+    
+
+    <div class="tile_inner ">
+        <div class="tile_image-wrapper" style="background-image:url('/content/dam/enel-co/español/medios-de-pago/telefonos-bancos.png')">
+        </div>
+
+        <div class="tile_content-wrapper">
+            
+                <span class="tile_topic"></span>
+            
+
+            
+
+            
+            <h3 class="tile_header text--tile-heading single-module-heading" style="display:inline-block;width:310px">Teléfono bancos
+                
+            </h3>
+            <p class="tile_description text--tile-description">Comunícate con tu banco y paga.</p>
+        </div>
+    </div>
+    </a>
+
+    
+
+    
+
+
+
+
+</div>
+
+
+    
+    
+    <div class="module-content parbase">
+
+    
+
+    
+        
+    
+
+
+    
+
+    
+        
+
+        
+            
+            
+                
+                
+                    <a class="tile tile--small bg" data-bannerdtm="module8">
+                
+            
+        
+    
+
+    
+
+    <div class="tile_inner ">
+        <div class="tile_image-wrapper" style="background-image:url('/content/dam/enel-co/español/medios-de-pago/banner-pago-mod.png')">
+        </div>
+
+        <div class="tile_content-wrapper">
+            
+
+            
+                <div class="tile_issue text--tile-issue">
+                    <span>*Recibe facturas vencidas</span>
+                    <span></span>
+                </div>
+            
+
+            
+            <h3 class="tile_header text--tile-heading single-module-heading" style="display:inline-block;width:310px">Cajero electrónico
+                
+            </h3>
+            <p class="tile_description text--tile-description">Retira efectivo y paga.</p>
+        </div>
+    </div>
+    </a>
+
+    
+
+    
+
+
+
+
+</div>
+
+
+
+        
+        
+        
+
+    </div>
+    
+        </div>
+    
+    </div>
+    
+    <!-- Mobile version -->
+    <div class="hub_inner_mobile module-layout-mobile "><div class="swiper-container swiper-container-horizontal"><div class="swiper-wrapper" style="transition-duration: 0ms;"><div class="swiper-slide swiper-slide-active"><div class="module-content parbase">
+
+    
+
+    
+        
+    
+
+
+    
+
+    
+        
+
+        
+            
+            
+                
+                    <a href="https://www.enel.com.co/es/personas/boton-de-pago.html" alt="" class="tile tile--small bg " data-bannerdtm="module">
+                
+                
+            
+        
+    
+
+    
+
+    <div class="tile_inner ">
+        <div class="tile_image-wrapper" style="background-image:url('/content/dam/enel-co/español/medios-de-pago/logo-bancolombia-tam-actual-botones.png')">
+        </div>
+
+        <div class="tile_content-wrapper">
+            
+                <span class="tile_topic"></span>
+            
+
+            
+
+            
+            <h3 class="tile_header text--tile-heading single-module-heading" style="display:inline-block;width:310px">Botón de pagos | PSE
+                
+            </h3>
+            <p class="tile_description text--tile-description">Paga tu factura por el botón de pago PSE o Bancolombia.</p>
+        </div>
+    </div>
+    </a>
+
+    
+
+    
+
+
+
+
+</div></div><div class="swiper-slide swiper-slide-next"><div class="module-content parbase">
+
+    
+
+    
+        
+    
+
+
+    
+
+    
+        
+
+        
+            
+            
+                
+                
+                    <a class="tile tile--small bg" data-bannerdtm="module2" href="https://www.enel.com.co/es/personas/app.html">
+                
+            
+        
+    
+
+    
+
+    <div class="tile_inner ">
+        <div class="tile_image-wrapper" style="background-image:url('/content/dam/enel-co/español/medios-de-pago/MP%20APP.jpg')">
+        </div>
+
+        <div class="tile_content-wrapper">
+            
+                <span class="tile_topic"></span>
+            
+
+            
+
+            
+            <h3 class="tile_header text--tile-heading single-module-heading" style="display:inline-block;width:310px">App Enel Colombia
+                
+            </h3>
+            <p class="tile_description text--tile-description">Descarga nuestra App y soluciona tu vida.</p>
+        </div>
+    </div>
+    </a>
+
+    
+
+    
+
+
+
+
+</div></div><div class="swiper-slide"><div class="module-content parbase">
+
+    
+
+    
+        
+    
+
+
+    
+
+    
+        
+
+        
+            
+            
+                
+                
+                    <a class="tile tile--small bg" data-bannerdtm="module3">
+                
+            
+        
+    
+
+    
+
+    <div class="tile_inner ">
+        <div class="tile_image-wrapper" style="background-image:url('/content/dam/enel-co/español/medios-de-pago/banner-debito-automatico-mod.png')">
+        </div>
+
+        <div class="tile_content-wrapper">
+            
+
+            
+                <div class="tile_issue text--tile-issue">
+                    <span>*Permite débito con Tarjeta de Crédito</span>
+                    <span></span>
+                </div>
+            
+
+            
+            <h3 class="tile_header text--tile-heading single-module-heading" style="display:inline-block;width:310px">Débito automático
+                
+            </h3>
+            <p class="tile_description text--tile-description">Habilita el débito de tu banco y programa tu pago mensual.</p>
+        </div>
+    </div>
+    </a>
+
+    
+
+    
+
+
+
+
+</div></div><div class="swiper-slide"><div class="module-content parbase">
+
+    
+
+    
+        
+    
+
+
+    
+
+    
+        
+
+        
+            
+            
+                
+                
+                    <a class="tile tile--small bg" data-bannerdtm="module4">
+                
+            
+        
+    
+
+    
+
+    <div class="tile_inner ">
+        <div class="tile_image-wrapper" style="background-image:url('/content/dam/enel-co/español/medios-de-pago/banner-pagobancos-mod.png')">
+        </div>
+
+        <div class="tile_content-wrapper">
+            
+
+            
+                <div class="tile_issue text--tile-issue">
+                    <span>*Recibe facturas vencidas</span>
+                    <span></span>
+                </div>
+            
+
+            
+            <h3 class="tile_header text--tile-heading single-module-heading" style="display:inline-block;width:310px">Página web bancos
+                
+            </h3>
+            <p class="tile_description text--tile-description">Ingresa a la web de tu banco y paga.</p>
+        </div>
+    </div>
+    </a>
+
+    
+
+    
+
+
+
+
+</div></div><div class="swiper-slide"><div class="module-content parbase">
+
+    
+
+    
+        
+    
+
+
+    
+
+    
+        
+
+        
+            
+            
+                
+                
+                    <a class="tile tile--small bg" data-bannerdtm="module5">
+                
+            
+        
+    
+
+    
+
+    <div class="tile_inner ">
+        <div class="tile_image-wrapper" style="background-image:url('/content/dam/enel-co/español/medios-de-pago/billetera-movil-actualizado.png')">
+        </div>
+
+        <div class="tile_content-wrapper">
+            
+
+            
+                <div class="tile_issue text--tile-issue">
+                    <span>*Recibe facturas vencidas</span>
+                    <span></span>
+                </div>
+            
+
+            
+            <h3 class="tile_header text--tile-heading single-module-heading" style="display:inline-block;width:310px">Billetera móvil
+                
+            </h3>
+            <p class="tile_description text--tile-description">Paga cómodamente desde tu celular y sin tener cuenta bancaria.</p>
+        </div>
+    </div>
+    </a>
+
+    
+
+    
+
+
+
+
+</div></div><div class="swiper-slide"><div class="module-content parbase">
+
+    
+
+    
+        
+    
+
+
+    
+
+    
+        
+
+        
+            
+            
+                
+                
+                    <a class="tile tile--small bg" data-bannerdtm="module6">
+                
+            
+        
+    
+
+    
+
+    <div class="tile_inner ">
+        <div class="tile_image-wrapper" style="background-image:url('/content/dam/enel-co/español/medios-de-pago/app-bancos.png')">
+        </div>
+
+        <div class="tile_content-wrapper">
+            
+                <span class="tile_topic"></span>
+            
+
+            
+
+            
+            <h3 class="tile_header text--tile-heading single-module-heading" style="display:inline-block;width:310px">App bancos
+                
+            </h3>
+            <p class="tile_description text--tile-description">Descarga la App de tu banco y paga.</p>
+        </div>
+    </div>
+    </a>
+
+    
+
+    
+
+
+
+
+</div></div><div class="swiper-slide"><div class="module-content parbase">
+
+    
+
+    
+        
+    
+
+
+    
+
+    
+        
+
+        
+            
+            
+                
+                
+                    <a class="tile tile--small bg" data-bannerdtm="module7">
+                
+            
+        
+    
+
+    
+
+    <div class="tile_inner ">
+        <div class="tile_image-wrapper" style="background-image:url('/content/dam/enel-co/español/medios-de-pago/telefonos-bancos.png')">
+        </div>
+
+        <div class="tile_content-wrapper">
+            
+                <span class="tile_topic"></span>
+            
+
+            
+
+            
+            <h3 class="tile_header text--tile-heading single-module-heading" style="display:inline-block;width:310px">Teléfono bancos
+                
+            </h3>
+            <p class="tile_description text--tile-description">Comunícate con tu banco y paga.</p>
+        </div>
+    </div>
+    </a>
+
+    
+
+    
+
+
+
+
+</div></div><div class="swiper-slide"><div class="module-content parbase">
+
+    
+
+    
+        
+    
+
+
+    
+
+    
+        
+
+        
+            
+            
+                
+                
+                    <a class="tile tile--small bg" data-bannerdtm="module8">
+                
+            
+        
+    
+
+    
+
+    <div class="tile_inner ">
+        <div class="tile_image-wrapper" style="background-image:url('/content/dam/enel-co/español/medios-de-pago/banner-pago-mod.png')">
+        </div>
+
+        <div class="tile_content-wrapper">
+            
+
+            
+                <div class="tile_issue text--tile-issue">
+                    <span>*Recibe facturas vencidas</span>
+                    <span></span>
+                </div>
+            
+
+            
+            <h3 class="tile_header text--tile-heading single-module-heading" style="display:inline-block;width:310px">Cajero electrónico
+                
+            </h3>
+            <p class="tile_description text--tile-description">Retira efectivo y paga.</p>
+        </div>
+    </div>
+    </a>
+
+    
+
+    
+
+
+
+
+</div></div></div><div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"></div></div></div>
+	
+	    
+    
+
+
+</section>
+
+<div style="clear:both"></div>
+<script>
+$(document).ready(function () {
+    $(".group").each(function() {
+    	if ($(this).find("section.bg-lightgray").length > 0) {
+    		$(this).addClass("bg-lightgray");
+    	} else if ($(this).find("section.bg-transparent").length > 0) {
+    		$(this).addClass("bg-transparent");
+    	} else if ($(this).find("section.bg-gray").length > 0) {
+    		$(this).addClass("bg-gray");
+    	} else if ($(this).find("section.bg-white").length > 0) {
+    		$(this).addClass("bg-white");
+    	} else if ($(this).find(".hub")) {
+	        var bgColor = $(this).find(".hub").css("background-color");
+	        if (typeof bgColor != 'undefined') {
+	        	$(this).css("background-color", bgColor);
+	        }
+	        console.log("hub group background-color: " + bgColor)
+   		}
+    });
+});
+</script>
+<script type="application/javascript">
+    $(document).ready(function () {
+        var flagMiniCard = false;
+        var flagRelated = false;
+        var root = $('section[data-name="group_copy"]');
+        var $module =  $('section[data-name="group_copy"] .hub_inner');
+        
+        function fixDesignInPublishMode() {
+            $(root).find(".mini-card.parbase").each(function () {
+                var html = $(this).html();
+                $(this).parent().append(html);
+                $(this).remove();
+                flagMiniCard = true;
+            });
+            $(root).find(".link-content.parbase").each(function () {
+                   flagRelated = true;
+            });
+
+                   if (flagMiniCard) {
+                $(root).parent().css("text-align", "center");
+                $(root).removeClass();
+                $(root).addClass("wrapper-section preventi version2 future hub related-content module module--initialized customer-wrapper related-content_inner home-group group enel-futuro home-wrapper");
+                // $(root).first().addClass("related-content_inner");
+            } else if (flagRelated) {
+                // $(root).children(".hub_group.anchor").removeClass("hub_group anchor").addClass("related-content_inner");
+                $(root).removeClass();
+                $(root).addClass("hub module bg\u002Dgray products clearfix home-group per-la-tua-impresa group-wrapper");
+                $(root).find(".group-slider-in-desktop").addClass("group-slider-centered");
+            }
+        }
+        fixDesignInPublishMode();
+
+    });
+</script>
+
+
+</div>
+
+
+    
+    
+    <div class="text parbase"><section class="anchor">
+	<div class="component rich-text container ">
+ 		<div class="rich-text_inner nosquares">
+  			
+  			
+ 		</div>
+	</div>
+</section></div>
+
+
+</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+  
+  
+    
+    
+    
+    
+
+  
+
+
+
+</main>
+<style>
+    @media screen and (min-width: 1024px) {
+        body main#main {
+            background-position: 100%;
+            background-attachment: fixed;
+            background-size: cover;
+            width: 100%;
+            background-repeat: no-repeat;
+        }
+    }
+    @media screen and (max-width: 1023px) {
+        body main#main {
+            background-position: 100% 0%;
+            background-attachment: fixed;
+            background-size: auto;
+            width: 100%;
+            background-repeat: no-repeat;
+        }
+    }
+</style>
+<!-- START MODULE: LOCALISATION COMMON-->
+
+
+
+<!-- END MODULE: LOCALISATION-->
+<!-- START MODULE: TOP HEADER COMMON-->
+
+<!-- END MODULE: TOP HEADER-->
+<footer data-module="footer" class="footer module">
+    
+<div class="footer-container">
+  <div class="footer-content">
+    <div class="footer-section footer-legal" data-bannerdtm="footer">
+      <ul class="footer-copyright">
+        
+          <li class="footer-legal-item footer-legal-text">© Enel Colombia S.A. ESP 2026</li>
+        
+        
+        
+          <li class="footer-legal-item footer-legal-text">Todos los derechos reservados</li>
+        
+        
+      </ul>
+      <ul class="footer-legal-links">
+        <li class="footer-legal-item">
+          <a href="https://www.enel.com.co/es/aviso-privacidad.html" target="_blank">Legal</a>
+        </li>
+      
+        <li class="footer-legal-item">
+          <a href="https://www.enel.com.co/es/politica-de-cookies/politica-de-cookies.html" target="_blank">Política de Cookies</a>
+        </li>
+      
+        <li class="footer-legal-item">
+          <a href="https://www.enel.com.co/es/politica-de-tratamiento-de-datos.html" target="_blank">Política privacidad de datos</a>
+        </li>
+      
+        <li class="footer-legal-item">
+          <a href="https://www.enel.com.co/es/mapa-sitio.html" target="_blank">Mapa del sitio</a>
+        </li>
+      <li class="footer-legal-item"><div id="teconsent" consent="0,1,2" aria-label="Open Cookie Preferences Modal" class="truste_caIcon_display" role="complementary"><script src="https://consent.trustarc.com/asset/notice.js/v/1192e72" async="async" crossorigin="" importance="high"></script><a id="icon-id010615169059067031" tabindex="0" role="link" lang="es" aria-haspopup="dialog" aria-label="Cookie Preferences, opens a dedicated popup modal window" class="truste_cursor_pointer" style="cursor: pointer;">Preferencias sobre cookies</a></div></li></ul>
+    </div>
+	<div class="footer-section footer-social">
+      <p></p>
+      <ul>
+        
+        
+        
+        
+        
+        
+        
+      	
+      </ul>
+    </div>
+  </div>
+</div>
+<style>
+  *,
+  :after,
+  :before {
+      box-sizing: inherit;
+      font-family:var(--RobertEnel),icomoon4, icomoon3, icomoon2, icomoon;
+  }
+  .svg-icon-x {
+    background-image: url("/etc/designs/enel-latam-com/clientlibs/main/css/image/icons/x.svg");
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  @font-face {
+    font-family: 'icomoon4';
+    src:  url('/etc/designs/enel-latam-com/clientlibs/main/css/fonts/icomoon4.eot?pwja14');
+    src:  url('/etc/designs/enel-latam-com/clientlibs/main/css/fonts/icomoon4.eot?pwja14#iefix') format('embedded-opentype'),
+      url('/etc/designs/enel-latam-com/clientlibs/main/css/fonts/icomoon4.ttf?pwja14') format('truetype'),
+      url('/etc/designs/enel-latam-com/clientlibs/main/css/fonts/icomoon4.woff?pwja14') format('woff'),
+      url('/etc/designs/enel-latam-com/clientlibs/main/css/fonts/icomoon4.svg?pwja14#icomoon4') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+
+  [class^="xtwitter-icon"], [class*=" xtwitter-icon"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon4' !important;
+  /*  speak: never; */
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* .xtwitter-icon-twitter {
+    top: -1px;
+  } */
+
+  .xtwitter-icon-twitter:before {
+    content: "\e900";
+  }
+
+  .footer-social a.xtwitter-icon-twitter::before{
+  /*  font-size: 18px !important; */
+    margin-top: 3px;
+  }
+
+  .footer-social a::before{
+    position: absolute;
+  }
+</style>
+
+
+
+<!-- Pop-up login -->
+
+<script type="text/javascript">
+$(document).ready(function(){
+ if($('#centralLink').length > 0){
+   $('#centralLink').attr("href", $('#centralLink').data("link-center"));
+   $('#sxLink').attr("href", $('#sxLink').data("link-left"));
+   $('#dxLink').attr("href", $('#dxLink').data("link-right"));
+ }
+});
+</script>
+<script>
+function goPrivateArea() {
+	 if(window.location.href.indexOf("enel.cl") != -1
+	     || window.location.href.indexOf("enel.pe") != -1
+	     || window.location.href.indexOf("enel.co") != -1 ){
+		 if(window.location.href.indexOf("www.enel.cl") > -1){
+		 	window.location.href = 'https://accounts.enel.com/samlsso?spEntityID=ENEL_WEB_CIL';
+		 }else if(window.location.href.indexOf("www-hfx65.enel.cl") > -1){
+		 	window.location.href = 'https://accounts-coll.enel.com:9443/samlsso?spEntityID=ENEL_WEB_CIL_PRE';
+		 }else if(window.location.href.indexOf("qa65.enel.cl") > -1){
+		 	window.location.href = 'https://accounts-coll.enel.com:9443/samlsso?spEntityID=ENEL_WEB_CIL';
+		 }else {
+	   		window.location.href = $(".redirectUrlLoginBtn")[0].dataset.sessiondatakeyurl;
+	     }
+		 }else{
+	           var currentUrl = (window.location.pathname);
+	           commonLatamAjaxCall(currentUrl, null, "checkAuthentication", "POST", function(result){
+	               if(typeof result != 'undefined' && typeof result != 'undefined' && result == true){
+	                   if ($(".redirectUrlLogin")[0].dataset.redirecturl != undefined && $(".redirectUrlLogin")[0].dataset.redirecturl != "") {
+	                           window.location.replace($(".redirectUrlLogin")[0].dataset.redirecturl);
+	                       }
+	               } else {
+	                   $.fancybox.open( $('#login-wrapper'));
+	               }
+	           });
+	     }
+	}
+</script>
+
+
+</footer>
+
+
+
+
+
+
+
+ 
+
+ 
+
+     
+    
+<script src="/etc/designs/enel-latam-com/clientlibs/main.min.js"></script>
+
+
+
+
+
+
+<!--sly data-sly-use.clientLib="/libs/granite/sightly/templates/clientlib.html"
+     data-sly-call=""></sly-->
+
+    
+<script src="/etc/designs/enel-latam-com/clientlibs/owlCarousel.min.js"></script>
+
+
+
+
+    
+<script src="/etc/designs/enel-latam-com/clientlibs/twitter-hub.min.js"></script>
+
+
+
+
+    
+<script src="/etc/designs/enel-latam-com/clientlibs/darksite.min.js"></script>
+
+
+
+
+    
+<script src="/etc/designs/enel-co/clientlib-site.min.js"></script>
+
+
+
+
+
+
+<script>
+    //Checkbox TyC
+    const showLinkedModal = (element) =>{ element.firstElementChild.click();}
+
+    //TRIM password and username in login and password recover
+    const trimEndSpaces = ()=>{
+        const idList = ["#confirmar-contrasena", "#contrasena", "#username", "#privatepwd", "#pwdCompany", "#usernameEmpresa"];
+        idList.forEach(id =>{
+            let element = document.querySelector(id);
+            if(element){
+                element.value = element.value.trimEnd();
+                //console.log("trim value: "+element.value);
+            }
+        });
+    };
+
+    //cards-general-co slide to function:
+    function slideTo(element){
+        //document.querySelectorAll(".carousel-indicators li").forEach(e => e.classList.remove("active"));
+        let data = element.dataset;
+        //element.classList.add("active");
+        document.querySelector(data.target+data.slideTo).scrollIntoView({block:"nearest", behavior:"smooth"});
+        console.log(data.target + data.slideTo);
+    }
+    
+    let currentTabScroll = 0;
+
+    const arrowScrollLeft = ()=>{
+        let tabs = document.querySelectorAll(".tabs__label-wrapper .tabs__label");
+        currentTabScroll-=2;
+        if(currentTabScroll<1)  currentTabScroll = 0;
+        if(currentTabScroll >= tabs.length-3) currentTabScroll--;
+        tabs[currentTabScroll].scrollIntoView({block:"nearest", behavior:"smooth"});
+    }
+
+    const arrowScrollRight = ()=>{
+        let tabs = document.querySelectorAll(".tabs__label-wrapper .tabs__label");
+        currentTabScroll+=2;
+        if(currentTabScroll>=tabs.length) currentTabScroll=tabs.length-1;
+        if(currentTabScroll<3) currentTabScroll++;
+        tabs[currentTabScroll].scrollIntoView({block:"nearest", behavior:"smooth"});
+    }
+
+    const autoLinkTarget = ()=>{
+        document.querySelectorAll(".div-link a").forEach(lnk=>{
+            if(lnk.className.includes("link-co-external")) lnk.target = "_blank";
+            else lnk.target = "_self";
+        });
+    }
+    autoLinkTarget();
+
+    function setTabActive(element){
+        document.querySelectorAll(".tabs__label").forEach(e=>{
+            let elementClass = e.className.replace("tab_active", "");
+            e.setAttribute("class", elementClass);
+        });
+        element.setAttribute("class", "tabs__label tab_active");
+    }
+
+    function changeTab(tabNumber){
+        document.getElementById("tab-container-1").style.display="none";
+        document.getElementById("tab-container-2").style.display="none";
+        document.getElementById("tab-container-3").style.display="none";
+        document.getElementById("tab-container-4").style.display="none";
+        document.getElementById("tab-container-5").style.display="none";
+        document.getElementById("tab-container-6").style.display="none";
+        document.getElementById("tab-container-7").style.display="none";
+        document.getElementById("tab-container-8").style.display="none";
+        document.getElementById("tab-container-9").style.display="none";
+        document.getElementById("tab-container-10").style.display="none";
+        
+        var id = "tab-container-" + tabNumber;
+        
+        document.getElementById(id).style.display="block";
+        
+    }
+
+    function removeWhiteSpaceMobileCard(){
+        let cardImgDiv = document.querySelectorAll(".tile_image-wrapper");
+        if(window.matchMedia("(max-width: 767px)").matches){
+            cardImgDiv.forEach(div =>{
+                if(div.style.backgroundImage == 'url("")'){
+                    div.style.display = "none";
+                    div.parentElement.style.height="auto";
+                    div.parentElement.style.padding = "0px";
+                }
+            });
+        } else {
+            cardImgDiv.forEach(div =>{
+                if(div.style.backgroundImage == 'url("")'){
+                    div.style.display = "inherit";
+                    div.parentElement.style = "";
+                }
+            });
+        }
+    }
+
+    removeWhiteSpaceMobileCard();
+    window.addEventListener("resize", removeWhiteSpaceMobileCard);
+
+    //TOGGLE SHOW PASSWORD
+    const toggleShowPassword = (element) => {
+        
+        const password = element.previousElementSibling;
+        const eyeClosed = element.firstElementChild;
+        const eyeOpen = element.lastElementChild; 
+
+        if (password.type === "password") {
+            eyeClosed.style.display = "inherit";
+            eyeOpen.style.display = "none";
+            password.type='text';
+        } else {
+            eyeClosed.style.display = "none";
+            eyeOpen.style.display = "inherit";
+            password.type = "password";
+        }
+    }
+
+    //SHOW ERROR ON WHITESPACE
+    const addErrorOnWhitespace = (element)=>{
+        if(element.value.includes(" ")) addError(element, "La contraseña no debe contener espacios en blanco");
+        else removeError(element);
+    }
+    //TRIM
+    const trimValue = (element) =>{
+	    element.value=element.value.trim();
+    }
+</script>
+
+
+ 
+<script>            
+  var touchsupport = ('ontouchstart' in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0)
+  if (!touchsupport) { // browser doesn't support touch
+      document.documentElement.className += "no-touch";
+  }
+</script>
+<script>
+if ($(".dotcom-header__btn")[0] != undefined) {
+	var main = $("#main")[0];
+	main.setAttribute("data-starting-point", "main");
+	
+	$('[data-module="global-megamenu"]').attr('data-starting-point', 'main');
+	$('[data-module="footer"]').attr('data-starting-point', 'main');
+}
+</script>
+
+<script type="text/javascript">
+if (window._satellite) {
+	window._satellite.pageBottom();
+}
+ </script>
+<div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="><div class="lb-nav"><a class="lb-prev" href=""></a><a class="lb-next" href=""></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div><script>
+document .body.addEventListener( "click" , function (event) {
+if (event && event.target && event.target.id === 'truste-consent-button' ) {
+  setTimeout(function(){window.location.reload(); }, 1000 );
+}
+});
+</script><style type="text/css">
+#consent_blackbar{
+position: fixed;
+bottom: 0px
+}
+</style>
+<div id="consent_blackbar"></div>
+ 
+<script async="async" src="//consent.trustarc.com/notice?domain=colombia-enel.com&amp;c=teconsent&amp;js=nj&amp;noticeType=bb&amp;gtm=1&amp;text=true&amp;language=es&amp;cookieLink=https://www.enel.com.co/es/politica-de-cookies/politica-de-cookies.html&amp;privacypolicylink=https://www.enel.com.co/es/politica-de-tratamiento-de-datos.html" crossorigin="" id="truste_0.5914570041041604"></script><script>
+	var _STATE = {};
+	function runOnce () {
+		if (!_STATE.hasRunOnce && window .truste && truste.eu && truste.eu.prefclose) {
+			console .log( "doing run once" );
+			_STATE.oldValue = truste.eu.bindMap.prefCookie &&
+			truste.eu.bindMap.prefCookie.split( ':' )[ 0 ].replace( /[^\d.]/g , '-' );
+			_STATE.oldMethod = truste.eu.prefclose;
+			truste.eu.prefclose = function () {
+				_STATE.oldMethod();
+				if (truste.eu.bindMap.prefCookie && truste.eu.bindMap.prefCookie.split( ':' )[ 0 ].replace( /[^\d.]/g , '-' ) !== _STATE.oldValue) setTimeout( function () { window .location.reload(); }, 20 );
+			};
+			_STATE.hasRunOnce = true ;
+			_STATE.i && clearInterval(_STATE.i);
+		}
+	}
+	_STATE.i = setInterval(runOnce, 10 );
+</script><script id="liveagent-esw-script" type="text/javascript" src="https://service.force.com/embeddedservice/5.0/client/liveagent.esw.min.js"></script><form id="fileUploadForm" enctype="multipart/form-data" method="post" target="fileUploadIframe"><input type="file" id="fileSelector" name="file" style="display: none;"><input name="filename" type="hidden"></form><iframe id="fileUploadIframe" name="fileUploadIframe" title="FileUploadFrame" style="display: none;"></iframe><iframe id="esw_storage_iframe" src="https://service.force.com/embeddedservice/5.0/esw.html?parent=https://www.enel.com.co/es/pago-medios-electronicos.html" title="Live Chat Metadata" style="display: none;"></iframe><script type="text/javascript" src="https://d.la3-c2-fra.salesforceliveagent.com/chat/rest/EmbeddedService/EmbeddedServiceConfig.jsonp?Settings.prefix=EmbeddedService&amp;org_id=00D36000001Gau6&amp;EmbeddedServiceConfig.configName=WebChat_Team_Colombia&amp;callback=embedded_svc.liveAgentAPI.handleChatSettings&amp;version=48&amp;EmbeddedServiceConfig.language=es_CO"></script><script id="invite-esw-script" type="text/javascript" src="https://service.force.com/embeddedservice/5.0/client/invite.esw.min.js"></script><div class="embeddedServiceHelpButton"><div class="helpButton"><button class="helpButtonEnabled uiButton" href="javascript:void(0)"><span class="embeddedServiceIcon" aria-hidden="true" data-icon="" style="display: inline-block;"></span><span class="helpButtonLabel" id="helpButtonSpan" aria-live="polite" aria-atomic="true"><span class="assistiveText">Live chat:</span><span class="message"><img src="https://www.enel.com.co/content/dam/enel-co/español/iconos-hub/Chat_32x32.png" style="width: 30px; height: 30px;"></span></span></button></div></div><script id="inert-script" type="text/javascript" src="https://service.force.com/embeddedservice/5.0/utils/inert.min.js"></script><script type="text/javascript" src="https://d.la11-core1.sfdc-yzvdd4.salesforceliveagent.com/chat/rest/EmbeddedService/EmbeddedServiceConfig.jsonp?Settings.prefix=EmbeddedService&amp;org_id=00D36000001Gau6&amp;EmbeddedServiceConfig.configName=WebChat_Team_Colombia&amp;callback=embedded_svc.liveAgentAPI.handleChatSettings&amp;version=48&amp;EmbeddedServiceConfig.language=es_CO"></script></body></html>

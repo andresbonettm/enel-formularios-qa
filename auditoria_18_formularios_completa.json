@@ -1,0 +1,329 @@
+[
+  {
+    "url": "https://enelsud.info-enel.com/Copropiedades",
+    "title": "",
+    "hasFooter": false,
+    "hasSuperfinanciera": false,
+    "hasEnelColombiaSAESP": false,
+    "cbsCount": 0,
+    "cbs": []
+  },
+  {
+    "url": "https://enelsud.info-enel.com/SFacturaDigital",
+    "title": "Registro Factura Virtual | Enel Colombia",
+    "hasFooter": true,
+    "hasSuperfinanciera": false,
+    "hasEnelColombiaSAESP": false,
+    "cbsCount": 2,
+    "cbs": [
+      {
+        "id": "data_policy",
+        "name": "data_policy",
+        "label": "Conforme a la ley 1581 del 2012 y la pol\u00edtica de tratamiento de datos personales, con la suscripci\u00f3n a factura virtual usted autoriza que sus datos sean tratados por las empresas del Grupo Enel en Colombia para todos los fines relacionados con la gesti\u00f3n de su solicitud, sus productos activos, la prestaci\u00f3n del servicio p\u00fablico de energ\u00eda el\u00e9ctrica de acuerdo con el contrato de servicio p\u00fablico, y para la generaci\u00f3n, almacenamiento, comercializaci\u00f3n y distribuci\u00f3n de recursos energ\u00e9ticos. Recuerde que tiene derecho a conocer, actualizar, rectificar y cuando proceda, suprimir sus datos y revocar la autorizaci\u00f3n dada para su tratamiento, a trav\u00e9s de los canales indicados en la pol\u00edtica publicada en www.enel.com.co en la cual tambi\u00e9n encontrar\u00e1 la identificaci\u00f3n de las empresas que pertenecen al Grupo Enel en Colombia. La pol\u00edtica puede ser consultada aqu\u00ed."
+      },
+      {
+        "id": "condition_terms",
+        "name": "condition_terms",
+        "label": "Acepto los t\u00e9rminos y condiciones de Factura Virtual."
+      }
+    ]
+  },
+  {
+    "url": "https://enelsud.info-enel.com/RetiroEfacturaV",
+    "title": "Retiro Factura Virtual | Enel Colombia",
+    "hasFooter": true,
+    "hasSuperfinanciera": false,
+    "hasEnelColombiaSAESP": false,
+    "cbsCount": 0,
+    "cbs": []
+  },
+  {
+    "url": "https://cloud.customer.enelx.com/contacto-ciudades-2026",
+    "title": "Contactanos | Ciudades",
+    "hasFooter": true,
+    "hasSuperfinanciera": true,
+    "hasEnelColombiaSAESP": true,
+    "cbsCount": 4,
+    "cbs": [
+      {
+        "id": "privacy",
+        "name": "privacy",
+        "label": "He le\u00eddo y acepto las Pol\u00edtica de Privacidad*"
+      },
+      {
+        "id": "privacy2",
+        "name": "privacy2",
+        "label": ""
+      },
+      {
+        "id": "privacy3",
+        "name": "privacy3",
+        "label": ""
+      },
+      {
+        "id": "privacy4",
+        "name": "privacy4",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "url": "https://cloud.customer.enelx.com/contacto-empresas-2026",
+    "title": "Contactanos | Empresas",
+    "hasFooter": true,
+    "hasSuperfinanciera": true,
+    "hasEnelColombiaSAESP": true,
+    "cbsCount": 4,
+    "cbs": [
+      {
+        "id": "privacy",
+        "name": "privacy",
+        "label": "He le\u00eddo y acepto las Pol\u00edtica de Privacidad*"
+      },
+      {
+        "id": "privacy2",
+        "name": "privacy2",
+        "label": ""
+      },
+      {
+        "id": "privacy3",
+        "name": "privacy3",
+        "label": ""
+      },
+      {
+        "id": "privacy4",
+        "name": "privacy4",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "url": "https://cloud.customer.enelx.com/contacto-mr-no-regulado-2026",
+    "title": "Contactanos | Mercado No Regulado",
+    "hasFooter": true,
+    "hasSuperfinanciera": true,
+    "hasEnelColombiaSAESP": true,
+    "cbsCount": 4,
+    "cbs": [
+      {
+        "id": "privacy",
+        "name": "privacy",
+        "label": "He le\u00eddo y acepto las Pol\u00edtica de Privacidad*"
+      },
+      {
+        "id": "privacy2",
+        "name": "privacy2",
+        "label": ""
+      },
+      {
+        "id": "privacy3",
+        "name": "privacy3",
+        "label": ""
+      },
+      {
+        "id": "privacy4",
+        "name": "privacy4",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "url": "https://cloud.customer.enelx.com/leads-asistencias-organico-portafolio",
+    "title": "Contactanos | Asistencias",
+    "hasFooter": true,
+    "hasSuperfinanciera": false,
+    "hasEnelColombiaSAESP": false,
+    "cbsCount": 4,
+    "cbs": [
+      {
+        "id": "privacy",
+        "name": "privacy",
+        "label": "He le\u00eddo y acepto las Pol\u00edtica de Privacidad*"
+      },
+      {
+        "id": "privacy2",
+        "name": "privacy2",
+        "label": "Doy mi consentimiento para el tratamiento de datos con fines de marketing"
+      },
+      {
+        "id": "privacy3",
+        "name": "privacy3",
+        "label": "Doy mi consentimiento a Enel y a los terceros autorizados por ellos"
+      },
+      {
+        "id": "privacy4",
+        "name": "privacy4",
+        "label": "Doy mi consentimiento para las operaciones de elaboraci\u00f3n de perfiles"
+      }
+    ]
+  },
+  {
+    "url": "https://cloud.customer.enelx.com/leads-juicebox-2026",
+    "title": "Contactanos | JuiceBox",
+    "hasFooter": true,
+    "hasSuperfinanciera": true,
+    "hasEnelColombiaSAESP": true,
+    "cbsCount": 4,
+    "cbs": [
+      {
+        "id": "privacy",
+        "name": "privacy",
+        "label": "He le\u00eddo y acepto las Pol\u00edtica de Privacidad*"
+      },
+      {
+        "id": "privacy2",
+        "name": "privacy2",
+        "label": ""
+      },
+      {
+        "id": "privacy3",
+        "name": "privacy3",
+        "label": ""
+      },
+      {
+        "id": "privacy4",
+        "name": "privacy4",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "url": "https://cloud.customer.enelx.com/leads-mr-no-regulado-2026",
+    "title": "",
+    "hasFooter": false,
+    "hasSuperfinanciera": false,
+    "hasEnelColombiaSAESP": false,
+    "cbsCount": 0,
+    "cbs": []
+  },
+  {
+    "url": "https://cloud.customer.enelx.com/leads-obras-org",
+    "title": "Contactanos | Adecuaciones electricas",
+    "hasFooter": true,
+    "hasSuperfinanciera": true,
+    "hasEnelColombiaSAESP": true,
+    "cbsCount": 4,
+    "cbs": [
+      {
+        "id": "privacy",
+        "name": "privacy",
+        "label": "He le\u00eddo y acepto las Pol\u00edtica de Privacidad*"
+      },
+      {
+        "id": "marketing",
+        "name": "marketing",
+        "label": "Doy mi consentimiento para el tratamiento de datos con fines de marketing"
+      },
+      {
+        "id": "terceros",
+        "name": "terceros",
+        "label": "Doy mi consentimiento a Enel y a los terceros autorizados por ellos"
+      },
+      {
+        "id": "perfiles",
+        "name": "perfiles",
+        "label": "Doy mi consentimiento para las operaciones de elaboraci\u00f3n de perfiles"
+      }
+    ]
+  },
+  {
+    "url": "https://enelsud.info-enel.com/EFacturaCorp",
+    "title": "Registro Factura Enel-Codensa | ENEL-CODENSA",
+    "hasFooter": true,
+    "hasSuperfinanciera": false,
+    "hasEnelColombiaSAESP": false,
+    "cbsCount": 0,
+    "cbs": []
+  },
+  {
+    "url": "https://enelsud.info-enel.com/FacturaVirtual_Enel_Web",
+    "title": "Formulario inscripci\u00f3n factura virtual",
+    "hasFooter": false,
+    "hasSuperfinanciera": false,
+    "hasEnelColombiaSAESP": false,
+    "cbsCount": 2,
+    "cbs": [
+      {
+        "id": "terminosyCondiciones",
+        "name": "terminosyCondiciones",
+        "label": ""
+      },
+      {
+        "id": "ptdpCheck2",
+        "name": "ptdpCheck2",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "url": "https://enelsud.info-enel.com/Formulario-Energy-Management",
+    "title": "Energy Management | ENEL COLOMBIA",
+    "hasFooter": true,
+    "hasSuperfinanciera": false,
+    "hasEnelColombiaSAESP": false,
+    "cbsCount": 0,
+    "cbs": []
+  },
+  {
+    "url": "https://enelsud.info-enel.com/PagoVirtEmpresas",
+    "title": "Pago virtual Empresas | ENEL-CODENSA",
+    "hasFooter": true,
+    "hasSuperfinanciera": false,
+    "hasEnelColombiaSAESP": false,
+    "cbsCount": 0,
+    "cbs": []
+  },
+  {
+    "url": "https://enelsud.info-enel.com/SFacturaDigital",
+    "title": "Registro Factura Virtual | Enel Colombia",
+    "hasFooter": true,
+    "hasSuperfinanciera": false,
+    "hasEnelColombiaSAESP": false,
+    "cbsCount": 2,
+    "cbs": [
+      {
+        "id": "data_policy",
+        "name": "data_policy",
+        "label": "Conforme a la ley 1581 del 2012 y la pol\u00edtica de tratamiento de datos personales, con la suscripci\u00f3n a factura virtual usted autoriza que sus datos sean tratados por las empresas del Grupo Enel en Colombia para todos los fines relacionados con la gesti\u00f3n de su solicitud, sus productos activos, la prestaci\u00f3n del servicio p\u00fablico de energ\u00eda el\u00e9ctrica de acuerdo con el contrato de servicio p\u00fablico, y para la generaci\u00f3n, almacenamiento, comercializaci\u00f3n y distribuci\u00f3n de recursos energ\u00e9ticos. Recuerde que tiene derecho a conocer, actualizar, rectificar y cuando proceda, suprimir sus datos y revocar la autorizaci\u00f3n dada para su tratamiento, a trav\u00e9s de los canales indicados en la pol\u00edtica publicada en www.enel.com.co en la cual tambi\u00e9n encontrar\u00e1 la identificaci\u00f3n de las empresas que pertenecen al Grupo Enel en Colombia. La pol\u00edtica puede ser consultada aqu\u00ed."
+      },
+      {
+        "id": "condition_terms",
+        "name": "condition_terms",
+        "label": "Acepto los t\u00e9rminos y condiciones de Factura Virtual."
+      }
+    ]
+  },
+  {
+    "url": "https://enelsud.info-enel.com/enel-reporte-anonimo",
+    "title": "Denuncia el robo de energ\u00eda | Enel-Colombia",
+    "hasFooter": false,
+    "hasSuperfinanciera": false,
+    "hasEnelColombiaSAESP": false,
+    "cbsCount": 0,
+    "cbs": []
+  },
+  {
+    "url": "https://enelsud.info-enel.com/formulario-cultura-legalidad",
+    "title": "Denuncia el robo de energ\u00eda | Enel-Colombia",
+    "hasFooter": false,
+    "hasSuperfinanciera": false,
+    "hasEnelColombiaSAESP": false,
+    "cbsCount": 0,
+    "cbs": []
+  },
+  {
+    "url": "https://enelsud.info-enel.com/leads-cfc-mayo-2022",
+    "title": "Tarjeta Cr\u00e9dito F\u00e1cil Codensa | ENEL",
+    "hasFooter": true,
+    "hasSuperfinanciera": false,
+    "hasEnelColombiaSAESP": true,
+    "cbsCount": 1,
+    "cbs": [
+      {
+        "id": "privacy",
+        "name": "privacy",
+        "label": ""
+      }
+    ]
+  }
+]

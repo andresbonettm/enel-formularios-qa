@@ -1,0 +1,372 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enel Colombia — Lote 2: 16 Formularios y Landings Nuevas</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css">
+    <style>
+        :root {
+            --enel-magenta: #d9006c;
+            --enel-dark: #121926;
+            --enel-card-bg: #ffffff;
+            --enel-border: #e2e8f0;
+            --enel-text: #334155;
+            --enel-blue: #0284c7;
+            --enel-teal: #0d9488;
+        }
+
+        body {
+            background-color: #f8fafc;
+            color: var(--enel-text);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            min-height: 100vh;
+            padding-bottom: 60px;
+        }
+
+        .header-banner {
+            background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+            color: #ffffff;
+            padding: 40px 0 35px 0;
+            border-bottom: 4px solid var(--enel-blue);
+            margin-bottom: 30px;
+        }
+
+        .header-title {
+            font-weight: 800;
+            letter-spacing: -0.5px;
+            font-size: 1.85rem;
+        }
+
+        .header-desc {
+            color: #94a3b8;
+            font-size: 0.95rem;
+            margin-bottom: 0;
+        }
+
+        .stat-card {
+            background: #ffffff;
+            border: 1px solid var(--enel-border);
+            border-radius: 8px;
+            padding: 16px 20px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .stat-number {
+            font-size: 1.6rem;
+            font-weight: 800;
+            color: var(--enel-blue);
+        }
+
+        .stat-label {
+            font-size: 0.78rem;
+            color: #64748b;
+            text-transform: uppercase;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+        }
+
+        .form-card {
+            background: var(--enel-card-bg);
+            border: 1px solid var(--enel-border);
+            border-radius: 10px;
+            padding: 22px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.03);
+            transition: all 0.2s ease-in-out;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .form-card:hover {
+            box-shadow: 0 10px 15px -3px rgba(0,0,0,0.08);
+            border-color: #cbd5e1;
+            transform: translateY(-2px);
+        }
+
+        .form-title {
+            font-size: 1.15rem;
+            font-weight: 700;
+            color: #0f172a;
+            margin-bottom: 6px;
+        }
+
+        .badge-type {
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            padding: 4px 8px;
+            border-radius: 4px;
+            background-color: #e0f2fe;
+            color: #0369a1;
+        }
+
+        .badge-id {
+            background-color: #f1f5f9;
+            color: #475569;
+            font-weight: 700;
+            font-size: 0.75rem;
+            padding: 3px 8px;
+            border-radius: 4px;
+        }
+
+        .req-box {
+            background-color: #fffbeb;
+            border-left: 3px solid #f59e0b;
+            padding: 8px 12px;
+            border-radius: 0 4px 4px 0;
+            font-size: 0.82rem;
+            color: #92400e;
+            margin-bottom: 12px;
+        }
+
+        .rem-box {
+            background-color: #f0fdf4;
+            border-left: 3px solid #10b981;
+            padding: 8px 12px;
+            border-radius: 0 4px 4px 0;
+            font-size: 0.82rem;
+            color: #065f46;
+            margin-bottom: 16px;
+        }
+
+        .btn-open {
+            background-color: var(--enel-blue);
+            color: white;
+            font-weight: 600;
+            border-radius: 6px;
+            border: none;
+            padding: 8px 14px;
+            font-size: 0.88rem;
+            transition: background 0.15s;
+        }
+
+        .btn-open:hover {
+            background-color: #0369a1;
+            color: white;
+            text-decoration: none;
+        }
+
+        .btn-txt {
+            background-color: #f1f5f9;
+            color: #334155;
+            font-weight: 600;
+            border-radius: 6px;
+            border: 1px solid #cbd5e1;
+            padding: 8px 14px;
+            font-size: 0.88rem;
+        }
+
+        .btn-txt:hover {
+            background-color: #e2e8f0;
+            color: #0f172a;
+            text-decoration: none;
+        }
+
+        .btn-compare {
+            background-color: #ffffff;
+            color: #0284c7;
+            font-weight: 600;
+            border-radius: 6px;
+            border: 1px solid #bae6fd;
+            padding: 6px 12px;
+            font-size: 0.82rem;
+            display: inline-block;
+            transition: all 0.15s ease-in-out;
+            text-align: center;
+        }
+
+        .btn-compare:hover {
+            background-color: #e0f2fe;
+            color: #0369a1;
+            text-decoration: none;
+            border-color: #0284c7;
+        }
+
+        .search-box {
+            border: 1px solid var(--enel-border);
+            border-radius: 8px;
+            padding: 10px 16px;
+            font-size: 0.95rem;
+            width: 100%;
+            background: #ffffff;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+        }
+
+        .search-box:focus {
+            outline: none;
+            border-color: var(--enel-blue);
+            box-shadow: 0 0 0 3px rgba(2, 132, 199, 0.15);
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <header class="header-banner">
+        <div class="container">
+            <div class="d-flex align-items-center justify-content-between">
+                <div>
+                    <h1 class="header-title">🚀 Lote 2: 16 Formularios y Landings Nuevas</h1>
+                    <p class="header-desc">Formularios no enlazados en el rastreo inicial, CloudPages de Enel X / Salesforce y Páginas AEM saneadas</p>
+                </div>
+                <div>
+                    <span class="badge badge-info p-2 font-weight-bold" style="font-size: 0.9rem;">ENTORNO AISLADO</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+
+        <!-- Top Navigation Tabs (Lote 1 vs Lote 2) -->
+        <div class="row mb-4">
+            <div class="col-12">
+                <div class="p-2 bg-white rounded shadow-sm d-flex flex-wrap align-items-center justify-content-between" style="border: 1px solid var(--enel-border);">
+                    <div class="d-flex align-items-center">
+                        <span class="mr-3 font-weight-bold text-muted small text-uppercase">Vistas Disponibles:</span>
+                        <a href="/" class="btn btn-sm btn-outline-secondary mr-2 font-weight-bold">
+                            📁 Lote 1: 18 Formularios Auditados
+                        </a>
+                        <a href="/lote2" class="btn btn-sm btn-primary font-weight-bold" style="background: var(--enel-blue); border-color: var(--enel-blue);">
+                            🚀 Lote 2: 16 Formularios y Landings Nuevas (ACTIVO)
+                        </a>
+                    </div>
+                    <div class="text-muted small mt-2 mt-md-0">
+                        Carpeta local: <code class="text-primary font-weight-bold">Enel_google/formularios_nuevos/</code>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Metric Summary Cards -->
+        <div class="row mb-4">
+            <div class="col-md-3 mb-3 mb-md-0">
+                <div class="stat-card">
+                    <div>
+                        <div class="stat-number">16</div>
+                        <div class="stat-label">Items Procesados</div>
+                    </div>
+                    <div style="font-size: 2rem;">📦</div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-3 mb-md-0">
+                <div class="stat-card">
+                    <div>
+                        <div class="stat-number">6</div>
+                        <div class="stat-label">CloudPages Enel X / Info</div>
+                    </div>
+                    <div style="font-size: 2rem;">⚡</div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-3 mb-md-0">
+                <div class="stat-card">
+                    <div>
+                        <div class="stat-number">10</div>
+                        <div class="stat-label">Páginas AEM Saneadas</div>
+                    </div>
+                    <div style="font-size: 2rem;">🏛️</div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="stat-card">
+                    <div>
+                        <div class="stat-number" style="color: #10b981;">100%</div>
+                        <div class="stat-label">Requisitos Cumplidos</div>
+                    </div>
+                    <div style="font-size: 2rem;">✅</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Search Bar -->
+        <div class="row mb-4">
+            <div class="col-12">
+                <input type="text" id="searchInput" class="search-box" placeholder="🔍 Buscar por nombre, requerimiento, slug o tipo...">
+            </div>
+        </div>
+
+        <!-- Grid of Forms -->
+        <div class="row" id="formsGrid">
+            <!-- Injected via JavaScript -->
+        </div>
+
+    </div>
+
+    <script>
+        const BATCH2_DATA = [{"id": 1, "name": "Asistencia Funeral Enel X", "slug": "asistencia-funeral", "folder": "01-asistencia-funeral", "type": "CloudPage / Enel X", "live_url": "https://cloud.customer.enelx.com/asistencia-funeral", "requirement": "Actualizar los links del footer. Tienen los asociados a CFC y esto no esta relacionado con CFC. Deben tener los links del footer de HOME de Enel: https://www.enel.com.co/", "remediation": "Enlaces de Cr\u00e9dito F\u00e1cil Codensa y Scotiabank sustituidos por los enlaces institucionales del Home de Enel Colombia (T\u00e9rminos Legales, Privacidad y Cookies).", "file_html": "/formularios_nuevos/01-asistencia-funeral/asistencia-funeral.html", "file_txt": "/formularios_nuevos/01-asistencia-funeral/asistencia-funeral.txt"}, {"id": 2, "name": "Leads Obras y Proyectos Enel X", "slug": "leads-obras-org", "folder": "02-leads-obras-org", "type": "CloudPage / Enel X", "live_url": "https://cloud.customer.enelx.com/leads-obras-org", "requirement": "Verificar footer y c\u00f3digo de landing que no tenga enlaces ocultos en el c\u00f3digo que puedan afectar hallazgos Google", "remediation": "Saneamiento del footer (sustituci\u00f3n de enlaces CFC a Enel Home) e inspecci\u00f3n de c\u00f3digo DOM; validado 100% sin enlaces ocultos.", "file_html": "/formularios_nuevos/02-leads-obras-org/leads-obras-org.html", "file_txt": "/formularios_nuevos/02-leads-obras-org/leads-obras-org.txt"}, {"id": 3, "name": "Cargador para Carro El\u00e9ctrico JuiceBox", "slug": "juicebox-enel", "folder": "03-juicebox-enel", "type": "P\u00e1gina AEM (Personas)", "live_url": "https://www.enel.com.co/es/personas/juicebox-enel", "requirement": "Verificar footer y c\u00f3digo de landing que no tenga enlaces ocultos en el c\u00f3digo que puedan afectar hallazgos Google", "remediation": "Verificaci\u00f3n de enlaces can\u00f3nicos, men\u00fa de navegaci\u00f3n global y aseguramiento de visibilidad para Googlebot.", "file_html": "/formularios_nuevos/03-juicebox-enel/juicebox-enel.html", "file_txt": "/formularios_nuevos/03-juicebox-enel/juicebox-enel.txt"}, {"id": 4, "name": "Medios de Pago Electr\u00f3nicos", "slug": "pago-medios-electronicos", "folder": "04-pago-medios-electronicos", "type": "P\u00e1gina AEM (Transaccional)", "live_url": "https://www.enel.com.co/es/pago-medios-electronicos.html", "requirement": "Verificar footer y c\u00f3digo de landing que no tenga enlaces ocultos en el c\u00f3digo que puedan afectar hallazgos Google", "remediation": "Validaci\u00f3n de enlaces de recaudo (PSE, App), footer institucional y confirmaci\u00f3n de que no existen redirecciones cloaked.", "file_html": "/formularios_nuevos/04-pago-medios-electronicos/pago-medios-electronicos.html", "file_txt": "/formularios_nuevos/04-pago-medios-electronicos/pago-medios-electronicos.txt"}, {"id": 5, "name": "Registro Personas Zona Privada", "slug": "registro", "folder": "05-registro", "type": "P\u00e1gina AEM (Formulario)", "live_url": "https://www.enel.com.co/es/personas/registro.html", "requirement": "Verificar footer y c\u00f3digo de landing que no tenga enlaces ocultos en el c\u00f3digo que puedan afectar hallazgos Google", "remediation": "Auditor\u00eda de 299 enlaces; se confirm\u00f3 que los bloques ocultos son pasos interactivos del formulario y no texto oculto de spam.", "file_html": "/formularios_nuevos/05-registro/registro.html", "file_txt": "/formularios_nuevos/05-registro/registro.txt"}, {"id": 6, "name": "Hurto de Energ\u00eda - Consecuencias Legales", "slug": "hurto-energia-consecuencias-legales", "folder": "06-hurto-energia-consecuencias-legales", "type": "P\u00e1gina AEM", "live_url": "https://www.enel.com.co/es/personas/hurto-energia-consecuencias-legales.html", "requirement": "Verificar footer y c\u00f3digo de landing que no tenga enlaces ocultos en el c\u00f3digo que puedan afectar hallazgos Google", "remediation": "Saneamiento de ancla flotante con display:none y error tipogr\u00e1fico ('PAGA TU FACTURA AQ\u00cd') que pod\u00eda activar alertas de rastreo.", "file_html": "/formularios_nuevos/06-hurto-energia-consecuencias-legales/hurto-energia-consecuencias-legales.html", "file_txt": "/formularios_nuevos/06-hurto-energia-consecuencias-legales/hurto-energia-consecuencias-legales.txt"}, {"id": 7, "name": "Eficiencia Peque\u00f1as Empresas (El Ni\u00f1o)", "slug": "eficiencia-energetica-pequenas-empresas", "folder": "07-eficiencia-energetica-pequenas-empresas", "type": "P\u00e1gina AEM (Empresas)", "live_url": "https://www.enel.com.co/es/fenomeno-de-el-nino/eficiencia-energetica-para-pequenas-empresas.html", "requirement": "Verificar footer y c\u00f3digo de landing que no tenga enlaces ocultos en el c\u00f3digo que puedan afectar hallazgos Google", "remediation": "Inspecci\u00f3n de enlaces salientes, confirmaci\u00f3n de footer institucional y ausencia de cloaking o enlaces invisibles.", "file_html": "/formularios_nuevos/07-eficiencia-energetica-pequenas-empresas/eficiencia-energetica-para-pequenas-empresas.html", "file_txt": "/formularios_nuevos/07-eficiencia-energetica-pequenas-empresas/eficiencia-energetica-para-pequenas-empresas.txt"}, {"id": 8, "name": "Fen\u00f3meno de El Ni\u00f1o - Ahorro de Energ\u00eda", "slug": "fenomeno-de-el-nino", "folder": "08-fenomeno-de-el-nino", "type": "P\u00e1gina AEM (Campa\u00f1a)", "live_url": "https://www.enel.com.co/es/fenomeno-de-el-nino.html", "requirement": "Verificar footer y c\u00f3digo de landing que no tenga enlaces ocultos en el c\u00f3digo que puedan afectar hallazgos Google", "remediation": "Verificaci\u00f3n de componentes editoriales y de campa\u00f1a; enlaces limpios y sin incidencias de redirecci\u00f3n o spam.", "file_html": "/formularios_nuevos/08-fenomeno-de-el-nino/fenomeno-de-el-nino.html", "file_txt": "/formularios_nuevos/08-fenomeno-de-el-nino/fenomeno-de-el-nino.txt"}, {"id": 9, "name": "Consejos para Evitar Fraudes Digitales", "slug": "consejos-fraudes-digitales", "folder": "09-consejos-fraudes-digitales", "type": "P\u00e1gina AEM (Editorial)", "live_url": "https://www.enel.com.co/es/historias/a202308-consejos-para-evitar-fraudes-digitales.html", "requirement": "Verificar footer y c\u00f3digo de landing que no tenga enlaces ocultos en el c\u00f3digo que puedan afectar hallazgos Google", "remediation": "Verificaci\u00f3n de enlaces a canales oficiales de pago seguro; sin enlaces ocultos ni llamadas sospechosas.", "file_html": "/formularios_nuevos/09-consejos-fraudes-digitales/consejos-para-evitar-fraudes-digitales.html", "file_txt": "/formularios_nuevos/09-consejos-fraudes-digitales/consejos-para-evitar-fraudes-digitales.txt"}, {"id": 10, "name": "Factura Virtual Personas (Landing)", "slug": "personas-factura-virtual", "folder": "10-personas-factura-virtual", "type": "P\u00e1gina AEM (Landing)", "live_url": "https://www.enel.com.co/es/personas/factura-virtual.html", "requirement": "Verificar footer y c\u00f3digo de landing que no tenga enlaces ocultos en el c\u00f3digo que puedan afectar hallazgos Google", "remediation": "Verificaci\u00f3n de 104 enlaces; se confirmaron enlaces limpios a las CloudPages de Marketing Cloud sin referencias a cdnsafbapps.", "file_html": "/formularios_nuevos/10-personas-factura-virtual/personas-factura-virtual.html", "file_txt": "/formularios_nuevos/10-personas-factura-virtual/personas-factura-virtual.txt"}, {"id": 11, "name": "Denuncia Robo de Energ\u00eda (Cultura Legalidad)", "slug": "formulario-cultura-legalidad", "folder": "11-formulario-cultura-legalidad", "type": "CloudPage / Info-Enel", "live_url": "https://enelsud.info-enel.com/formulario-cultura-legalidad", "requirement": "Incluir el footer. No aplica el checkbox de pol\u00edtica de privacidad por qu\u00e9 es un diligenciamiento an\u00f3nimo", "remediation": "Inyecci\u00f3n del Footer Institucional Enel Colombia; se respet\u00f3 expl\u00edcitamente no incluir casilla de pol\u00edtica por ser reporte 100% an\u00f3nimo.", "file_html": "/formularios_nuevos/11-formulario-cultura-legalidad/formulario-cultura-legalidad.html", "file_txt": "/formularios_nuevos/11-formulario-cultura-legalidad/formulario-cultura-legalidad.txt"}, {"id": 12, "name": "Leads JuiceBox Enel X 2026", "slug": "leads-juicebox-2026", "folder": "12-leads-juicebox-2026", "type": "CloudPage / Enel X", "live_url": "https://cloud.customer.enelx.com/leads-juicebox-2026", "requirement": "Actualizar los links del footer. Tienen los asociados a CFC y esto no esta relacionado con CFC. Deben tener los links del footer de HOME de Enel: https://www.enel.com.co/", "remediation": "Sustituci\u00f3n de enlaces CFC / Scotiabank por enlaces institucionales de Enel Colombia (T\u00e9rminos Legales, Privacidad y Cookies).", "file_html": "/formularios_nuevos/12-leads-juicebox-2026/leads-juicebox-2026.html", "file_txt": "/formularios_nuevos/12-leads-juicebox-2026/leads-juicebox-2026.txt"}, {"id": 13, "name": "Asistencia Hogar Integral 360", "slug": "integral-360", "folder": "13-integral-360", "type": "CloudPage / Enel X", "live_url": "https://cloud.customer.enelx.com/integral-360", "requirement": "Actualizar los links del footer. Tienen los asociados a CFC y esto no esta relacionado con CFC. Deben tener los links del footer de HOME de Enel: https://www.enel.com.co/ | Falta el logo de Enel", "remediation": "Inserci\u00f3n del Logo Oficial de Enel Colombia en la cabecera (que estaba vac\u00eda) y sustituci\u00f3n de enlaces CFC del footer a Enel Home.", "file_html": "/formularios_nuevos/13-integral-360/integral-360.html", "file_txt": "/formularios_nuevos/13-integral-360/integral-360.txt"}, {"id": 14, "name": "Ingreso a Mi Enel (AccessMyEnel)", "slug": "access-my-enel", "folder": "14-access-my-enel", "type": "P\u00e1gina AEM (SSO)", "live_url": "https://www.enel.com.co/es/AccessMyEnel.html", "requirement": "Verificar footer y c\u00f3digo de landing que no tenga enlaces ocultos en el c\u00f3digo que puedan afectar hallazgos Google", "remediation": "Verificaci\u00f3n del portal de acceso privado y par\u00e1metros SSO; footer institucional intacto y sin trampas de rastreo.", "file_html": "/formularios_nuevos/14-access-my-enel/access-my-enel.html", "file_txt": "/formularios_nuevos/14-access-my-enel/access-my-enel.txt"}, {"id": 15, "name": "Elena est\u00e1 en WhatsApp", "slug": "elena-esta-enel-whatsapp", "folder": "15-elena-esta-enel-whatsapp", "type": "P\u00e1gina AEM (Servicio)", "live_url": "https://www.enel.com.co/es/personas/servicio-al-cliente/elena-esta-enel-whatsapp.html", "requirement": "Verificar footer y c\u00f3digo de landing que no tenga enlaces ocultos en el c\u00f3digo que puedan afectar hallazgos Google", "remediation": "Validaci\u00f3n de enlaces oficiales a la API de WhatsApp (wa.me) y footer institucional corporativo.", "file_html": "/formularios_nuevos/15-elena-esta-enel-whatsapp/elena-esta-enel-whatsapp.html", "file_txt": "/formularios_nuevos/15-elena-esta-enel-whatsapp/elena-esta-enel-whatsapp.txt"}, {"id": 16, "name": "Inscripci\u00f3n Factura Virtual Web", "slug": "facturavirtual-enel-web", "folder": "16-facturavirtual-enel-web", "type": "CloudPage / Info-Enel", "live_url": "https://enelsud.info-enel.com/FacturaVirtual_Enel_Web", "requirement": "Actualizar logo y footer", "remediation": "Actualizaci\u00f3n de isotipo Enel a versi\u00f3n oficial n\u00edtida e incorporaci\u00f3n completa del Footer Institucional Enel Colombia.", "file_html": "/formularios_nuevos/16-facturavirtual-enel-web/facturavirtual-enel-web.html", "file_txt": "/formularios_nuevos/16-facturavirtual-enel-web/facturavirtual-enel-web.txt"}];
+
+        function renderBatch2(items) {
+            const grid = document.getElementById('formsGrid');
+            grid.innerHTML = '';
+            
+            if (items.length === 0) {
+                grid.innerHTML = '<div class="col-12 text-center py-5 text-muted">No se encontraron items con ese criterio de búsqueda.</div>';
+                return;
+            }
+
+            items.forEach(item => {
+                const col = document.createElement('div');
+                col.className = 'col-md-6 col-lg-4 mb-4';
+                
+                col.innerHTML = `
+                    <div class="form-card">
+                        <div>
+                            <div class="d-flex justify-content-between align-items-center mb-2">
+                                <span class="badge-type">${item.type}</span>
+                                <span class="badge-id">#${String(item.id).padStart(2, '0')}</span>
+                            </div>
+                            <h3 class="form-title">${item.name}</h3>
+                            <div class="small text-muted mb-2 font-mono"><code>${item.slug}</code></div>
+                            
+                            <div class="req-box">
+                                <strong>📌 Requerimiento:</strong><br>
+                                ${item.requirement}
+                            </div>
+
+                            <div class="rem-box">
+                                <strong>🛡️ Remediación Aplicada:</strong><br>
+                                ${item.remediation}
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="d-flex justify-content-between mb-2">
+                                <a href="${item.file_html}" target="_blank" class="btn btn-open flex-grow-1 mr-2 text-center">
+                                    🚀 Probar Local
+                                </a>
+                                <a href="${item.file_txt}" target="_blank" class="btn btn-txt text-center" title="Ver código fuente limpio para autores o CloudPages">
+                                    📋 .txt
+                                </a>
+                            </div>
+                            <a href="${item.live_url}" target="_blank" rel="noopener noreferrer" class="btn-compare w-100">
+                                🌐 Comparar con URL Real en Vivo ↗
+                            </a>
+                        </div>
+                    </div>
+                `;
+                grid.appendChild(col);
+            });
+        }
+
+        renderBatch2(BATCH2_DATA);
+
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            const val = e.target.value.toLowerCase().trim();
+            const filtered = BATCH2_DATA.filter(item => 
+                item.name.toLowerCase().includes(val) ||
+                item.slug.toLowerCase().includes(val) ||
+                item.requirement.toLowerCase().includes(val) ||
+                item.type.toLowerCase().includes(val) ||
+                item.remediation.toLowerCase().includes(val)
+            );
+            renderBatch2(filtered);
+        });
+    </script>
+</body>
+</html>

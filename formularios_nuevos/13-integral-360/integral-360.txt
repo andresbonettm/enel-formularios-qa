@@ -1,0 +1,904 @@
+<html><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contactanos | Asistencia Hogar</title>
+    <meta name="ROBOTS" content="INDEX, FOLLOW">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <link rel="shortcut icon" type="image/x-icon" href="https://assets.enelcol.com.co/2021/landings/20210506_LandingRoboDeEnergia/images/favicon.png">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
+<!-- Event snippet for PIXEL ENEL - FORMULARIOS - GOOGLE - LEAD ASISTENCIA (2) conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+<script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-18093870321&amp;cx=c&amp;gtm=4e6b40"></script><script src="https://connect.facebook.net/signals/config/1485438286173653?v=2.9.435&amp;r=stable&amp;domain=cloud.customer.enelx.com&amp;hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&amp;ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189%2C276%2C274%2C269%2C271%2C272%2C273%2C270%2C255%2C275%2C277%2C265%2C218%2C219%2C279%2C280%2C266%2C363%2C364%2C231%2C226%2C229%2C230%2C208%2C224%2C399%2C313%2C317%2C321%2C322%2C323%2C318%2C324%2C316%2C311%2C326%2C327%2C315%2C325%2C329%2C319%2C314%2C328%2C330%2C312%2C241%2C310%2C207%2C227%2C228%2C259%2C225%2C223%2C287%2C243%2C217%2C213%2C216%2C214%2C215%2C212%2C210%2C221%2C222%2C220%2C336%2C392%2C357%2C358%2C361%2C359%2C356%2C355%2C232%2C290%2C297%2C298%2C291%2C293%2C296%2C294%2C295%2C292%2C289%2C308%2C302%2C305%2C301%2C309%2C306%2C300%2C304%2C307%2C303%2C299%2C351%2C368" async=""></script><script type="text/javascript" async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-DTKLCTMT3F&amp;cx=c&amp;gtm=4e6b40"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-52FXRWD"></script><script src="https://connect.facebook.net/signals/config/910503148739131?v=2.9.435&amp;r=stable&amp;domain=cloud.customer.enelx.com&amp;hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&amp;ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-11013676430&amp;cx=c&amp;gtm=4e6992"></script><script src="https://connect.facebook.net/signals/config/1485438286173653?v=2.9.397&amp;r=stable&amp;domain=cloud.customer.enelx.com&amp;hme=457e068698591ac437afb4b2e5fbe0266b08712615b8792436a91385ebda0da3&amp;ex_m=115%2C227%2C166%2C26%2C80%2C81%2C158%2C76%2C75%2C11%2C176%2C100%2C20%2C150%2C138%2C45%2C83%2C88%2C146%2C171%2C178%2C31%2C17%2C30%2C18%2C32%2C33%2C34%2C36%2C54%2C159%2C85%2C123%2C22%2C24%2C50%2C46%2C48%2C47%2C93%2C102%2C106%2C121%2C157%2C160%2C52%2C122%2C28%2C25%2C130%2C77%2C42%2C162%2C161%2C163%2C154%2C152%2C29%2C41%2C65%2C120%2C173%2C78%2C21%2C125%2C91%2C74%2C23%2C95%2C96%2C127%2C94%2C148%2C147%2C151%2C107%2C172%2C175%2C40%2C55%2C124%2C53%2C8%2C4%2C5%2C7%2C6%2C3%2C101%2C112%2C180%2C179%2C194%2C241%2C82%2C255%2C254%2C253%2C14%2C27%2C39%2C61%2C114%2C67%2C10%2C71%2C108%2C109%2C110%2C116%2C141%2C37%2C35%2C143%2C144%2C145%2C140%2C139%2C167%2C84%2C170%2C168%2C169%2C56%2C66%2C134%2C19%2C174%2C51%2C305%2C306%2C307%2C304%2C320%2C344%2C234%2C223%2C68%2C224%2C222%2C347%2C338%2C58%2C235%2C118%2C142%2C90%2C132%2C60%2C131%2C137%2C136%2C64%2C72%2C70%2C164%2C86%2C87%2C126%2C43%2C38%2C59%2C62%2C111%2C177%2C1%2C135%2C16%2C133%2C12%2C2%2C63%2C103%2C15%2C73%2C69%2C129%2C99%2C98%2C182%2C183%2C104%2C105%2C9%2C113%2C181%2C57%2C155%2C97%2C89%2C79%2C128%2C117%2C49%2C156%2C0%2C92%2C149%2C153%2C165%2C44%2C119%2C13%2C184%2C251%2C249%2C244%2C246%2C247%2C248%2C245%2C233%2C250%2C252%2C243%2C215%2C209%2C213%2C214%2C212%2C207%2C373%2C286%2C290%2C293%2C294%2C295%2C291%2C296%2C289%2C284%2C298%2C299%2C288%2C297%2C301%2C292%2C287%2C300%2C302%2C285%2C226%2C283%2C218%2C210%2C211%2C237%2C208%2C206%2C259%2C228%2C200%2C201%2C196%2C202%2C199%2C197%2C198%2C195%2C193%2C204%2C205%2C203%2C308%2C365%2C328%2C329%2C331%2C330%2C327%2C326%2C216%2C262%2C269%2C270%2C271%2C263%2C265%2C268%2C266%2C267%2C264%2C261%2C281%2C275%2C278%2C274%2C282%2C279%2C273%2C277%2C280%2C276%2C272%2C322%2C341" async=""></script><script type="text/javascript" async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-DTKLCTMT3F&amp;cx=c&amp;gtm=4e6990"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-52FXRWD"></script><script src="https://connect.facebook.net/signals/config/910503148739131?v=2.9.397&amp;r=stable&amp;domain=cloud.customer.enelx.com&amp;hme=457e068698591ac437afb4b2e5fbe0266b08712615b8792436a91385ebda0da3&amp;ex_m=115%2C227%2C166%2C26%2C80%2C81%2C158%2C76%2C75%2C11%2C176%2C100%2C20%2C150%2C138%2C45%2C83%2C88%2C146%2C171%2C178%2C31%2C17%2C30%2C18%2C32%2C33%2C34%2C36%2C54%2C159%2C85%2C123%2C22%2C24%2C50%2C46%2C48%2C47%2C93%2C102%2C106%2C121%2C157%2C160%2C52%2C122%2C28%2C25%2C130%2C77%2C42%2C162%2C161%2C163%2C154%2C152%2C29%2C41%2C65%2C120%2C173%2C78%2C21%2C125%2C91%2C74%2C23%2C95%2C96%2C127%2C94%2C148%2C147%2C151%2C107%2C172%2C175%2C40%2C55%2C124%2C53%2C8%2C4%2C5%2C7%2C6%2C3%2C101%2C112%2C180%2C179%2C194%2C241%2C82%2C255%2C254%2C253%2C14%2C27%2C39%2C61%2C114%2C67%2C10%2C71%2C108%2C109%2C110%2C116%2C141%2C37%2C35%2C143%2C144%2C145%2C140%2C139%2C167%2C84%2C170%2C168%2C169%2C56%2C66%2C134%2C19%2C174%2C51%2C305%2C306%2C307%2C304%2C320%2C344%2C234%2C223%2C68%2C224%2C222%2C347%2C338%2C58%2C235%2C118%2C142%2C90%2C132%2C60%2C131%2C137%2C136%2C64%2C72%2C70%2C164%2C86%2C87%2C126%2C43%2C38%2C59%2C62%2C111%2C177%2C1%2C135%2C16%2C133%2C12%2C2%2C63%2C103%2C15%2C73%2C69%2C129%2C99%2C98%2C182%2C183%2C104%2C105%2C9%2C113%2C181%2C57%2C155%2C97%2C89%2C79%2C128%2C117%2C49%2C156%2C0%2C92%2C149%2C153%2C165%2C44%2C119%2C13%2C184" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script>
+function gtag_report_conversion(url) {
+ var callback = function () {
+   if (typeof(url) != 'undefined') {
+     window.location = url;
+   }
+ };
+ gtag('event', 'conversion', {
+     'send_to': 'AW-18093870321/3MZECPzXh-EcEPGZ6rND',
+     'event_callback': callback
+ });
+ return false;
+}
+</script>
+  
+  <!-- Event snippet for PIXEL ENEL - FORMULARIOS - GOOGLE - PAGE VIEW ASISTENCIA conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-18093870321/2CtYCPW67tQcEPGZ6rND'});
+</script>
+
+  <!-- Event snippet for PIXEL ENEL - FORMULARIOS - GOOGLE - LEAD ASISTENCIA conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-18093870321/ftW4CPe87tQcEPGZ6rND'});
+</script>
+  
+  <!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];
+t=b.createElement(e);t.async=!0;
+t.src=v;
+s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}
+(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ 
+fbq('init', '910503148739131');
+fbq('track', 'PageView');
+</script>
+ 
+<noscript>
+<img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=910503148739131&ev=PageView&noscript=1"/>
+</noscript>
+<!-- End Meta Pixel Code -->
+<!-- Google tag (gtag.js) --> <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-18093870321"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-18093870321'); </script>
+  <!-- Google Tag Manager --> 
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-52FXRWD');</script>
+<!-- End Google Tag Manager -->
+<script>window.adobeDataLayer = window.adobeDataLayer || [];</script>
+<script src="https://assets.adobedtm.com/58373ae8f4f6/1b8196dc8ed3/launch-bf0b791f2a5e.min.js"></script><script src="https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement.min.js" async=""></script><script src="https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement_Module_ActivityMap.min.js" async=""></script><script src="https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement.min.js" async=""></script><script src="https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement_Module_ActivityMap.min.js" async=""></script>
+      <link rel="stylesheet" type="text/css" href="https://enelsud.info-enel.com/main.min">
+   <link rel="stylesheet" type="text/css" href="https://enelsud.info-enel.com/estilos-cfc">
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/18093870321/?random=1789075422643&amp;cv=11&amp;fst=1789075422643&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be6992v9254426450za200zd9254426450xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385423~120412526~120469145~120469153&amp;u_w=1366&amp;u_h=768&amp;url=https%3A%2F%2Fcloud.customer.enelx.com%2Fintegral-360%3Fecid%3DSoc_Paid-Paid-asistencia_integral_202606-formulario-asistencias&amp;rcb=0&amp;frm=0&amp;tiba=Contactanos%20%7C%20Asistencia%20Hogar&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=901695202.1782855858&amp;uaa=x86&amp;uab=64&amp;uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CMicrosoft%2520Edge%3B151.0.4129.107%7CChromium%3B151.0.7922.174&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;data=event%3Dgtag.config&amp;ept=9&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11013676430/?random=1789075423013&amp;cv=11&amp;fst=1789075423013&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be6992v9147006709z8890459658za20gzb890459658zd890459658xea&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153&amp;u_w=1366&amp;u_h=768&amp;url=https%3A%2F%2Fcloud.customer.enelx.com%2Fintegral-360%3Fecid%3DSoc_Paid-Paid-asistencia_integral_202606-formulario-asistencias&amp;rcb=13&amp;frm=0&amp;tiba=Contactanos%20%7C%20Asistencia%20Hogar&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=901695202.1782855858&amp;uaa=x86&amp;uab=64&amp;uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CMicrosoft%2520Edge%3B151.0.4129.107%7CChromium%3B151.0.7922.174&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;_tu=CA&amp;ept=9&amp;rfmt=3&amp;fmt=4"></script><script src="https://assets.adobedtm.com/58373ae8f4f6/1b8196dc8ed3/bf656c2642c9/RCc5d2369da8c04905b5610367c54e41ab-source.min.js" async=""></script><script src="https://assets.adobedtm.com/58373ae8f4f6/1b8196dc8ed3/bf656c2642c9/RCc80fedd0c6404341b734882944150eff-source.min.js" async=""></script><script src="chrome-extension://hfabndgahaagaoemkgociifnneapjigf/inject.setextensionmode.js"></script><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11013676430/?random=1793911847899&amp;cv=11&amp;fst=1793911847899&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be6b40v9147006709z8890459658za20gzb890459658zd890459658xeaxf1&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120412528~120420414~120469145~120469153~121191155~121246026~121246034~123814185&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fcloud.customer.enelx.com%2Fintegral-360&amp;rcb=2&amp;frm=0&amp;tiba=Contactanos%20%7C%20Asistencia%20Hogar&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=243513115.1792181312&amp;uaa=arm&amp;uab=64&amp;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.80%7CGoogle%2520Chrome%3B156.0.8078.80&amp;uamb=0&amp;uam=&amp;uap=macOS&amp;uapv=26.5.1&amp;uaw=0&amp;_tu=CA&amp;ept=9&amp;rfmt=3&amp;fmt=4"></script><script src="chrome-extension://hfabndgahaagaoemkgociifnneapjigf/inject.setcshuserobject.js"></script><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/18093870321/?random=1793911848277&amp;cv=11&amp;fst=1793911848277&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be6b40h1v9254426450za208zb890459658zd890459658xecxf1&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120412528~120420414~120469145~120469153~121191155~121246026~121246034~123814185&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fcloud.customer.enelx.com%2Fintegral-360&amp;rcb=2&amp;frm=0&amp;tiba=Contactanos%20%7C%20Asistencia%20Hogar&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=243513115.1792181312&amp;uaa=arm&amp;uab=64&amp;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.80%7CGoogle%2520Chrome%3B156.0.8078.80&amp;uamb=0&amp;uam=&amp;uap=macOS&amp;uapv=26.5.1&amp;uaw=0&amp;data=event%3Dgtag.config&amp;ept=9&amp;rfmt=3&amp;fmt=4"></script></head>
+
+<body ng-app="app" class="ng-scope">
+<!-- Google Tag Manager (noscript) --> 
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-52FXRWD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<style>
+    @font-face {
+        font-family: 'RoobertENEL-Black';
+        src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Black.eot');
+        src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Black.eot?#iefix') format('embedded-opentype'),
+            url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Black.woff2') format('woff2'),
+            url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Black.woff') format('woff');
+        font-weight: 900;
+        font-style: normal;
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'RoobertENEL-Light';
+        src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Light.eot');
+        src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Light.eot?#iefix') format('embedded-opentype'),
+            url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Light.woff2') format('woff2'),
+            url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Light.woff') format('woff');
+        font-weight: 300;
+        font-style: normal;
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'RoobertENEL-LightItalic';
+        src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-LightItalic.eot');
+        src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-LightItalic.eot?#iefix') format('embedded-opentype'),
+            url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-LightItalic.woff2') format('woff2'),
+            url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-LightItalic.woff') format('woff');
+        font-weight: 300;
+        font-style: italic;
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'RoobertENEL-Bold';
+        src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Bold.eot');
+        src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Bold.eot?#iefix') format('embedded-opentype'),
+            url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Bold.woff2') format('woff2'),
+            url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Bold.woff') format('woff');
+        font-weight: bold;
+        font-style: normal;
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'RoobertENEL-BoldItalic';
+        src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-BoldItalic.eot');
+        src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-BoldItalic.eot?#iefix') format('embedded-opentype'),
+            url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-BoldItalic.woff2') format('woff2'),
+            url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-BoldItalic.woff') format('woff');
+        font-weight: bold;
+        font-style: italic;
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'RoobertENEL-BlackItalic';
+        src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-BlackItalic.eot');
+        src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-BlackItalic.eot?#iefix') format('embedded-opentype'),
+            url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-BlackItalic.woff2') format('woff2'),
+            url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-BlackItalic.woff') format('woff');
+        font-weight: 900;
+        font-style: italic;
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'RoobertENEL-RegularItalic';
+        src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-RegularItalic.eot');
+        src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-RegularItalic.eot?#iefix') format('embedded-opentype'),
+            url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-RegularItalic.woff2') format('woff2'),
+            url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-RegularItalic.woff') format('woff');
+        font-weight: normal;
+        font-style: italic;
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'RoobertENEL-Regular';
+        src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Regular.eot');
+        src: url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Regular.eot?#iefix') format('embedded-opentype'),
+            url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Regular.woff2') format('woff2'),
+            url('https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/newfonts/RoobertENEL-Regular.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+    }
+    *, ::before, ::after{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    @media (max-width: 320px) {
+        section.main div.aside_left  {
+            max-width: 100%;
+        }
+    }
+    @media (max-width: 320px) {
+        section.main div.aside_right  {
+            padding: inherit!important;
+        }
+    }
+    @media (max-width: 768px) {
+
+        section.main {
+            background-color: #d21359;
+        }
+
+        section.main div.aside_left{
+            margin-top: 70px;
+            padding: 0 !important;
+            margin-bottom:0 !important;
+            max-width: 100%;
+        }
+
+        .aside_left .img-container {
+            padding: inherit !important;
+            top: 20px !important;
+            left: initial !important;
+        }
+
+        .aside_left .img-container img{
+            max-width: 60px !important;
+        }
+
+        .logo-s {
+            max-width: 80px !important;
+            top: 20%;
+        }
+
+        .logo-s img {
+            right: -23px !important;
+        }
+    }
+
+    section.main div.half{
+        padding: 2.5% 3% !important;
+    }
+
+    section.main {
+        background-color: #d21359;
+    }
+
+    .half.aside_left {
+        width: 55%;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        justify-content: center;
+        align-items: center;
+        line-height: 1.2;
+    }
+
+    .half.aside_left h2 {
+        font-size: 50px;
+        color: #fff;
+        font-weight: 500;
+    }
+
+    .half.aside_left p {
+        max-width: 550px;
+    }
+    body {
+            max-width: none;
+    }
+    section.main div.aside_right h2{
+        color: #000000;
+    }
+    section.main div.aside_left p{
+        text-align: center!important;
+        font-weight: bolder;
+    }
+    section.main .contenedor{
+        height: auto;
+        min-height: 95vh;
+    }
+    .contenedor .aside_right {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    section.main div.aside_left{
+        background-image: none!important;
+    }
+    section.main{
+        background-color: #d21359;
+        position: relative;
+        z-index: 1;
+    }
+
+    section.main > * {
+        position: relative;
+        z-index: 1;
+    }
+    
+    .parrafo-2 {
+        width: fit-content; 
+        font-size: 30px!important;
+        max-width: 500px; 
+        margin: 20px auto; 
+        padding: 15px 25px;
+        background-color: #FFEB3B;   
+        border-radius: 10px;
+        text-align: center;
+    }
+
+    .parrafo-2 p {
+        font-family: 'RoobertENEL-Bold', sans-serif;
+        font-size: 17px!important;
+        line-height: 1.2;
+        margin: 0!important;
+    }
+
+    .parrafo-2 b {
+        color: #ff0f64;
+        font-size: 22px;
+        font-weight: 900;
+    }
+
+    .aside_left .img-container {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: auto;
+        height: 100%;
+        text-align: left;
+        padding: 1.25% 1.5%;
+    }
+
+    .aside_left .img-container img {
+        max-width: 109px;
+    }
+
+    .logo-s {
+        position: fixed;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-end;
+        right: 0;
+        max-width: 100px;
+        height: 100%;
+        z-index: 3;
+        top: 10%;
+    }
+
+    .logo-s img {
+        position: relative;
+        right: -27px;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+        transform: rotate(270deg);
+    }
+
+    /*textos formulario*/
+
+    .text-center{
+        text-align: center!important;
+        padding-top: 20px;
+    }
+
+    .complement_text{
+        color: #ff0f64;
+        text-align: center!important;
+    }
+
+    form select option {
+        text-align: left;
+    }
+
+    textarea {
+        background-color: #f8f8f8;
+        width: 100%;
+        color: #000000;
+        text-align: left;
+        font-size: 12px;
+        border-radius: 8px;
+        padding: 10px 20px;
+        margin: 6px 0;
+    }
+
+
+    .terms label.check {
+        font-size: 12px;
+        line-height: 14px;
+        cursor: pointer;
+        display: inline-block;
+        margin-left: 5px;
+        text-align: left;
+    }
+
+    form input.button{
+        background-color: #ff0f64;
+        margin-top: 20px;
+    }
+
+    form input[type="checkbox"] {
+        width: auto !important;
+        margin: 0;
+    }
+
+    form .terms label a {
+        text-decoration: underline;
+        font-weight: 600;
+        color: #000000;
+    }
+
+    form .terms {
+        display: flex;
+        align-items: center;
+    }
+
+    .aside_right form > div {
+        padding-left: 15px !important;
+    }
+
+    /* Nuevos Estilos para el Lado Izquierdo y Centro */
+    /* section.main .contenedor {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: stretch;
+        max-width: 1200px;
+        margin: 0 auto;
+    } */
+    .left_and_center {
+        display: flex;
+        flex-wrap: wrap;
+        width: 60%;
+        color: #ffffff;
+        /* padding: 40px 0; */
+        padding: 2.5% 3% !important;
+    }
+    .aside_left_new {
+        width: 50%;
+        /* display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center; */
+    }
+    .text-promotional {
+        font-family: 'RoobertENEL-Light', sans-serif;
+        font-size: 26px;
+        line-height: 1.2;
+        position: relative;
+        top: 55%;
+    }
+    .text-promotional strong {
+        font-family: 'RoobertENEL-Black', sans-serif;
+        font-size: 32px;
+    }
+    .aside_center {
+        width: 50%;
+        padding-left: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .benefits-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+    .benefits-list li {
+        display: flex;
+        align-items: flex-start;
+        margin-bottom: 20px;
+        font-family: 'RoobertENEL-Regular', sans-serif;
+        font-size: 16px;
+        line-height: 1.3;
+    }
+    .benefits-list li .check {
+        margin-right: 15px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .benefits-list li strong {
+        font-family: 'RoobertENEL-Bold', sans-serif;
+        font-size: 18px;
+    }
+    .benefits-list li div {
+        text-align: left;
+    }
+    .enel-slogan {
+        margin-top: 20px;
+        font-family: 'RoobertENEL-Light', sans-serif;
+        font-size: 24px;
+    }
+    .enel-slogan strong {
+        font-family: 'RoobertENEL-Bold', sans-serif;
+    }
+    section.main .half {
+        width: 40%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .img-container.top-left-corner {
+        position: absolute !important;
+        top: -15px;
+        left: 0;
+        padding: 0;
+        z-index: 0;
+    }
+    .img-container.top-left-corner img {
+        display: block;
+    }
+    
+    @media (max-width: 992px) {
+        .img-container.top-left-corner {
+            position: relative !important;
+            top: 0 !important;
+            display: flex;
+            justify-content: center;
+            width: 100%;
+        }
+        .img-container.top-left-corner img {
+            /* width: 100%; */
+            max-width: 100%;
+            margin: 0 auto;
+            margin-left: 0;
+        }
+        .text-promotional {
+            top: 0 !important;
+            text-align: center;
+            margin-top: 20px;
+        }
+        section.main .contenedor {
+            flex-direction: column;
+        }
+        .left_and_center, section.main .half {
+            width: 100%;
+        }
+        .aside_left_new, .aside_center {
+            width: 100%;
+            padding: 0 30px 0 30px;
+            margin-bottom: 30px;
+        }
+        .aside_right {
+            width: 100%;
+        }
+    }
+
+    @media (max-width: 992px) {
+        section.main .contenedor {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .left_and_center {
+            display: contents; 
+        }
+
+        /* Asignar el orden de aparición de cada elemento */
+        .aside_left_new {
+            order: 1; /* Primero: El texto promocional */
+        }
+        section.main .half {
+            order: 2; /* Segundo: El Formulario */
+            width: 100%;
+        }
+        .aside_center {
+            order: 3; /* Tercero: Las viñetas (quedarán debajo del form) */
+            margin-top: 40px;
+        }
+    }
+
+
+    @media screen and (min-width: 993px) and (max-width: 1280px) {
+        .img-container.top-left-corner img {
+            width: 85%;
+        }
+    }
+
+    /* Estado del botón mientras el formulario se está enviando */
+    .button[disabled] {
+        cursor: not-allowed !important;
+        opacity: 0.65;
+        pointer-events: none;
+    }
+
+</style>
+<section class="main">
+    <div class="img-container top-left-corner">
+        <img src="https://www.enel.com.co/content/dam/enel-co/personas/detalle-landings-asistencias/formularios-asitencias/asistencia-hogar-new.png" alt="Mujer y mascota">
+    </div>
+    <section class="contenedor">
+        <div class="left_and_center">
+            <div class="aside_left_new">
+                <div class="text-promotional">
+                    <p>Con la Asistencia<br>Integral 360 Hogar<br>Mascota de Enel,<br><strong>sientes que tu mascota<br>está protegida.</strong></p>
+                </div>
+            </div>
+            <div class="aside_center">
+                <ul class="benefits-list">
+                    <li><span class="check">✔</span> <div><strong>Gastos médicos por accidente hasta por $700.000</strong></div></li>
+                    <li><span class="check">✔</span> <div><strong>Atención veterinaria a domicilio o telefónica</strong></div></li>
+                    <li><span class="check">✔</span> <div><strong>Cuidado y bienestar de tu mascota</strong><br>(Bolsa de eventos para Baño, peluquería, vacunación, pipetas y esterilización)</div></li>
+                    <li><span class="check">✔</span> <div><strong>Protección incluso en ausencia</strong><br>(Guardería o Paseador si no puedes atenderla por incapacidad)</div></li>
+                    <li><span class="check">✔</span> <div><strong>Asistencia exequial para tu mascota</strong><br>(Cremación Individual con entrega de cenizas)</div></li>
+                    <li><span class="check">✔</span> <div><strong>Asistencia para el hogar</strong><br>Apoyo en reparaciones eléctricas y servicios de handyman (Instalación de cortinas, instalación y armado de muebles entre otros servicios)</div></li>
+                </ul>
+                <div class="enel-slogan">
+                </div>
+            </div>
+        </div>
+        <div class="half ng-scope" ng-controller="formController">
+            <div class="aside_right">
+                <form method="post" id="data_form" name="data_form" ng-submit="submit('https://cloud.customer.enelx.com/fh-asistencia-integral')" novalidate="" class="ng-pristine ng-invalid ng-invalid-required ng-valid-pattern ng-valid-email ng-valid-maxlength">
+                <h2 class="text-center">Déjanos tus datos</h2>
+                <!-- <p class="co_text">Los campos con (*) son obligatorios.</p> -->
+
+                <!-- Producto / Servicio -->
+                <!-- <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <input type="text"
+                    name="procuto"
+                    placeholder="Producto / Servicio*"
+                    ng-model="saleforce.producto"
+                    ng-pattern="pattern_words"
+                    required>
+                </div> -->
+
+                <!-- Nombre -->
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+                <input type="text" name="nombre" placeholder="Nombre*" ng-model="saleforce.nombre" ng-pattern="/^[a-zA-Z_áéíóúñÁÉÍÓÚÑ\s]*$/" required="" class="ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required ng-valid-pattern">
+                </div>
+
+                <!-- Apellido -->
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+                <input type="text" name="apellido" placeholder="Apellido*" ng-model="saleforce.apellido" ng-pattern="/^[a-zA-Z_áéíóúñÁÉÍÓÚÑ\s]*$/" required="" class="ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required ng-valid-pattern">
+                </div>
+
+                <!-- Email -->
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <input type="email" name="email" placeholder="Email*" ng-model="saleforce.email" ng-pattern="/^(([^&lt;&gt;()\[\]\\.,;:\s@&quot;]+(\.[^&lt;&gt;()\[\]\\.,;:\s@&quot;]+)*)|(&quot;.+&quot;))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/" required="" class="ng-pristine ng-untouched ng-empty ng-valid-email ng-invalid ng-invalid-required ng-valid-pattern">
+                </div>
+
+                <!-- Teléfono -->
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <input type="text" name="telefono" placeholder="Número de Teléfono*" ng-model="saleforce.telefono" ng-pattern="/^((?=(3))[0-9]{10})$/" maxlength="10" required="" class="ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required ng-valid-pattern ng-valid-maxlength">
+                </div>
+
+                <!-- Mensaje -->
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <textarea name="mensaje" placeholder="Mensaje" ng-model="saleforce.mensaje" rows="6" class="ng-pristine ng-untouched ng-valid ng-empty">                </textarea>
+                </div>
+
+                <!-- Política de Privacidad -->
+                <div class="terms col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <input tabindex="3" type="checkbox" name="privacy" id="privacy" ng-model="saleforce.privacy" autocomplete="off" value="1" required="" class="ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required">
+                    <label for="privacy" class="check">
+                        He leído y acepto las <a href="https://www.enel.com.co/content/dam/enel-co/espa%C3%B1ol/ayuda/politica-de-tratamiento-de-datos-personales-de-enel2.pdf" target="_blank">Política de Privacidad*</a>
+                    </label>
+                </div>
+
+                <!-- Marketing -->
+                <div class="terms col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <input tabindex="4" type="checkbox" name="privacy2" id="privacy2" ng-model="saleforce.marketing" autocomplete="off" value="1" class="ng-pristine ng-untouched ng-valid ng-empty">
+                    <label for="marketing" class="check">
+                        Doy mi consentimiento para el <a href="https://www.enel.com.co/es/consentimiento-para-actividades-de-marketing" target="_blank">tratamiento de datos con fines de marketing</a>
+                    </label>
+                </div>
+
+                <!-- Terceros -->
+                <div class="terms col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <input tabindex="5" type="checkbox" name="privacy3" id="privacy3" ng-model="saleforce.terceros" autocomplete="off" value="1" class="ng-pristine ng-untouched ng-valid ng-empty">
+                    <label for="terceros" class="check">
+                        Doy mi consentimiento a Enel y <a href="https://www.enel.com.co/es/consentimiento-a-codensa-y-a-los-terceros-autorizados-por-ella-p" target="_blank">a los terceros autorizados por ellos</a>
+                    </label>
+                </div>
+
+                <!-- Perfiles -->
+                <div class="terms col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <input tabindex="6" type="checkbox" name="privacy4" id="privacy4" ng-model="saleforce.perfiles" autocomplete="off" value="1" class="ng-pristine ng-untouched ng-valid ng-empty">
+                    <label for="perfiles" class="check">
+                        Doy mi consentimiento para las operaciones de <a href="https://www.enel.com.co/es/elaboracion-de-perfiles" target="_blank">elaboración de perfiles</a>
+                    </label>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                  <input class="button" tabindex="7" type="submit" ng-disabled="isSubmitting" ng-value="valueButton" value="Enviar">
+                </div>
+              </form>
+            </div>
+        </div>
+        <div class="logo-s">
+            <img src="https://www.enel.com.co/content/dam/enel-co/carpeta-global-de-archivos/iconos-y-logos/superintendencia/logo-superintendecnia-small.png" alt="">
+        </div>
+    </section>
+</section>
+<footer>
+<div class="c-container c-container--grid1">
+<div class="c-inner">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-9">
+  <div class="c-nav3">
+    <div class="c-inner">
+      <nav>
+  <ul class="c-nav3__list">
+          <li class="c-nav3__item c-nav3__item--text"><a href="https://www.enel.com.co/" target="_blank" rel="noopener noreferrer"><img src="https://assets.enelcol.com.co/2021/landings/20210211_Landing_cfc/images/logo-enel.png" alt="Enel Colombia" style="max-height: 38px; display: inline-block;"></a></li>
+        </ul>
+        <ul class="c-nav3__list">
+          <li class="c-nav3__item c-nav3__item--text">Enel Colombia S.A ESP</li>
+          <li class="c-nav3__item c-nav3__item--text"><img src="https://assets.enelcol.com.co/2021/landings/20210211_Landing_cfc/images/logo_vigilado-3.png" width="173" alt="Vigilado Superintendencia Financiera de Colombia"></li>
+        </ul>
+        <ul class="c-nav3__list link">
+          
+          
+            <li class="c-nav3__item"><a target="_blank" href="https://www.enel.com.co/es/aviso-privacidad.html">Legal</a><div class="separator_footer"></div></li>
+          
+            <li class="c-nav3__item"><a target="_blank" href="https://www.enel.com.co/es/politica-de-tratamiento-de-datos.html">Privacidad</a><div class="separator_footer"></div></li>
+          
+            <li class="c-nav3__item"><a target="_blank" href="https://www.enel.com.co/es/politica-de-cookies/politica-de-cookies.html">Política de cookies</a><div class="separator_footer"></div></li>
+          
+
+          <li id="language-popup" class="c-nav3__item c-nav3__item--compound ">
+              <span id="popup1" class="enel-x-ist-common-flag-container-1 enel-x-ist-common-flag-container-1--var1">
+                <img src="https://www.enelx.com/content/dam/local-colombia/icon/colombia.svg" width="27" height="18" alt="USA">
+                <span class="enel-x-ist-common-flag-container-1 enel-x-ist-common-flag-container-1--var1">Colombia (Español)</span>
+              </span>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</div>
+<div class="col-md-3 col-xs-12 col-sm-12">
+  <div class="c-navrounded1 c-navrounded1--offset1 text-right sm-text-center">
+    <div class="c-inner">
+      <nav>
+        <ul class="c-navrounded1__list">
+          <li class="c-navrounded1__item"><a target="_blank" href="https://www.facebook.com/EnelColombia" title="Follow us on Facebook"> <img src="https://assets.enelcol.com.co/2021/landings/20210211_Landing_cfc/images/icono-facebook.png"> <span class="sr-only">Facebook</span>
+          </a></li>
+          <li class="c-navrounded1__item"><a target="_blank" href="https://www.instagram.com/enelcolombia/?hl=es" title="Follow us on Instagram"> <img src="https://assets.enelcol.com.co/2025/julio/iconos-formulario-cfc/instagram.png"> <span class="sr-only">Instagram</span>
+          </a></li>
+          <li class="c-navrounded1__item"><a target="_blank" href="https://twitter.com/EnelColombia" title="Follow us on Twitter"> <img src="https://assets.enelcol.com.co/2025/julio/iconos-formulario-cfc/x.png"> <span class="sr-only">Twitter</span>
+          </a></li>
+          <li class="c-navrounded1__item"><a target="_blank" href="https://www.linkedin.com/company/enel-colombia/" title="Follow us on LinkedIn"> <img src="https://assets.enelcol.com.co/2021/landings/20210211_Landing_cfc/images/icono-linkedin.png"> <span class="sr-only">LinkedIn</span>
+          </a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</div></div></div></div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.5/angular.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="text/javascript">
+(function () {
+  angular.module('app', [])
+    .controller('formController', ['$scope', '$http', '$window', function ($scope, $http, $window) {
+
+      // Captura el parámetro ecid del URL
+      var urlParams = new URLSearchParams(window.location.search);
+      var ecidCampania = urlParams.get("ecid") || "sin_ecid";
+      var formStartSent = false;
+
+      function getVisitorId() {
+        try {
+          if (window.Visitor) {
+            var v = Visitor.getInstance("374FFED355B616DC7F000101@AdobeOrg");
+            return v.getMarketingCloudVisitorID() || "";
+          }
+        } catch (e) {}
+        return "";
+      }
+
+      function sendEvent(eventCode, actionName) {
+        try {
+          if (typeof s_gi !== "function") return;
+          var s = s_gi("enelspa.enelcolombia.prod");
+          s.linkTrackVars   = "eVar1,eVar2,eVar3,eVar45,prop1,events";
+          s.linkTrackEvents = eventCode;
+          s.eVar1  = "leads-asistencia-integral";
+          s.eVar2  = actionName;
+          s.eVar3  = getVisitorId();
+          s.eVar45 = ecidCampania;
+          s.prop1  = actionName;
+          s.events = eventCode;
+          s.tl(true, "o", actionName + " - " + ecidCampania);
+        } catch (e) {
+          console.error("Error Adobe Analytics:", e);
+        }
+      }
+
+      setTimeout(function () {
+        var form = document.getElementById("data_form");
+        if (form) {
+          form.addEventListener("focusin", function () {
+            if (!formStartSent) {
+              formStartSent = true;
+              sendEvent("event19", "Form Start - Asistencia Integral 360");
+            }
+          });
+        }
+      }, 1000);
+
+      $scope.saleforce = {
+        producto: 'asistencia-integral-360',
+        nombre: '', apellido: '', email: '',
+        telefono: '', mensaje: '',
+        privacy: false, marketing: false, terceros: false, perfiles: false
+      };
+
+      $scope.validate      = false;
+      $scope.lastValidate  = false;
+      $scope.valueButton   = "Enviar";
+      $scope.isSubmitting  = false;
+      $scope.pattern       = /^[0-9]+$/;
+      $scope.pattern_cel   = /^((?=(3))[0-9]{10})$/;
+      $scope.pattern_words = /^[a-zA-Z_áéíóúñÁÉÍÓÚÑ\s]*$/;
+      $scope.pattern_email = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+
+      $scope.submit = function (url) {
+
+        // Evita que un segundo clic genere otra petición mientras la primera sigue activa.
+        if ($scope.isSubmitting) {
+          return false;
+        }
+
+        if ($scope.data_form.$invalid || !$scope.saleforce.privacy) {
+          alert('Todos los campos con asterisco (*) son obligatorios');
+          return false;
+        }
+
+        $scope.isSubmitting = true;
+        $scope.valueButton = "Enviando...";
+
+        // Registra el Lead únicamente cuando el formulario es válido y se enviará.
+        try {
+          if (typeof fbq === "function") {
+            fbq('track', 'Lead');
+          }
+        } catch (e) {
+          console.error("Error Meta Pixel:", e);
+        }
+
+        sendEvent("event21", "Registration Click - Asistencia Integral 360");
+
+        $http({
+          method: 'POST',
+          url: url,
+          data: $.param($scope.saleforce),
+          headers: { 'Content-Type': 'application/x-www-form-urlencoded' }
+        }).then(function (response) {
+
+          sendEvent("event22", "Form Completed - Asistencia Integral 360");
+
+          setTimeout(function () {
+            $window.location.href = "https://cloud.customer.enelx.com/tp-leads-asistencia-integral";
+          }, 500);
+
+        }, function (error) {
+          console.log('Envío falló:', error);
+          alert("No fue posible enviar el formulario. Por favor intenta nuevamente.");
+          $scope.isSubmitting = false;
+          $scope.valueButton = "Enviar";
+        });
+      };
+
+    }]).directive("limitTo", [function () {
+      return {
+        restrict: "A",
+        link: function (scope, elem, attrs) {
+          var limit = parseInt(attrs.limitTo);
+          angular.element(elem).on("keypress", function (e) {
+            if (this.value.length == limit) e.preventDefault();
+          });
+        }
+      };
+    }]);
+})();
+</script>
+
+<script>
+document .body.addEventListener( "click" , function (event) {
+if (event && event.target && event.target.id === 'truste-consent-button' ) {
+  setTimeout(function(){window.location.reload(); }, 1000 );
+}
+});
+</script><script>
+ var _STATE = {};
+ function runOnce () {
+  if (!_STATE.hasRunOnce && window .truste && truste.eu && truste.eu.prefclose) {
+   console .log( "doing run once" );
+   _STATE.oldValue = truste.eu.bindMap.prefCookie &&
+   truste.eu.bindMap.prefCookie.split( ':' )[ 0 ].replace( /[^\d.]/g , '-' );
+   _STATE.oldMethod = truste.eu.prefclose;
+   truste.eu.prefclose = function () {
+    _STATE.oldMethod();
+    if (truste.eu.bindMap.prefCookie && truste.eu.bindMap.prefCookie.split( ':' )[ 0 ].replace( /[^\d.]/g , '-' ) !== _STATE.oldValue) setTimeout( function () { window .location.reload(); }, 20 );
+   };
+   _STATE.hasRunOnce = true ;
+   _STATE.i && clearInterval(_STATE.i);
+  }
+ }
+ _STATE.i = setInterval(runOnce, 10 );
+</script>
+<script>
+document .body.addEventListener( "click" , function (event) {
+if (event && event.target && event.target.id === 'truste-consent-button' ) {
+  setTimeout(function(){window.location.reload(); }, 1000 );
+}
+});
+</script><script>
+	var _STATE = {};
+	function runOnce () {
+		if (!_STATE.hasRunOnce && window .truste && truste.eu && truste.eu.prefclose) {
+			console .log( "doing run once" );
+			_STATE.oldValue = truste.eu.bindMap.prefCookie &&
+			truste.eu.bindMap.prefCookie.split( ':' )[ 0 ].replace( /[^\d.]/g , '-' );
+			_STATE.oldMethod = truste.eu.prefclose;
+			truste.eu.prefclose = function () {
+				_STATE.oldMethod();
+				if (truste.eu.bindMap.prefCookie && truste.eu.bindMap.prefCookie.split( ':' )[ 0 ].replace( /[^\d.]/g , '-' ) !== _STATE.oldValue) setTimeout( function () { window .location.reload(); }, 20 );
+			};
+			_STATE.hasRunOnce = true ;
+			_STATE.i && clearInterval(_STATE.i);
+		}
+	}
+	_STATE.i = setInterval(runOnce, 10 );
+</script></body></html>

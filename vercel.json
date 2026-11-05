@@ -1,0 +1,10 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/lote2",
+      "destination": "/lote2/index.html"
+    }
+  ]
+}

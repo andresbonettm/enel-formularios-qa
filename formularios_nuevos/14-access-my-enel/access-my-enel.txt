@@ -1,0 +1,4055 @@
+<html lang="es" class="no-touch"><head><style type="text/css">.truste_caIcon_display {display: block !important;}</style><style type="text/css">.truste_cursor_pointer {cursor: pointer;}.truste_border_none {border: none;}</style><style type="text/css">.ta-display-none { display: none; }</style><style type="text/css">.tippy-touch{cursor:pointer!important}.tippy-notransition{transition:none!important}.tippy-popper{max-width:350px;-webkit-perspective:700px;perspective:700px;z-index:9999;outline:0;transition-timing-function:cubic-bezier(.165,.84,.44,1);pointer-events:none;line-height:1.4}.tippy-popper[data-html]{max-width:96%;max-width:calc(100% - 20px)}.tippy-popper[x-placement^=top] .tippy-backdrop{border-radius:40% 40% 0 0}.tippy-popper[x-placement^=top] .tippy-roundarrow{bottom:-8px;-webkit-transform-origin:50% 0;transform-origin:50% 0}.tippy-popper[x-placement^=top] .tippy-roundarrow svg{position:absolute;left:0;-webkit-transform:rotate(180deg);transform:rotate(180deg)}.tippy-popper[x-placement^=top] .tippy-arrow{border-top:7px solid #333;border-right:7px solid transparent;border-left:7px solid transparent;bottom:-7px;margin:0 6px;-webkit-transform-origin:50% 0;transform-origin:50% 0}.tippy-popper[x-placement^=top] .tippy-backdrop{-webkit-transform-origin:0 90%;transform-origin:0 90%}.tippy-popper[x-placement^=top] .tippy-backdrop[data-state=visible]{-webkit-transform:scale(6) translate(-50%,25%);transform:scale(6) translate(-50%,25%);opacity:1}.tippy-popper[x-placement^=top] .tippy-backdrop[data-state=hidden]{-webkit-transform:scale(1) translate(-50%,25%);transform:scale(1) translate(-50%,25%);opacity:0}.tippy-popper[x-placement^=top] [data-animation=shift-toward][data-state=visible]{opacity:1;-webkit-transform:translateY(-10px);transform:translateY(-10px)}.tippy-popper[x-placement^=top] [data-animation=shift-toward][data-state=hidden]{opacity:0;-webkit-transform:translateY(-20px);transform:translateY(-20px)}.tippy-popper[x-placement^=top] [data-animation=perspective]{-webkit-transform-origin:bottom;transform-origin:bottom}.tippy-popper[x-placement^=top] [data-animation=perspective][data-state=visible]{opacity:1;-webkit-transform:translateY(-10px) rotateX(0);transform:translateY(-10px) rotateX(0)}.tippy-popper[x-placement^=top] [data-animation=perspective][data-state=hidden]{opacity:0;-webkit-transform:translateY(0) rotateX(90deg);transform:translateY(0) rotateX(90deg)}.tippy-popper[x-placement^=top] [data-animation=fade][data-state=visible]{opacity:1;-webkit-transform:translateY(-10px);transform:translateY(-10px)}.tippy-popper[x-placement^=top] [data-animation=fade][data-state=hidden]{opacity:0;-webkit-transform:translateY(-10px);transform:translateY(-10px)}.tippy-popper[x-placement^=top] [data-animation=shift-away][data-state=visible]{opacity:1;-webkit-transform:translateY(-10px);transform:translateY(-10px)}.tippy-popper[x-placement^=top] [data-animation=shift-away][data-state=hidden]{opacity:0;-webkit-transform:translateY(0);transform:translateY(0)}.tippy-popper[x-placement^=top] [data-animation=scale][data-state=visible]{opacity:1;-webkit-transform:translateY(-10px) scale(1);transform:translateY(-10px) scale(1)}.tippy-popper[x-placement^=top] [data-animation=scale][data-state=hidden]{opacity:0;-webkit-transform:translateY(0) scale(0);transform:translateY(0) scale(0)}.tippy-popper[x-placement^=bottom] .tippy-backdrop{border-radius:0 0 30% 30%}.tippy-popper[x-placement^=bottom] .tippy-roundarrow{top:-8px;-webkit-transform-origin:50% 100%;transform-origin:50% 100%}.tippy-popper[x-placement^=bottom] .tippy-roundarrow svg{position:absolute;left:0;-webkit-transform:rotate(0);transform:rotate(0)}.tippy-popper[x-placement^=bottom] .tippy-arrow{border-bottom:7px solid #333;border-right:7px solid transparent;border-left:7px solid transparent;top:-7px;margin:0 6px;-webkit-transform-origin:50% 100%;transform-origin:50% 100%}.tippy-popper[x-placement^=bottom] .tippy-backdrop{-webkit-transform-origin:0 -90%;transform-origin:0 -90%}.tippy-popper[x-placement^=bottom] .tippy-backdrop[data-state=visible]{-webkit-transform:scale(6) translate(-50%,-125%);transform:scale(6) translate(-50%,-125%);opacity:1}.tippy-popper[x-placement^=bottom] .tippy-backdrop[data-state=hidden]{-webkit-transform:scale(1) translate(-50%,-125%);transform:scale(1) translate(-50%,-125%);opacity:0}.tippy-popper[x-placement^=bottom] [data-animation=shift-toward][data-state=visible]{opacity:1;-webkit-transform:translateY(10px);transform:translateY(10px)}.tippy-popper[x-placement^=bottom] [data-animation=shift-toward][data-state=hidden]{opacity:0;-webkit-transform:translateY(20px);transform:translateY(20px)}.tippy-popper[x-placement^=bottom] [data-animation=perspective]{-webkit-transform-origin:top;transform-origin:top}.tippy-popper[x-placement^=bottom] [data-animation=perspective][data-state=visible]{opacity:1;-webkit-transform:translateY(10px) rotateX(0);transform:translateY(10px) rotateX(0)}.tippy-popper[x-placement^=bottom] [data-animation=perspective][data-state=hidden]{opacity:0;-webkit-transform:translateY(0) rotateX(-90deg);transform:translateY(0) rotateX(-90deg)}.tippy-popper[x-placement^=bottom] [data-animation=fade][data-state=visible]{opacity:1;-webkit-transform:translateY(10px);transform:translateY(10px)}.tippy-popper[x-placement^=bottom] [data-animation=fade][data-state=hidden]{opacity:0;-webkit-transform:translateY(10px);transform:translateY(10px)}.tippy-popper[x-placement^=bottom] [data-animation=shift-away][data-state=visible]{opacity:1;-webkit-transform:translateY(10px);transform:translateY(10px)}.tippy-popper[x-placement^=bottom] [data-animation=shift-away][data-state=hidden]{opacity:0;-webkit-transform:translateY(0);transform:translateY(0)}.tippy-popper[x-placement^=bottom] [data-animation=scale][data-state=visible]{opacity:1;-webkit-transform:translateY(10px) scale(1);transform:translateY(10px) scale(1)}.tippy-popper[x-placement^=bottom] [data-animation=scale][data-state=hidden]{opacity:0;-webkit-transform:translateY(0) scale(0);transform:translateY(0) scale(0)}.tippy-popper[x-placement^=left] .tippy-backdrop{border-radius:50% 0 0 50%}.tippy-popper[x-placement^=left] .tippy-roundarrow{right:-16px;-webkit-transform-origin:33.33333333% 50%;transform-origin:33.33333333% 50%}.tippy-popper[x-placement^=left] .tippy-roundarrow svg{position:absolute;left:0;-webkit-transform:rotate(90deg);transform:rotate(90deg)}.tippy-popper[x-placement^=left] .tippy-arrow{border-left:7px solid #333;border-top:7px solid transparent;border-bottom:7px solid transparent;right:-7px;margin:3px 0;-webkit-transform-origin:0 50%;transform-origin:0 50%}.tippy-popper[x-placement^=left] .tippy-backdrop{-webkit-transform-origin:100% 0;transform-origin:100% 0}.tippy-popper[x-placement^=left] .tippy-backdrop[data-state=visible]{-webkit-transform:scale(6) translate(40%,-50%);transform:scale(6) translate(40%,-50%);opacity:1}.tippy-popper[x-placement^=left] .tippy-backdrop[data-state=hidden]{-webkit-transform:scale(1.5) translate(40%,-50%);transform:scale(1.5) translate(40%,-50%);opacity:0}.tippy-popper[x-placement^=left] [data-animation=shift-toward][data-state=visible]{opacity:1;-webkit-transform:translateX(-10px);transform:translateX(-10px)}.tippy-popper[x-placement^=left] [data-animation=shift-toward][data-state=hidden]{opacity:0;-webkit-transform:translateX(-20px);transform:translateX(-20px)}.tippy-popper[x-placement^=left] [data-animation=perspective]{-webkit-transform-origin:right;transform-origin:right}.tippy-popper[x-placement^=left] [data-animation=perspective][data-state=visible]{opacity:1;-webkit-transform:translateX(-10px) rotateY(0);transform:translateX(-10px) rotateY(0)}.tippy-popper[x-placement^=left] [data-animation=perspective][data-state=hidden]{opacity:0;-webkit-transform:translateX(0) rotateY(-90deg);transform:translateX(0) rotateY(-90deg)}.tippy-popper[x-placement^=left] [data-animation=fade][data-state=visible]{opacity:1;-webkit-transform:translateX(-10px);transform:translateX(-10px)}.tippy-popper[x-placement^=left] [data-animation=fade][data-state=hidden]{opacity:0;-webkit-transform:translateX(-10px);transform:translateX(-10px)}.tippy-popper[x-placement^=left] [data-animation=shift-away][data-state=visible]{opacity:1;-webkit-transform:translateX(-10px);transform:translateX(-10px)}.tippy-popper[x-placement^=left] [data-animation=shift-away][data-state=hidden]{opacity:0;-webkit-transform:translateX(0);transform:translateX(0)}.tippy-popper[x-placement^=left] [data-animation=scale][data-state=visible]{opacity:1;-webkit-transform:translateX(-10px) scale(1);transform:translateX(-10px) scale(1)}.tippy-popper[x-placement^=left] [data-animation=scale][data-state=hidden]{opacity:0;-webkit-transform:translateX(0) scale(0);transform:translateX(0) scale(0)}.tippy-popper[x-placement^=right] .tippy-backdrop{border-radius:0 50% 50% 0}.tippy-popper[x-placement^=right] .tippy-roundarrow{left:-16px;-webkit-transform-origin:66.66666666% 50%;transform-origin:66.66666666% 50%}.tippy-popper[x-placement^=right] .tippy-roundarrow svg{position:absolute;left:0;-webkit-transform:rotate(-90deg);transform:rotate(-90deg)}.tippy-popper[x-placement^=right] .tippy-arrow{border-right:7px solid #333;border-top:7px solid transparent;border-bottom:7px solid transparent;left:-7px;margin:3px 0;-webkit-transform-origin:100% 50%;transform-origin:100% 50%}.tippy-popper[x-placement^=right] .tippy-backdrop{-webkit-transform-origin:-100% 0;transform-origin:-100% 0}.tippy-popper[x-placement^=right] .tippy-backdrop[data-state=visible]{-webkit-transform:scale(6) translate(-140%,-50%);transform:scale(6) translate(-140%,-50%);opacity:1}.tippy-popper[x-placement^=right] .tippy-backdrop[data-state=hidden]{-webkit-transform:scale(1.5) translate(-140%,-50%);transform:scale(1.5) translate(-140%,-50%);opacity:0}.tippy-popper[x-placement^=right] [data-animation=shift-toward][data-state=visible]{opacity:1;-webkit-transform:translateX(10px);transform:translateX(10px)}.tippy-popper[x-placement^=right] [data-animation=shift-toward][data-state=hidden]{opacity:0;-webkit-transform:translateX(20px);transform:translateX(20px)}.tippy-popper[x-placement^=right] [data-animation=perspective]{-webkit-transform-origin:left;transform-origin:left}.tippy-popper[x-placement^=right] [data-animation=perspective][data-state=visible]{opacity:1;-webkit-transform:translateX(10px) rotateY(0);transform:translateX(10px) rotateY(0)}.tippy-popper[x-placement^=right] [data-animation=perspective][data-state=hidden]{opacity:0;-webkit-transform:translateX(0) rotateY(90deg);transform:translateX(0) rotateY(90deg)}.tippy-popper[x-placement^=right] [data-animation=fade][data-state=visible]{opacity:1;-webkit-transform:translateX(10px);transform:translateX(10px)}.tippy-popper[x-placement^=right] [data-animation=fade][data-state=hidden]{opacity:0;-webkit-transform:translateX(10px);transform:translateX(10px)}.tippy-popper[x-placement^=right] [data-animation=shift-away][data-state=visible]{opacity:1;-webkit-transform:translateX(10px);transform:translateX(10px)}.tippy-popper[x-placement^=right] [data-animation=shift-away][data-state=hidden]{opacity:0;-webkit-transform:translateX(0);transform:translateX(0)}.tippy-popper[x-placement^=right] [data-animation=scale][data-state=visible]{opacity:1;-webkit-transform:translateX(10px) scale(1);transform:translateX(10px) scale(1)}.tippy-popper[x-placement^=right] [data-animation=scale][data-state=hidden]{opacity:0;-webkit-transform:translateX(0) scale(0);transform:translateX(0) scale(0)}.tippy-tooltip{position:relative;color:#fff;border-radius:4px;font-size:.9rem;padding:.3rem .6rem;text-align:center;will-change:transform;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;background-color:#333}.tippy-tooltip[data-size=small]{padding:.2rem .4rem;font-size:.75rem}.tippy-tooltip[data-size=large]{padding:.4rem .8rem;font-size:1rem}.tippy-tooltip[data-animatefill]{overflow:hidden;background-color:transparent}.tippy-tooltip[data-animatefill] .tippy-content{transition:-webkit-clip-path cubic-bezier(.46,.1,.52,.98);transition:clip-path cubic-bezier(.46,.1,.52,.98);transition:clip-path cubic-bezier(.46,.1,.52,.98),-webkit-clip-path cubic-bezier(.46,.1,.52,.98)}.tippy-tooltip[data-interactive],.tippy-tooltip[data-interactive] path{pointer-events:auto}.tippy-tooltip[data-inertia][data-state=visible]{transition-timing-function:cubic-bezier(.53,2,.36,.85)}.tippy-tooltip[data-inertia][data-state=hidden]{transition-timing-function:ease}.tippy-arrow,.tippy-roundarrow{position:absolute;width:0;height:0}.tippy-roundarrow{width:24px;height:8px;fill:#333;pointer-events:none}.tippy-backdrop{position:absolute;will-change:transform;background-color:#333;border-radius:50%;width:26%;left:50%;top:50%;z-index:-1;transition:all cubic-bezier(.46,.1,.52,.98);-webkit-backface-visibility:hidden;backface-visibility:hidden}.tippy-backdrop:after{content:"";float:left;padding-top:100%}body:not(.tippy-touch) .tippy-tooltip[data-animatefill][data-state=visible] .tippy-content{-webkit-clip-path:ellipse(100% 100% at 50% 50%);clip-path:ellipse(100% 100% at 50% 50%)}body:not(.tippy-touch) .tippy-tooltip[data-animatefill][data-state=hidden] .tippy-content{-webkit-clip-path:ellipse(5% 50% at 50% 50%);clip-path:ellipse(5% 50% at 50% 50%)}body:not(.tippy-touch) .tippy-popper[x-placement=right] .tippy-tooltip[data-animatefill][data-state=visible] .tippy-content{-webkit-clip-path:ellipse(135% 100% at 0 50%);clip-path:ellipse(135% 100% at 0 50%)}body:not(.tippy-touch) .tippy-popper[x-placement=right] .tippy-tooltip[data-animatefill][data-state=hidden] .tippy-content{-webkit-clip-path:ellipse(40% 100% at 0 50%);clip-path:ellipse(40% 100% at 0 50%)}body:not(.tippy-touch) .tippy-popper[x-placement=left] .tippy-tooltip[data-animatefill][data-state=visible] .tippy-content{-webkit-clip-path:ellipse(135% 100% at 100% 50%);clip-path:ellipse(135% 100% at 100% 50%)}body:not(.tippy-touch) .tippy-popper[x-placement=left] .tippy-tooltip[data-animatefill][data-state=hidden] .tippy-content{-webkit-clip-path:ellipse(40% 100% at 100% 50%);clip-path:ellipse(40% 100% at 100% 50%)}@media (max-width:360px){.tippy-popper{max-width:96%;max-width:calc(100% - 20px)}}</style><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/static/identify_3fd9fe73.js"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/static/main.MWJhZThiYmZhOA.js" data-id="CVC5L13C77UANTV9L0QG"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/static/main.MWJhZThiYmZhMQ.js" data-id="CN9MGKJC77U812BT23DG"></script><script async="" src="https://scripts.clarity.ms/0.8.73-beta/clarity.js"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CVC5L13C77UANTV9L0QG&amp;lib=ttq"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CN9MGKJC77U812BT23DG&amp;lib=ttq"></script><script type="text/javascript" async="" src="https://www.clarity.ms/tag/ou05q4mgdt?ref=gtm"></script><script src="https://connect.facebook.net/signals/config/988025309635576?v=2.9.435&amp;r=stable&amp;domain=www.enel.com.co&amp;hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&amp;ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189%2C231%2C226%2C229%2C230%2C208%2C224%2C399%2C207%2C227%2C228%2C259%2C225%2C223%2C350%2C236%2C235%2C234%2C287%2C243%2C221%2C222%2C220%2C392%2C384%2C385%2C376%2C381%2C378%2C380%2C379%2C377%2C386%2C388%2C383%2C389%2C382%2C387%2C375%2C232%2C313%2C317%2C321%2C322%2C323%2C318%2C324%2C316%2C311%2C326%2C327%2C315%2C325%2C329%2C319%2C314%2C320%2C328%2C330%2C312%2C241%2C310%2C348" async=""></script><script src="https://connect.facebook.net/signals/config/1305423820121827?v=2.9.435&amp;r=stable&amp;domain=www.enel.com.co&amp;hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&amp;ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189%2C231%2C226%2C229%2C230%2C208%2C224%2C399%2C207%2C227%2C228%2C259%2C225%2C223%2C350%2C236%2C235%2C234%2C287%2C243%2C221%2C222%2C220%2C392%2C384%2C385%2C376%2C381%2C378%2C380%2C379%2C377%2C386%2C388%2C383%2C389%2C382%2C387%2C375%2C232%2C313%2C317%2C321%2C322%2C323%2C318%2C324%2C316%2C311%2C326%2C327%2C315%2C325%2C329%2C319%2C314%2C320%2C328%2C330%2C312%2C241%2C310" async=""></script><script src="https://connect.facebook.net/signals/config/377704329976690?v=2.9.435&amp;r=stable&amp;domain=www.enel.com.co&amp;hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&amp;ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189%2C231%2C226%2C229%2C230%2C208%2C224%2C399%2C207%2C227%2C228%2C259%2C225%2C223%2C350%2C236%2C235%2C234%2C287%2C243%2C221%2C222%2C220%2C392%2C384%2C385%2C376%2C381%2C378%2C380%2C379%2C377%2C386%2C388%2C383%2C389%2C382%2C387%2C375%2C232%2C313%2C317%2C321%2C322%2C323%2C318%2C324%2C316%2C311%2C326%2C327%2C315%2C325%2C329%2C319%2C314%2C320%2C328%2C330%2C312%2C241%2C310" async=""></script><script src="https://connect.facebook.net/signals/config/538353060588462?v=2.9.435&amp;r=stable&amp;domain=www.enel.com.co&amp;hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&amp;ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189%2C231%2C226%2C229%2C230%2C208%2C224%2C399%2C207%2C227%2C228%2C259%2C225%2C223%2C350%2C236%2C235%2C234%2C287%2C243%2C221%2C222%2C220%2C392%2C384%2C385%2C376%2C381%2C378%2C380%2C379%2C377%2C386%2C388%2C383%2C389%2C382%2C387%2C375%2C232%2C313%2C317%2C321%2C322%2C323%2C318%2C324%2C316%2C311%2C326%2C327%2C315%2C325%2C329%2C319%2C314%2C320%2C328%2C330%2C312%2C241%2C310" async=""></script><script src="https://connect.facebook.net/signals/config/258615284822188?v=2.9.435&amp;r=stable&amp;domain=www.enel.com.co&amp;hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&amp;ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189%2C231%2C226%2C229%2C230%2C208%2C224%2C399%2C207%2C227%2C228%2C259%2C225%2C223%2C350%2C236%2C235%2C234%2C287%2C243%2C221%2C222%2C220%2C392%2C384%2C385%2C376%2C381%2C378%2C380%2C379%2C377%2C386%2C388%2C383%2C389%2C382%2C387%2C375%2C232" async=""></script><script src="https://connect.facebook.net/signals/config/551025809130209?v=2.9.435&amp;r=stable&amp;domain=www.enel.com.co&amp;hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&amp;ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189%2C231%2C226%2C229%2C230%2C208%2C224%2C399%2C207%2C227%2C228%2C259%2C225%2C223%2C350%2C236%2C235%2C234%2C287%2C243%2C221%2C222%2C220%2C392%2C384%2C385%2C376%2C381%2C378%2C380%2C379%2C377%2C386%2C388%2C383%2C389%2C382%2C387%2C375%2C232" async=""></script><script src="https://connect.facebook.net/signals/config/381657009025518?v=2.9.435&amp;r=stable&amp;domain=www.enel.com.co&amp;hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&amp;ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189%2C231%2C226%2C229%2C230%2C208%2C224%2C399%2C207%2C227%2C228%2C259%2C225%2C223%2C350%2C236%2C235%2C234%2C287%2C243%2C221%2C222%2C220%2C392%2C384%2C385%2C376%2C381%2C378%2C380%2C379%2C377%2C386%2C388%2C383%2C389%2C382%2C387%2C375%2C232" async=""></script><script src="https://connect.facebook.net/signals/config/1061864582474708?v=2.9.435&amp;r=stable&amp;domain=www.enel.com.co&amp;hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&amp;ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189%2C231%2C226%2C229%2C230%2C208%2C224%2C399%2C207%2C227%2C228%2C259%2C225%2C223%2C350%2C236%2C235%2C234%2C287%2C243%2C221%2C222%2C220%2C392%2C384%2C385%2C376%2C381%2C378%2C380%2C379%2C377%2C386%2C388%2C383%2C389%2C382%2C387%2C375%2C232" async=""></script><script src="https://connect.facebook.net/signals/config/1781365148962423?v=2.9.435&amp;r=stable&amp;domain=www.enel.com.co&amp;hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&amp;ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189" async=""></script><script type="text/javascript" async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-338586563&amp;cx=c&amp;gtm=4e6b40"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=DC-9919689&amp;cx=c&amp;gtm=4e6b40"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=DC-9865914&amp;cx=c&amp;gtm=4e6b40"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-620090016&amp;cx=c&amp;gtm=4e6b40"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=DC-10660234&amp;cx=c&amp;gtm=4e6b40"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-11111763679&amp;cx=c&amp;gtm=4e6b40"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-10971675461&amp;cx=c&amp;gtm=4e6b40"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-10961025706&amp;cx=c&amp;gtm=4e6b40"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MTCWVMZ"></script><script src="/hysicking-an-Who-way-requete-vp-not-stranch-This" async=""></script>
+    
+	<script>
+
+        function readCookie(name) {
+            var nameEQ = name + "=";
+            var ca = document.cookie.split(';');
+            for(var i=0;i < ca.length;i++) {
+                var c = ca[i];
+                while (c.charAt(0)==' ') c = c.substring(1,c.length);
+                if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+            }
+            return null;
+        }
+
+        function getDuplicatedParameters (parameterMap) {
+            var arr = parameterMap;
+            var sorted_arr = arr.slice().sort();
+            var results = [];
+            for (var i = 0; i < arr.length - 1; i++) {
+                if (sorted_arr[i + 1] == sorted_arr[i]) {
+                    results.push(sorted_arr[i]);
+                }
+            }
+            return results;
+        }
+
+        function getParameterMapName (url) {
+            var queryString = getQueryString(url);
+            var parameterMaps = queryString.split("=");
+            var paramsName = [];
+            for(var i in parameterMaps)
+            {
+                var param = parameterMaps[i];
+                var paramName;
+                if (param.indexOf('?')>= 0) {
+                    paramName = param.split('?')[1];
+                } else {
+                    paramName = param.split('&')[1];
+                }
+                paramsName[i] = paramName;
+            }
+            return paramsName;
+        }
+
+        function purgeDuplicatedParams (url) {
+            var urlResult = url;
+            var duplicatedParams = getDuplicatedParameters(getParameterMapName(url));
+            for (var i in duplicatedParams) {
+                urlResult = removeURLParameter(urlResult,duplicatedParams[i]);
+            }
+            return urlResult;
+        }
+
+        function updateQueryStringParameter(uri, key, value) {
+            if (value != null && value.length > 0) {
+                var re = new RegExp("([?&])" + key + "=.*?(&|$)", "i");
+                var separator = uri.indexOf('?') !== -1 ? "&" : "?";
+                if (uri.match(re)) {
+                    return uri.replace(re, '$1' + key + "=" + value + '$2');
+                }
+                else {
+                    return uri + separator + key + "=" + value;
+                }
+            }
+            return uri;
+        }
+
+        function removeURLParameter(url, parameter) {
+            var urlparts= url.split('?');
+            if (urlparts.length>=2) {
+                var prefix= encodeURIComponent(parameter)+'=';
+                var pars= urlparts[1].split(/[&;]/g);
+                var removed = false;
+                for (var i= pars.length; i-- > 0;) {
+                    if (pars[i].lastIndexOf(prefix, 0) !== -1 && !removed) {
+                        pars.splice(i, 1);
+                        removed = true;
+                    }
+                }
+                url= urlparts[0] + (pars.length > 0 ? '?' + pars.join('&') : "");
+                return url;
+            } else {
+                return url;
+            }
+        }
+
+        function getQueryString(url, redirect) {
+            var queryString = url.split('?')[1];
+            if (typeof queryString == 'undefined') {
+                queryString = '';
+            } else {
+                if (typeof (redirect)!= 'undefined' && redirect.indexOf('?')>0) {
+                    queryString = '&' + queryString;
+                } else {
+                    queryString = '?' + queryString;
+                }
+            }
+            return queryString;
+        }
+
+        try {
+	        if(readCookie('langRedirect') == null){
+	            document.cookie = "langRedirect=MQ==;path=/" ;
+	            var langMapString = "";
+	            if( langMapString != null ){
+	                var browserlanguage = navigator.language;
+	                browserlanguage = browserlanguage.split("-")[0];
+	                var obj = JSON.parse(langMapString);
+	                var redirect = obj[browserlanguage];
+	                if(redirect != null){
+	                    redirect = purgeDuplicatedParams (redirect + getQueryString(window.location.href, redirect));
+	                    window.location.href=updateQueryStringParameter(redirect,'refred', document.referrer);
+	                }
+	            }
+	        }
+        } catch (e) {
+        	console.log(e.message);
+        }
+        
+    document.addEventListener("DOMContentLoaded", function(event) { 
+   		history.replaceState({}, 'Title', removeURLParameter(location.href, 'refred'));
+   	});
+    </script>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1">
+    
+    <meta name="description" content="Accede a tu zona privada Mi Enel para consultar tu factura, historial de pagos, consumo de los últimos 12 meses y gestionar solicitudes de tu servicio.
+">
+    
+    
+    
+<script type="text/javascript" src="/ruxitagentjs_ICA27NVfjqrux_10263230921131557.js" data-dtconfig="rid=RID_-649076687|rpid=-1618437405|domain=enel.com.co|reportUrl=/rb_a0585c7b-16a9-4040-b14e-0e26e2d473fe|app=29c144ad9e623ab8|cuc=bka6fatw|srtbv=4|owasp=1|mel=100000|featureHash=ICA27NVfjqrux|lastModification=1793901010024|tp=500,50,0,1|rdnt=1|uxrgce=1|srbbv=3|agentUri=/ruxitagentjs_ICA27NVfjqrux_10263230921131557.js"></script><link rel="stylesheet" href="/etc.clientlibs/foundation/clientlibs/main.min.css" type="text/css">
+<script src="/etc.clientlibs/clientlibs/granite/jquery.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/utils.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/jquery/granite.min.js"></script>
+<script src="/etc.clientlibs/foundation/clientlibs/jquery.min.js"></script>
+<script src="/etc.clientlibs/foundation/clientlibs/shared.min.js"></script>
+<script src="/etc.clientlibs/foundation/clientlibs/main.min.js"></script>
+
+
+
+    
+    <link href="/etc/designs/enel-co.css" rel="stylesheet" type="text/css">
+
+    
+
+
+
+
+
+
+
+
+    
+
+    <!--<sly data-sly-use.clientLib="/libs/granite/sightly/templates/clientlib.html" data-sly-call=""/>-->
+
+    
+<link rel="stylesheet" href="/etc/designs/enel-co/clientlib-site.min.css" type="text/css">
+
+
+
+
+    
+<script src="/etc/designs/enel-co/localizatorColombia.min.js"></script>
+
+
+
+
+
+
+
+
+<style>
+    .hero-footer.parbase {
+        position: relative;
+        float: left;
+        width: 100%;
+        z-index: 3;
+        margin-bottom: 10%;
+    }
+
+    .search-form{
+        top:0;
+    }
+
+    .bannerfullwidthimage section.container.full-width-banner-outer.cq-placeholder.anchor {
+        min-height:340px;
+    }
+
+    .tile_description.text--tile-description {
+        display: inherit;
+        font-size: large;
+    }
+
+    /*fix image height in hub module left */ 
+    /*mobile*/
+    .tile--gbody .tile_inner {
+        max-height: 410px;
+    }
+    @media screen and (max-width: 767px)
+    {   
+        .tile_inner {
+            height: 410px;
+        }
+    }
+    /*Desktop*/
+    @media screen and (min-width: 1318px){
+        .tile--gbody .tile_inner {
+            min-height: 410px;
+        }
+    }
+    @media screen and (min-width: 768px){
+        .tile--gbody .tile_inner {
+            min-height: 350px;
+        }
+    }
+
+    @media screen and (max-width: 1024px) and (min-width: 768px){
+        .module-content .tile--small .tile_inner {
+            height: 410px;
+        }
+    }
+
+    /*fix space in card*/
+    /* 
+    .tile--small .tile_image-wrapper{
+        padding-bottom: 0;
+    }
+    @media screen and (max-width: 767px){
+        tile--small .tile_inner {
+            height: fit-content;
+        }
+    }
+
+    @media screen and (max-width: 767px){
+        .hub_group--header-left .module-content.parbase .tile--small {
+            height: fit-content;
+        }
+    } */
+
+    /*Checkboxs better readability*/
+    .form-content input[type="checkbox"]+label::before {
+        border: #000000ab solid 1px;
+    }
+
+    .form-content input[type="checkbox"]:checked+label::before {
+        border: #000000ab solid 1px;
+    }
+
+    /*Fix "X" in header from ranks buttons script
+    body div.modalClose {
+        display: none;
+    }*/
+</style>
+    
+    <meta name="author" content="">
+
+
+
+	<meta name="robots" content="index,follow">
+
+    
+<meta property="og:locale" content="es">
+<meta property="og:url" content="https://enel.com.co/content/enel-co/es/AccessMyEnel.html">
+<meta property="og:type" content="business.business">
+<meta property="og:title" content="Ingresa a Mi Enel | Zona Privada de Clientes Colombia">
+<meta property="og:description" content="Consulta tu factura de energía, historial de pagos y consumo de los últimos 12 meses. Accede a tu zona privada Mi Enel desde cualquier lugar.">
+<meta property="og:image">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Consulta tu factura de energía, historial de pagos y consumo de los últimos 12 meses. Accede a tu zona privada Mi Enel desde cualquier lugar.">
+<meta name="twitter:title" content="Ingresa a Mi Enel | Zona Privada de Clientes Colombia">
+    <link rel="icon" type="image/vnd.microsoft.icon" href="/etc/designs/enel-co/favicon.ico">
+    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/etc/designs/enel-co/favicon.ico">
+    
+    
+     <title>Ingresa a Mi Enel | Zona Privada de Clientes Colombia</title>
+    
+ 	
+	
+     <link rel="alternate" hreflang="es" href="https://www.enel.com.co/es/AccessMyEnel.html">
+    
+     <link rel="alternate" hreflang="en" href="https://www.enel.com.co/en.html">
+    
+
+    
+    
+     <link rel="canonical" href="https://www.enel.com.co/es/AccessMyEnel.html">
+    
+
+    <script>document.createElement( "picture" );</script>
+    <script async="async" src="/etc/designs/enel-co/js/picturefill.min.js"></script>
+
+    <!-- Google Tag Manager (noscript) --> 
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MTCWVMZ" 
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> 
+<!-- End Google Tag Manager (noscript) --> 
+
+<!-- Adobe Script -->
+<script>window.adobeDataLayer = window.adobeDataLayer || [];</script>
+<script src="https://assets.adobedtm.com/58373ae8f4f6/1b8196dc8ed3/launch-bf0b791f2a5e.min.js"></script><script src="https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement.min.js" async=""></script><script src="https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement_Module_ActivityMap.min.js" async=""></script>
+<!-- End Adobe Script -->
+
+
+
+    <!-- Popup generado por Popup Builder -->
+<!--<style>
+  #enel-maintenance-popup-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 10000;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    background: rgba(0,0,0,0.40);
+  }
+
+  #enel-maintenance-popup-overlay.enel-maintenance-popup--visible {
+    display: flex;
+  }
+
+  #enel-maintenance-popup-overlay .enel-maintenance-popup__dialog {
+    position: relative;
+    width: min(100%, 460px);
+    max-height: calc(100vh - 48px);
+    overflow-y: auto;
+    background: #ffffff;
+    color: #676767;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 16px 42px rgba(0,0,0,.28);
+    animation: enel-maintenance-popup-fade-scale .28s ease both;
+  }
+
+  #enel-maintenance-popup-overlay .enel-maintenance-popup__header {
+    padding: 20px;
+    background: #41b9e6;
+    border-radius: 10px 10px 0 0;
+  }
+
+  #enel-maintenance-popup-overlay .enel-maintenance-popup__icon {
+    display: block;
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+    margin: 0 auto;
+  }
+
+  #enel-maintenance-popup-overlay .enel-maintenance-popup__content {
+    padding: 36px;
+    font-size: 18px;
+    line-height: 1.5;
+  }
+
+  #enel-maintenance-popup-overlay .enel-maintenance-popup__title {
+    margin: 0 0 18px;
+    font-size: 1.15em;
+  }
+
+  #enel-maintenance-popup-overlay .enel-maintenance-popup__text {
+    margin: 0;
+    white-space: pre-wrap;
+  }
+
+  #enel-maintenance-popup-overlay .enel-maintenance-popup__text + .enel-maintenance-popup__text {
+    margin-top: 16px;
+  }
+
+  #enel-maintenance-popup-overlay .enel-maintenance-popup__closing {
+    font-weight: 700;
+  }
+
+  #enel-maintenance-popup-overlay .enel-maintenance-popup__close {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    z-index: 2;
+    display: grid;
+    place-items: center;
+    width: 36px;
+    height: 36px;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    cursor: pointer;
+  }
+
+  #enel-maintenance-popup-overlay .enel-maintenance-popup__close img {
+    display: block;
+    width: 17px;
+    height: 17px;
+    object-fit: contain;
+  }
+
+  #enel-maintenance-popup-overlay .enel-maintenance-popup__close:focus-visible {
+    outline: 3px solid #fff;
+    outline-offset: 2px;
+    border-radius: 5px;
+  }
+
+  #enel-maintenance-popup-overlay .enel-maintenance-popup__cta {
+    display: inline-flex;
+    margin-top: 20px;
+    padding: 11px 18px;
+    border-radius: 8px;
+    background: #d3135a;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 700;
+  }
+
+  @keyframes enel-maintenance-popup-fade-scale {
+    from { opacity: 0; transform: scale(.94); }
+    to { opacity: 1; transform: scale(1); }
+  }
+
+  @keyframes enel-maintenance-popup-fade {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  @keyframes enel-maintenance-popup-slide {
+    from { opacity: 0; transform: translateY(28px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  @media (max-width: 600px) {
+    #enel-maintenance-popup-overlay { padding: 16px; }
+    #enel-maintenance-popup-overlay .enel-maintenance-popup__content {
+      padding: min(36px, 24px);
+      font-size: min(18px, 16px);
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    #enel-maintenance-popup-overlay .enel-maintenance-popup__dialog { animation: none; }
+  }
+</style>
+
+<div id="enel-maintenance-popup-overlay" aria-hidden="true">
+  <section class="enel-maintenance-popup__dialog" role="dialog" aria-modal="true" aria-labelledby="enel-maintenance-popup-title" aria-describedby="enel-maintenance-popup-description">
+    <button type="button" class="enel-maintenance-popup__close" aria-label="Cerrar aviso"><img src="https://www.enel.com.co/content/dam/enel-co/español/area-privada/x.png" alt=""></button>
+    <div class="enel-maintenance-popup__header">
+      <img class="enel-maintenance-popup__icon" src="https://www.enel.com.co/content/dam/enel-co/español/area-privada/icono-advertencia-pop-up-FEB.png" alt="">
+    </div>
+    <div class="enel-maintenance-popup__content" id="enel-maintenance-popup-description">
+      <h2 class="enel-maintenance-popup__title" id="enel-maintenance-popup-title">Te informamos que:</h2>
+      <p class="enel-maintenance-popup__text">Nuestros canales digitales, Zona Privada de la web y App Enel, estarán en mantenimiento programado este sábado 19 de septiembre a las 8:00 p. m. hasta el domingo 20 de septiembre a las 11:00 a. m.</p>
+      <p class="enel-maintenance-popup__text">Durante este período, algunas consultas y transacciones podrían no estar disponibles temporalmente.</p>
+      <p class="enel-maintenance-popup__text enel-maintenance-popup__closing">¡Agradecemos tu comprensión!</p>
+      
+    </div>
+  </section>
+</div>
+
+<script>
+(() => {
+  'use strict';
+
+  const config = {
+    popupId: "enel-maintenance-popup",
+    startAt: "2026-09-19T19:30:00-05:00",
+    endAt: "2026-09-20T11:15:00-05:00",
+    delay: 0,
+    frequency: "always",
+    closeOnOverlay: true,
+    closeOnEscape: true,
+    lockScroll: true
+  };
+
+  const overlay = document.getElementById(config.popupId + '-overlay');
+  if (!overlay) return;
+
+  const closeButton = overlay.querySelector('.' + config.popupId + '__close');
+  const storageKey = config.popupId + ':dismissed';
+  let previousActiveElement = null;
+
+  const startTimestamp = config.startAt ? Date.parse(config.startAt) : null;
+  const endTimestamp = config.endAt ? Date.parse(config.endAt) : null;
+  const MAX_TIMEOUT = 2147483647;
+
+  const isInsideSchedule = () => {
+    const now = Date.now();
+    if (startTimestamp !== null && now < startTimestamp) return false;
+    if (endTimestamp !== null && now >= endTimestamp) return false;
+    return true;
+  };
+
+  const scheduleAt = (timestamp, callback) => {
+    const remaining = timestamp - Date.now();
+    if (remaining <= 0) {
+      callback();
+      return;
+    }
+    window.setTimeout(() => scheduleAt(timestamp, callback), Math.min(remaining, MAX_TIMEOUT));
+  };
+
+  const frequencyAllowsDisplay = () => {
+    try {
+      if (config.frequency === 'session') return sessionStorage.getItem(storageKey) !== '1';
+      if (config.frequency === 'ever') return localStorage.getItem(storageKey) !== '1';
+      if (config.frequency === 'day') {
+        const todayBogota = new Intl.DateTimeFormat('en-CA', {
+          timeZone: 'America/Bogota', year: 'numeric', month: '2-digit', day: '2-digit'
+        }).format(new Date());
+        return localStorage.getItem(storageKey) !== todayBogota;
+      }
+    } catch (_) {
+      return true;
+    }
+    return true;
+  };
+
+  const markDismissed = () => {
+    try {
+      if (config.frequency === 'session') sessionStorage.setItem(storageKey, '1');
+      if (config.frequency === 'ever') localStorage.setItem(storageKey, '1');
+      if (config.frequency === 'day') {
+        const todayBogota = new Intl.DateTimeFormat('en-CA', {
+          timeZone: 'America/Bogota', year: 'numeric', month: '2-digit', day: '2-digit'
+        }).format(new Date());
+        localStorage.setItem(storageKey, todayBogota);
+      }
+    } catch (_) {}
+  };
+
+  const openPopup = () => {
+    if (!isInsideSchedule() || !frequencyAllowsDisplay()) return;
+    previousActiveElement = document.activeElement;
+    overlay.classList.add(config.popupId + '--visible');
+    overlay.setAttribute('aria-hidden', 'false');
+    if (config.lockScroll) document.documentElement.style.overflow = 'hidden';
+    if (closeButton) closeButton.focus();
+  };
+
+  const closePopup = (rememberDismissal = true) => {
+    overlay.classList.remove(config.popupId + '--visible');
+    overlay.setAttribute('aria-hidden', 'true');
+    if (config.lockScroll) document.documentElement.style.overflow = '';
+    if (rememberDismissal) markDismissed();
+    if (previousActiveElement && typeof previousActiveElement.focus === 'function') previousActiveElement.focus();
+  };
+
+  if (closeButton) closeButton.addEventListener('click', () => closePopup(true));
+
+  if (config.closeOnOverlay) {
+    overlay.addEventListener('click', (event) => {
+      if (event.target === overlay) closePopup(true);
+    });
+  }
+
+  if (config.closeOnEscape) {
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape' && overlay.classList.contains(config.popupId + '--visible')) closePopup(true);
+    });
+  }
+
+  const scheduleLifecycle = () => {
+    if (endTimestamp !== null && Date.now() >= endTimestamp) return;
+
+    const showWithDelay = () => window.setTimeout(openPopup, config.delay);
+    if (startTimestamp !== null && Date.now() < startTimestamp) scheduleAt(startTimestamp, showWithDelay);
+    else showWithDelay();
+
+    if (endTimestamp !== null) {
+      scheduleAt(endTimestamp, () => closePopup(false));
+    }
+  };
+
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', scheduleLifecycle, { once: true });
+  else scheduleLifecycle();
+})();
+</script>-->
+
+
+   
+<script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16552401427/?random=1793911863357&amp;cv=11&amp;fst=1793911863357&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be6b40v895896683za20ozb810608154zd810608154xecxf1&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=115938465~115938469~117776796~118897920~118897930~120213116~120385423~120412526~120420414~120469145~120469153~121191153~121246026~121246034~123814183&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fwww.enel.com.co%2Fes%2FAccessMyEnel.html%3FcommonAuthCallerPath%3D%252Fsamlsso%26forceAuth%3Dfalse%26passiveAuth%3Dfalse%26spEntityID%3DENEL_WEB_COL%26sessionDataKey%3Dd184e73f-453d-48e8-8c3e-781f1705d697%26relyingParty%3DENEL_WEB_COL%26type%3Dsamlsso%26sp%3DENEL_WEB_COL%26spId%3D22feb74f-68d3-4887-976c-ea5a564c9713%26isSaaSApp%3Dfalse%26authenticators%3DFacebookAuthenticator%253Afacebook%253BGoogleOIDCAuthenticator%253Agoogle%253BEnelCustomBasicAuthenticator%253ALOCAL&amp;ref=https%3A%2F%2Fwww.enel.com.co%2F&amp;rcb=14&amp;frm=0&amp;tiba=Ingresa%20a%20Mi%20Enel%20%7C%20Zona%20Privada%20de%20Clientes%20Colombia&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=439812965.1792171474&amp;uaa=arm&amp;uab=64&amp;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.80%7CGoogle%2520Chrome%3B156.0.8078.80&amp;uamb=0&amp;uam=&amp;uap=macOS&amp;uapv=26.5.1&amp;uaw=0&amp;data=event%3Dgtag.config&amp;ept=9&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10971675461/?random=1793911863387&amp;cv=11&amp;fst=1793911863387&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be6b40v892883988za20ozb810608154zd810608154xecxf1&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=115938465~115938469~117776796~118897920~118897930~120213116~120385423~120412528~120420414~120469145~120469153~121191153~121246026~121246034~123814185&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fwww.enel.com.co%2Fes%2FAccessMyEnel.html%3FcommonAuthCallerPath%3D%252Fsamlsso%26forceAuth%3Dfalse%26passiveAuth%3Dfalse%26spEntityID%3DENEL_WEB_COL%26sessionDataKey%3Dd184e73f-453d-48e8-8c3e-781f1705d697%26relyingParty%3DENEL_WEB_COL%26type%3Dsamlsso%26sp%3DENEL_WEB_COL%26spId%3D22feb74f-68d3-4887-976c-ea5a564c9713%26isSaaSApp%3Dfalse%26authenticators%3DFacebookAuthenticator%253Afacebook%253BGoogleOIDCAuthenticator%253Agoogle%253BEnelCustomBasicAuthenticator%253ALOCAL&amp;ref=https%3A%2F%2Fwww.enel.com.co%2F&amp;rcb=1&amp;frm=0&amp;tiba=Ingresa%20a%20Mi%20Enel%20%7C%20Zona%20Privada%20de%20Clientes%20Colombia&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=439812965.1792171474&amp;uaa=arm&amp;uab=64&amp;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.80%7CGoogle%2520Chrome%3B156.0.8078.80&amp;uamb=0&amp;uam=&amp;uap=macOS&amp;uapv=26.5.1&amp;uaw=0&amp;data=event%3Dgtag.config&amp;ept=9&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11111763679/?random=1793911863412&amp;cv=11&amp;fst=1793911863412&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be6b40v9179678599za20ozb810608154zd810608154xecxf1&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=115938465~115938468~117776796~118897920~118897930~120213116~120385423~120412526~120420416~120469145~120469153~121191153~121246026~121246034~123814185~123820802&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fwww.enel.com.co%2Fes%2FAccessMyEnel.html%3FcommonAuthCallerPath%3D%252Fsamlsso%26forceAuth%3Dfalse%26passiveAuth%3Dfalse%26spEntityID%3DENEL_WEB_COL%26sessionDataKey%3Dd184e73f-453d-48e8-8c3e-781f1705d697%26relyingParty%3DENEL_WEB_COL%26type%3Dsamlsso%26sp%3DENEL_WEB_COL%26spId%3D22feb74f-68d3-4887-976c-ea5a564c9713%26isSaaSApp%3Dfalse%26authenticators%3DFacebookAuthenticator%253Afacebook%253BGoogleOIDCAuthenticator%253Agoogle%253BEnelCustomBasicAuthenticator%253ALOCAL&amp;ref=https%3A%2F%2Fwww.enel.com.co%2F&amp;rcb=14&amp;frm=0&amp;tiba=Ingresa%20a%20Mi%20Enel%20%7C%20Zona%20Privada%20de%20Clientes%20Colombia&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=439812965.1792171474&amp;uaa=arm&amp;uab=64&amp;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.80%7CGoogle%2520Chrome%3B156.0.8078.80&amp;uamb=0&amp;uam=&amp;uap=macOS&amp;uapv=26.5.1&amp;uaw=0&amp;data=event%3Dgtag.config&amp;ept=9&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10961025706/?random=1793911863461&amp;cv=11&amp;fst=1793911863461&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45fe6b40v9190189920za20ozb810608154zd810608154xecxf1&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=115938465~115938468~117776796~118012008~118897920~118897930~120213116~120385423~120412528~120420414~120469145~120469153~121191153~121246026~121246034~123814185&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fwww.enel.com.co%2Fes%2FAccessMyEnel.html%3FcommonAuthCallerPath%3D%252Fsamlsso%26forceAuth%3Dfalse%26passiveAuth%3Dfalse%26spEntityID%3DENEL_WEB_COL%26sessionDataKey%3Dd184e73f-453d-48e8-8c3e-781f1705d697%26relyingParty%3DENEL_WEB_COL%26type%3Dsamlsso%26sp%3DENEL_WEB_COL%26spId%3D22feb74f-68d3-4887-976c-ea5a564c9713%26isSaaSApp%3Dfalse%26authenticators%3DFacebookAuthenticator%253Afacebook%253BGoogleOIDCAuthenticator%253Agoogle%253BEnelCustomBasicAuthenticator%253ALOCAL&amp;ref=https%3A%2F%2Fwww.enel.com.co%2F&amp;rcb=1&amp;frm=0&amp;tiba=Ingresa%20a%20Mi%20Enel%20%7C%20Zona%20Privada%20de%20Clientes%20Colombia&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=439812965.1792171474&amp;uaa=arm&amp;uab=64&amp;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.80%7CGoogle%2520Chrome%3B156.0.8078.80&amp;uamb=0&amp;uam=&amp;uap=macOS&amp;uapv=26.5.1&amp;uaw=0&amp;data=event%3Dgtag.config&amp;ept=9&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/620090016/?random=1793911863483&amp;cv=11&amp;fst=1793911863483&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be6b40v892312432za20ozb810608154zd810608154xecxf1&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=115616985~115938465~115938469~117776796~118897920~118897930~120213116~120385422~120412526~120420414~120469145~120469153~121191153~121246026~121246034~123814185&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fwww.enel.com.co%2Fes%2FAccessMyEnel.html%3FcommonAuthCallerPath%3D%252Fsamlsso%26forceAuth%3Dfalse%26passiveAuth%3Dfalse%26spEntityID%3DENEL_WEB_COL%26sessionDataKey%3Dd184e73f-453d-48e8-8c3e-781f1705d697%26relyingParty%3DENEL_WEB_COL%26type%3Dsamlsso%26sp%3DENEL_WEB_COL%26spId%3D22feb74f-68d3-4887-976c-ea5a564c9713%26isSaaSApp%3Dfalse%26authenticators%3DFacebookAuthenticator%253Afacebook%253BGoogleOIDCAuthenticator%253Agoogle%253BEnelCustomBasicAuthenticator%253ALOCAL&amp;ref=https%3A%2F%2Fwww.enel.com.co%2F&amp;rcb=8&amp;frm=0&amp;tiba=Ingresa%20a%20Mi%20Enel%20%7C%20Zona%20Privada%20de%20Clientes%20Colombia&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=439812965.1792171474&amp;uaa=arm&amp;uab=64&amp;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.80%7CGoogle%2520Chrome%3B156.0.8078.80&amp;uamb=0&amp;uam=&amp;uap=macOS&amp;uapv=26.5.1&amp;uaw=0&amp;data=event%3Dgtag.config&amp;ept=9&amp;rfmt=3&amp;fmt=4"></script><style type="text/css">/* Chart.js */
+@-webkit-keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}@keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}.chartjs-render-monitor{-webkit-animation:chartjs-render-animation 0.001s;animation:chartjs-render-animation 0.001s;}</style><script src="https://assets.adobedtm.com/58373ae8f4f6/1b8196dc8ed3/bf656c2642c9/RCc5d2369da8c04905b5610367c54e41ab-source.min.js" async=""></script><script src="https://assets.adobedtm.com/58373ae8f4f6/1b8196dc8ed3/bf656c2642c9/RCdaefbfdcad894d33a178eec858eb89d1-source.min.js" async=""></script><script src="https://assets.adobedtm.com/58373ae8f4f6/1b8196dc8ed3/bf656c2642c9/RCc80fedd0c6404341b734882944150eff-source.min.js" async=""></script><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/338586563/?random=1793911863619&amp;cv=11&amp;fst=1793911863619&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be6b40v9222930273za20ozb810608154zd810608154xecxf1&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=115938465~115938468~117776796~118897920~118897930~120213116~120385422~120412528~120420414~120469145~120469153~121191153~121246026~121246034~123814183&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fwww.enel.com.co%2Fes%2FAccessMyEnel.html%3FcommonAuthCallerPath%3D%252Fsamlsso%26forceAuth%3Dfalse%26passiveAuth%3Dfalse%26spEntityID%3DENEL_WEB_COL%26sessionDataKey%3Dd184e73f-453d-48e8-8c3e-781f1705d697%26relyingParty%3DENEL_WEB_COL%26type%3Dsamlsso%26sp%3DENEL_WEB_COL%26spId%3D22feb74f-68d3-4887-976c-ea5a564c9713%26isSaaSApp%3Dfalse%26authenticators%3DFacebookAuthenticator%253Afacebook%253BGoogleOIDCAuthenticator%253Agoogle%253BEnelCustomBasicAuthenticator%253ALOCAL&amp;ref=https%3A%2F%2Fwww.enel.com.co%2F&amp;rcb=19&amp;frm=0&amp;tiba=Ingresa%20a%20Mi%20Enel%20%7C%20Zona%20Privada%20de%20Clientes%20Colombia&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=439812965.1792171474&amp;uaa=arm&amp;uab=64&amp;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.80%7CGoogle%2520Chrome%3B156.0.8078.80&amp;uamb=0&amp;uam=&amp;uap=macOS&amp;uapv=26.5.1&amp;uaw=0&amp;data=event%3Dgtag.config&amp;ept=9&amp;rfmt=3&amp;fmt=4"></script></head>
+    <body class="page-login ">
+
+    
+<script src="/etc/designs/enel-latam-com/clientlibs/main-common.min.js"></script>
+
+
+
+	 
+
+
+
+
+<script type="text/javascript"> 
+	var enel_data = {};
+	var enel_data_navigation_base = [];
+
+	//Fix manejo de apostrofes en nombres de paginas. 
+	try {
+		let rawStr = String('');
+		let tempStr = rawStr.replace(/([a-zA-Z])'([a-zA-Z])/g, '$1§$2');
+		let matches = tempStr.match(/'([^']+)'/g) || [];
+		enel_data.navigation = matches.map(s => s.slice(1, -1).replace(/§/g, "'"));
+		enel_data_navigation_base = [...enel_data.navigation];
+		
+		console.log('enel_data.navigation:', enel_data.navigation.toString);
+	} catch (e) {
+		console.error('Error al procesar enel_data.navigation:', e);
+		enel_data.navigation = [];
+		enel_data_navigation_base = [];
+	}
+
+	var countryDTM = "CO";
+	enel_data.country_state = getDtmCountryState(countryDTM);
+	enel_data.page_lang = "es";
+
+	// User information
+	dtmLoadLoginValues(enel_data);
+
+	// Layuot
+	enel_data.layout = dtmDetectLayout();
+
+	var searchKeyDtm = "";
+	if (searchKeyDtm != '') { 
+		enel_data.keyword = searchKeyDtm;
+		enel_data.results = '';
+	}	
+	if ('' != '') {
+		enel_data.map_type = '';
+	}
+	var prov = getDtmProvValue();
+	if (prov != null && typeof prov != 'undefined' && prov != '') {
+		enel_data.prov = prov;
+	}
+</script>
+
+<!-- Google Tag Manager --> 
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': 
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], 
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); 
+})(window,document,'script','dataLayer','GTM-MTCWVMZ');</script> 
+<!-- End Google Tag Manager --> 
+
+
+
+<!-- Google Tag Manager (noscript) --> 
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MTCWVMZ" 
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> 
+<!-- End Google Tag Manager (noscript) --> 
+
+<!-- CHAT -->
+<link rel="stylesheet" href="https://service.force.com/embeddedservice/5.0/esw.min.css">
+
+<style>
+
+    /* =====================================================
+       CONTENEDOR GENERAL
+       Esquina inferior derecha
+    ===================================================== */
+
+    .chat-floating-container {
+        position: fixed !important;
+        right: 25px !important;
+        bottom: 25px !important;
+        left: auto !important;
+        top: auto !important;
+
+        display: flex !important;
+        flex-direction: row !important;
+        align-items: center !important;
+
+        width: auto !important;
+        height: auto !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        background: transparent !important;
+
+        font-family: Arial, sans-serif;
+        z-index: 99999 !important;
+    }
+
+
+    /* =====================================================
+       MENSAJE
+    ===================================================== */
+
+    .info-chat {
+        position: relative !important;
+
+        display: flex !important;
+        align-items: center !important;
+
+        width: 180px;
+        min-height: 50px;
+
+        box-sizing: border-box;
+
+        margin: 0 16px 0 0 !important;
+        padding: 8px 14px !important;
+
+        background: #F5F6F7 !important;
+        border: none !important;
+        border-radius: 8px !important;
+
+        color: #000000 !important;
+
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 1.3;
+
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+
+        opacity: 1;
+        visibility: visible;
+        transform: translateX(0);
+
+        pointer-events: none;
+
+        transition:
+            opacity 0.4s ease,
+            visibility 0.4s ease,
+            transform 0.4s ease;
+
+        z-index: 2;
+    }
+
+
+    /* =====================================================
+       MENSAJE OCULTO
+    ===================================================== */
+
+    .info-chat.chat-hidden {
+        opacity: 0;
+        visibility: hidden;
+        transform: translateX(15px);
+        pointer-events: none;
+    }
+
+
+    /* =====================================================
+       FLECHA DEL MENSAJE
+    ===================================================== */
+
+    .info-chat::after {
+        content: "";
+        position: absolute;
+        top: 50%;
+        right: -7px;
+
+        width: 14px;
+        height: 14px;
+
+        background: #F5F6F7;
+        transform: translateY(-50%) rotate(45deg);
+
+        z-index: 1;
+    }
+
+
+    /* =====================================================
+       CONTENEDOR SALESFORCE
+    ===================================================== */
+
+    .chat-floating-container .embeddedServiceHelpButton {
+        position: relative !important;
+
+        top: auto !important;
+        right: auto !important;
+        bottom: auto !important;
+        left: auto !important;
+
+        display: block !important;
+
+        width: 82px !important;
+        height: 72px !important;
+
+        min-width: 82px !important;
+        min-height: 72px !important;
+
+        max-width: 82px !important;
+        max-height: 72px !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        background: transparent !important;
+        background-color: transparent !important;
+
+        border: none !important;
+        box-shadow: none !important;
+        outline: none !important;
+
+        z-index: 3 !important;
+    }
+
+
+    .chat-floating-container .embeddedServiceHelpButton:hover,
+    .chat-floating-container .embeddedServiceHelpButton:focus,
+    .chat-floating-container .embeddedServiceHelpButton:active {
+        background: transparent !important;
+        background-color: transparent !important;
+        border: none !important;
+        box-shadow: none !important;
+        outline: none !important;
+    }
+
+
+    /* =====================================================
+       HELP BUTTON
+    ===================================================== */
+
+    .chat-floating-container .embeddedServiceHelpButton .helpButton {
+        position: relative !important;
+
+        top: auto !important;
+        right: auto !important;
+        bottom: auto !important;
+        left: auto !important;
+
+        width: 82px !important;
+        height: 72px !important;
+
+        min-width: 82px !important;
+        min-height: 72px !important;
+
+        max-width: 82px !important;
+        max-height: 72px !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        background: transparent !important;
+        background-color: transparent !important;
+
+        border: none !important;
+        box-shadow: none !important;
+        outline: none !important;
+    }
+
+
+    .chat-floating-container .embeddedServiceHelpButton .helpButton:hover,
+    .chat-floating-container .embeddedServiceHelpButton .helpButton:focus,
+    .chat-floating-container .embeddedServiceHelpButton .helpButton:active {
+        background: transparent !important;
+        background-color: transparent !important;
+        border: none !important;
+        box-shadow: none !important;
+        outline: none !important;
+    }
+
+
+    /* =====================================================
+       BOTÓN
+       SIN FONDO PROPIO: el ícono ya viene en la imagen
+    ===================================================== */
+
+    .chat-floating-container .embeddedServiceHelpButton .helpButton .uiButton {
+        position: relative !important;
+
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+
+        width: 82px !important;
+        height: 72px !important;
+
+        min-width: 82px !important;
+        min-height: 72px !important;
+
+        max-width: 82px !important;
+        max-height: 72px !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        background: transparent !important;
+        background-color: transparent !important;
+
+        border: none !important;
+        border-radius: 0 !important;
+
+        box-shadow: none !important;
+        outline: none !important;
+
+        text-decoration: none !important;
+        overflow: visible !important;
+
+        cursor: pointer;
+
+        transition: transform 0.2s ease;
+    }
+
+
+    .chat-floating-container .embeddedServiceHelpButton .helpButton .uiButton:visited,
+    .chat-floating-container .embeddedServiceHelpButton .helpButton .uiButton:hover,
+    .chat-floating-container .embeddedServiceHelpButton .helpButton .uiButton:focus,
+    .chat-floating-container .embeddedServiceHelpButton .helpButton .uiButton:focus-visible,
+    .chat-floating-container .embeddedServiceHelpButton .helpButton .uiButton:active {
+        background: transparent !important;
+        background-color: transparent !important;
+        border: none !important;
+        box-shadow: none !important;
+        outline: none !important;
+    }
+
+
+    .chat-floating-container .embeddedServiceHelpButton .helpButton .uiButton:hover {
+        transform: scale(1.03);
+    }
+
+
+    .chat-floating-container .embeddedServiceHelpButton .helpButton .uiButton:active {
+        transform: scale(0.98);
+    }
+
+
+    /* =====================================================
+       ELIMINAR PSEUDOELEMENTOS ANTERIORES
+    ===================================================== */
+
+    .chat-floating-container .embeddedServiceHelpButton .helpButton::before,
+    .chat-floating-container .embeddedServiceHelpButton .helpButton .uiButton::after {
+        display: none !important;
+        content: none !important;
+    }
+
+
+    /* =====================================================
+       LABEL
+    ===================================================== */
+
+    .chat-floating-container .embeddedServiceHelpButton .helpButton .helpButtonLabel {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+
+        width: 100% !important;
+        height: 100% !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        background: transparent !important;
+        background-color: transparent !important;
+
+        border: none !important;
+        box-shadow: none !important;
+    }
+
+
+    /* =====================================================
+       CONTENEDOR INTERNO
+    ===================================================== */
+
+    .chat-floating-container .embeddedServiceHelpButton .helpButton .message {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+
+        width: 100% !important;
+        height: 100% !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        background: transparent !important;
+        background-color: transparent !important;
+
+        border: none !important;
+        box-shadow: none !important;
+    }
+
+
+    /* =====================================================
+       IMAGEN EXACTA DEL ÍCONO
+    ===================================================== */
+
+    .chat-icon-exact {
+        display: block !important;
+
+        width: 74px !important;
+        height: auto !important;
+
+        max-width: 74px !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        background: transparent !important;
+        border: none !important;
+
+        object-fit: contain;
+        pointer-events: none;
+    }
+
+
+    /* =====================================================
+       OCULTAR ICONOS AUTOMÁTICOS DE SALESFORCE
+    ===================================================== */
+
+    .chat-floating-container .embeddedServiceIcon {
+        display: none !important;
+    }
+
+
+    /* =====================================================
+       RESPONSIVE
+    ===================================================== */
+
+    @media screen and (max-width: 600px) {
+
+        .chat-floating-container {
+            right: 15px !important;
+            bottom: 15px !important;
+            left: auto !important;
+        }
+
+        .info-chat {
+            width: 155px;
+            min-height: 45px;
+
+            margin-right: 10px !important;
+            padding: 7px 10px !important;
+
+            font-size: 12px;
+        }
+
+        .chat-floating-container .embeddedServiceHelpButton,
+        .chat-floating-container .embeddedServiceHelpButton .helpButton,
+        .chat-floating-container .embeddedServiceHelpButton .helpButton .uiButton {
+            width: 68px !important;
+            height: 60px !important;
+
+            min-width: 68px !important;
+            min-height: 60px !important;
+
+            max-width: 68px !important;
+            max-height: 60px !important;
+        }
+
+        .chat-icon-exact {
+            width: 62px !important;
+            max-width: 62px !important;
+        }
+    }
+
+
+    @media screen and (max-width: 370px) {
+        .info-chat {
+            width: 135px;
+            padding: 7px 9px !important;
+            font-size: 11px;
+        }
+    }
+
+
+    /* =====================================================
+       ACCESIBILIDAD
+    ===================================================== */
+
+    @media (prefers-reduced-motion: reduce) {
+        .info-chat,
+        .chat-floating-container .embeddedServiceHelpButton .helpButton .uiButton {
+            transition: none !important;
+        }
+    }
+
+</style>
+<script type="text/javascript" id="" charset="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","381657009025518");fbq("track","PageView");</script>
+<noscript>
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=381657009025518&amp;ev=PageView&amp;noscript=1">
+</noscript>
+
+<script type="text/javascript" id="" charset="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","551025809130209");fbq("track","PageView");</script>
+
+
+<script type="text/javascript" id="" charset="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","258615284822188");fbq("track","PageView");</script>
+<noscript>
+ <img height="1" width="1" src="https://www.facebook.com/tr?id=258615284822188&amp;ev=PageView
+&amp;noscript=1">
+</noscript>
+
+<script type="text/javascript" id="" charset="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","538353060588462");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=538353060588462&amp;ev=PageView&amp;noscript=1"></noscript>
+
+<script id="" text="" charset="" type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-NL3ZF93RCX"></script>
+<script type="text/javascript" id="" charset="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","377704329976690");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=377704329976690&amp;ev=PageView&amp;noscript=1"></noscript>
+
+<script type="text/javascript" id="" charset="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1305423820121827");fbq("set","agent","tmgoogletagmanager","1305423820121827");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1305423820121827&amp;ev=PageView&amp;noscript=1"></noscript>
+
+<script type="text/javascript" id="" charset="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1305423820121827");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1305423820121827&amp;ev=PageView&amp;noscript=1"></noscript>
+<script type="text/javascript" id="" charset="">var utm_source=google_tag_manager["rm"]["10608154"](43),gclid=google_tag_manager["rm"]["10608154"](44);function createCookie(c,d){var b=2592E3;b*=1E3;var a=new Date,e=a.getTime();a.setTime(e+b);a=a.toUTCString();document.cookie=c+"\x3d"+d+"; expires\x3d"+a+"; path\x3d/"}utm_source?createCookie("attr_source_cookie",utm_source):gclid&&createCookie("attr_source_cookie","GoogleAds");</script><script type="text/javascript" id="" charset="">!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods="page track identify instances debug on off once ready alias group enableCookie disableCookie".split(" ");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=function(b,c){var f="https://analytics.tiktok.com/i18n/pixel/events.js";
+a._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement("script");c.type="text/javascript";c.async=!0;c.src=f+"?sdkid\x3d"+b+"\x26lib\x3d"+e;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(c,b)};a.load("CN9MGKJC77U812BT23DG");a.page()}(window,document,"ttq");</script>
+<script type="text/javascript" id="" charset="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","988025309635576");fbq("set","agent","tmgoogletagmanager","988025309635576");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=988025309635576&amp;ev=PageView&amp;noscript=1"></noscript>
+
+<script type="text/javascript" id="" charset="">!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods="page track identify instances debug on off once ready alias group enableCookie disableCookie holdConsent revokeConsent grantConsent".split(" ");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=
+function(b,c){var f="https://analytics.tiktok.com/i18n/pixel/events.js";a._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement("script");c.type="text/javascript";c.async=!0;c.src=f+"?sdkid\x3d"+b+"\x26lib\x3d"+e;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(c,b)};a.load("CVC5L13C77UANTV9L0QG");a.page()}(window,document,"ttq");</script>
+
+<script type="text/javascript" id="" charset="">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date);gtag("config","G-NL3ZF93RCX");</script>
+
+
+<!-- =====================================================
+     CHAT FLOTANTE
+===================================================== -->
+
+<div class="chat-floating-container" id="chatFloatingContainer">
+
+    <!-- MENSAJE -->
+    <div id="info-chat-interval" class="info-chat" aria-hidden="false">
+        👋 Hola, ¿En qué te puedo ayudar?
+    </div>
+
+
+    <!-- BOTÓN -->
+    <div class="embeddedServiceHelpButton">
+        <div class="helpButton">
+
+            <a id="chatButton" class="helpButtonEnabled uiButton" href="https://www.enel.com.co/es/personas/chat-de-atencion.html" target="_blank" rel="noopener noreferrer" aria-label="Hablar con un asesor de atención">
+
+                <span class="helpButtonLabel" id="helpButtonSpan">
+                    <span class="message">
+
+                        <!-- ÍCONO EXACTO -->
+                        <img class="chat-icon-exact" alt="Chat de atención" src="https://www.enel.com.co/content/dam/enel-co/2026/07/mail/icono-chat-v2.png" <="" span="">
+                </span>
+
+            </span></a>
+
+        </div>
+    </div>
+
+</div>
+
+
+<script>
+(function () {
+
+    "use strict";
+
+    function initializeFloatingChat() {
+
+        const chatMessage = document.getElementById("info-chat-interval");
+        const chatButton = document.getElementById("chatButton");
+
+        if (!chatMessage || !chatButton) {
+            return;
+        }
+
+        /* =================================================
+           CONFIGURACIÓN
+        ================================================= */
+
+        const initialVisibleTime = 6000;
+        const hoverVisibleTime = 2500;
+
+        let hideTimer = null;
+
+        function showMessage() {
+            window.clearTimeout(hideTimer);
+
+            chatMessage.classList.remove("chat-hidden");
+            chatMessage.setAttribute("aria-hidden", "false");
+        }
+
+        function hideMessage() {
+            chatMessage.classList.add("chat-hidden");
+            chatMessage.setAttribute("aria-hidden", "true");
+        }
+
+        hideTimer = window.setTimeout(
+            hideMessage,
+            initialVisibleTime
+        );
+
+        chatButton.addEventListener("mouseenter", showMessage);
+
+        chatButton.addEventListener("mouseleave", function () {
+            window.clearTimeout(hideTimer);
+
+            hideTimer = window.setTimeout(
+                hideMessage,
+                hoverVisibleTime
+            );
+        });
+
+        chatButton.addEventListener("focus", showMessage);
+
+        chatButton.addEventListener("blur", function () {
+            window.clearTimeout(hideTimer);
+
+            hideTimer = window.setTimeout(
+                hideMessage,
+                hoverVisibleTime
+            );
+        });
+    }
+
+    if (document.readyState === "loading") {
+        document.addEventListener(
+            "DOMContentLoaded",
+            initializeFloatingChat
+        );
+    } else {
+        initializeFloatingChat();
+    }
+
+})();
+</script>
+
+ 
+
+<script>
+    const checkAuthCountry = (privateAreaUrl, acceptTermsUrl) => {
+        const currentCountry = "CO";
+        const maxRetries = 1;
+        const retryCount = Number(sessionStorage.getItem('retryCount') || 0);
+
+        console.log("[checkAuthCountry] init", {
+            currentCountry,
+            privateAreaUrl,
+            acceptTermsUrl,
+            retryCount
+        });
+
+
+        if (retryCount >= maxRetries) {
+            console.error("[checkAuthCountry] Máximo número de recargas alcanzado. Abortando.");
+            return;
+        }
+
+        jQuery.ajaxSetup({ async: false });
+
+        commonLatamAjaxCall(null, '', 'getProfileUID', 'POST', function (response, xhr) {
+            console.log("[checkAuthCountry] getProfileUID RAW:", {
+                status: xhr.status,
+                readyState: xhr.readyState
+            });
+
+            if (xhr.status !== 200) {
+                console.error("[checkAuthCountry] getProfileUID no responde correctamente. Recargando página...");
+                sessionStorage.setItem('retryCount', retryCount + 1);
+                location.reload(true);
+                return;
+            }
+
+            if (!response || response?.result === "KO") {
+                console.log("[checkAuthCountry] Usuario no logueado o respuesta KO.");
+                return;
+            }
+
+            let result = (typeof response === 'string') ? JSON.parse(response) : response;
+            console.log("[checkAuthCountry] getProfileUID parsed:", result);
+
+            const logoutButtonData = {
+                "customerType": "personas",
+                "username": result?.email || "",
+                "socialOneHubMail": result?.email || "",
+                "socialOneHubUid": result?.enelId || "",
+                "socialOneHubName": result?.firstName || "",
+                "socialOneHubLastName": result?.lastName || "",
+                "socialOneHubMobile": result?.phoneNumber || ""
+            };
+            sessionStorage.setItem("logoutInfo", JSON.stringify(logoutButtonData));
+
+            const userAttributes = result?.attributes || [];
+            const hasAcceptedForCurrentCountry = userAttributes.some(att => att.country === currentCountry);
+
+            console.log("[checkAuthCountry] attributes check:", {
+                currentCountry,
+                hasAcceptedForCurrentCountry
+            });
+
+            if (hasAcceptedForCurrentCountry) {
+                console.log("[checkAuthCountry] REDIRECT → privateAreaUrl");
+                window.location.href = privateAreaUrl;
+            } else {
+                console.log("[checkAuthCountry] REDIRECT → acceptTermsUrl");
+                sessionStorage.setItem("enelID", result?.enelId || "");
+                window.location.href = acceptTermsUrl;
+            }
+        });
+
+        jQuery.ajaxSetup({ async: true });
+    }
+</script>
+
+
+<script>
+ $(document).ready(function(){
+ 	const privateAreaUrl = "https://www.enel.com.co/es/private-area.html";
+    const acceptTermsUrl = "https://www.enel.com.co/es/personas/aceptar-terminos.html";
+	const params = new URLSearchParams(window.location.search);
+    const isSocialLogin = params.get("socialoh") === "true";
+    const hasSessionDataKey = !!params.get("sessionDataKey");
+    if (!isSocialLogin && !hasSessionDataKey) {
+        checkAuthCountry(privateAreaUrl, acceptTermsUrl);
+        console.log("Se ejecuta login");
+    }
+ });
+</script>
+
+
+
+
+
+
+	<!---HEADER -->
+<!-- HEADER COMMON START -->
+
+
+<!-- START MODULE: GLOBAL-HEADER-->
+
+
+  
+  
+  
+  
+  
+  
+  <header id="globalheader" data-module="global-header" class="module global-header common module--initialized">
+      <!-- <input data-sly-test="true" class="redirectUrlLogin" type="hidden" data-redirectUrl="https://www.enel.com.co/es/private-area.html" data-country="enel-co" /> -->
+      <input class="redirectUrlLoginBtn" type="hidden" data-sessiondatakeyurl="https://accounts.enel.com/samlsso?spEntityID=ENEL_WEB_COL" data-logouturl="https://accounts.enel.com/samlsso?slo=true&amp;spEntityID=ENEL_WEB_COL&amp;returnTo=https://www.enel.com.co/es/AccessMyEnel.html">
+      <div class="global-header__main">
+    
+
+    <style>
+      @media screen and (max-width:767px) {
+        .global-header__logo{
+          max-width: 60px !important;
+        }
+      }
+    </style>
+    <div itemscope="" itemtype="http://schema.org/Organization" class="global-header__logo" style="max-width:109px;">
+
+      
+      
+          
+          
+          
+              <a data-bannerdtm="logo" itemprop="url" href="https://www.enel.com.co/es.html">
+          
+
+          <img itemprop="logo" src="/content/dam/enel-co/imágenes-home/logo-white.png" title="Enel Colombia" aria-label="Ir al inicio del sitio." alt="Enel Colombia" class="global-header__logo__bw">
+          <img itemprop="logo" src="/content/dam/enel-co/imágenes-home/logo-white.png" title="Enel Colombia" aria-label="Ir al inicio del sitio." alt="Enel Colombia" class="global-header__logo__color">
+        </a>
+      
+    </div>
+      <div class="global-header__links">
+          <ul>
+              <li>
+                  <a style="font-family: inherit;" data-bannerdtm="header link" href="https://www.enel.com.co/es/personas.html" target="_self">Hogares</a>
+              </li>
+          
+              <li>
+                  <a style="font-family: inherit;" data-bannerdtm="header link" href="https://www.enel.com.co/es/empresas.html" target="_self">Empresas</a>
+              </li>
+          
+              <li>
+                  <a style="font-family: inherit;" data-bannerdtm="header link" href="https://www.enel.com.co/es/conoce-enel.html" target="_self">Conoce Enel</a>
+              </li>
+          
+              <li>
+                  <a style="font-family: inherit;" data-bannerdtm="header link" href="https://www.enel.com.co/es/historias.html" target="_self">Historias</a>
+              </li>
+          
+              <li>
+                  <a style="font-family: inherit;" data-bannerdtm="header link" href="https://www.enel.com.co/es/medio-ambiente-desarrollo-sostenible.html" target="_self">Innovación y Sostenibilidad</a>
+              </li>
+          
+              <li>
+                  <a style="font-family: inherit;" data-bannerdtm="header link" href="https://www.enel.com.co/es/inversionista.html" target="_self">Inversionistas</a>
+              </li>
+          
+              <li>
+                  <a style="font-family: inherit;" data-bannerdtm="header link" href="https://www.enel.com.co/es/personas/ayuda.html" target="_self">Ayuda</a>
+              </li>
+          </ul>
+      </div>
+    <div class="global-header__btns">
+      
+
+        
+          <!-- casi di apertura modale form login - inizio -->
+          <!-- area privata caso autenticato desktop:  ovale mi enel-->
+          <!--<button class="pvtArea-btn-myEnel desktop-visible" title="Ingresar a mi cuenta enel" aria-label="Ingresar a mi cuenta enel" style="display:none" data-src="#login-wrapper" data-sly-test="false" onclick="disconnetti()"><span>Mi Enel</span></button>-->
+          
+          <!-- area privata caso autenticato mobile: omino doppio-->
+          <!-- area pubblica: omino singolo-->
+          <!-- casi di apertura modale - fine -->
+
+          <!-- casi di link a pagina di login - inizio (il brasile ha componente specializzato non passa qui)-->
+          <!-- area privata caso autenticato desktop:  ovale mi enel--><button class="pvtArea-btn-myEnel desktop-visible" style="display:none" data-src="#login-wrapper" onclick="goPrivateArea()"><span>Mi Enel</span></button>
+          <!-- area privata caso autenticato mobile: omino doppio--><button class="global-header__btn btn-user-open desktop-hidden" style="display:none" data-src="#login-wrapper" onclick="goPrivateArea()"><span class="icon-user-twice"></span></button>
+          <!-- area pubblica: omino singolo--><a class="global-header__btn btn-user" href="https://www.enel.com.co/es/AccessMyEnel.html"><span class="icon-user"></span></a>
+          <!-- area pubblica: omino singolo br-->
+          <!-- casi di link a pagina - fine -->
+         
+         <button class="global-header__btn btn-search-open" aria-label="Buscar en Enel." title="Buscar en Enel."><span class="icon-search-small"></span></button>
+         
+         <button class="global-header__btn btn-menu" aria-label="Menú." title="Menú."><span class="icon-menu"></span></button>
+
+         
+
+       </div>
+     </div>
+
+  </header>
+
+
+
+<!-- END MODULE: GLOBAL-HEADER-->
+
+<!-- START MODULE: GLOBAL-SEARCH-->
+
+
+    <div data-module="globalSearch" class="module search-form common hide module--initialized" style="background-color:#ff0f64">
+        <!-- START MODULE: GLOBAL-SEARCH-HEADER COMMON-->
+        
+        
+  <div class="search-form__header">
+   <!--<div itemscope itemtype="http://schema.org/Organization" class="search-form__logo search-form__logo_upload">
+        <sly data-sly-test.hasExternalPath="">
+            <a itemprop="url" href="" target="" data-sly-unwrap="false"><img itemprop="logo" src="/content/dam/enel-co/imágenes-home/logo-white.png" alt="Enel Colombia" aria-label="Ir al inicio del sitio." title="Enel Colombia"/>
+            </a>
+        </sly>
+        <sly data-sly-test.hasInternalPath="">
+            <a itemprop="url" href="" target="" data-sly-unwrap="false"><img itemprop="logo" src="/content/dam/enel-co/imágenes-home/logo-white.png" alt="Enel Colombia" aria-label="Ir al inicio del sitio." title="Enel Colombia"/>
+            </a>
+        </sly>
+        <sly data-sly-test="true">
+            <a itemprop="url" data-sly-attribute.href="/content/enel-co/es.html" ><img itemprop="logo" src="/content/dam/enel-co/imágenes-home/logo-white.png" alt="Enel Colombia" aria-label="Ir al inicio del sitio." title="Enel Colombia"/>
+            </a>
+        </sly>
+              
+    </div> -->
+    <div class="search-form__btns">
+      <button class="global-header__btn search-form__btn-close" aria-label="Cerrar." title="Cerrar."><span class="cross-icon"></span></button>
+    </div>
+  </div>
+
+        <!-- END MODULE: GLOBAL-SEARCH-HEADER-->
+
+        
+        <style>
+		.search-form__input::placeholder {
+        color: #CC4305 !important;
+        opacity: 1;
+        }
+        .search-form__input:-ms-input-placeholder {
+        color: #CC4305 !important;
+        }
+        .search-form__input::-ms-input-placeholder {
+        color: #CC4305 !important;
+        }
+	    </style>
+
+
+        <div class="search-form__inner">
+            <div class="container">
+                <form id="global_search_form" action="https://www.enel.com.co/es/resultados-de-busqueda.html" method="GET" autocomplete="off" data-json-url="https://www.enel.com.co/es/_jcr_content.jsonsearch.html?type=keywords">
+                    <div class="search-form__input__wrap">
+                        <input type="search" name="search" placeholder="¿Te ayudamos?" class="search-form__input" style="background-color:#ff0f64; color:#CC4305 !important;">
+                    </div>
+                    <div class="search-form__submit__wrap">
+                        <button type="submit" class="search-form__submit icon-search"><span>Submit</span></button>
+                    </div>
+                </form>
+
+                
+                <span class="search-form__content" data-bannerdtm="header quick link">
+                    <div class="search-form__links search-form__links--quick">
+                        <span class="search-form__heading" style="color:#CC4305 !important;">Sugerencias</span>
+                        
+                    </div>
+                </span>
+
+
+            </div>
+        </div>
+    </div>
+
+    <script type="text/template" id="TMPL--search-form__content">
+        <div class="search-form__links search-form__links--quick search-form__suggestions">
+            <span class="search-form__heading" style="color:#CC4305 !important;"></span>
+            <ul>
+                <% if (results) { %>
+                <% for (var i=0; i<results.length; i++) { %>
+                <li><a href="https://www.enel.com.co/es/resultados-de-busqueda.html?search=<%-results[i]%>"><%-results[i]%></a></li>
+                <% } %>
+                <% } %>
+            </ul>
+        </div>
+    </script>
+
+<!-- END MODULE: GLOBAL-SEARCH-->
+
+<!-- START MODULE: GLOBAL-SIDE-MENU-->
+
+
+    
+    <div data-module="global-megamenu" class="megamenu module hide module--initialized" style="z-index:99999">
+
+  
+    
+    
+
+<style>
+.megamenu__new {
+	display: flex !important;
+}
+
+@media screen and (max-width:768px) {
+	.megamenu__news {
+		display: none !important;
+	}
+}
+</style>
+
+	<div class="megamenu__main">
+		<div class="megamenu__main__inner">
+			<div class="megamenu__main__header">
+				
+
+    
+
+    
+
+    
+        <a href="https://www.enel.com.co/es.html" class="megamenu-content-header-logo" data-bannerdtm="megamenu-logo">
+    
+        <img src="/content/dam/enel-co/español/iconos-hub/logo.png" aria-label="Ir al inicio del sitio." title="Ir al inicio del sitio." alt="Enel Colombia">
+    </a>
+
+			</div>
+			<div class="megamenu__main__body">
+				<nav class="megamenu__navSecondary"><div class="megamenu__accordian secondaryMenu publishmode" data-bannerdtm="megamenu-secundary-navigation">
+    
+    
+  </div><div class="megamenu__accordian secondaryMenu publishmode" data-bannerdtm="megamenu-secundary-navigation">
+    <div class="megamenu__accordian__header  open" style="border-top: 0px solid">
+      Sitios Globales
+    </div>
+    <div class="megamenu__accordian__body">
+      <ul class="megamenu__links" style="display:block;">
+        <li>
+          <ul class="megamenu__submenu">
+            <li>
+              <a name="&amp;lid=conoce-al-grupo-enel&amp;lpos=megamenu" title="Conoce al Grupo Enel, Se abre en ventana nueva" target="_blank" href="https://www.enel.com/es">Conoce al Grupo Enel</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=enel-americas&amp;lpos=megamenu" title="Enel Americas, Se abre en ventana nueva" target="_blank" href="https://www.enelamericas.com">Enel Americas</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=conoce-sobre-enel-green-power&amp;lpos=megamenu" title="Conoce sobre Enel Green Power, Se abre en ventana nueva" target="_blank" href="https://www.enelgreenpower.com/es">Conoce sobre Enel Green Power</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=enel-x&amp;lpos=megamenu" title="Enel X, Se abre en ventana nueva" target="_blank" href="https://www.enelx.com/">Enel X</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=global-trading&amp;lpos=megamenu" title="Global Trading, Se abre en ventana nueva" target="_blank" href="https://globaltrading.enel.com/es.html">Global Trading</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=enel-open-innovability&amp;lpos=megamenu" title="Enel Open Innovability, Se abre en ventana nueva" target="_blank" href="https://openinnovability.enel.com/">Enel Open Innovability</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=global-procurement&amp;lpos=megamenu" title="Global Procurement, Se abre en ventana nueva" target="_blank" href="https://globalprocurement.enel.com/es.html">Global Procurement</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=conoce-sobre-enel-foundation&amp;lpos=megamenu" title="Conoce sobre Enel Foundation, Se abre en ventana nueva" target="_blank" href="https://www.enelfoundation.org/">Conoce sobre Enel Foundation</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=canal-tico&amp;lpos=megamenu" title="Canal Ético, Se abre en ventana nueva" target="_blank" href="https://secure.ethicspoint.eu/domain/media/es/gui/102504/index.html">Canal Ético</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div></nav>
+				<div class="megamenu__news"><div class="megamenu__news__inner">
+ 
+
+
+
+
+    
+    
+    
+
+
+<article class="megamenu__article megamenu__article--large" data-bannerdtm="megamenu-module">
+ <a href="https://www.enel.com.co/es/historias/a202311-colombia-avanza-en-movilidad-sostenible.html" target="_self" name="&amp;lid=conoce-cmo-en-enel-le-apostamos-a-la-movilidad-sostenible&amp;lpos=megamenu">
+  
+  <div class="megamenu__article__img">
+   
+
+
+<img src="/content/enel-co/es/megamenu/historias/archive/2023/11/colombia-avanza-en-movilidad-sostenible/_jcr_content/hero/image2.img.jpg/1790197295515.jpg" alt="Infraestructura eléctrica de Enel Colombia para la movilidad sostenible en el país. " title="infraestructura-electrica-para-movilidad-sostenible-enel-principal" class="">
+  </div>
+  
+  <div class="megamenu__article__content">
+   <p class="megamenu__article__topic">
+    
+   </p>
+   <span class="megamenu__article__title">Conoce cómo en ENEL le apostamos a la movilidad sostenible</span>
+   <div class="megamenu__article__copy"> 
+    <p>El municipio de Carmen de Carupa, Cundinamarca, tiene una razón para llenarse de energía este año nuevo.</p>
+   </div> 
+  </div>
+  
+ </a>
+</article>
+
+
+    
+    
+    
+
+
+<article class="megamenu__article " data-bannerdtm="megamenu-module2">
+ <a href="https://www.enel.com.co/es/historias/a202310-consejos-para-cuidar-historial-crediticio.html" target="_self" name="&amp;lid=cmo-cuidar-tu-historial-crediticio-5-consejos-clave-para-hacerlo&amp;lpos=megamenu">
+  
+  <div class="megamenu__article__img">
+   
+
+
+<img src="/content/enel-co/es/megamenu/historias/archive/2023/10/consejos-para-cuidar-historial-crediticio/_jcr_content/hero/image2.img.jpg/1787847374460.jpg" alt="Mujer feliz por el buen manejo financiero y de mejorar su historial crediticio." title="historial-crediticio-cfc.enel-principal" class="">
+  </div>
+  
+  <div class="megamenu__article__content">
+   <p class="megamenu__article__topic">
+    
+   </p>
+   <span class="megamenu__article__title">¿Cómo cuidar tu historial crediticio? 5 consejos clave para hacerlo</span>
+    
+  </div>
+  
+ </a>
+</article>
+
+
+    
+    
+    
+
+
+<article class="megamenu__article " data-bannerdtm="megamenu-module3">
+ 
+  
+  
+  
+  <div class="megamenu__article__content">
+   <p class="megamenu__article__topic">
+    
+   </p>
+   
+   <div class="megamenu__article__copy"> 
+    <p></p>
+   </div> 
+  </div>
+  
+ 
+</article>
+
+
+
+</div></div>
+			</div>
+		</div>
+	</div>
+
+	<nav class="megamenu__nav">
+  <div class="megamenu__nav__header">
+    
+      <ul class="megamenu__lang-links">
+        <li class="selected activeLang">
+          <a alt="es" style="text-transform: uppercase;" href="https://www.enel.com.co/es/AccessMyEnel.html">ES</a>
+        </li>
+      
+        <li class="activeLang">
+          <a alt="en" style="text-transform: uppercase;" href="https://www.enel.com.co/en.html">EN</a>
+        </li>
+      </ul>
+    
+    <button class="btn-close" aria-label="Cerrar." title="Cerrar."><span class="cross-icon"></span></button>
+  </div>
+  <div class="megamenu__nav__body">
+    
+  <div class="dotcom-megamenu__accordian open primaryMenu" id="notLoggedBox">
+	   <div class="dotcom-megamenu__accordian__header open">Acceder a mi Enel</div>
+	   <div class="dotcom-megamenu__accordian__body" style="display:block;">							 
+	       <div class="nav-login">
+	           
+	           
+	           
+	           <div class="nav-forgot"></div>
+	           <div class="nav-forgot">
+	           	<a href="https://www.enel.com.co/es/AccessMyEnel.html">Login</a>
+	           </div>
+		       
+	       </div>
+	   </div>
+  </div>
+  <div class="dotcom-megamenu__accordian open primaryMenu" id="loggedBox" style="display: none;">
+	  	<div class="user-info-wrapper">
+	          <div class="dotcom-megamenu__accordian__header open">
+	              <h3 class="user-info-heading">Bienvenido</h3>
+	              <h3 class="user-name"></h3>
+	          </div>
+	          <div class="dotcom-megamenu__accordian__body" style="display: block;">
+	              <a onclick="privateAreaCheck(this); return false;" href="https://www.enel.com.co/es/private-area.html" class="btn-cta">Ir al área cliente</a>
+	              <ul class="dotcom-megamenu__submenu">
+	                  <li><a onclick="privateAreaCheck(this); return false;" href="https://www.enel.com.co/es/private-area/MisDatos.html">Modificar perfil</a></li>
+	                  <li><a id="logoutBtn" href="javascript:disconnetti();">Logout</a></li>
+	              </ul>
+	          </div> 
+	      </div>
+  </div>
+
+
+
+
+
+<script>
+	
+	const checkUserIsLogged = () =>{
+		return sessionStorage.getItem("logoutInfo") != null;
+	};
+
+	const checkSocialLogin = ()=>{
+		return sessionStorage.getItem("socialLogin") == "true";
+  	};
+  
+  	const setSecondaryLogoutDataFromCookies = ()=>{
+		if(!checkSocialLogin()) return;
+		if(sessionStorage.getItem("logoutInfo")) return;
+		const logoutButtonData = {
+					  "customerType": "personas",
+					  "username":  getCookieValue("socialohUEmail"),
+					  "socialOneHubMail": getCookieValue("socialohUEmail"),
+					  "socialOneHubUid": getCookieValue("socialohUid"),
+					  "socialOneHubName": getCookieValue("socialohName"),
+					  "socialOneHubLastName": getCookieValue("socialohLName"),
+					  "socialOneHubMobile": getCookieValue("socialohMobile"),
+		};
+		sessionStorage.setItem("logoutInfo",JSON.stringify(logoutButtonData));
+  	};
+
+	const setStatusLogged = () =>{
+		if(checkSocialLogin()) setSecondaryLogoutDataFromCookies();
+		if(checkUserIsLogged()) {
+			try {
+				const logoutInfo = JSON.parse(sessionStorage.getItem("logoutInfo"));
+				const name = getCookieValue("socialohName") ||  logoutInfo?.socialOneHubName;
+				const lastname = getCookieValue("socialohLName") || logoutInfo?.socialOneHubLastName;
+				const usernameField = document.querySelector("h3.user-name");
+				if(usernameField != null ) usernameField.innerHTML = name + " " + lastname;
+				showLogoutFrame();
+			} catch (error) {
+				console.error(error);
+			}
+		}
+	}
+
+	const hydrateLogoutInfoFromSession = (onComplete) => {
+		if (typeof commonLatamAjaxCall !== "function") {
+			if (typeof onComplete === "function") onComplete(false);
+			return;
+		}
+
+		commonLatamAjaxCall(null, null, "checkAuthentication", "POST", function (authResponse) {
+			const authData = authResponse && authResponse.data !== undefined ? authResponse.data : authResponse;
+			const isAuthenticated = authData === true || authData === "true";
+
+			if (!isAuthenticated) {
+				if (typeof onComplete === "function") onComplete(false);
+				return;
+			}
+
+			commonLatamAjaxCall(null, null, "getProfileUIDCl", "POST", function (profileResponse) {
+				const rawProfile = profileResponse && profileResponse.data !== undefined ? profileResponse.data : profileResponse;
+				let profile = rawProfile;
+
+				if (typeof rawProfile === "string") {
+					try {
+						profile = JSON.parse(rawProfile);
+					} catch (error) {
+						profile = null;
+					}
+				}
+
+				if (!profile) {
+					if (typeof onComplete === "function") onComplete(false);
+					return;
+				}
+
+				const logoutButtonData = {
+					"customerType": "personas",
+					"username": profile?.email || "",
+					"socialOneHubMail": profile?.email || "",
+					"socialOneHubUid": profile?.enelId || "",
+					"socialOneHubName": profile?.firstName || "",
+					"socialOneHubLastName": profile?.lastName || "",
+					"socialOneHubMobile": profile?.phoneNumber || ""
+				};
+				sessionStorage.setItem("socialLogin", "true");
+				sessionStorage.setItem("logoutInfo", JSON.stringify(logoutButtonData));
+				if (typeof onComplete === "function") onComplete(true);
+			});
+		});
+	};
+
+	const ensureLoggedMenuState = () => {
+		const currentCountry = "CO";
+
+		if (currentCountry !== "CL") {
+			setStatusLogged();
+			return;
+		}
+
+		if (checkUserIsLogged() || checkSocialLogin()) {
+			setStatusLogged();
+			return;
+		}
+
+		hydrateLogoutInfoFromSession((success) => {
+			if (success) {
+				setStatusLogged();
+			} else {
+				hideLogoutFrame();
+			}
+		});
+	};
+
+	const showLogoutFrame = () =>{
+		document.querySelector("#notLoggedBox").style.display = "none";
+		document.querySelector("#loggedBox").style = {};
+	}
+
+	const hideLogoutFrame = () =>{
+		document.querySelector("#loggedBox").style.display = "none";
+		document.querySelector("#notLoggedBox").style = {};
+	}
+	
+	const checkCookieExists = (key) => {
+		return document.cookie.split(";").some((item) => item.trim().startsWith(key+"="));
+	}
+
+	const getCookieValue =(key) =>{
+		return document.cookie.split("; ").find((row) => row.startsWith(key+"="))?.split("=")[1];
+	}
+
+	$( document ).ready(function() {
+		document.querySelector(".global-header__btn.btn-menu")?.addEventListener("click", ensureLoggedMenuState);
+	});
+
+	const privateAreaCheck = (element) => {
+		const currentCountry = "CO";
+		let showAceptarTerminos = true;
+		let getProfileUID = "getProfileUID";
+
+		const redirects = {
+			"CO": "/es/personas/aceptar-terminos.html",
+			"CL": "/es/clientes/aceptar-terminos.html",
+			"PE": "/es/personas/aceptar-terminos.html",
+			"BR": "/pt/servico/aceptar-terminos.html"
+		};
+
+		jQuery.ajaxSetup({ async: false });
+
+		if(currentCountry === "CL"){
+			getProfileUID = "getProfileUIDCl";
+		}
+
+		commonLatamAjaxCall(null, '', getProfileUID, 'POST', function (response, xhr) {
+			
+			if (!response || response?.result == "KO") { console.log("usuario no logeado"); return;}
+			let result = response;
+			if (typeof response == 'string') { result = JSON.parse(response); }
+			if (result?.attributes) {
+				for (att of result.attributes) {
+					if (currentCountry == att.country) { showAceptarTerminos = false; break; };
+				}
+			}
+			jQuery.ajaxSetup({ async: true });
+			if (showAceptarTerminos) { window.location.href = redirects[currentCountry] || "#"; return;} 
+			else { window.location.href = element.href; return; }
+		});
+	}
+</script>
+
+    <div class="megamenu__accordian open primaryMenu">
+      <!--START: NAVIGATION PRIMARY-->
+
+
+
+
+<div class="megamenu__accordian__header open">
+    Links Importantes
+</div>
+
+<div class="megamenu__accordian__body" style="display: block;" data-bannerdtm="megamenu-primary-navigation">
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=hogares&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/personas.html">
+                        Hogares
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=empresas&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/empresas.html">
+                        Empresas
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=inversionistas&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/inversionista.html">
+                        Inversionistas
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=innovacin-y-sostenibilidad&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/medio-ambiente-desarrollo-sostenible.html">
+                        Innovación y Sostenibilidad
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=conoce-enel&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/conoce-enel.html">
+                        Conoce Enel
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=prensa&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/prensa.html">
+                        Prensa
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=trabaja-con-nosotros&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/conoce-enel/empleos-enel/marca-empleadora.html">
+                        Trabaja con nosotros
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=ayuda&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/personas/ayuda.html">
+                        Ayuda
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+    
+    
+</div>
+<!--END: NAVIGATION PRIMARY-->
+
+
+    
+      <!--START: NAVIGATION PRIMARY-->
+
+
+
+
+
+
+
+<!--END: NAVIGATION PRIMARY-->
+
+
+    
+      <!--START: NAVIGATION PRIMARY-->
+
+
+
+
+
+
+
+<!--END: NAVIGATION PRIMARY-->
+
+
+    
+      <!--START: NAVIGATION PRIMARY-->
+
+
+
+
+
+
+
+<!--END: NAVIGATION PRIMARY-->
+
+
+    
+    </div>
+    
+      <!--START: NAVIGATION SECONDARY-->
+
+
+  <div class="megamenu__accordian secondaryMenu publishmode" data-bannerdtm="megamenu-secundary-navigation">
+    
+    
+  </div>
+  <div class="megamenu__accordian secondaryMenu publishmode" data-bannerdtm="megamenu-secundary-navigation">
+    <div class="megamenu__accordian__header " style="border-top: 0px solid">
+      Sitios Globales
+    </div>
+    <div class="megamenu__accordian__body">
+      <ul class="megamenu__links" style="display:block;">
+        <li>
+          <ul class="megamenu__submenu">
+            <li>
+              <a name="&amp;lid=conoce-al-grupo-enel&amp;lpos=megamenu" title="Conoce al Grupo Enel, Se abre en ventana nueva" target="_blank" href="https://www.enel.com/es">Conoce al Grupo Enel</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=enel-americas&amp;lpos=megamenu" title="Enel Americas, Se abre en ventana nueva" target="_blank" href="https://www.enelamericas.com">Enel Americas</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=conoce-sobre-enel-green-power&amp;lpos=megamenu" title="Conoce sobre Enel Green Power, Se abre en ventana nueva" target="_blank" href="https://www.enelgreenpower.com/es">Conoce sobre Enel Green Power</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=enel-x&amp;lpos=megamenu" title="Enel X, Se abre en ventana nueva" target="_blank" href="https://www.enelx.com/">Enel X</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=global-trading&amp;lpos=megamenu" title="Global Trading, Se abre en ventana nueva" target="_blank" href="https://globaltrading.enel.com/es.html">Global Trading</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=enel-open-innovability&amp;lpos=megamenu" title="Enel Open Innovability, Se abre en ventana nueva" target="_blank" href="https://openinnovability.enel.com/">Enel Open Innovability</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=global-procurement&amp;lpos=megamenu" title="Global Procurement, Se abre en ventana nueva" target="_blank" href="https://globalprocurement.enel.com/es.html">Global Procurement</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=conoce-sobre-enel-foundation&amp;lpos=megamenu" title="Conoce sobre Enel Foundation, Se abre en ventana nueva" target="_blank" href="https://www.enelfoundation.org/">Conoce sobre Enel Foundation</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=canal-tico&amp;lpos=megamenu" title="Canal Ético, Se abre en ventana nueva" target="_blank" href="https://secure.ethicspoint.eu/domain/media/es/gui/102504/index.html">Canal Ético</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+<!--END: NAVIGATION SECONDARY-->
+
+    
+    <div class="megamenu__news__mobile"><div class="swiper-container swiper-container-horizontal"><div class="swiper-wrapper" style="transition-duration: 0ms;"><div class="swiper-slide swiper-slide-active"><article class="megamenu__article megamenu__article--large" data-bannerdtm="megamenu-module">
+ <a href="https://www.enel.com.co/es/historias/a202311-colombia-avanza-en-movilidad-sostenible.html" target="_self" name="&amp;lid=conoce-cmo-en-enel-le-apostamos-a-la-movilidad-sostenible&amp;lpos=megamenu">
+  
+  <div class="megamenu__article__img">
+   
+
+
+<img src="/content/enel-co/es/megamenu/historias/archive/2023/11/colombia-avanza-en-movilidad-sostenible/_jcr_content/hero/image2.img.jpg/1790197295515.jpg" alt="Infraestructura eléctrica de Enel Colombia para la movilidad sostenible en el país. " title="infraestructura-electrica-para-movilidad-sostenible-enel-principal" class="">
+  </div>
+  
+  <div class="megamenu__article__content">
+   <p class="megamenu__article__topic">
+    
+   </p>
+   <span class="megamenu__article__title">Conoce cómo en ENEL le apostamos a la movilidad sostenible</span>
+   <div class="megamenu__article__copy"> 
+    <p>El municipio de Carmen de Carupa, Cundinamarca, tiene una razón para llenarse de energía este año nuevo.</p>
+   </div> 
+  </div>
+  
+ </a>
+</article></div><div class="swiper-slide swiper-slide-next"><article class="megamenu__article " data-bannerdtm="megamenu-module2">
+ <a href="https://www.enel.com.co/es/historias/a202310-consejos-para-cuidar-historial-crediticio.html" target="_self" name="&amp;lid=cmo-cuidar-tu-historial-crediticio-5-consejos-clave-para-hacerlo&amp;lpos=megamenu">
+  
+  <div class="megamenu__article__img">
+   
+
+
+<img src="/content/enel-co/es/megamenu/historias/archive/2023/10/consejos-para-cuidar-historial-crediticio/_jcr_content/hero/image2.img.jpg/1787847374460.jpg" alt="Mujer feliz por el buen manejo financiero y de mejorar su historial crediticio." title="historial-crediticio-cfc.enel-principal" class="">
+  </div>
+  
+  <div class="megamenu__article__content">
+   <p class="megamenu__article__topic">
+    
+   </p>
+   <span class="megamenu__article__title">¿Cómo cuidar tu historial crediticio? 5 consejos clave para hacerlo</span>
+    
+  </div>
+  
+ </a>
+</article></div><div class="swiper-slide"><article class="megamenu__article " data-bannerdtm="megamenu-module3">
+ 
+  
+  
+  
+  <div class="megamenu__article__content">
+   <p class="megamenu__article__topic">
+    
+   </p>
+   
+   <div class="megamenu__article__copy"> 
+    <p></p>
+   </div> 
+  </div>
+  
+ 
+</article></div></div><div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"></div></div></div>
+  </div>
+</nav>
+
+
+
+  
+
+
+  
+
+  
+
+
+  
+
+  
+
+</div>
+
+<!-- END MODULE: GLOBAL-SIDE-MENU-->
+
+
+    
+
+
+<!-- HEADER COMMON END -->
+	<!---FINE HEADER -->
+
+
+
+<!---MAIN -->
+<div id="main">
+	
+
+
+<section class="hero-hub hero-wrapper bg-lightBlue login-page clearfix" data-bannerdtm="hero">
+	<div class="hero_inner hero-container container vs-textcolor-" style="margin-bottom: 15px; z-index: 2">
+		<div class="hero_content-wrapper">
+			
+      
+	<nav class="image-hero_breadcrumbs">
+		<ul class="breadcrumbs component">
+			<li class="breadcrumbs_item breadcrumbs_item--last text--breadcrumb">
+				<a href="https://www.enel.com.co/es.html" class="breadcrumbs_link">Enel Colombia - Energía Sostenible para Hogares y Empresas </a>
+			</li>
+			<li class="breadcrumbs_item breadcrumbs_item--last text--breadcrumb">
+				<a href="https://www.enel.com.co/es/AccessMyEnel.html" class="breadcrumbs_link">Ingresar Zona Privada</a>
+			</li>
+			
+		</ul>
+	</nav>
+
+			<h1 class="image-hero_title text--page-heading">Gestiona tu servicio en la Zona Privada</h1>
+		</div>
+	</div>
+</section>
+	<div id="text-transactional" class="text-transactional">
+	<p><br>
+<br>
+</p>
+<p>Si aún no estás registrado, <span style="background-color: transparent;color: rgb(235,0,83);">crea tu cuenta</span> y accede a la <span style="background-color: transparent;color: rgb(235,0,83);">Zona Privada.&nbsp;</span>Allí podrás consultar y pagar tu factura de energía, revisar tu historial de pagos y consumos,&nbsp;<span style="background-color: transparent;color: rgb(235,0,83);">realizar solicitudes, hacer seguimiento a tus casos&nbsp;</span>y acceder a muchas más funcionalidades para gestionar tu servicio de energía.</p>
+
+</div>
+<style>
+
+    #text-transactional p{
+	    font-family: var(--RobertEnelLight);
+	    font-weight: 300;
+	    font-style: normal;
+		font-size: 22px;
+	    letter-spacing: .44px;
+	    line-height: 163.63636%;
+	}
+
+	#text-transactional {
+	    padding: 25px;
+	    width: 100%;
+	    max-width: 1320px;
+	    margin-left: auto;
+	    margin-right: auto;
+	    text-align: justify;
+	}
+	
+	@media (min-width: 768px) {
+		#text-transactional {
+	    	padding-top: 15px;
+	    	width: 787px;
+			max-width: 1320px;
+	    	margin-left: auto;
+	    	margin-right: auto;
+	    	text-align: justify;
+	    }
+    }
+
+</style>
+	<style>
+    /*we make the spinner styles here since the clientlibs have not yet loaded*/
+    @keyframes lds-spin {
+        0% {
+            opacity: 1;
+            -webkit-transform: scale(1.0, 1.0) !important;
+            transform: scale(1.0, 1.0) !important;
+        }
+
+        100% {
+            opacity: 0;
+            -webkit-transform: scale(1, 1);
+            transform: scale(1, 1);
+        }
+    }
+
+    @-webkit-keyframes lds-spin {
+        0% {
+            opacity: 1;
+            -webkit-transform: scale(1.0, 1.0) !important;
+            transform: scale(1.0, 1.0) !important;
+        }
+
+        100% {
+            opacity: 0;
+            -webkit-transform: scale(1, 1);
+            transform: scale(1, 1);
+        }
+    }
+
+    .lds-spin {
+        position: relative;
+        top: 40%;
+        left: 43%;
+    }
+
+    .lds-spin div>div {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        background: #000000;
+        -webkit-animation: lds-spin 1s linear infinite;
+        animation: lds-spin 1s linear infinite;
+    }
+
+    .lds-spin div:nth-child(1)>div {
+        left: 170px;
+        top: 90px;
+        -webkit-animation-delay: -0.916666666666667s;
+        animation-delay: -0.916666666666667s;
+    }
+
+    .lds-spin>div:nth-child(1) {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+        -webkit-transform-origin: 180px 100px;
+        transform-origin: 180px 100px;
+    }
+
+    .lds-spin div:nth-child(2)>div {
+        left: 159.28203231999998px;
+        top: 130px;
+        -webkit-animation-delay: -0.833333333333333s;
+        animation-delay: -0.833333333333333s;
+    }
+
+    .lds-spin>div:nth-child(2) {
+        -webkit-transform: rotate(30deg);
+        transform: rotate(30deg);
+        -webkit-transform-origin: 169.28203231999998px 140px;
+        transform-origin: 169.28203231999998px 140px;
+    }
+
+    .lds-spin div:nth-child(3)>div {
+        left: 130px;
+        top: 159.28203231999998px;
+        -webkit-animation-delay: -0.75s;
+        animation-delay: -0.75s;
+    }
+
+    .lds-spin>div:nth-child(3) {
+        -webkit-transform: rotate(60deg);
+        transform: rotate(60deg);
+        -webkit-transform-origin: 140px 169.28203231999998px;
+        transform-origin: 140px 169.28203231999998px;
+    }
+
+    .lds-spin div:nth-child(4)>div {
+        left: 90px;
+        top: 170px;
+        -webkit-animation-delay: -0.666666666666667s;
+        animation-delay: -0.666666666666667s;
+    }
+
+    .lds-spin>div:nth-child(4) {
+        -webkit-transform: rotate(90deg);
+        transform: rotate(90deg);
+        -webkit-transform-origin: 100px 180px;
+        transform-origin: 100px 180px;
+    }
+
+    .lds-spin div:nth-child(5)>div {
+        left: 50px;
+        top: 159.28203231999998px;
+        -webkit-animation-delay: -0.583333333333333s;
+        animation-delay: -0.583333333333333s;
+    }
+
+    .lds-spin>div:nth-child(5) {
+        -webkit-transform: rotate(120deg);
+        transform: rotate(120deg);
+        -webkit-transform-origin: 60px 169.28203231999998px;
+        transform-origin: 60px 169.28203231999998px;
+    }
+
+    .lds-spin div:nth-child(6)>div {
+        left: 20.71796768px;
+        top: 130px;
+        -webkit-animation-delay: -0.5s;
+        animation-delay: -0.5s;
+    }
+
+    .lds-spin>div:nth-child(6) {
+        -webkit-transform: rotate(150deg);
+        transform: rotate(150deg);
+        -webkit-transform-origin: 30.71796768px 140px;
+        transform-origin: 30.71796768px 140px;
+    }
+
+    .lds-spin div:nth-child(7)>div {
+        left: 10px;
+        top: 90px;
+        -webkit-animation-delay: -0.416666666666667s;
+        animation-delay: -0.416666666666667s;
+    }
+
+    .lds-spin>div:nth-child(7) {
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg);
+        -webkit-transform-origin: 20px 100px;
+        transform-origin: 20px 100px;
+    }
+
+    .lds-spin div:nth-child(8)>div {
+        left: 20.71796768px;
+        top: 50px;
+        -webkit-animation-delay: -0.333333333333333s;
+        animation-delay: -0.333333333333333s;
+    }
+
+    .lds-spin>div:nth-child(8) {
+        -webkit-transform: rotate(210deg);
+        transform: rotate(210deg);
+        -webkit-transform-origin: 30.71796768px 60px;
+        transform-origin: 30.71796768px 60px;
+    }
+
+    .lds-spin div:nth-child(9)>div {
+        left: 50px;
+        top: 20.71796768px;
+        -webkit-animation-delay: -0.25s;
+        animation-delay: -0.25s;
+    }
+
+    .lds-spin>div:nth-child(9) {
+        -webkit-transform: rotate(240deg);
+        transform: rotate(240deg);
+        -webkit-transform-origin: 60px 30.71796768px;
+        transform-origin: 60px 30.71796768px;
+    }
+
+    .lds-spin div:nth-child(10)>div {
+        left: 90px;
+        top: 10px;
+        -webkit-animation-delay: -0.166666666666667s;
+        animation-delay: -0.166666666666667s;
+    }
+
+    .lds-spin>div:nth-child(10) {
+        -webkit-transform: rotate(270deg);
+        transform: rotate(270deg);
+        -webkit-transform-origin: 100px 20px;
+        transform-origin: 100px 20px;
+    }
+
+    .lds-spin div:nth-child(11)>div {
+        left: 130px;
+        top: 20.71796768px;
+        -webkit-animation-delay: -0.083333333333333s;
+        animation-delay: -0.083333333333333s;
+    }
+
+    .lds-spin>div:nth-child(11) {
+        -webkit-transform: rotate(300deg);
+        transform: rotate(300deg);
+        -webkit-transform-origin: 140px 30.71796768px;
+        transform-origin: 140px 30.71796768px;
+    }
+
+    .lds-spin div:nth-child(12)>div {
+        left: 159.28203231999998px;
+        top: 50px;
+        -webkit-animation-delay: 0s;
+        animation-delay: 0s;
+    }
+
+    .lds-spin>div:nth-child(12) {
+        -webkit-transform: rotate(330deg);
+        transform: rotate(330deg);
+        -webkit-transform-origin: 169.28203231999998px 60px;
+        transform-origin: 169.28203231999998px 60px;
+    }
+
+    .lds-spin div:nth-child(13)>div {
+        left: 170px;
+        top: 90px;
+        -webkit-animation-delay: 0.083333333333333s;
+        animation-delay: 0.083333333333333s;
+    }
+
+    .lds-spin>div:nth-child(13) {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+        -webkit-transform-origin: 180px 100px;
+        transform-origin: 180px 100px;
+    }
+
+    .lds-spin {
+        -webkit-transform: translate(-100px, -100px) scale(1) translate(100px, 100px);
+        transform: translate(-100px, -100px) scale(1) translate(100px, 100px);
+    }
+
+    .spinner-overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        overflow: hidden !important;
+        z-index: 10;
+        background-color: rgba(0, 0, 0, 0.5);
+        /*dim the background*/
+    }
+
+    .lds-spin div>div {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        background: #000;
+        -webkit-animation: lds-spin 1s linear infinite;
+        animation: lds-spin 1s linear infinite;
+    }
+</style>
+<script>
+    //We make all spinner functions here only with JS since the clientlibs have not yet loaded
+	function addAjaxLoader() {
+		if (!document.querySelector("body .spinner-overlay.ldspinner-container")) {
+			let loadHtml = "<div class=\"spinner-overlay ldspinner-container\">";
+			loadHtml +=
+				"<div class=\"lds-spin\"><div><div></div></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></div></div></div>";
+			loadHtml += "</div>";
+			const body = document.querySelector('body');
+			body.insertAdjacentHTML('afterbegin', loadHtml);
+		}
+	}
+	
+	function removeAjaxLoader() {//compatibility only, is not necessary
+		spinnerInstantiators--;
+		if (spinnerInstantiators < 1) {
+			spinnerInstantiators = 0;
+			const loaderOverlay = document.querySelector("body .loader-overlay.ldspinner-container");
+			if (loaderOverlay) {
+				loaderOverlay.remove();
+			}
+		}
+	}
+
+	//if not have a string query then show loader spiner:
+	if (window.location.pathname.includes("AccessMyEnel")) {
+		if (!window.location.search) addAjaxLoader();
+	}
+
+    //make all page hidden on redirect
+    /* if (window.location.pathname.includes("AccessMyEnel")) {
+		var styles = `
+			body { 
+				display: none;
+			}`;
+		var styleSheet = document.createElement("style");
+		styleSheet.innerText = styles;
+		//document.head.appendChild(styleSheet);
+		if(window.location.search) removeAjaxLoader(); else document.head.appendChild(styleSheet);
+	} */
+</script>
+
+
+
+
+
+
+
+<section class="login-page_wrapper login-page">
+	<div class="login-details">
+		<form class="form-login" id="form-login-page-cl" data-dtmformname="a">
+			<div class="login-page-inner">
+				
+					<div class="help-tabs__nav login-tabs">
+						<ul>
+							<li><a href="#personas" class="active">Personas</a></li>
+							<li><a href="#empresas" class="">Empresas</a></li>
+						</ul>
+					</div>
+				
+				<div class="help-tabs__content-wrapper" style="height: auto;">
+					
+						<div id="personas" class="help-tabs__content" style="display: block;">
+
+							<label for="username">Usuario</label> <input type="text" name="username" id="username" value="" placeholder="Correo electrónico">
+
+							<p class="form-login-error-msg login-email-error-msg">Campo obligatorio</p>
+							<p class="form-login-error-msg login-valid-email-error-msg">Campo obligatorio</p>
+							<br class="login-email-br"> <label for="password">Contraseña</label> <input type="password" name="password" value="" id="privatepwd">
+							<span class="fa-eye" onclick="showHidePwd()" ondragstart="return false;">
+								<img id="password-eye-closed-persona" class="icon_eye_size" src="/etc/designs/enel-co/img/eye_closed.svg" alt="">
+								<img id="password-eye-open-persona" class="icon_eye_size" src="/etc/designs/enel-co/img/eye_open.svg" alt="">
+							</span>
+							<p class="form-login-error-msg login-pwd-error-msg">Campo obligatorio</p>
+
+							<input type="hidden" name="sessionDataKey" value="d184e73f-453d-48e8-8c3e-781f1705d697" id="sessionDataKey"> <input type="hidden" name="tocommonauth" value="true" id="tocommonauth"> <input type="hidden" name="socialOneHub" value="" id="socialOneHub">
+							<input type="hidden" name="socialOneHubMail" value="" id="socialOneHubMail"> <input type="hidden" name="socialOneHubName" value="" id="socialOneHubName"> <input type="hidden" name="socialOneHubLastName" value="" id="socialOneHubLastName"> <input type="hidden" name="socialOneHubMobile" value="" id="socialOneHubMobile">
+							<input type="hidden" name="socialOneHubUid" value="" id="socialOneHubUid">
+
+							<div class="login-btn">
+								<button type="button" class="btn-cta--pink" onclick="trimEndSpaces();return sendLoginUniqueID('personas');" id="privatesubmit">INGRESAR</button>
+							</div>
+							<p class="form-return-login-error-msg login-error-msg-people form-page" style="white-space: pre-line !important;"></p>
+
+							<div class="login_issues">
+
+								<div style="text-align: left;">
+									<a href="https://www.enel.com.co/es/personas/RecuperarClave" target="_self">Olvidé mi contraseña</a>
+								</div>
+								<div style="text-align: right;">
+									<a href="/content/enel-co/es/megamenu/personas/recuperar-usuario.html" target="_self">Olvidé mi
+										usuario</a>
+								</div>
+								<div style="text-align: left; padding-left: 0;">
+									<a href="https://www.enel.com.co/es/personas/ayuda-ingreso-sucursal-online.html" target="_self">No puedo ingresar</a>
+								</div>
+								<div style="text-align: right;">
+								<a href="https://www.enel.com.co/es/acerca-de-MiEnel-sucursal-online.html" target="_self">Acerca de Mi Enel</a>
+                                </div>
+							</div>
+							<div style="border-bottom: 2px solid #ebebeb;">
+								<!-- Linea divisora -->
+							</div>
+							<br>
+							<div class="login-social-btn border-top-bottom-gray">
+								<div class="login-btn">
+									<button type="button" class="btn-cta--google" aria-label="Accede con Google" onclick="javascript:socialLoginRedir('google')">
+										<i class="fa fa-google" aria-hidden="true"></i> &nbsp;
+										&nbsp;Ingresar con Google
+									</button>
+								</div>
+								<div class="login-btn">
+									<button type="button" class="btn-cta--facebook" aria-label="Accede con Facebook" onclick="javascript:socialLoginRedir('facebook')">
+										<i class="fa fa-facebook" aria-hidden="true"></i> &nbsp;
+										&nbsp;Ingresar con Facebook
+									</button>
+								</div>
+							</div>
+							<br>
+							<div style="border-bottom: 2px solid #ebebeb;">
+								<!-- Linea divisora -->
+							</div>
+							<br>
+
+							<div class="login-block">
+								<div class="acc-creation-full">
+									<h4>¿Aun no tienes cuenta?</h4>
+									<div class="create-account dtmRegisterInit">
+										<a href="/content/enel-co/es/megamenu/personas/registro.html" target="_self" class="btn-cta">REGISTRARME</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					
+				</div>
+			</div>
+
+
+			
+				<div id="empresas" class="help-tabs__content" style="display: none;">
+					<label for="emailEmpresa">Usuario</label> <input id="usernameEmpresa" type="text" name="emailEmpresa" value="" placeholder="Correo electrónico">
+					<p class="form-login-error-msg login-company-email-error-msg">Campo obligatorio</p>
+					<p class="form-login-error-msg login-company-valid-email-error-msg">
+						Campo obligatorio</p>
+
+					<!-- 
+				<br class="login-email-cia-br"> <label for="emailUsuario">Rut de usuario</label> <input type="text" name="emailUsuario"
+					value="">
+					 -->
+					<p class="form-login-error-msg login-company-persona-email-error-msg">
+						Campo obligatorio</p>
+					<p class="form-login-error-msg login-company-persona-valid-email-error-msg">
+						Campo obligatorio</p>
+
+					<br class="login-email-cia-user-br"> <label for="pwd">Contraseña</label> <input type="password" name="pwdCompany" id="pwdCompany" value="">
+					<span class="fa-eye" onclick="showHidePwdConf()" ondragstart="return false;">
+						<img id="password-eye-closed-empresa" class="icon_eye_size" src="/etc/designs/enel-co/img/eye_closed.svg" alt="">
+						<img id="password-eye-open-empresa" class="icon_eye_size" src="/etc/designs/enel-co/img/eye_open.svg" alt="">
+					</span>
+					<p class="form-login-error-msg login-pwd-company-error-msg">Campo obligatorio</p>
+
+					<!-- <input class="checkbox" type="checkbox" name="recordar"
+					id="recordarEmpresas"> <label for="recordarEmpresas">Recordar</label> -->
+					<div class="login-btn">
+						<button type="button" class="btn-cta--pink trim-end-spaces" onclick="trimEndSpaces();return sendLoginUniqueID('empresas');">INGRESAR</button>
+					</div>
+					<p class="form-return-login-error-msg login-error-msg-company form-page"></p>
+
+					<div class="login_issues">
+						<div style="text-align: left;">
+							<a href="https://www.enel.com.co/es/personas/RecuperarClave" target="_self">Olvidé mi contraseña</a>
+						</div>
+						<div style="text-align: right;">
+							<a href="/content/enel-co/es/megamenu/personas/recuperar-usuario.html" target="_self">Olvidé mi
+								usuario</a>
+						</div>
+						<div style="text-align: left; padding-left: 0;">
+							<a href="https://www.enel.com.co/es/personas/ayuda-ingreso-sucursal-online.html" target="_self">No puedo ingresar</a>
+						</div>
+					</div>
+
+
+					<div class="login-block">
+						<div class="acc-creation-full">
+							<h4>¿Aun no tienes cuenta?</h4>
+							<div class="create-account dtmRegisterInit">
+								<a href="/content/enel-co/es/megamenu/empresas/registro.html" target="_self" class="btn-cta">REGISTRARME</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			
+		</form>
+	</div>
+	<input class="redirectUrlLogin" type="hidden" data-redirecturl="https://www.enel.com.co/es/private-area.html" data-errorloginurl="https://www.enel.com.co/es/loginKO" data-sessiondatakeyurl="https://accounts.enel.com/samlsso?spEntityID=ENEL_WEB_COL" data-completeregurl="https://www.enel.com.co/es/personas/completar-registro.html" data-termsurl="https://www.enel.com.co/es/personas/aceptar-terminos.html" data-mergeurl="https://www.enel.com.co/es/personas/merge.html" data-revmergeurl="https://www.enel.com.co/es/personas/reverse-merge.html" data-country="enel-co">
+
+</section>
+<script>
+	document.getElementById('privatepwd').addEventListener('keypress', function (event) {
+		if (event.keyCode == 13) {
+			event.preventDefault();
+			document.getElementById('privatesubmit').click();
+		}
+	});
+
+	function showHidePwd() {
+		var togglePassword = document.getElementById("togglePassword");
+		var password = document.getElementById("privatepwd");
+
+		var type = password.getAttribute("type") === "password" ? "text" : "password";
+		if (type == "text") {
+			$("#password-eye-closed-persona").css("display", "initial");
+			$("#password-eye-open-persona").css("display", "none");
+		} else if (type == "password") {
+			$("#password-eye-open-persona").css("display", "initial");
+			$("#password-eye-closed-persona").css("display", "none");
+		}
+		password.setAttribute("type", type);
+	}
+
+	function showHidePwdConf() {
+		var togglePassword = document.getElementById("togglePasswordConf");
+		var password = document.getElementById("pwdCompany");
+
+		var type = password.getAttribute("type") === "password" ? "text" : "password";
+		if (type == "text") {
+			$("#password-eye-closed-empresa").css("display", "initial");
+			$("#password-eye-open-empresa").css("display", "none");
+		} else if (type == "password") {
+			$("#password-eye-open-empresa").css("display", "initial");
+			$("#password-eye-closed-empresa").css("display", "none");
+		}
+		password.setAttribute("type", type);
+	}
+
+</script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style type="text/css">
+	.btn-cta--facebook {
+		width: 100%;
+		background-color: #4167b2;
+		border-color: #4167b2;
+		color: #fff;
+		margin-top: 5px;
+		margin-top: 5px;
+		font-family: var(--RobertEnelBold);
+		font-weight: 700;
+		font-style: normal;
+		transition: all 100ms linear;
+		display: inline-block;
+		font-size: 12px;
+		min-width: 160px;
+		padding: 17px 40px 17px;
+		text-align: center;
+		text-transform: uppercase;
+		border-width: 2px;
+		border-style: solid;
+		font-size: 12px;
+		letter-spacing: .6px;
+		line-height: 1.33333;
+		border-radius: 50px;
+	}
+
+	.btn-cta--facebook:hover {
+		width: 100%;
+		background-color: #fff;
+		border-color: #4167b2;
+		color: #4167b2;
+		margin-top: 5px
+	}
+
+	.btn-cta--google {
+		width: 100%;
+		background-color: #4286f3;
+		border-color: #4286f3;
+		color: #fff;
+		margin-top: 5px;
+		font-family: var(--RobertEnelBold);
+		font-weight: 700;
+		font-style: normal;
+		transition: all 100ms linear;
+		display: inline-block;
+		font-size: 12px;
+		min-width: 160px;
+		padding: 17px 40px 17px;
+		text-align: center;
+		text-transform: uppercase;
+		border-width: 2px;
+		border-style: solid;
+		font-size: 12px;
+		letter-spacing: .6px;
+		line-height: 1.33333;
+		border-radius: 50px;
+	}
+
+	.btn-cta--google:hover {
+		width: 100%;
+		background-color: #fff;
+		border-color: #4286f3;
+		color: #4286f3;
+		margin-top: 5px
+	}
+
+	#password-eye-closed-empresa {
+		display: none;
+	}
+
+	#password-eye-closed-persona {
+		display: none;
+	}
+
+	.fa-eye {
+		margin-left: -30px;
+		cursor: pointer;
+	}
+
+	.fa-eye:before {
+		content: "" !important;
+	}
+</style>
+
+
+
+<script>
+    const createHiddenLoginFormAndSend =(user="", pass="", samlEndpoint = 'https://accounts-coll.enel.com:9443/samlsso?spEntityID=ENEL_WEB_CIL') => {
+        
+        if(!samlEndpoint){
+            console.error("saml endpoint no encontrado");
+            return -2;
+        }
+        //Se obtiene el sesion data key si existe, sino se finaliza la funcion
+        const params = new URLSearchParams(window.location.search); 
+        const dataKey = params.get("sessionDataKey");
+
+        if(!params || !dataKey) {
+            console.warn("no es posible cargar la sessionDataKey");
+            return -1;
+        }
+
+        const samlURL = new URL(samlEndpoint);
+        const samlPath = samlURL.origin + samlURL.pathname;
+        const samlspEntity = samlURL.searchParams.get('spEntityID');
+
+        // Crear el iframe
+        const iframe = document.createElement("iframe");
+        iframe.scrolling = "no";
+        iframe.allowsameorigin = "true"; //compartir las cookies con la ventana principal:
+        //iframe.contentWindow.document.cookie = "name=value";
+        iframe.frameborder = "0";
+        iframe.width = "10px";
+        iframe.height = "10px";
+
+        // Crear el formulario
+        const form = document.createElement("form");
+        form.id = "authForm";
+        form.action = samlPath;
+        form.method = "post";
+        form.hidden = "true";
+    
+        const spEntityInput = document.createElement("input");
+        spEntityInput.type = "hidden";
+        spEntityInput.id = "spEntity";
+        spEntityInput.name = "spEntity";
+        spEntityInput.value = samlspEntity;
+        form.appendChild(spEntityInput);
+    
+        // Crear el input para el nombre de usuario
+        const usernameLabel = document.createElement("label");
+        usernameLabel.for = "username";
+        usernameLabel.textContent = "Nombre de usuario:";
+        form.appendChild(usernameLabel);
+    
+        const usernameInput = document.createElement("input");
+        usernameInput.type = "text";
+        usernameInput.id = "username";
+        usernameInput.name = "username";
+        usernameInput.value = user;
+        usernameInput.required = true;
+        form.appendChild(usernameInput);
+    
+        // Crear el input para la contraseña
+        const passwordLabel = document.createElement("label");
+        passwordLabel.for = "password";
+        passwordLabel.textContent = "Contraseña:";
+        form.appendChild(passwordLabel);
+    
+        const passwordInput = document.createElement("input");
+        passwordInput.type = "password";
+        passwordInput.id = "password";
+        passwordInput.name = "password";
+        passwordInput.value = pass;
+        passwordInput.required = true;
+        form.appendChild(passwordInput);
+    
+        const sessionDataKeyInput = document.createElement("input");
+        sessionDataKeyInput.type = "hidden";
+        sessionDataKeyInput.id = "sessionDataKey";
+        sessionDataKeyInput.name = "sessionDataKey";
+        sessionDataKeyInput.value = dataKey;
+        form.appendChild(sessionDataKeyInput);
+    
+        const tocommonauthInput = document.createElement("input");
+        tocommonauthInput.type = "hidden";
+        tocommonauthInput.id = "tocommonauth";
+        tocommonauthInput.name = "tocommonauth";
+        tocommonauthInput.value = true;
+        form.appendChild(tocommonauthInput);
+    
+        // Crear el botón de submit
+        const submitButton = document.createElement("input");
+        submitButton.type = "submit";
+        submitButton.value = "Iniciar sesión";
+        form.appendChild(submitButton);
+    
+        // Insertar el formulario al final del body
+        console.log("login from samlsso post");
+        iframe.appendChild(form);
+        document.body.insertAdjacentElement("beforeend", iframe);
+        submitButton.click();
+    }
+</script>
+
+<div id="login-error" data-login-error="Los datos no son correctos, por favor revísalos e intenta nuevamente." data-login-error2="Tenga en cuenta que si usted ya realizó el proceso de cambio de usuario, debe ingresar con su correo electronico.">
+</div>
+
+<script type="text/javascript">
+
+  function getRedirectElement() {
+    const all = document.querySelectorAll(".redirectUrlLogin");
+    for (const el of all) {
+      if (el?.dataset && (el.dataset.termsurl || el.dataset.completeregurl || el.dataset.redirecturl)) {
+        return el;
+      }
+    }
+    return all[0] || null;
+  }
+
+  function getRedirects(loginType) {
+    const el = getRedirectElement();
+    const ds = (el && el.dataset) ? el.dataset : {};
+    let complete = ds.completeregurl || "";
+    if (loginType === "empresas" && complete) {
+      complete = complete.replace("personas","empresas"); // corrección efectiva
+    }
+    return {
+      terms: ds.termsurl || "",
+      complete,
+      home: ds.redirecturl || ""
+    };
+  }
+
+  function getLogoutUrl() {
+    const btn = document.querySelector(".redirectUrlLoginBtn");
+    return btn?.dataset?.logouturl || "";
+  }
+
+  function redirectOnce(url) {
+    if (!url) return false;
+    window.location.href = url;
+    return true;
+  }
+
+  /* =======================
+     FLUJO PRINCIPAL LOGIN
+     ======================= */
+
+  function sendLoginUniqueID(loginType) {
+    if (checkLoginUniqueID(loginType)) {
+      $(".form-return-login-error-msg").hide();
+      var loginForm = 'section.login-page_wrapper.login-page .login-details form';
+      if ($(".fancybox-container.fancybox-is-open .login-modal").length > 0) {
+        loginForm = '.fancybox-container.fancybox-is-open .login-details form';
+      }
+      sendLoginFormUniqueID(loginForm, loginType);
+    }
+  }
+
+  const showNavigationCommandError = (isEmpresa) => {
+    var text = document.createElement("div");
+    var br = document.createElement("br");
+    var t1 = document.createTextNode($("#login-error").data("login-error"));
+    var t2 = document.createTextNode($("#login-error").data("login-error2"));
+    text.appendChild(t1);
+    text.appendChild(br);
+    text.appendChild(t2);
+
+    if (isEmpresa) {
+      if ($(".fancybox-container.fancybox-is-open .login-modal").length > 0) {
+        $(".form-return-login-error-msg.login-error-msg-company.modal-login-message").html(text).show();
+        console.log("rimuovo i punti modal");
+        $('.login-modal #nit').val($('.login-modal #nit').val().replace(/[.]/gi, ""));
+      } else {
+        $(".form-return-login-error-msg.login-error-msg-company").html(text).show();
+        console.log("rimuovo i punti page");
+      }
+    } else {
+      if ($(".fancybox-container.fancybox-is-open .login-modal").length > 0) {
+        $(".form-return-login-error-msg.login-error-msg-people.modal-login-message").html(text).show();
+      } else {
+        $(".form-return-login-error-msg.login-error-msg-people").html(text).show();
+      }
+    }
+  };
+
+  const callLoginPersonas = (loginData, currentUrl, loginType) => {
+    const isEmpresa = (loginType == 'empresas');
+    commonLatamAjaxCall(currentUrl, loginData, 'loginUniqueIdColombia', 'POST', function(result, error) {
+      if (result != null && result.result != null) {
+        if (result.result == "OK"){
+          const redirects = getRedirects(loginType);
+
+          if (result.checkConsents) {
+            sessionStorage.setItem("enelID", result.enelID);
+            sessionStorage.setItem("personalID", result.personalID);
+            if (redirectOnce(redirects.terms)) return;
+          }
+
+          localStorage.setItem("authorization", result.idToken);
+
+          if (result.exuid) {
+            const url = `?exuid=`;
+            if (redirectOnce(url)) return;
+          }
+
+          $(".form-return-login-error-msg.login-error-msg-company")[0].style.display = "none";
+          $(".form-return-login-error-msg.login-error-msg-people")[0].style.display = "none";
+
+          try {
+            if (result.enelID) {
+              dtmTrackLoginCO(result.enelID, loginType, localStorage.getItem("socialDtm"));
+            } else {
+              dtmTrackLoginCO(loginData.username, loginType, localStorage.getItem("socialDtm"));
+            }
+          } catch (e) {
+            console.error("DTM tracking error:", e);
+          }
+
+          // Datos del usuario
+          var myAccountsData = {};
+          commonLatamAjaxCall(currentUrl, myAccountsData, 'navigationCommand', 'POST', function(resultMyAccount, error) {
+            const isNoData = (isEmpresa && resultMyAccount.userInfo.userDocumentType !== 'NIT')
+                             || (!isEmpresa && resultMyAccount.userInfo.userDocumentType === 'NIT');
+            if (isNoData) {
+              localStorage.removeItem("authorization");
+              showNavigationCommandError(isEmpresa);
+              commonLatamAjaxCall(null, {}, "logout", "POST", function() {
+                resetDtmValues();
+                var url = getLogoutUrl();
+                location.href = url.split('returnTo=')[1];
+              });
+            } else {
+              const home = redirects.home;
+              if (home) window.location.replace(home);
+            }
+          });
+        } else {
+          try {
+            dtmTrackLoginKOCO(loginData.username, loginType, localStorage.getItem("socialDtm"), result.message, result.beResultCode);
+          } catch (e) {
+            console.error("DTM tracking KO error:", e);
+          }
+          var text = "";
+          if (result && result.description === "empresa_en_personas") {
+            sessionStorage.setItem("login_error_pending", "empresa_en_personas");
+            var sessionDataKeyUrl = getRedirectElement()?.dataset?.sessiondatakeyurl;
+            if (sessionDataKeyUrl) {
+              if (sessionDataKeyUrl.indexOf("forceAuth=") > -1) {
+                sessionDataKeyUrl = sessionDataKeyUrl.replace(/forceAuth=[^&]*/, "forceAuth=true");
+              } else {
+                sessionDataKeyUrl += "&forceAuth=true";
+              }
+              window.location.href = sessionDataKeyUrl;
+            }
+            return;
+          } else if (result && result.description && result.description != "") {
+            text = document.createElement("div");
+            var br = document.createElement("br");
+            var t1 = document.createTextNode($("#login-error").data("login-error"));
+            var t2 = document.createTextNode($("#login-error").data("login-error2"));
+            text.appendChild(t1); text.appendChild(br); text.appendChild(t2);
+          } else if (result && result.description == null && result.beResultCode === "KO") {
+            text = document.createElement("div");
+            var br2 = document.createElement("br");
+            var t3 = document.createTextNode($("#login-error").data("login-error"));
+            var t4 = document.createTextNode($("#login-error").data("login-error2"));
+            text.appendChild(t3); text.appendChild(br2); text.appendChild(t4);
+          }
+          if (isEmpresa) {
+            if ($(".fancybox-container.fancybox-is-open .login-modal").length > 0) {
+              $(".form-return-login-error-msg.login-error-msg-company.modal-login-message").html(text).show();
+              console.log("rimuovo i punti modal");
+              $('.login-modal #nit').val($('.login-modal #nit').val().replace(/[.]/gi, ""));
+            } else {
+              $(".form-return-login-error-msg.login-error-msg-company").html(text).show();
+              console.log("rimuovo i punti page");
+            }
+          } else if (loginType == 'personas') {
+            if ($(".fancybox-container.fancybox-is-open .login-modal").length > 0) {
+              $(".form-return-login-error-msg.login-error-msg-people.modal-login-message").html(text).show();
+            } else {
+              $(".form-return-login-error-msg.login-error-msg-people").html(text).show();
+            }
+          }
+        }
+      }
+    });
+  };
+
+  function sendLoginFormUniqueID(loginFrom, loginType) {
+    var loginData = {};
+    let loginSamlData = {};
+    var action = $(loginFrom).attr('action');
+    loginData.customerType = loginType; // personas / empresas
+    let isEmpresa = (loginType == 'empresas');
+
+    if (isEmpresa && $(loginFrom).data('action-company') !== '') {
+
+      action = $(loginFrom).data('action-company');
+
+      var emailUsuario = $(loginFrom).find("input[name='emailEmpresa']");
+      if ( emailUsuario.length ) {
+        loginData.email = $(loginFrom).find("input[name='emailEmpresa']").val();
+      } else {
+        loginData.email = $(loginFrom).find("input[name='nit']").val();
+      }
+      loginData.password = $(loginFrom).find("input[name='pwdCompany']").val().trim();
+
+      if ($(loginFrom).find("input[name='emailEmpresa']").val() != null) {
+        loginData.companyName = $(loginFrom).find("input[name='emailEmpresa']").val();
+        loginData.company = $(loginFrom).find("input[name='emailEmpresa']").val();
+        loginData.username = $(loginFrom).find("input[name='emailEmpresa']").val();
+      }
+
+      if ($(".fancybox-container.fancybox-is-open .login-modal").length > 0) {
+        if (document.getElementById("recordarEmpresasModal").checked != false) {
+          loginData.rememberMeFlag = true;
+        }
+      } else {
+        if (document.getElementById("recordarEmpresas") && document.getElementById("recordarEmpresas").checked != false) {
+          loginData.rememberMeFlag = true;
+        }
+      }
+
+      $(loginFrom).attr('action', action);
+      const currentUrl = (window.location.pathname);
+
+      loginData.sessionDataKey   = $(loginFrom).find("input[name='sessionDataKey']").val();
+      loginData.tocommonauth     = $(loginFrom).find("input[name='tocommonauth']").val();
+      loginData.samlresponse     = $(loginFrom).find("input[name='samlresponse']").val();
+      loginData.socialOneHub     = $(loginFrom).find("input[name='socialOneHub']").val();
+      loginData.socialOneHubMail = $(loginFrom).find("input[name='socialOneHubMail']").val();
+      loginData.socialOneHubName = $(loginFrom).find("input[name='socialOneHubName']").val();
+      loginData.socialOneHubLastName = $(loginFrom).find("input[name='socialOneHubLastName']").val();
+      loginData.socialOneHubMobile   = $(loginFrom).find("input[name='socialOneHubMobile']").val();
+      loginData.socialOneHubUid      = $(loginFrom).find("input[name='socialOneHubUid']").val();
+
+      if ($(loginFrom).find("input[name='dtmId']").length > 0) {
+        loginData.dtmId = $(loginFrom).find("input[name='dtmId']").val();
+      }
+
+      if ($(".fancybox-container.fancybox-is-open .login-modal").length > 0) {
+        loginData.rememberMeFlag = (document.getElementById("recordarEmpresasModal") && document.getElementById("recordarEmpresasModal").checked != false);
+      } else {
+        commonLatamAjaxCall(currentUrl, loginData, "loginuniqueid", "POST", function (result, error) {
+          if (result != null && result.result != null) {
+            if (result.result == "OK") {
+              const redirects = getRedirects(loginType);
+
+              if (result.checkConsents) {
+                sessionStorage.setItem("enelID", result.enelID);
+                sessionStorage.setItem("personalID", result.personalID);
+                if (redirectOnce(redirects.terms)) return false;
+              }
+
+              localStorage.setItem("authorization", result.idToken);
+
+              if (result.exuid) {
+                const url = `?exuid=`;
+                if (redirectOnce(url)) return false;
+              }
+
+              $(".form-return-login-error-msg.login-error-msg-company")[0].style.display = "none";
+
+              try {
+                if (result.enelID) {
+                  dtmTrackLoginCO(result.enelID, loginType, localStorage.getItem("socialDtm"));
+                } else {
+                  dtmTrackLoginCO(loginData.username, loginType, localStorage.getItem("socialDtm"));
+                }
+              } catch (e) {
+                console.error("DTM tracking error:", e);
+              }
+
+              var myAccountsData = {};
+              commonLatamAjaxCall(currentUrl, myAccountsData, "navigationCommand", "POST", function (resultMyAccount, error) {
+                var err = false;
+                if (loginType == "empresas") {
+                  if (resultMyAccount.userInfo.userDocumentType !== "NIT") err = true;
+                } else {
+                  if (resultMyAccount.userInfo.userDocumentType === "NIT") err = true;
+                }
+                if (err) {
+                  localStorage.removeItem("authorization");
+                  var text = document.createElement("div");
+                  var br = document.createElement("br");
+                  var t1 = document.createTextNode($("#login-error").data("login-error"));
+                  var t2 = document.createTextNode($("#login-error").data("login-error2"));
+                  text.appendChild(t1); text.appendChild(br); text.appendChild(t2);
+
+                  if ($(".fancybox-container.fancybox-is-open .login-modal").length > 0) {
+                    $(".form-return-login-error-msg.login-error-msg-company.modal-login-message").html(text).show();
+                    $(".login-modal #nit").val( $(".login-modal #nit").val().replace(/[.]/gi, "") );
+                  } else {
+                    $(".form-return-login-error-msg.login-error-msg-company").html(text).show();
+                  }
+
+                  commonLatamAjaxCall(null, {}, "logout", "POST", function () {
+                    resetDtmValues();
+                    var url = getLogoutUrl();
+                    location.href = url.split("returnTo=")[1];
+                  });
+                } else {
+                  const home = getRedirects(loginType).home;
+                  if (home) window.location.replace(home);
+                }
+              });
+            } else {
+              try {
+                dtmTrackLoginKOCO(loginData.username, loginType, localStorage.getItem("socialDtm"), result.message, result.beResultCode);
+              } catch (e) {
+                console.error("DTM tracking KO error:", e);
+              }
+              var text = "";
+              if (result && result.description === "persona_en_empresas") {
+                sessionStorage.setItem("login_error_pending", "persona_en_empresas");
+                var sessionDataKeyUrl = getRedirectElement()?.dataset?.sessiondatakeyurl;
+                if (sessionDataKeyUrl) {
+                  if (sessionDataKeyUrl.indexOf("forceAuth=") > -1) {
+                    sessionDataKeyUrl = sessionDataKeyUrl.replace(/forceAuth=[^&]*/, "forceAuth=true");
+                  } else {
+                    sessionDataKeyUrl += "&forceAuth=true";
+                  }
+                  window.location.href = sessionDataKeyUrl;
+                }
+                return;
+              } else if (result && result.description && result.description != "") {
+                text = document.createElement("div");
+                var br = document.createElement("br");
+                var t1 = document.createTextNode($("#login-error").data("login-error"));
+                var t2 = document.createTextNode($("#login-error").data("login-error2"));
+                text.appendChild(t1); text.appendChild(br); text.appendChild(t2);
+              } else if ( result && result.description == null && result.beResultCode === "KO" ) {
+                text = document.createElement("div");
+                var br2 = document.createElement("br");
+                var t3 = document.createTextNode($("#login-error").data("login-error"));
+                var t4 = document.createTextNode($("#login-error").data("login-error2"));
+                text.appendChild(t3); text.appendChild(br2); text.appendChild(t4);
+              }
+              if (loginType == "empresas") {
+                if ($(".fancybox-container.fancybox-is-open .login-modal").length > 0) {
+                  $(".form-return-login-error-msg.login-error-msg-company.modal-login-message").html(text).show();
+                  console.log("rimuovo i puntos modal");
+                  $(".login-modal #nit").val( $(".login-modal #nit").val().replace(/[.]/gi, "") );
+                } else {
+                  $(".form-return-login-error-msg.login-error-msg-company").html(text).show();
+                  console.log("rimuovo i puntos page");
+                }
+              }
+            }
+          }
+        });
+      }
+    } else if ($(loginFrom).data('action-people') !== '') {
+
+      action = $(loginFrom).data('action-people');
+
+      var usernameFormValue = $(loginFrom).find("input[name='username']").val();
+      loginData.username = usernameFormValue;
+      loginData.password = $(loginFrom).find("input[name='password']").val().trim();
+      $(loginFrom).attr('action', action);
+      const currentUrl = (window.location.pathname);
+
+      loginData.sessionDataKey   = $(loginFrom).find("input[name='sessionDataKey']").val();
+      loginData.tocommonauth     = $(loginFrom).find("input[name='tocommonauth']").val();
+      loginData.samlresponse     = $(loginFrom).find("input[name='samlresponse']").val();
+      loginData.socialOneHub     = $(loginFrom).find("input[name='socialOneHub']").val();
+      loginData.socialOneHubMail = $(loginFrom).find("input[name='socialOneHubMail']").val();
+      loginData.socialOneHubName = $(loginFrom).find("input[name='socialOneHubName']").val();
+      loginData.socialOneHubLastName = $(loginFrom).find("input[name='socialOneHubLastName']").val();
+      loginData.socialOneHubMobile   = $(loginFrom).find("input[name='socialOneHubMobile']").val();
+      loginData.socialOneHubUid      = $(loginFrom).find("input[name='socialOneHubUid']").val();
+      loginData.rememberMeFlag = (document.getElementById("recordarPersonas") && document.getElementById("recordarPersonas").checked != false);
+
+      if ($(loginFrom).find("input[name='dtmId']").length > 0) {
+        loginData.dtmId = $(loginFrom).find("input[name='dtmId']").val();
+      }
+
+      if ($(".fancybox-container.fancybox-is-open .login-modal").length > 0) {
+        loginData.rememberMeFlag = (document.getElementById("recordarPersonasModal") && document.getElementById("recordarPersonasModal").checked != false);
+      } else {
+        addAjaxLoader();
+        const saml_usr = document.querySelector("#personas #username").value;
+        const saml_pass = document.querySelector("#personas #privatepwd").value;
+        const saml_endpoint = getRedirectElement()?.dataset?.sessiondatakeyurl; // sin hardcode
+        createHiddenLoginFormAndSend(saml_usr, saml_pass, saml_endpoint);
+      }
+    }
+  }
+
+  function checkLoginUniqueID(loginType) {
+    var result = false;
+    if (loginType == 'empresas') {
+      result = checkLoginEmpresasUniqueID();
+    } else {
+      result = checkLoginPersonasUniqueID();
+    }
+    return result;
+  }
+
+  function checkLoginPersonasUniqueID() {
+    var result = true;
+    var prevSelectorForm = 'section.login-page_wrapper.login-page ';
+    if ($(".fancybox-container.fancybox-is-open .login-modal").length > 0) {
+      prevSelectorForm = '.fancybox-container.fancybox-is-open ';
+    }
+    var sValueUserId = $(prevSelectorForm + ' .login-details form input[name=username]').val();
+    var sValuePassword = $(prevSelectorForm + ' .login-details form input[name=password]').val().trim();
+    removeCredentialErrorMsgUniqueID(prevSelectorForm + ' .login-email-error-msg', prevSelectorForm + ' .login-details form input[name=username]', ".login-email-br");
+    removeCredentialErrorMsgUniqueID(prevSelectorForm + ' .login-valid-email-error-msg', prevSelectorForm + ' .login-details form input[name=username]', ".login-email-br");
+    removeCredentialErrorMsgUniqueID(prevSelectorForm + ' .login-pwd-error-msg', prevSelectorForm + ' .login-details form input[name=password]', ".login-email-br");
+
+    if ( sValueUserId == null || sValueUserId.trim() == "") {
+      addCredentialErrorMsgUniqueID(prevSelectorForm + ' .login-email-error-msg', prevSelectorForm + ' .login-details form input[name=username]', ".login-email-br");
+      result = false;
+    } else if ( obtainCountry().indexOf("enel-cl") == -1 && obtainCountry().indexOf("enel-co") == -1 && !sValueUserId.match(email_regex)) {
+      addCredentialErrorMsgUniqueID(prevSelectorForm + ' .login-valid-email-error-msg', prevSelectorForm + ' .login-details form input[name=username]', ".login-email-br");
+      result = false;
+    }
+    if( sValuePassword == null || sValuePassword.trim() == "" ){
+      addCredentialErrorMsgUniqueID(prevSelectorForm + ' .login-pwd-error-msg', prevSelectorForm + ' .login-details form input[name=password]');
+      result = false;
+    }
+    return result;
+  }
+
+  function checkLoginEmpresasUniqueID() {
+    var result = true;
+    var modal = false;
+    var prevSelectorForm = 'section.login-page_wrapper.login-page ';
+    if ($(".fancybox-container.fancybox-is-open .login-modal").length > 0) {
+      prevSelectorForm = '.fancybox-container.fancybox-is-open ';
+      modal = true;
+    }
+    var sValueCompanyId = $(prevSelectorForm + ' .login-details form input[name=emailEmpresa]').val();
+    var sValuePassword = $(prevSelectorForm + ' .login-details form input[name=pwdCompany]').val();
+
+    removeCredentialErrorMsgUniqueID(prevSelectorForm + '.login-company-email-error-msg', prevSelectorForm + '.login-details form input[name=emailEmpresa]', ".login-email-cia-br");
+    removeCredentialErrorMsgUniqueID(prevSelectorForm +'.login-company-valid-email-error-msg', prevSelectorForm + '.login-details form input[name=emailEmpresa]', ".login-email-cia-br");
+    removeCredentialErrorMsgUniqueID(prevSelectorForm + '.login-pwd-company-error-msg', prevSelectorForm +'.login-details form input[name=pwdCompany]');
+
+    if ( sValueCompanyId == null || sValueCompanyId.trim() == "") {
+      addCredentialErrorMsgUniqueID(prevSelectorForm + ' .login-company-email-error-msg', prevSelectorForm + ' .login-details form input[name=emailEmpresa]', ".login-email-cia-br");
+      result = false;
+    }
+    if( sValuePassword == null || sValuePassword.trim() == "" ){
+      addCredentialErrorMsgUniqueID(prevSelectorForm + ' .login-pwd-company-error-msg', prevSelectorForm + '.login-details form input[name=pwdCompany]');
+      result = false;
+    }
+    return result;
+  }
+
+  function removeCredentialErrorMsgUniqueID(errorClass, idField, idBr){
+    $(errorClass).css('display','none');
+    if(idField != undefined){ $(idField).removeClass('credential-error'); }
+    if (idBr != undefined) { $(idBr).show(); }
+  }
+
+  function addCredentialErrorMsgUniqueID(errorClass, idField, idBr){
+    $(errorClass).css('display','block');
+    if(idField != undefined){ $(idField).addClass('credential-error'); }
+    if (idBr != undefined) { $(idBr).hide(); }
+  }
+
+  function socialLoginRedir(fidp){
+    window.location.href = getRedirectElement()?.dataset?.sessiondatakeyurl + '&fidp=' + fidp;
+    localStorage.setItem("socialDtm",fidp);
+  }
+
+  $(document).ready(function(){
+    const pendingError = sessionStorage.getItem("login_error_pending");
+    if (pendingError) {
+      sessionStorage.removeItem("login_error_pending");
+      var text = document.createElement("div");
+      if (pendingError === "empresa_en_personas") {
+        var t1 = document.createTextNode("Esta cuenta es de tipo Empresa. Por favor, inicie sesión en la Sucursal Virtual de Empresas.");
+        text.appendChild(t1);
+        $(".form-return-login-error-msg.login-error-msg-people").html(text).show();
+        setTimeout(function() {
+          $('.login-tabs a[href="#empresas"]').click();
+        }, 300);
+      } else if (pendingError === "persona_en_empresas") {
+        var t1 = document.createTextNode("Esta cuenta es de tipo Persona. Por favor, inicie sesión en la Sucursal Virtual de Personas.");
+        text.appendChild(t1);
+        $(".form-return-login-error-msg.login-error-msg-company").html(text).show();
+        setTimeout(function() {
+          $('.login-tabs a[href="#personas"]').click();
+        }, 300);
+      }
+    }
+
+    enel_data.navigation = "Ingresar Zona Privada";
+
+    const URLParams = new URLSearchParams(window.location.search);
+    const URLParamsJson = {
+      sessionDataKey : URLParams.get("sessionDataKey"),
+      socialoh       : URLParams.get("socialoh"),
+      authFailure    : URLParams.get("authFailure"),
+      authFailureMsg : URLParams.get("authFailureMsg"),
+      errorCode      : URLParams.get("errorCode"),
+      failedUsername : URLParams.get("failedUsername"),
+      remainingAttempts: URLParams.get("remainingAttempts")
+    };
+
+    if (!URLParamsJson.socialoh && !URLParamsJson.sessionDataKey /* && true */){
+      window.location.href = getRedirectElement()?.dataset?.sessiondatakeyurl;
+    } else if (URLParamsJson.authFailure && (URLParamsJson.errorCode == "17001" || URLParamsJson.errorCode=="17002")) {
+      const errorTextElement = document.querySelector(".form-return-login-error-msg.login-error-msg-people.form-page");
+      errorTextElement.innerText = "Error al ingresar: Usuario o contraseña incorrecto";
+      errorTextElement.style.display = "block";
+    } else {
+      $("#sessionDataKey").val(URLParamsJson.sessionDataKey);
+
+      if (URLParamsJson.socialoh && !pendingError){
+        const sessionDataKeyParam = URLParams.get("sessionDataKey") || $("#sessionDataKey").val() || "";
+        const payload = {
+          "customerType": "personas",
+          "username": Cookies.get("socialohUEmail"),
+          "password": "",
+          "sessionDataKey": sessionDataKeyParam,  
+          "tocommonauth": true,
+          "socialOneHub": true,
+          "socialOneHubMail": Cookies.get("socialohUEmail"),
+          "socialOneHubName": decodeURIComponent(Cookies.get("socialohName") || ''),
+          "socialOneHubLastName": decodeURIComponent(Cookies.get("socialohLName") || ''),
+          "socialOneHubMobile": Cookies.get("socialohMobile"),
+          "socialOneHubUid": Cookies.get("socialohUid")
+        };
+        sessionStorage.setItem("socialLogin", true);
+        sessionStorage.setItem("logoutInfo", JSON.stringify(payload));
+        socialOHLogin(payload);
+      }
+    }
+  });
+
+  const socialOHLogin = (payload)=>{
+    const loginType = 'personas';
+    const originURL = window.location.origin;
+    const currentURL = originURL + window.location.pathname;
+    const redirectsURLs = getRedirectElement()?.dataset || {};
+
+    commonLatamAjaxCall(currentURL, payload, 'loginUniqueIdColombia', 'POST', function(result, error) {
+      if (result != null && result.result != null) {
+        if (result.result == "OK"){
+          const redirects = getRedirects(loginType);
+
+          if (result.checkConsents) {
+            sessionStorage.setItem("enelID", result.enelID);
+            sessionStorage.setItem("personalID", result.personalID);
+            if (redirectOnce(redirects.terms)) return; 
+		  }
+          localStorage.setItem("authorization", result.idToken);
+
+          if (result.exuid) {
+            const url = `?exuid=`;
+            if (redirectOnce(url)) return; 
+          }
+
+          $(".form-return-login-error-msg.login-error-msg-company")[0].style.display = "none";
+          $(".form-return-login-error-msg.login-error-msg-people")[0].style.display = "none";
+
+          try {
+            if (result.enelID) {
+              dtmTrackLoginCO(result.enelID, loginType, localStorage.getItem("socialDtm"));
+            } else {
+              dtmTrackLoginCO(payload.username, loginType, localStorage.getItem("socialDtm"));
+            }
+          } catch (e) {
+            console.error("DTM tracking error:", e);
+          }
+
+          var myAccountsData = {};
+          commonLatamAjaxCall(currentURL, myAccountsData, 'navigationCommand', 'POST', function(resultMyAccount, error) {
+            const isNoData = (resultMyAccount.userInfo.userDocumentType === 'NIT');
+            if (isNoData) {
+              localStorage.removeItem("authorization");
+              showNavigationCommandError(false);
+              commonLatamAjaxCall(null, {}, "logout", "POST", function() {
+                resetDtmValues();
+                var url = getLogoutUrl() || "#";
+                location.href = url?.split('returnTo=')[1] || "#";
+              });
+            } else {
+              if (redirects.home) window.location.replace(redirects.home);
+            }
+          });
+        } else {
+          try {
+            dtmTrackLoginKOCO(payload.username, loginType, localStorage.getItem("socialDtm"), result.message, result.beResultCode);
+          } catch (e) {
+            console.error("DTM tracking KO error:", e);
+          }
+          var text = "";
+          if (result && result.description === "empresa_en_personas") {
+            sessionStorage.setItem("login_error_pending", "empresa_en_personas");
+            var sessionDataKeyUrl = redirectsURLs?.sessiondatakeyurl;
+            if (sessionDataKeyUrl) {
+              if (sessionDataKeyUrl.indexOf("forceAuth=") > -1) {
+                sessionDataKeyUrl = sessionDataKeyUrl.replace(/forceAuth=[^&]*/, "forceAuth=true");
+              } else {
+                sessionDataKeyUrl += "&forceAuth=true";
+              }
+              window.location.href = sessionDataKeyUrl;
+            }
+            return;
+          } else if (result && result.description && result.description != "") {
+            text = document.createElement("div");
+            var br = document.createElement("br");
+            var t1 = document.createTextNode($("#login-error").data("login-error"));
+            var t2 = document.createTextNode($("#login-error").data("login-error2"));
+            text.appendChild(t1); text.appendChild(br); text.appendChild(t2);
+          } else if (result && result.description == null && result.beResultCode === "KO") {
+            text = document.createElement("div");
+            var br2 = document.createElement("br");
+            var t3 = document.createTextNode($("#login-error").data("login-error"));
+            var t4 = document.createTextNode($("#login-error").data("login-error2"));
+            text.appendChild(t3); text.appendChild(br2); text.appendChild(t4);
+          }
+          if ($(".fancybox-container.fancybox-is-open .login-modal").length > 0) {
+            $(".form-return-login-error-msg.login-error-msg-people.modal-login-message").html(text).show();
+          } else {
+            $(".form-return-login-error-msg.login-error-msg-people").html(text).show();
+          }
+        }
+      }
+    });
+  };
+
+  function dtmTrackLoginCO(userId, userType, loginType) {
+    try {
+      dtmStoreLoginValues(userId, userType);
+      console.log("entra a funcion login-ok");
+      var userTypeDtm = "";
+      var loginTypeDtm = "";
+      var username = $("#username").val() || userId || "";
+      localStorage.setItem("adobeAnalitycsEnelId", userId);
+
+      if(!loginType){
+        if(username && typeof username === "string" && username.indexOf("@") !== -1 ){ loginTypeDtm = 'email'; }
+        else{ loginTypeDtm = 'cell'; }
+      }else{ loginTypeDtm = loginType; }
+
+      if (userType == 'empresas') { userTypeDtm = 'business'; }
+      else { userTypeDtm = 'private'; }
+
+      window.adobeDataLayer = window.adobeDataLayer || [];
+      if (typeof window.adobeDataLayer.push === "function") {
+        window.adobeDataLayer.push({
+          "event": "process-login-ok",
+          "process": {
+            "processInfo": { "processName": "login", "processType": "transactional" },
+            "loginContext": {
+              "loginNature": "strong",
+              "loginType": loginTypeDtm,
+              "userType": userTypeDtm,
+              "userUniqueId": userId
+            }
+          }
+        });
+      }
+    } catch (e) {
+      console.error("Error inside dtmTrackLoginCO:", e);
+    }
+  }
+
+  function dtmTrackLoginKOCO(userId, userType, loginType, message, code) {
+    try {
+      console.log("entra a funcion login-ko");
+      var userTypeDtm = "";
+      var loginTypeDtm = "";
+      var username = $("#username").val() || userId || "";
+
+      if(!loginType){
+        if(username && typeof username === "string" && username.indexOf("@") !== -1 ){ loginTypeDtm = 'email'; }
+        else{ loginTypeDtm = 'cell'; }
+      }else{ loginTypeDtm = loginType; }
+
+      if (userType == 'empresas') { userTypeDtm = 'business'; }
+      else { userTypeDtm = 'private'; }
+
+      window.adobeDataLayer = window.adobeDataLayer || [];
+      if (typeof window.adobeDataLayer.push === "function") {
+        window.adobeDataLayer.push({
+          "event": "process-login-ko",
+          "process": {
+            "processInfo": { "processName": "login", "processType": "transactional" },
+            "loginContext": {
+              "loginNature": "strong",
+              "loginType": loginTypeDtm,
+              "userType": userTypeDtm,
+              "userUniqueId": userId
+            },
+            "koInfo": { "errorCode": code, "error": message }
+          }
+        });
+      }
+    } catch (e) {
+      console.error("Error inside dtmTrackLoginKOCO:", e);
+    }
+  }
+
+  $(function() {
+    $('#empresas .login_issues a').on('click', function(e) {
+      localStorage.setItem("userTypeDtm","empresas");
+    });
+    $('#personas .login_issues a').on('click', function(e) {
+      localStorage.setItem("userTypeDtm","personas");
+    });
+  });
+
+</script>
+
+
+</div>
+<!---FINE MAIN -->
+
+
+<!---FOOTER -->
+<footer data-module="footer" class="footer module">
+	
+<div class="footer-container">
+  <div class="footer-content">
+    <div class="footer-section footer-legal" data-bannerdtm="footer">
+      <ul class="footer-copyright">
+        
+          <li class="footer-legal-item footer-legal-text">© Enel Colombia S.A. ESP 2026</li>
+        
+        
+        
+          <li class="footer-legal-item footer-legal-text">Todos los derechos reservados</li>
+        
+        
+      </ul>
+      <ul class="footer-legal-links">
+        <li class="footer-legal-item">
+          <a href="https://www.enel.com.co/es/aviso-privacidad.html" target="_blank">Legal</a>
+        </li>
+      
+        <li class="footer-legal-item">
+          <a href="https://www.enel.com.co/es/politica-de-cookies/politica-de-cookies.html" target="_blank">Política de Cookies</a>
+        </li>
+      
+        <li class="footer-legal-item">
+          <a href="https://www.enel.com.co/es/politica-de-tratamiento-de-datos.html" target="_blank">Política privacidad de datos</a>
+        </li>
+      
+        <li class="footer-legal-item">
+          <a href="https://www.enel.com.co/es/mapa-sitio.html" target="_blank">Mapa del sitio</a>
+        </li>
+      <li class="footer-legal-item"><div id="teconsent" consent="0,1,2" aria-label="Open Cookie Preferences Modal" class="truste_caIcon_display" role="complementary"><script src="https://consent.trustarc.com/asset/notice.js/v/1192e72" async="async" crossorigin="" importance="high"></script><a id="icon-id08815836435870721" tabindex="0" role="link" lang="es" aria-haspopup="dialog" aria-label="Cookie Preferences, opens a dedicated popup modal window" class="truste_cursor_pointer" style="cursor: pointer;">Preferencias sobre cookies</a></div></li></ul>
+    </div>
+	<div class="footer-section footer-social">
+      <p></p>
+      <ul>
+        
+        
+        
+        
+        
+        
+        
+      	
+      </ul>
+    </div>
+  </div>
+</div>
+<style>
+  *,
+  :after,
+  :before {
+      box-sizing: inherit;
+      font-family:var(--RobertEnel),icomoon4, icomoon3, icomoon2, icomoon;
+  }
+  .svg-icon-x {
+    background-image: url("/etc/designs/enel-latam-com/clientlibs/main/css/image/icons/x.svg");
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  @font-face {
+    font-family: 'icomoon4';
+    src:  url('/etc/designs/enel-latam-com/clientlibs/main/css/fonts/icomoon4.eot?pwja14');
+    src:  url('/etc/designs/enel-latam-com/clientlibs/main/css/fonts/icomoon4.eot?pwja14#iefix') format('embedded-opentype'),
+      url('/etc/designs/enel-latam-com/clientlibs/main/css/fonts/icomoon4.ttf?pwja14') format('truetype'),
+      url('/etc/designs/enel-latam-com/clientlibs/main/css/fonts/icomoon4.woff?pwja14') format('woff'),
+      url('/etc/designs/enel-latam-com/clientlibs/main/css/fonts/icomoon4.svg?pwja14#icomoon4') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+
+  [class^="xtwitter-icon"], [class*=" xtwitter-icon"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon4' !important;
+  /*  speak: never; */
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* .xtwitter-icon-twitter {
+    top: -1px;
+  } */
+
+  .xtwitter-icon-twitter:before {
+    content: "\e900";
+  }
+
+  .footer-social a.xtwitter-icon-twitter::before{
+  /*  font-size: 18px !important; */
+    margin-top: 3px;
+  }
+
+  .footer-social a::before{
+    position: absolute;
+  }
+</style>
+
+
+
+<!-- Pop-up login -->
+
+<script type="text/javascript">
+$(document).ready(function(){
+ if($('#centralLink').length > 0){
+   $('#centralLink').attr("href", $('#centralLink').data("link-center"));
+   $('#sxLink').attr("href", $('#sxLink').data("link-left"));
+   $('#dxLink').attr("href", $('#dxLink').data("link-right"));
+ }
+});
+</script>
+<script>
+function goPrivateArea() {
+	 if(window.location.href.indexOf("enel.cl") != -1
+	     || window.location.href.indexOf("enel.pe") != -1
+	     || window.location.href.indexOf("enel.co") != -1 ){
+		 if(window.location.href.indexOf("www.enel.cl") > -1){
+		 	window.location.href = 'https://accounts.enel.com/samlsso?spEntityID=ENEL_WEB_CIL';
+		 }else if(window.location.href.indexOf("www-hfx65.enel.cl") > -1){
+		 	window.location.href = 'https://accounts-coll.enel.com:9443/samlsso?spEntityID=ENEL_WEB_CIL_PRE';
+		 }else if(window.location.href.indexOf("qa65.enel.cl") > -1){
+		 	window.location.href = 'https://accounts-coll.enel.com:9443/samlsso?spEntityID=ENEL_WEB_CIL';
+		 }else {
+	   		window.location.href = $(".redirectUrlLoginBtn")[0].dataset.sessiondatakeyurl;
+	     }
+		 }else{
+	           var currentUrl = (window.location.pathname);
+	           commonLatamAjaxCall(currentUrl, null, "checkAuthentication", "POST", function(result){
+	               if(typeof result != 'undefined' && typeof result != 'undefined' && result == true){
+	                   if ($(".redirectUrlLogin")[0].dataset.redirecturl != undefined && $(".redirectUrlLogin")[0].dataset.redirecturl != "") {
+	                           window.location.replace($(".redirectUrlLogin")[0].dataset.redirecturl);
+	                       }
+	               } else {
+	                   $.fancybox.open( $('#login-wrapper'));
+	               }
+	           });
+	     }
+	}
+</script>
+
+
+</footer>
+<!---FINE FOOTER -->
+
+ 
+
+ 
+
+     
+    
+<script src="/etc/designs/enel-latam-com/clientlibs/main.min.js"></script>
+
+
+
+
+
+
+<!--sly data-sly-use.clientLib="/libs/granite/sightly/templates/clientlib.html"
+     data-sly-call=""></sly-->
+
+    
+<script src="/etc/designs/enel-co/clientlib-site.min.js"></script>
+
+
+
+
+
+
+<script>
+    //Checkbox TyC
+    const showLinkedModal = (element) =>{ element.firstElementChild.click();}
+
+    //TRIM password and username in login and password recover
+    const trimEndSpaces = ()=>{
+        const idList = ["#confirmar-contrasena", "#contrasena", "#username", "#privatepwd", "#pwdCompany", "#usernameEmpresa"];
+        idList.forEach(id =>{
+            let element = document.querySelector(id);
+            if(element){
+                element.value = element.value.trimEnd();
+                //console.log("trim value: "+element.value);
+            }
+        });
+    };
+
+    //cards-general-co slide to function:
+    function slideTo(element){
+        //document.querySelectorAll(".carousel-indicators li").forEach(e => e.classList.remove("active"));
+        let data = element.dataset;
+        //element.classList.add("active");
+        document.querySelector(data.target+data.slideTo).scrollIntoView({block:"nearest", behavior:"smooth"});
+        console.log(data.target + data.slideTo);
+    }
+    
+    let currentTabScroll = 0;
+
+    const arrowScrollLeft = ()=>{
+        let tabs = document.querySelectorAll(".tabs__label-wrapper .tabs__label");
+        currentTabScroll-=2;
+        if(currentTabScroll<1)  currentTabScroll = 0;
+        if(currentTabScroll >= tabs.length-3) currentTabScroll--;
+        tabs[currentTabScroll].scrollIntoView({block:"nearest", behavior:"smooth"});
+    }
+
+    const arrowScrollRight = ()=>{
+        let tabs = document.querySelectorAll(".tabs__label-wrapper .tabs__label");
+        currentTabScroll+=2;
+        if(currentTabScroll>=tabs.length) currentTabScroll=tabs.length-1;
+        if(currentTabScroll<3) currentTabScroll++;
+        tabs[currentTabScroll].scrollIntoView({block:"nearest", behavior:"smooth"});
+    }
+
+    const autoLinkTarget = ()=>{
+        document.querySelectorAll(".div-link a").forEach(lnk=>{
+            if(lnk.className.includes("link-co-external")) lnk.target = "_blank";
+            else lnk.target = "_self";
+        });
+    }
+    autoLinkTarget();
+
+    function setTabActive(element){
+        document.querySelectorAll(".tabs__label").forEach(e=>{
+            let elementClass = e.className.replace("tab_active", "");
+            e.setAttribute("class", elementClass);
+        });
+        element.setAttribute("class", "tabs__label tab_active");
+    }
+
+    function changeTab(tabNumber){
+        document.getElementById("tab-container-1").style.display="none";
+        document.getElementById("tab-container-2").style.display="none";
+        document.getElementById("tab-container-3").style.display="none";
+        document.getElementById("tab-container-4").style.display="none";
+        document.getElementById("tab-container-5").style.display="none";
+        document.getElementById("tab-container-6").style.display="none";
+        document.getElementById("tab-container-7").style.display="none";
+        document.getElementById("tab-container-8").style.display="none";
+        document.getElementById("tab-container-9").style.display="none";
+        document.getElementById("tab-container-10").style.display="none";
+        
+        var id = "tab-container-" + tabNumber;
+        
+        document.getElementById(id).style.display="block";
+        
+    }
+
+    function removeWhiteSpaceMobileCard(){
+        let cardImgDiv = document.querySelectorAll(".tile_image-wrapper");
+        if(window.matchMedia("(max-width: 767px)").matches){
+            cardImgDiv.forEach(div =>{
+                if(div.style.backgroundImage == 'url("")'){
+                    div.style.display = "none";
+                    div.parentElement.style.height="auto";
+                    div.parentElement.style.padding = "0px";
+                }
+            });
+        } else {
+            cardImgDiv.forEach(div =>{
+                if(div.style.backgroundImage == 'url("")'){
+                    div.style.display = "inherit";
+                    div.parentElement.style = "";
+                }
+            });
+        }
+    }
+
+    removeWhiteSpaceMobileCard();
+    window.addEventListener("resize", removeWhiteSpaceMobileCard);
+
+    //TOGGLE SHOW PASSWORD
+    const toggleShowPassword = (element) => {
+        
+        const password = element.previousElementSibling;
+        const eyeClosed = element.firstElementChild;
+        const eyeOpen = element.lastElementChild; 
+
+        if (password.type === "password") {
+            eyeClosed.style.display = "inherit";
+            eyeOpen.style.display = "none";
+            password.type='text';
+        } else {
+            eyeClosed.style.display = "none";
+            eyeOpen.style.display = "inherit";
+            password.type = "password";
+        }
+    }
+
+    //SHOW ERROR ON WHITESPACE
+    const addErrorOnWhitespace = (element)=>{
+        if(element.value.includes(" ")) addError(element, "La contraseña no debe contener espacios en blanco");
+        else removeError(element);
+    }
+    //TRIM
+    const trimValue = (element) =>{
+	    element.value=element.value.trim();
+    }
+</script>
+
+    
+<script src="/etc/designs/enel-co/flutter-hides.min.js"></script>
+
+
+
+ 
+<script>            
+  var touchsupport = ('ontouchstart' in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0)
+  if (!touchsupport) { // browser doesn't support touch
+      document.documentElement.className += "no-touch";
+  }
+</script>
+<script>
+if ($(".dotcom-header__btn")[0] != undefined) {
+	var main = $("#main")[0];
+	main.setAttribute("data-starting-point", "main");
+	
+	$('[data-module="global-megamenu"]').attr('data-starting-point', 'main');
+	$('[data-module="footer"]').attr('data-starting-point', 'main');
+}
+</script>
+
+<script type="text/javascript">
+if (window._satellite) {
+	window._satellite.pageBottom();
+}
+ </script>
+<div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="><div class="lb-nav"><a class="lb-prev" href=""></a><a class="lb-next" href=""></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div><script>
+document .body.addEventListener( "click" , function (event) {
+if (event && event.target && event.target.id === 'truste-consent-button' ) {
+  setTimeout(function(){window.location.reload(); }, 1000 );
+}
+});
+</script><style type="text/css">
+#consent_blackbar{
+position: fixed;
+bottom: 0px
+}
+</style>
+<div id="consent_blackbar"></div>
+ 
+<script async="async" src="//consent.trustarc.com/notice?domain=colombia-enel.com&amp;c=teconsent&amp;js=nj&amp;noticeType=bb&amp;gtm=1&amp;text=true&amp;language=es&amp;cookieLink=https://www.enel.com.co/es/politica-de-cookies/politica-de-cookies.html&amp;privacypolicylink=https://www.enel.com.co/es/politica-de-tratamiento-de-datos.html" crossorigin="" id="truste_0.0985740007662399"></script><script>
+	var _STATE = {};
+	function runOnce () {
+		if (!_STATE.hasRunOnce && window .truste && truste.eu && truste.eu.prefclose) {
+			console .log( "doing run once" );
+			_STATE.oldValue = truste.eu.bindMap.prefCookie &&
+			truste.eu.bindMap.prefCookie.split( ':' )[ 0 ].replace( /[^\d.]/g , '-' );
+			_STATE.oldMethod = truste.eu.prefclose;
+			truste.eu.prefclose = function () {
+				_STATE.oldMethod();
+				if (truste.eu.bindMap.prefCookie && truste.eu.bindMap.prefCookie.split( ':' )[ 0 ].replace( /[^\d.]/g , '-' ) !== _STATE.oldValue) setTimeout( function () { window .location.reload(); }, 20 );
+			};
+			_STATE.hasRunOnce = true ;
+			_STATE.i && clearInterval(_STATE.i);
+		}
+	}
+	_STATE.i = setInterval(runOnce, 10 );
+</script></body></html>

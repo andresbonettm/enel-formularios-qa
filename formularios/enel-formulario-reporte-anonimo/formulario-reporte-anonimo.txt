@@ -1,0 +1,421 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head><meta name="ROBOTS" content="INDEX,FOLLOW"><meta name="keywords" content=""><meta name="description" content="">
+    
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Denuncia el robo de energía | Enel-Colombia</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://assets.enelcol.com.co/2021/landings/20210506_LandingRoboDeEnergia/main.css" />
+    <link rel="shortcut icon" type="image/png" href="https://assets.enelcol.com.co/2021/landings/20210506_LandingRoboDeEnergia/images/favicon.png" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KGJLP74');</script>
+    <!-- End Google Tag Manager -->
+    <style>
+      .fomulario{
+        padding-bottom: 35px;
+      }
+      .localidadClass{
+        display: none;
+      }
+      .formInputContainer input,
+      .formInputContainer select{
+        color: #717171;
+        font-family: 'RoobertENEL-Light', sans-serif;
+      }
+    </style>
+  </head>
+  <body ng-app="app">
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KGJLP74"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+      <div class="https://assets.enelcol.com.co/2021/landings/20210506_LandingRoboDeEnergia/mainContainer" ng-app="app">
+        <div class="headerContainer">
+          <img class="logoEnel" src="https://www.enel.com.co/content/dam/enel-co/espa%C3%B1ol/enel_logo_white.png" alt="Logo_Enel-Colombia" />
+        </div>
+        <div class="formularioContainer" ng-controller="formController">
+          <form method="post" id="data_saleforce" name="data_saleforce" ng-submit="submit('https://enelsud.info-enel.com/fh-rep-anonimo')" novalidate>
+            <div class="fomulario">
+              <div class="formHeader"><div>REPORTE ANÓNIMO</div></div>
+              <div class="generalText">
+                <div>Informa llamando a la línea de pérdidas de Fonoservicio al <b>601 5140000. </b>opción 2 o diligencia el siguiente formulario:</div>
+              </div>
+             <div>
+                <!--<div class="formInputContainer">
+                 <div><img src="https://assets.enelcol.com.co/2021/landings/20210506_LandingRoboDeEnergia/images/genero.jpg" alt="" /></div>
+                  <div>
+                    <select  tabindex="1" name="sex" id="sex" ng-model="saleforce.sex" required>
+                      <option value="" selected="selected" disabled>Sexo del denunciante<span>*</span></option>
+                      <option value="Mujer">Mujer</option>
+                      <option value="Hombre">Hombre</option>
+                    </select>
+                  </div>
+                </div>-->
+             </div>
+             <div>
+               <!--<div class="formInputContainer">
+                  <div><img src="https://assets.enelcol.com.co/2021/landings/20210506_LandingRoboDeEnergia/images/edad.jpg" alt="" /></div>
+                  <div>
+                    <select tabindex="2" name="years" id="years" ng-model="saleforce.years" required>
+                      <option value="" selected="selected" disabled>Rango de edad del denunciante<span>*</span></option>
+                      <option value="Menor a 18">Menor a 18</option>
+                      <option value="18 años a 24 años">18 años a 24 años</option>
+                      <option value="25 años a 34 años">25 años a 34 años</option>
+                      <option value="35 años a 44 años">35 años a 44 años</option>
+                      <option value="45 años a 54 años">45 años a 54 años</option>
+                      <option value="Mas de 54">Mas de 54</option>
+                    </select>
+                  </div>
+                </div>
+               </div>-->
+             <div>
+                <div class="formInputContainer">
+                  <div><img src="https://assets.enelcol.com.co/2021/landings/20210506_LandingRoboDeEnergia/images/icon-1.jpg" alt="" /></div>
+                  <div><input tabindex="3" name="address" placeholder="Dirección en donde ocurren los hechos*" type="text" id="address" ng-model="saleforce.address" required></div>
+                </div>
+              </div>
+              <div>
+                <div class="formInputContainer">
+                  <div><img src="https://assets.enelcol.com.co/2021/landings/20210506_LandingRoboDeEnergia/images/icon-2.jpg" alt="" /></div>
+                  <div>
+                    <select tabindex="4" name="town" id="town" ng-model="saleforce.town" required>
+                      <option value="" selected="selected" disabled>Municipio o Ciudad<span>*</span></option>
+                      <option value="bogotadc">BOGOTA D.C.</option>
+                      <option value="AGUA DE DIOS">AGUA DE DIOS</option>
+                      <option value="ALBAN">ALBAN</option>
+                      <option value="ANAPOIMA">ANAPOIMA</option>
+                      <option value="ANOLAIMA">ANOLAIMA</option>
+                      <option value="APULO">APULO</option>
+                      <option value="ARBELAEZ">ARBELAEZ</option>
+                      <option value="BELTRAN">BELTRAN</option>
+                      <option value="BITUIMA">BITUIMA</option>
+                      <option value="BOJACA">BOJACA</option>
+                      <option value="BUENAVISTA">BUENAVISTA</option>
+                      <option value="CABRERA">CABRERA</option>
+                      <option value="CABUYARO">CABUYARO</option>
+                      <option value="CACHIPAY">CACHIPAY</option>
+                      <option value="CAJICA">CAJICA</option>
+                      <option value="CAPARRAPI">CAPARRAPI</option>
+                      <option value="CAQUEZA">CAQUEZA</option>
+                      <option value="CARMEN DE CARUPA">CARMEN DE CARUPA</option>
+                      <option value="CHAGUANI">CHAGUANI</option>
+                      <option value="CHIA">CHIA</option>
+                      <option value="CHIPAQUE">CHIPAQUE</option>
+                      <option value="CHIQUINQUIRA">CHIQUINQUIRA</option>
+                      <option value="CHOACHI">CHOACHI</option>
+                      <option value="CHOCONTA">CHOCONTA</option>
+                      <option value="COELLO">COELLO</option>
+                      <option value="COGUA">COGUA</option>
+                      <option value="COPER">COPER</option>
+                      <option value="COTA">COTA</option>
+                      <option value="CUCUNUBA">CUCUNUBA</option>
+                      <option value="EL CALVARIO">EL CALVARIO</option>
+                      <option value="EL COLEGIO">EL COLEGIO</option>
+                      <option value="EL PENON">EL PENON</option>
+                      <option value="EL ROSAL">EL ROSAL</option>
+                      <option value="FACATATIVA">FACATATIVA</option>
+                      <option value="FLANDES">FLANDES</option>
+                      <option value="FOMEQUE">FOMEQUE</option>
+                      <option value="FOSCA">FOSCA</option>
+                      <option value="FUNZA">FUNZA</option>
+                      <option value="FUQUENE">FUQUENE</option>
+                      <option value="FUSAGASUGA">FUSAGASUGA</option>
+                      <option value="GACHALA">GACHALA</option>
+                      <option value="GACHANCIPA">GACHANCIPA</option>
+                      <option value="GACHETA">GACHETA</option>
+                      <option value="GAMA">GAMA</option>
+                      <option value="GIRARDOT">GIRARDOT</option>
+                      <option value="GRANADA">GRANADA</option>
+                      <option value="GUACHETA">GUACHETA</option>
+                      <option value="GUADUAS">GUADUAS</option>
+                      <option value="GUASCA">GUASCA</option>
+                      <option value="GUATAQUI">GUATAQUI</option>
+                      <option value="GUATAVITA">GUATAVITA</option>
+                      <option value="GUAYABAL DE SIQUIMA">GUAYABAL DE SIQUIMA</option>
+                      <option value="GUAYABETAL">GUAYABETAL</option>
+                      <option value="GUTIERREZ">GUTIERREZ</option>
+                      <option value="ICONONZO">ICONONZO</option>
+                      <option value="JERUSALEN">JERUSALEN</option>
+                      <option value="JUNIN">JUNIN</option>
+                      <option value="LA CALERA">LA CALERA</option>
+                      <option value="LA MESA">LA MESA</option>
+                      <option value="LA PALMA">LA PALMA</option>
+                      <option value="LA PENA">LA PENA</option>
+                      <option value="LA VEGA">LA VEGA</option>
+                      <option value="LENGUAZAQUE">LENGUAZAQUE</option>
+                      <option value="MACHETA">MACHETA</option>
+                      <option value="MADRID">MADRID</option>
+                      <option value="MANTA">MANTA</option>
+                      <option value="MEDINA">MEDINA</option>
+                      <option value="MOSQUERA">MOSQUERA</option>
+                      <option value="NARINO">NARINO</option>
+                      <option value="NEMOCON">NEMOCON</option>
+                      <option value="NILO">NILO</option>
+                      <option value="NIMAIMA">NIMAIMA</option>
+                      <option value="NOCAIMA">NOCAIMA</option>
+                      <option value="PACHO">PACHO</option>
+                      <option value="PAIME">PAIME</option>
+                      <option value="PANDI">PANDI</option>
+                      <option value="PARATEBUENO">PARATEBUENO</option>
+                      <option value="PASCA">PASCA</option>
+                      <option value="PIEDRAS">PIEDRAS</option>
+                      <option value="PUERTO SALGAR">PUERTO SALGAR</option>
+                      <option value="PULI">PULI</option>
+                      <option value="QUEBRADANEGRA">QUEBRADANEGRA</option>
+                      <option value="QUETAME">QUETAME</option>
+                      <option value="QUIPAMA">QUIPAMA</option>
+                      <option value="QUIPILE">QUIPILE</option>
+                      <option value="RAQUIRA">RAQUIRA</option>
+                      <option value="RICAURTE">RICAURTE</option>
+                      <option value="SAN ANTONIO_DEL_TEQUENDAMA">SAN ANTONIO DEL TEQUENDAMA</option>
+                      <option value="SAN BERNARDO">SAN BERNARDO</option>
+                      <option value="SAN CAYETANO">SAN CAYETANO</option>
+                      <option value="SAN FRANCISCO">SAN FRANCISCO</option>
+                      <option value="SAN JUAN DE RIO SECO">SAN JUAN DE RIO SECO</option>
+                      <option value="SAN JUANITO">SAN JUANITO</option>
+                      <option value="SAN MIGUEL_DE_SEMA">SAN MIGUEL DE SEMA</option>
+                      <option value="SASAIMA">SASAIMA</option>
+                      <option value="SESQUILE">SESQUILE</option>
+                      <option value="SIBATE">SIBATE</option>
+                      <option value="SILVANIA">SILVANIA</option>
+                      <option value="SIMIJACA">SIMIJACA</option>
+                      <option value="SOACHA">SOACHA</option>
+                      <option value="SOPO">SOPO</option>
+                      <option value="SUBACHOQUE">SUBACHOQUE</option>
+                      <option value="SUESCA">SUESCA</option>
+                      <option value="SUPATA">SUPATA</option>
+                      <option value="SUSA">SUSA</option>
+                      <option value="SUTATAUSA">SUTATAUSA</option>
+                      <option value="TABIO">TABIO</option>
+                      <option value="TAUSA">TAUSA</option>
+                      <option value="TENA">TENA</option>
+                      <option value="TENJO">TENJO</option>
+                      <option value="TIBACUY">TIBACUY</option>
+                      <option value="TIBIRITA">TIBIRITA</option>
+                      <option value="TOCAIMA">TOCAIMA</option>
+                      <option value="TOCANCIPA">TOCANCIPA</option>
+                      <option value="TOPAIPI">TOPAIPI</option>
+                      <option value="UBALA">UBALA</option>
+                      <option value="UBAQUE">UBAQUE</option>
+                      <option value="UNE">UNE</option>
+                      <option value="UTICA">UTICA</option>
+                      <option value="VENECIA">VENECIA</option>
+                      <option value="VERGARA">VERGARA</option>
+                      <option value="VIANI">VIANI</option>
+                      <option value="VILLA DE SAN DIEGO DE UBATE">VILLA DE SAN DIEGO DE UBATE</option>
+                      <option value="VILLAGOMEZ">VILLAGOMEZ</option>
+                      <option value="VILLAPINZON">VILLAPINZON</option>
+                      <option value="VILLETA">VILLETA</option>
+                      <option value="VIOTA">VIOTA</option>
+                      <option value="YACOPI">YACOPI</option>
+                      <option value="ZIPACON">ZIPACON</option>
+                      <option value="ZIPAQUIRA">ZIPAQUIRA</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
+              <div class="localidadClass">
+                <div class="formInputContainer">
+                  <div><img src="https://assets.enelcol.com.co/2021/landings/20210506_LandingRoboDeEnergia/images/icon-2.jpg" alt="" /></div>
+                  <div>
+                    <select tabindex="5" name="localidad" id="localidad" ng-model="salesforce.localidad" required>
+                      <option value="" selected="selected" disabled>Localidad<span>*</span></option>
+                      <option value="ANTONIO NARINO">ANTONIO NARINO</option>
+                      <option value="BARRIOS UNIDOS">BARRIOS UNIDOS</option>
+                      <option value="BOSA">BOSA</option>
+                      <option value="CHAPINERO">CHAPINERO</option>
+                      <option value="CIUDAD BOLIVAR">CIUDAD BOLIVAR</option>
+                      <option value="ENGATIVA">ENGATIVA</option>
+                      <option value="FONTIBON">FONTIBON</option>
+                      <option value="KENNEDY">KENNEDY</option>
+                      <option value="LA CANDELARIA">LA CANDELARIA</option>
+                      <option value="MARTIRES">MARTIRES</option>
+                      <option value="PUENTE ARANDA">PUENTE ARANDA</option>
+                      <option value="RAFAEL URIBE URIBE">RAFAEL URIBE URIBE</option>
+                      <option value="SAN CRISTOBAL">SAN CRISTOBAL</option>
+                      <option value="SANTAFE">SANTAFE</option>
+                      <option value="SUBA">SUBA</option>
+                      <option value="SUMAPAZ">SUMAPAZ</option>
+                      <option value="TEUSAQUILLO">TEUSAQUILLO</option>
+                      <option value="TUNJUELITO">TUNJUELITO</option>
+                      <option value="USAQUEN">USAQUEN</option>
+                      <option value="USME">USME</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
+              <div>
+                <div class="formInputContainer">
+                  <div><img src="https://assets.enelcol.com.co/2021/landings/20210506_LandingRoboDeEnergia/images/icon-4.jpg" alt="" /></div>
+                  <div><textarea tabindex="7" name="reference" placeholder="Punto de referencia (Ejem.: Frente al Éxito, Al lado de la tienda Doña Juana.)*" id="reference" ng-model="saleforce.reference" required></textarea></div>
+                </div>
+              </div>
+              <div>
+              <div>
+                <div class="formInputContainer">
+                  <div><img src="https://assets.enelcol.com.co/2021/landings/20210506_LandingRoboDeEnergia/images/icon-2.jpg" alt="" /></div>
+                  <div>
+                    <select tabindex="6" name="denuncia" id="denuncia" ng-model="salesforce.denuncia" required>
+                      <option value="" selected="selected" disabled>Tipo de Denuncia<span>*</span></option>
+                      <option value="Medidor manipulado, quemado, dañado, hurtado">Medidor manipulado, quemado, dañado, hurtado</option>
+                      <option value="Elemento extraño en el equipo de medida">Elemento extraño en el equipo de medida</option>
+                      <option value="Conexión en servicio directo">Conexión en servicio directo</option>
+                      <option value="Elementos de los equipos de medida desconectados, quemados o averiados">Elementos de los equipos de medida desconectados, quemados o averiados</option>
+                      <option value="Manipulación de los medidores ubicados en los postes">Manipulación de los medidores ubicados en los postes</option>
+                      <option value="Acometidas o cableado, manipulados o quemados">Acometidas o cableado, manipulados o quemados</option>
+                    </select>
+                  </div>
+                </div>
+              <div>
+                <div class="formInputContainer">
+                  <div><img src="https://assets.enelcol.com.co/2021/landings/20210506_LandingRoboDeEnergia/images/icon-6.jpg" alt="" /></div>
+                  <div>
+                    <select tabindex="9" name="time" id="time" ng-model="saleforce.time" required>
+                      <option value="" selected="selected" disabled>Horario en que ocurren los hechos (selecciona uno)<span>*</span></option>
+                      <option value="Mañana">Mañana</option>
+                      <option value="Tarde">Tarde</option>
+                      <option value="Noche">Noche</option>
+                      <option value="Permanente">Permanente</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
+              <div>
+                <div class="formInputContainer">
+                  <div><img src="https://assets.enelcol.com.co/2021/landings/20210506_LandingRoboDeEnergia/images/icon-3.jpg" alt="" /></div>
+                  <div><textarea tabindex="10" name="details" placeholder="Comentarios adicionales (Describa cómo ocurren los hechos)*" id="details" ng-model="saleforce.details" required></textarea></div>
+                </div>
+              </div>
+              <div class="camposObligatoriosContainer">
+                Los campos con (<span>*</span>) son obligatorios.
+              </div>    
+              <div class="contenedorSubmit" style="margin-top: 5rem;">
+                <input class="button" type="submit" value="ENVIAR ANÓNIMAMENTE">
+              </div>
+              <div></div>
+            </div>
+          </form>
+        </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.5/angular.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="text/javascript">
+    (function () {
+        angular.module('app', [])
+            .controller('formController', ['$scope', '$http', function ($scope, $http) {
+                $scope.saleforce = [];
+                $scope.validate = false;
+                $scope.lastValidate = false;
+                $scope.valueButton = "Ingresa los campos obligatorios";
+                $scope.pattern = /^[0-9]+$/;
+                $scope.pattern_words = /^[a-zA-Z_áéíóúñ\s]*$/;
+                $scope.pattern_cel = /^((?=(3))[0-9]{10})$/;
+                $scope.pattern_email = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+                $scope.submit = function (url) {
+
+                    if ($scope.data_saleforce.$invalid) {
+                        alert('Todos los campos con asterisco (*) son obligatorios');
+                    } else {
+                        var urlData = jQuery('#data_saleforce').serialize();
+
+                          $scope.data_saleforce.$invalid = true;
+                          jQuery.post(url, urlData, null, 'jsonp').done(function (data) {
+                              document.location.href="thank-you-reporte-anonimo.html";
+                          }).fail(function (data) {
+                              document.location.href="thank-you-reporte-anonimo.html";
+                          });
+                    }
+                };
+            }]).directive("limitTo", [function () {
+            return {
+                restrict: "A",
+                link: function (scope, elem, attrs) {
+                    var limit = parseInt(attrs.limitTo);
+                    angular.element(elem).on("keypress", function (e) {
+                        if (this.value.length == limit) e.preventDefault();
+                    });
+                }
+            }
+        }]);
+    })();
+
+    //fix for IE7 and IE8
+    $(function () {
+        if (!$.support.placeholder) {
+            $("[placeholder]").focus(function () {
+                if ($(this).val() == $(this).attr("placeholder")) $(this).val("");
+            }).blur(function () {
+                if ($(this).val() == "") $(this).val($(this).attr("placeholder"));
+            }).blur();
+
+            $("[placeholder]").parents("form").submit(function () {
+                $(this).find('[placeholder]').each(function() {
+                    if ($(this).val() == $(this).attr("placeholder")) {
+                        $(this).val("");
+                    }
+                });
+            });
+        }
+    });
+
+    // validarAngular();
+
+        const municipio = document.getElementById("town");
+        const localidad = document.getElementsByClassName("localidadClass")[0];
+        const localidadInput = document.getElementById("localidad");
+        let respuesta;
+        const validacionMunicipio = () =>{
+          municipio.addEventListener('change', function(){
+            if(municipio.value === "bogotadc"){
+              localidad.style.display = "block";
+              localidadInput.setAttribute("required", "");
+              localidadInput.required = true;
+              respuesta = true;
+            }else if(municipio.value !== "bogotadc"){
+              localidad.style.display = "none";
+              localidadInput.value = "";
+              localidadInput.removeAttribute("required");
+              localidad.required = false;
+              respuesta = true;
+            }else if(localidadInput.value == ""){
+              respuesta = false;
+            }
+          });
+          return respuesta;
+        }
+
+        validacionMunicipio();
+
+        // let formularioPrueba = document.getElementById("data_saleforce");
+        // const enviarFormulario = (event) =>{
+        //   event.preventDefault();
+        //   let datos = Array;
+        //   if(validacionMunicipio()){
+        //     alert("Datos enviados correctamente");
+        //     const myFormData = new FormData(event.target);
+        //     console.log(myFormData);
+        //     const arregloVacio = {};
+        //     myFormData.forEach((value, key) =>{
+        //       arregloVacio[key] = value;
+        //     });
+        //     console.log(arregloVacio);
+        //   }else{
+        //     alert("Todos los campos son obligatorios");
+        //   }
+        // }
+        // formularioPrueba.addEventListener('submit', enviarFormulario);
+
+
+</script>
+  </body>
+</html>

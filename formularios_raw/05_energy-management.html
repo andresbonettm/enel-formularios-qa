@@ -1,0 +1,316 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+ <meta name="ROBOTS" content="INDEX, FOLLOW"><meta name="keywords" content=""><meta name="description" content="">
+    <title>Energy Management | ENEL COLOMBIA</title>
+    <link rel="stylesheet" type="text/css" href="https://assets.enelcol.com.co/2020/landings/20201218_Landing_AlaFija/node_modules/bootstrap/dist/css/bootstrap.min.css">
+ <link rel="stylesheet" type="text/css" href="https://assets.enelcol.com.co/2021/landings/20210203_Landing_EnergyManagement/css/sale.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="og:image" content="https://www.enel.com.co/etc/designs/enel-co/favicon.ico"/>
+    <link rel="shortcut icon" href="https://www.enel.com.co/etc/designs/enel-co/favicon.ico"/>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.js"></script>
+    <script type="text/javascript" src="https://assets.enelcol.com.co/2020/landings/20201214_Landing_Piloto-prepago/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    
+    <!-- Google Tag Manager -->
+ <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KVMXH8Q');</script>
+        <!-- End Google Tag Manager -->
+    
+        <!-- Adobe Script -->
+        <script> window.adobeDataLayer = window.adobeDataLayer || []; </script>
+        <script src="https://assets.adobedtm.com/58373ae8f4f6/1b8196dc8ed3/launch-bf0b791f2a5e.min.js" async></script>
+        <!-- End Adobe Script -->
+
+    <style>
+ .myClass {
+    cursor: not-allowed;
+    opacity: 0.5;
+    text-decoration: none;
+  }
+  .secundary{
+   display:none;
+    }
+  .classShow
+    {
+   display:inline-block;
+    }
+ </style>
+    
+</head>
+<body ng-app="app">
+ <!-- Google Tag Manager (noscript) -->
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KVMXH8Q"
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ <!-- End Google Tag Manager (noscript) -->   
+<section>
+    <header><meta name="ROBOTS" content="INDEX, FOLLOW"><meta name="keywords" content=""><meta name="description" content="">
+        <div class="orange">
+            <a href="https://www.enel.com.co/es/personas.html" target="_blank"><img src="https://assets.enelcol.com.co/2023/noviembre/20231123_HTML_formulario-E%26CM/img/enel-logo.png" alt="Logo Enel Colombia" ></a>
+        </div>
+    </header>
+    <div class="formularioContainer" ng-controller="formController">
+       <form class="fomulario" method="post" id="data_saleforce" name="data_saleforce" ng-submit="submit('https://enelsud.info-enel.com/FH-form-Energy')" novalidate>
+       <div class="formHeader">
+            <div>
+              <h2><strong>¡En Enel, somos más que energía!</strong></h2>
+            </div>
+            <div>
+                <h5><strong>Ofrecemos asesoramiento, conocimientos y la experiencia necesaria para impulsar el desarrollo y la sostenibilidad de tu negocio.</strong></h5>
+            </div>
+            <div>
+                <p>Con presencia en 28 países de los 5 continentes y una capacidad de generación de energía renovable de 63,9 GW, estamos preparados para ser tu aliado estratégico. Nuestro objetivo es satisfacer tus necesidades y lograr negocios sostenibles y eficientes.</p>
+                <p><strong>Elige Enel como tu aliado confiable para potenciar tu éxito empresarial.</strong></p>
+            </div>
+          </div>
+    <div class="camposObligatoriosContainer">
+            Los campos con (<span>*</span>) son obligatorios.
+          </div>
+     <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+      <div class="field tex">
+      <input tabindex=" 1" type="text" name="name" id="name" placeholder="Nombres*" ng-model="saleforce.name" required ng-pattern="pattern_words">
+      </div>          
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+      <div class="field tex">
+      <input tabindex="2" type="text" name="lastname" id="lastname" placeholder="Apellidos*"
+          ng-model="saleforce.lastname" required ng-pattern="pattern_words">
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" >
+     <div class="field mail">
+      <input class="mail" tabindex="3" type="email" name="email" id="email"
+          placeholder="Correo electrónico*"
+          ng-model="saleforce.email" ng-pattern="pattern_email" required>
+     </div>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+     <div class="field phone"> 
+      <input tabindex="4" limit-to="10" class="cel" type="number" name="phone"
+                                   id="phone" placeholder="Celular*" ng-model="saleforce.phone" minlength="10"
+                                   maxlength="10" ng-pattern="pattern" required>
+     </div>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+      <div class="field cargo">
+      <input tabindex="5" type="text" name="cargo" id="cargo" placeholder="Cargo*"
+          ng-model="saleforce.cargo" required ng-pattern="pattern_words">
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+      <div class="field empresa">
+      <input tabindex="6" type="text" name="empresa" id="empresa" placeholder="Empresas*"
+          ng-model="saleforce.empresa" required ng-pattern="pattern_words">
+      </div>
+    </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <div class="field sector">
+                        <select class="how" name="pais" id="pais" tabindex="8" ng-model="saleforce.pais" required onchange="opcionespaises()">
+                            <option value="" selected="selected">País</option>      
+                            <option value="colombia">Colombia</option>
+                            <option value="panama">Panamá</option>
+                            <option value="guatemala">Guatemala</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <div class="field service">
+                    <select class="how" name="service" id="service" tabindex="8" ng-model="saleforce.service">
+                        <option value="LargoPlazo"selected="selected">Contratos de energía eléctrica a largo plazo</option>
+                        <option value="Gas">Contratos de gas</option>
+                        <option value="Autogeneracion">Excedentes de autogeneración</option>
+                        <option value="IRECS">IREC</option>
+                        <option value="Derivados">Derivados de energía</option>
+                        <option value="DDV">Demanda desconectable voluntaria</option>
+                        <option value="VentaCenizas">Venta de cenizas</option>
+                         <option value="Bonos">Bonos de carbono</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="politicaPrivacidad">
+            <div>
+     <input tabindex="9" ng-model="saleforce.information" type="radio" name="information" id="information" ng-pattern="/^[0-9]+$/" autocomplete="off" checked="" value="0" required /> <span class="checkmark"></span>
+            </div>
+            <div>
+              <label for="information">Conforme a la ley 1581 del 2012 y la política de tratamiento de datos personales, con la suscripción a factura virtual usted autoriza que sus datos sean tratados por las empresas del Grupo Enel en Colombia para todos los fines relacionados con la gestión de su solicitud, sus productos activos, la prestación del servicio público de energía eléctrica de acuerdo con el contrato de servicio público, y para la generación, almacenamiento, comercialización y distribución de recursos energéticos. Recuerde que tiene derecho a conocer, actualizar, rectificar y cuando proceda, suprimir sus datos y revocar la autorización dada para su tratamiento, a través de los canales indicados en la política publicada en www.enel.com.co en la cual también encontrará la identificación de las empresas que pertenecen al Grupo Enel en Colombia.</in>La política puede ser consultada <a href="https://urldefense.com/v3/__https://www.enel.com.co/es/politica-de-tratamiento-de-datos.html__;!!OjemSMKBgg!mc6hHpsax3oR8aRPhSI1B1KlxeI3p6433Jxwr1rx68fJhvvjDDMmzwUCXowM4QgITxcaWxF--svMFC7NDAqD55fIX0Wyaw$" target="_blank">aquí.</a> </label></p>
+            </div>
+          </div>
+          <div class="contenedorSubmit">
+         <input class="button" tabindex="15" type="submit" value="Enviar solicitud"></div>
+        </form>
+      </div>
+    <!--Footer-->
+    <footer class="page-footer font-small unique-color-dark pt-0">
+        <div>
+            <div class="row_footer">
+                <!--Grid row-->
+                <div class="row py-4 align-items-center">
+
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 ">
+                        <p class="conoce">Conoce más en <a href="https://www.enel.com.co/es/personas.html" target="_blank">www.enel.com.co</a></p>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-5 ">
+                        <div class="row store">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3">
+                        <div class="row redes">
+                            <p>SÃ­guenos en:</p>
+                            <a href="https://www.facebook.com/EnelColombia" target="_blank"><img src="https://assets.enelcol.com.co/2020/landings/20201218_Landing_AlaFija/images/facebook.png" alt="icon facebok" class="img-responsive"/></a>
+                            <a href="https://twitter.com/EnelColombia" target="_blank"><img src="https://assets.enelcol.com.co/2020/landings/20201218_Landing_AlaFija/images/twitter.png" alt="icon twitter" class="img-responsive"/></a>
+                            <a href="https://www.youtube.com/channel/UC5lb8h-9t0rLDFqO75QDdxg" target="_blank"><img src="https://assets.enelcol.com.co/2020/landings/20201218_Landing_AlaFija/images/youtube.png" alt="icon youtube" class="img-responsive"/></a>
+                            <a href="https://www.linkedin.com/company/enel-colombia/" target="_blank"><img src="https://assets.enelcol.com.co/2020/landings/20201218_Landing_AlaFija/images/linke.png" alt="icon linkedin" class="img-responsive"/></a>
+                        </div>
+                    </div>
+                </div>
+                <!--Grid row-->
+            </div>
+        </div>
+    </footer>
+</section>
+<script>
+        function opcionespaises() {
+            var paises = document.getElementById("pais").value;
+            var opcionesSelect = document.getElementById("service");
+
+        // Borrar las opciones actuales
+        while (opcionesSelect.options.length > 0) {
+        opcionesSelect.remove(0);
+        }
+
+        // Agregar nuevas opciones basadas en el paÃ­s seleccionado
+        if (paises === "colombia"){
+                opcionesSelect.add(new Option("Contratos de energía eléctrica a largo plazo","Contratos de energía eléctrica a largo plazo"));
+                opcionesSelect.add(new Option("Contratos de gas","Contratos de gas"));
+                opcionesSelect.add(new Option("Excedentes de autogeneración","Excedentes de autogeneración"));
+                opcionesSelect.add(new Option("Derivados de energía","Derivados de energía"));
+                opcionesSelect.add(new Option("Demanda desconectable voluntaria","Demanda desconectable voluntaria"));
+                opcionesSelect.add(new Option("Venta de cenizas","Venta de cenizas"));
+                opcionesSelect.add(new Option("Certificados I-REC","Certificados I-REC"));
+            } else if (paises === "panama"){
+                opcionesSelect.add(new Option("Acuerdos de energía (PPA)","Acuerdos de energía (PPA)"));
+                opcionesSelect.add(new Option("Acompañamiento en la adquisiciÃ³n de cargadores eléctricos","Acompañamiento en la adquisición de cargadores eléctricos"));
+                opcionesSelect.add(new Option("Estudio de eficiencia energética con soluciones personalizadas","Estudio de eficiencia energética con soluciones personalizadas"));
+                opcionesSelect.add(new Option("Acompañamiento en la instalación y conexión de paneles solares para generación distribuida","Acompañamiento en la instalación y conexión de paneles solares para generación distribuida"));
+                opcionesSelect.add(new Option("Certificados I-REC","Certificados I-REC"));
+            }else if (paises === "guatemala"){
+                opcionesSelect.add(new Option("Representación comercial ante el sector eléctrico para grandes usuarios","Representación comercial ante el sector eléctrico para grandes usuarios"));
+                opcionesSelect.add(new Option("Servicios de valor agregado técnicos y comerciales","Servicios de valor agregado técnicos y comerciales"));
+                opcionesSelect.add(new Option("Suministro de energía y potencia","Suministro de energía y potencia"));
+                opcionesSelect.add(new Option("Servicio de reserva complementaria al mercado trading regional de energía","Servicio de reserva complementaria al mercado trading regional de energía"));
+                opcionesSelect.add(new Option("Certificados I-REC","Certificados I-REC"));
+        }
+        }
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.5/angular.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="text/javascript">
+    (function () {
+        angular.module('app', [])
+            .controller('formController', ['$scope', '$http', function ($scope, $http) {
+                $scope.saleforce = [];
+                $scope.validate = false;
+                $scope.lastValidate = false;
+                $scope.valueButton = "Ingresa los campos obligatorios";
+                $scope.pattern = /^[0-9]+$/;
+                $scope.pattern_words = /^[a-zA-Z_Ã¡Ã©Ã­Ã³ÃºÃ±\s]*$/;
+                $scope.pattern_email = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+                $scope.submit = function (url) {
+                    if ($scope.data_saleforce.$invalid) {
+                        alert('Todos los campos con asterisco (*) son obligatorios');
+                    } else {
+                        let formularioecm = document.getElementById('data_saleforce');
+                        var urlData = jQuery('#data_saleforce').serialize();
+                        $scope.data_saleforce.$invalid = true;
+                        jQuery.post(url, urlData, null, 'jsonp').done(function (data) {
+                            document.getElementById("data_saleforce").submit();
+                            var paisseleccionado =  document.getElementById("pais").value;
+                            switch (paisseleccionado) {
+                                case "colombia":
+                                    window.location.href = "https://assets.enelcol.com.co/2021/landings/20210203_Landing_EnergyManagement/thnku-colombia.html";
+                                break;
+                                case "panama":
+                                    window.location.href = "https://assets.enelcol.com.co/2021/landings/20210203_Landing_EnergyManagement/thnku-panama.html";
+                                break;
+                                case "guatemala":
+                                    window.location.href = "https://assets.enelcol.com.co/2021/landings/20210203_Landing_EnergyManagement/thnku-guatemala.html";
+                                break;
+                        default:
+                        }}).fail(function (data) {
+                        var paisseleccionado =  document.getElementById("pais").value;
+                                switch (paisseleccionado) {
+                                    case "colombia":
+                                        window.location.href = "https://assets.enelcol.com.co/2021/landings/20210203_Landing_EnergyManagement/thnku-colombia.html";
+                                break;
+                                case "panama":
+                                window.location.href = "https://assets.enelcol.com.co/2021/landings/20210203_Landing_EnergyManagement/thnku-panama.html";
+                            break;
+                            case "guatemala":
+                                window.location.href = "https://assets.enelcol.com.co/2021/landings/20210203_Landing_EnergyManagement/thnku-guatemala.html";
+                            break;
+                        default:
+                    }
+                    formularioecm.reset();
+                        });
+                    }
+                };
+            }]).directive("limitTo", [function () {
+            return {
+                restrict: "A",
+                link: function (scope, elem, attrs) {
+                    var limit = parseInt(attrs.limitTo);
+                    angular.element(elem).on("keypress", function (e) {
+                        if (this.value.length == limit) e.preventDefault();
+                    });
+                }
+            }
+        }]);
+    })();
+    function hideModalOverlay() {
+        $('.modalOverlay').hide();
+   }
+
+    //fix for IE7 and IE8
+    $(function () {
+        if (!$.support.placeholder) {
+            $("[placeholder]").focus(function () {
+                if ($(this).val() == $(this).attr("placeholder")) $(this).val("");
+            }).blur(function () {
+                if ($(this).val() == "") $(this).val($(this).attr("placeholder"));
+            }).blur();
+
+            $("[placeholder]").parents("form").submit(function () {
+                $(this).find('[placeholder]').each(function() {
+                    if ($(this).val() == $(this).attr("placeholder")) {
+                        $(this).val("");
+                    }
+                });
+            });
+        }
+    });
+</script>
+<script type="text/javascript">
+ $('#image1').click(
+  function() {$('#more1').addClass('myClass');
+ });
+ $('#image1').click(function() {$('#secundary').addClass('classShow');
+    });
+ </script>
+<script>(function(a,m,i,g,o,s){o=a.createElement(g);s=a.getElementsByTagName(i)[0];o.src=m.origin+m.pathname+"/_t?eventType=CLOUDPAGESVISIT";o.width=0;o.height=0;o.style.display="none";s.appendChild(o);})(document,window.location,"body","img");</script>
+
+ <script src="https:&#x2F;&#x2F;7295600.collect.igodigital.com&#x2F;collect.js"></script>
+ <script>
+  if (_etmc && typeof _etmc.push === 'function') {
+   _etmc.push(['setOrgId', '7295600']);
+   _etmc.push(['trackPageView']);
+  }
+ </script>
+</body>
+  </html>

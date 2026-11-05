@@ -1,0 +1,2722 @@
+<html lang="es" class="no-touch"><head><style type="text/css">.truste_caIcon_display {display: block !important;}</style><style type="text/css">.truste_cursor_pointer {cursor: pointer;}.truste_border_none {border: none;}</style><style type="text/css">.ta-display-none { display: none; }</style><style type="text/css">.tippy-touch{cursor:pointer!important}.tippy-notransition{transition:none!important}.tippy-popper{max-width:350px;-webkit-perspective:700px;perspective:700px;z-index:9999;outline:0;transition-timing-function:cubic-bezier(.165,.84,.44,1);pointer-events:none;line-height:1.4}.tippy-popper[data-html]{max-width:96%;max-width:calc(100% - 20px)}.tippy-popper[x-placement^=top] .tippy-backdrop{border-radius:40% 40% 0 0}.tippy-popper[x-placement^=top] .tippy-roundarrow{bottom:-8px;-webkit-transform-origin:50% 0;transform-origin:50% 0}.tippy-popper[x-placement^=top] .tippy-roundarrow svg{position:absolute;left:0;-webkit-transform:rotate(180deg);transform:rotate(180deg)}.tippy-popper[x-placement^=top] .tippy-arrow{border-top:7px solid #333;border-right:7px solid transparent;border-left:7px solid transparent;bottom:-7px;margin:0 6px;-webkit-transform-origin:50% 0;transform-origin:50% 0}.tippy-popper[x-placement^=top] .tippy-backdrop{-webkit-transform-origin:0 90%;transform-origin:0 90%}.tippy-popper[x-placement^=top] .tippy-backdrop[data-state=visible]{-webkit-transform:scale(6) translate(-50%,25%);transform:scale(6) translate(-50%,25%);opacity:1}.tippy-popper[x-placement^=top] .tippy-backdrop[data-state=hidden]{-webkit-transform:scale(1) translate(-50%,25%);transform:scale(1) translate(-50%,25%);opacity:0}.tippy-popper[x-placement^=top] [data-animation=shift-toward][data-state=visible]{opacity:1;-webkit-transform:translateY(-10px);transform:translateY(-10px)}.tippy-popper[x-placement^=top] [data-animation=shift-toward][data-state=hidden]{opacity:0;-webkit-transform:translateY(-20px);transform:translateY(-20px)}.tippy-popper[x-placement^=top] [data-animation=perspective]{-webkit-transform-origin:bottom;transform-origin:bottom}.tippy-popper[x-placement^=top] [data-animation=perspective][data-state=visible]{opacity:1;-webkit-transform:translateY(-10px) rotateX(0);transform:translateY(-10px) rotateX(0)}.tippy-popper[x-placement^=top] [data-animation=perspective][data-state=hidden]{opacity:0;-webkit-transform:translateY(0) rotateX(90deg);transform:translateY(0) rotateX(90deg)}.tippy-popper[x-placement^=top] [data-animation=fade][data-state=visible]{opacity:1;-webkit-transform:translateY(-10px);transform:translateY(-10px)}.tippy-popper[x-placement^=top] [data-animation=fade][data-state=hidden]{opacity:0;-webkit-transform:translateY(-10px);transform:translateY(-10px)}.tippy-popper[x-placement^=top] [data-animation=shift-away][data-state=visible]{opacity:1;-webkit-transform:translateY(-10px);transform:translateY(-10px)}.tippy-popper[x-placement^=top] [data-animation=shift-away][data-state=hidden]{opacity:0;-webkit-transform:translateY(0);transform:translateY(0)}.tippy-popper[x-placement^=top] [data-animation=scale][data-state=visible]{opacity:1;-webkit-transform:translateY(-10px) scale(1);transform:translateY(-10px) scale(1)}.tippy-popper[x-placement^=top] [data-animation=scale][data-state=hidden]{opacity:0;-webkit-transform:translateY(0) scale(0);transform:translateY(0) scale(0)}.tippy-popper[x-placement^=bottom] .tippy-backdrop{border-radius:0 0 30% 30%}.tippy-popper[x-placement^=bottom] .tippy-roundarrow{top:-8px;-webkit-transform-origin:50% 100%;transform-origin:50% 100%}.tippy-popper[x-placement^=bottom] .tippy-roundarrow svg{position:absolute;left:0;-webkit-transform:rotate(0);transform:rotate(0)}.tippy-popper[x-placement^=bottom] .tippy-arrow{border-bottom:7px solid #333;border-right:7px solid transparent;border-left:7px solid transparent;top:-7px;margin:0 6px;-webkit-transform-origin:50% 100%;transform-origin:50% 100%}.tippy-popper[x-placement^=bottom] .tippy-backdrop{-webkit-transform-origin:0 -90%;transform-origin:0 -90%}.tippy-popper[x-placement^=bottom] .tippy-backdrop[data-state=visible]{-webkit-transform:scale(6) translate(-50%,-125%);transform:scale(6) translate(-50%,-125%);opacity:1}.tippy-popper[x-placement^=bottom] .tippy-backdrop[data-state=hidden]{-webkit-transform:scale(1) translate(-50%,-125%);transform:scale(1) translate(-50%,-125%);opacity:0}.tippy-popper[x-placement^=bottom] [data-animation=shift-toward][data-state=visible]{opacity:1;-webkit-transform:translateY(10px);transform:translateY(10px)}.tippy-popper[x-placement^=bottom] [data-animation=shift-toward][data-state=hidden]{opacity:0;-webkit-transform:translateY(20px);transform:translateY(20px)}.tippy-popper[x-placement^=bottom] [data-animation=perspective]{-webkit-transform-origin:top;transform-origin:top}.tippy-popper[x-placement^=bottom] [data-animation=perspective][data-state=visible]{opacity:1;-webkit-transform:translateY(10px) rotateX(0);transform:translateY(10px) rotateX(0)}.tippy-popper[x-placement^=bottom] [data-animation=perspective][data-state=hidden]{opacity:0;-webkit-transform:translateY(0) rotateX(-90deg);transform:translateY(0) rotateX(-90deg)}.tippy-popper[x-placement^=bottom] [data-animation=fade][data-state=visible]{opacity:1;-webkit-transform:translateY(10px);transform:translateY(10px)}.tippy-popper[x-placement^=bottom] [data-animation=fade][data-state=hidden]{opacity:0;-webkit-transform:translateY(10px);transform:translateY(10px)}.tippy-popper[x-placement^=bottom] [data-animation=shift-away][data-state=visible]{opacity:1;-webkit-transform:translateY(10px);transform:translateY(10px)}.tippy-popper[x-placement^=bottom] [data-animation=shift-away][data-state=hidden]{opacity:0;-webkit-transform:translateY(0);transform:translateY(0)}.tippy-popper[x-placement^=bottom] [data-animation=scale][data-state=visible]{opacity:1;-webkit-transform:translateY(10px) scale(1);transform:translateY(10px) scale(1)}.tippy-popper[x-placement^=bottom] [data-animation=scale][data-state=hidden]{opacity:0;-webkit-transform:translateY(0) scale(0);transform:translateY(0) scale(0)}.tippy-popper[x-placement^=left] .tippy-backdrop{border-radius:50% 0 0 50%}.tippy-popper[x-placement^=left] .tippy-roundarrow{right:-16px;-webkit-transform-origin:33.33333333% 50%;transform-origin:33.33333333% 50%}.tippy-popper[x-placement^=left] .tippy-roundarrow svg{position:absolute;left:0;-webkit-transform:rotate(90deg);transform:rotate(90deg)}.tippy-popper[x-placement^=left] .tippy-arrow{border-left:7px solid #333;border-top:7px solid transparent;border-bottom:7px solid transparent;right:-7px;margin:3px 0;-webkit-transform-origin:0 50%;transform-origin:0 50%}.tippy-popper[x-placement^=left] .tippy-backdrop{-webkit-transform-origin:100% 0;transform-origin:100% 0}.tippy-popper[x-placement^=left] .tippy-backdrop[data-state=visible]{-webkit-transform:scale(6) translate(40%,-50%);transform:scale(6) translate(40%,-50%);opacity:1}.tippy-popper[x-placement^=left] .tippy-backdrop[data-state=hidden]{-webkit-transform:scale(1.5) translate(40%,-50%);transform:scale(1.5) translate(40%,-50%);opacity:0}.tippy-popper[x-placement^=left] [data-animation=shift-toward][data-state=visible]{opacity:1;-webkit-transform:translateX(-10px);transform:translateX(-10px)}.tippy-popper[x-placement^=left] [data-animation=shift-toward][data-state=hidden]{opacity:0;-webkit-transform:translateX(-20px);transform:translateX(-20px)}.tippy-popper[x-placement^=left] [data-animation=perspective]{-webkit-transform-origin:right;transform-origin:right}.tippy-popper[x-placement^=left] [data-animation=perspective][data-state=visible]{opacity:1;-webkit-transform:translateX(-10px) rotateY(0);transform:translateX(-10px) rotateY(0)}.tippy-popper[x-placement^=left] [data-animation=perspective][data-state=hidden]{opacity:0;-webkit-transform:translateX(0) rotateY(-90deg);transform:translateX(0) rotateY(-90deg)}.tippy-popper[x-placement^=left] [data-animation=fade][data-state=visible]{opacity:1;-webkit-transform:translateX(-10px);transform:translateX(-10px)}.tippy-popper[x-placement^=left] [data-animation=fade][data-state=hidden]{opacity:0;-webkit-transform:translateX(-10px);transform:translateX(-10px)}.tippy-popper[x-placement^=left] [data-animation=shift-away][data-state=visible]{opacity:1;-webkit-transform:translateX(-10px);transform:translateX(-10px)}.tippy-popper[x-placement^=left] [data-animation=shift-away][data-state=hidden]{opacity:0;-webkit-transform:translateX(0);transform:translateX(0)}.tippy-popper[x-placement^=left] [data-animation=scale][data-state=visible]{opacity:1;-webkit-transform:translateX(-10px) scale(1);transform:translateX(-10px) scale(1)}.tippy-popper[x-placement^=left] [data-animation=scale][data-state=hidden]{opacity:0;-webkit-transform:translateX(0) scale(0);transform:translateX(0) scale(0)}.tippy-popper[x-placement^=right] .tippy-backdrop{border-radius:0 50% 50% 0}.tippy-popper[x-placement^=right] .tippy-roundarrow{left:-16px;-webkit-transform-origin:66.66666666% 50%;transform-origin:66.66666666% 50%}.tippy-popper[x-placement^=right] .tippy-roundarrow svg{position:absolute;left:0;-webkit-transform:rotate(-90deg);transform:rotate(-90deg)}.tippy-popper[x-placement^=right] .tippy-arrow{border-right:7px solid #333;border-top:7px solid transparent;border-bottom:7px solid transparent;left:-7px;margin:3px 0;-webkit-transform-origin:100% 50%;transform-origin:100% 50%}.tippy-popper[x-placement^=right] .tippy-backdrop{-webkit-transform-origin:-100% 0;transform-origin:-100% 0}.tippy-popper[x-placement^=right] .tippy-backdrop[data-state=visible]{-webkit-transform:scale(6) translate(-140%,-50%);transform:scale(6) translate(-140%,-50%);opacity:1}.tippy-popper[x-placement^=right] .tippy-backdrop[data-state=hidden]{-webkit-transform:scale(1.5) translate(-140%,-50%);transform:scale(1.5) translate(-140%,-50%);opacity:0}.tippy-popper[x-placement^=right] [data-animation=shift-toward][data-state=visible]{opacity:1;-webkit-transform:translateX(10px);transform:translateX(10px)}.tippy-popper[x-placement^=right] [data-animation=shift-toward][data-state=hidden]{opacity:0;-webkit-transform:translateX(20px);transform:translateX(20px)}.tippy-popper[x-placement^=right] [data-animation=perspective]{-webkit-transform-origin:left;transform-origin:left}.tippy-popper[x-placement^=right] [data-animation=perspective][data-state=visible]{opacity:1;-webkit-transform:translateX(10px) rotateY(0);transform:translateX(10px) rotateY(0)}.tippy-popper[x-placement^=right] [data-animation=perspective][data-state=hidden]{opacity:0;-webkit-transform:translateX(0) rotateY(90deg);transform:translateX(0) rotateY(90deg)}.tippy-popper[x-placement^=right] [data-animation=fade][data-state=visible]{opacity:1;-webkit-transform:translateX(10px);transform:translateX(10px)}.tippy-popper[x-placement^=right] [data-animation=fade][data-state=hidden]{opacity:0;-webkit-transform:translateX(10px);transform:translateX(10px)}.tippy-popper[x-placement^=right] [data-animation=shift-away][data-state=visible]{opacity:1;-webkit-transform:translateX(10px);transform:translateX(10px)}.tippy-popper[x-placement^=right] [data-animation=shift-away][data-state=hidden]{opacity:0;-webkit-transform:translateX(0);transform:translateX(0)}.tippy-popper[x-placement^=right] [data-animation=scale][data-state=visible]{opacity:1;-webkit-transform:translateX(10px) scale(1);transform:translateX(10px) scale(1)}.tippy-popper[x-placement^=right] [data-animation=scale][data-state=hidden]{opacity:0;-webkit-transform:translateX(0) scale(0);transform:translateX(0) scale(0)}.tippy-tooltip{position:relative;color:#fff;border-radius:4px;font-size:.9rem;padding:.3rem .6rem;text-align:center;will-change:transform;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;background-color:#333}.tippy-tooltip[data-size=small]{padding:.2rem .4rem;font-size:.75rem}.tippy-tooltip[data-size=large]{padding:.4rem .8rem;font-size:1rem}.tippy-tooltip[data-animatefill]{overflow:hidden;background-color:transparent}.tippy-tooltip[data-animatefill] .tippy-content{transition:-webkit-clip-path cubic-bezier(.46,.1,.52,.98);transition:clip-path cubic-bezier(.46,.1,.52,.98);transition:clip-path cubic-bezier(.46,.1,.52,.98),-webkit-clip-path cubic-bezier(.46,.1,.52,.98)}.tippy-tooltip[data-interactive],.tippy-tooltip[data-interactive] path{pointer-events:auto}.tippy-tooltip[data-inertia][data-state=visible]{transition-timing-function:cubic-bezier(.53,2,.36,.85)}.tippy-tooltip[data-inertia][data-state=hidden]{transition-timing-function:ease}.tippy-arrow,.tippy-roundarrow{position:absolute;width:0;height:0}.tippy-roundarrow{width:24px;height:8px;fill:#333;pointer-events:none}.tippy-backdrop{position:absolute;will-change:transform;background-color:#333;border-radius:50%;width:26%;left:50%;top:50%;z-index:-1;transition:all cubic-bezier(.46,.1,.52,.98);-webkit-backface-visibility:hidden;backface-visibility:hidden}.tippy-backdrop:after{content:"";float:left;padding-top:100%}body:not(.tippy-touch) .tippy-tooltip[data-animatefill][data-state=visible] .tippy-content{-webkit-clip-path:ellipse(100% 100% at 50% 50%);clip-path:ellipse(100% 100% at 50% 50%)}body:not(.tippy-touch) .tippy-tooltip[data-animatefill][data-state=hidden] .tippy-content{-webkit-clip-path:ellipse(5% 50% at 50% 50%);clip-path:ellipse(5% 50% at 50% 50%)}body:not(.tippy-touch) .tippy-popper[x-placement=right] .tippy-tooltip[data-animatefill][data-state=visible] .tippy-content{-webkit-clip-path:ellipse(135% 100% at 0 50%);clip-path:ellipse(135% 100% at 0 50%)}body:not(.tippy-touch) .tippy-popper[x-placement=right] .tippy-tooltip[data-animatefill][data-state=hidden] .tippy-content{-webkit-clip-path:ellipse(40% 100% at 0 50%);clip-path:ellipse(40% 100% at 0 50%)}body:not(.tippy-touch) .tippy-popper[x-placement=left] .tippy-tooltip[data-animatefill][data-state=visible] .tippy-content{-webkit-clip-path:ellipse(135% 100% at 100% 50%);clip-path:ellipse(135% 100% at 100% 50%)}body:not(.tippy-touch) .tippy-popper[x-placement=left] .tippy-tooltip[data-animatefill][data-state=hidden] .tippy-content{-webkit-clip-path:ellipse(40% 100% at 100% 50%);clip-path:ellipse(40% 100% at 100% 50%)}@media (max-width:360px){.tippy-popper{max-width:96%;max-width:calc(100% - 20px)}}</style><script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/a5c2aafe/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script src="https://www.youtube.com/iframe_api"></script><script src="/hysicking-an-Who-way-requete-vp-not-stranch-This" async=""></script>
+    
+	<script>
+        function readCookie(name) {
+            var nameEQ = name + "=";
+            var ca = document.cookie.split(';');
+            for(var i=0;i < ca.length;i++) {
+                var c = ca[i];
+                while (c.charAt(0)==' ') c = c.substring(1,c.length);
+                if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+            }
+            return null;
+        }
+
+        function getDuplicatedParameters (parameterMap) {
+            var arr = parameterMap;
+            var sorted_arr = arr.slice().sort();
+            var results = [];
+            for (var i = 0; i < arr.length - 1; i++) {
+                if (sorted_arr[i + 1] == sorted_arr[i]) {
+                    results.push(sorted_arr[i]);
+                }
+            }
+            return results;
+        }
+
+        function getParameterMapName (url) {
+            var queryString = getQueryString(url);
+            var parameterMaps = queryString.split("=");
+            var paramsName = [];
+            for(var i in parameterMaps)
+            {
+                var param = parameterMaps[i];
+                var paramName;
+                if (param.indexOf('?')>= 0) {
+                    paramName = param.split('?')[1];
+                } else {
+                    paramName = param.split('&')[1];
+                }
+                paramsName[i] = paramName;
+            }
+            return paramsName;
+        }
+
+        function purgeDuplicatedParams (url) {
+            var urlResult = url;
+            var duplicatedParams = getDuplicatedParameters(getParameterMapName(url));
+            for (var i in duplicatedParams) {
+                urlResult = removeURLParameter(urlResult,duplicatedParams[i]);
+            }
+            return urlResult;
+        }
+
+        function updateQueryStringParameter(uri, key, value) {
+            if (value != null && value.length > 0) {
+                var re = new RegExp("([?&])" + key + "=.*?(&|$)", "i");
+                var separator = uri.indexOf('?') !== -1 ? "&" : "?";
+                if (uri.match(re)) {
+                    return uri.replace(re, '$1' + key + "=" + value + '$2');
+                }
+                else {
+                    return uri + separator + key + "=" + value;
+                }
+            }
+            return uri;
+        }
+
+        function removeURLParameter(url, parameter) {
+            var urlparts= url.split('?');
+            if (urlparts.length>=2) {
+                var prefix= encodeURIComponent(parameter)+'=';
+                var pars= urlparts[1].split(/[&;]/g);
+                var removed = false;
+                for (var i= pars.length; i-- > 0;) {
+                    if (pars[i].lastIndexOf(prefix, 0) !== -1 && !removed) {
+                        pars.splice(i, 1);
+                        removed = true;
+                    }
+                }
+                url= urlparts[0] + (pars.length > 0 ? '?' + pars.join('&') : "");
+                return url;
+            } else {
+                return url;
+            }
+        }
+
+        function getQueryString(url, redirect) {
+            var queryString = url.split('?')[1];
+            if (typeof queryString == 'undefined') {
+                queryString = '';
+            } else {
+                if (typeof (redirect)!= 'undefined' && redirect.indexOf('?')>0) {
+                    queryString = '&' + queryString;
+                } else {
+                    queryString = '?' + queryString;
+                }
+            }
+            return queryString;
+        }
+
+        if(readCookie('langRedirect') == null){
+            document.cookie = "langRedirect=MQ==;path=/" ;
+            var langMapString = "";
+            if( langMapString != null ){
+                var browserlanguage = navigator.language;
+                browserlanguage = browserlanguage.split("-")[0];
+                var obj = JSON.parse(langMapString);
+                var redirect = obj[browserlanguage];
+                if(redirect != null){
+                    redirect = purgeDuplicatedParams (redirect + getQueryString(window.location.href, redirect));
+                    window.location.href=updateQueryStringParameter(redirect,'refred', document.referrer);
+                }
+            }
+        }
+        document.addEventListener("DOMContentLoaded", function(event) { 
+   			history.replaceState({}, 'Title', removeURLParameter(location.href, 'refred'));
+   		});
+    </script>
+
+    
+    
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1">
+    
+
+    <meta name="description" content="Conoce qué es el Fenómeno de El Niño, cómo impacta la generación y el suministro de energía en Colombia y qué hacer para ahorrar en casa y tu empresa.">
+
+
+    
+    
+    
+<script type="text/javascript" src="/ruxitagentjs_ICA27NVfjqrux_10263230921131557.js" data-dtconfig="rid=RID_-68458720|rpid=11395128|domain=enel.com.co|reportUrl=/rb_a0585c7b-16a9-4040-b14e-0e26e2d473fe|app=29c144ad9e623ab8|cuc=bka6fatw|srtbv=4|owasp=1|mel=100000|featureHash=ICA27NVfjqrux|lastModification=1793901010024|tp=500,50,0,1|rdnt=1|uxrgce=1|srbbv=3|agentUri=/ruxitagentjs_ICA27NVfjqrux_10263230921131557.js"></script><link rel="stylesheet" href="/etc.clientlibs/foundation/clientlibs/main.min.css" type="text/css">
+<script src="/etc.clientlibs/clientlibs/granite/jquery.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/utils.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/jquery/granite.min.js"></script>
+<script src="/etc.clientlibs/foundation/clientlibs/jquery.min.js"></script>
+<script src="/etc.clientlibs/foundation/clientlibs/shared.min.js"></script>
+<script src="/etc.clientlibs/foundation/clientlibs/main.min.js"></script>
+
+
+
+    
+    <link href="/etc/designs/enel-co.css" rel="stylesheet" type="text/css">
+
+    
+
+
+
+
+
+
+
+
+    
+
+    
+    
+<link rel="stylesheet" href="/etc/designs/enel-latam-com/clientlibs/careers.min.css" type="text/css">
+
+
+
+    <!--Fix Font Variable-->
+    
+    
+    
+    
+    
+        
+    
+<link rel="stylesheet" href="/etc/designs/enel-co/careers.min.css" type="text/css">
+
+
+
+    
+    
+    
+    <!--<sly data-sly-use.clientLib="/libs/granite/sightly/templates/clientlib.html" data-sly-call=""/>-->
+
+    
+<link rel="stylesheet" href="/etc/designs/enel-co/clientlib-site.min.css" type="text/css">
+
+
+
+
+    
+<script src="/etc/designs/enel-co/localizatorColombia.min.js"></script>
+
+
+
+
+
+    
+<link rel="stylesheet" href="/etc/designs/enel-latam-com/clientlibs/hubGalleryPagination.min.css" type="text/css">
+
+
+
+
+
+
+<style>
+    .hero-footer.parbase {
+        position: relative;
+        float: left;
+        width: 100%;
+        z-index: 3;
+        margin-bottom: 10%;
+    }
+
+    .search-form{
+        top:0;
+    }
+
+    .bannerfullwidthimage section.container.full-width-banner-outer.cq-placeholder.anchor {
+        min-height:340px;
+    }
+
+    .tile_description.text--tile-description {
+        display: inherit;
+        font-size: large;
+    }
+
+    /*fix image height in hub module left */ 
+    /*mobile*/
+    .tile--gbody .tile_inner {
+        max-height: 410px;
+    }
+    @media screen and (max-width: 767px)
+    {   
+        .tile_inner {
+            height: 410px;
+        }
+    }
+    /*Desktop*/
+    @media screen and (min-width: 1318px){
+        .tile--gbody .tile_inner {
+            min-height: 410px;
+        }
+    }
+    @media screen and (min-width: 768px){
+        .tile--gbody .tile_inner {
+            min-height: 350px;
+        }
+    }
+
+    @media screen and (max-width: 1024px) and (min-width: 768px){
+        .module-content .tile--small .tile_inner {
+            height: 410px;
+        }
+    }
+
+    /*fix space in card*/
+    /* 
+    .tile--small .tile_image-wrapper{
+        padding-bottom: 0;
+    }
+    @media screen and (max-width: 767px){
+        tile--small .tile_inner {
+            height: fit-content;
+        }
+    }
+
+    @media screen and (max-width: 767px){
+        .hub_group--header-left .module-content.parbase .tile--small {
+            height: fit-content;
+        }
+    } */
+
+    /*Checkboxs better readability*/
+    .form-content input[type="checkbox"]+label::before {
+        border: #000000ab solid 1px;
+    }
+
+    .form-content input[type="checkbox"]:checked+label::before {
+        border: #000000ab solid 1px;
+    }
+
+    /*Fix "X" in header from ranks buttons script
+    body div.modalClose {
+        display: none;
+    }*/
+</style>
+
+    
+    <meta name="author" content="">
+
+
+
+	<meta name="robots" content="index,follow">
+
+    
+<meta property="og:locale" content="es">
+<meta property="og:url" content="https://enel.com.co/content/enel-co/es/megamenu/fenomeno-de-el-nino.html">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Fenómeno de El Niño: prepárate y usa la energía de forma eficiente">
+<meta property="og:description" content="El Niño trae temporada seca y mayor presión sobre el sistema eléctrico. Descubre cómo impacta la generación de energía en Colombia y aplica tips prácticos de ahorro en tu hogar o empresa.">
+<meta property="og:image" content="https://www.enel.com.co/content/dam/enel-co/español/fenomeno-del-nino/fenom-nino.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="El Niño trae temporada seca y mayor presión sobre el sistema eléctrico. Descubre cómo impacta la generación de energía en Colombia y aplica tips prácticos de ahorro en tu hogar o empresa.">
+<meta name="twitter:title" content="Fenómeno de El Niño: prepárate y usa la energía de forma eficiente">
+    <link rel="icon" type="image/vnd.microsoft.icon" href="/etc/designs/enel-co/favicon.ico">
+    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/etc/designs/enel-co/favicon.ico">
+    
+    
+     <title>Fenómeno de El Niño: impacto en la energía y cómo ahorrar</title>
+    
+    
+    
+     <link rel="alternate" hreflang="es" href="https://www.enel.com.co/es/fenomeno-de-el-nino.html">
+    
+     <link rel="alternate" hreflang="en" href="https://www.enel.com.co/en.html">
+    
+    
+    
+     <link rel="canonical" href="https://www.enel.com.co/es/fenomeno-de-el-nino.html">
+    
+    
+    <script>document.createElement( "picture" );</script>
+    <script async="async" src="/etc/designs/enel-co/js/picturefill.min.js"></script>
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Fenómeno de El Niño: prepárate y #CuidaTuEnergía",
+  "description": "Conoce qué es el Fenómeno de El Niño, cómo impacta la generación y el suministro de energía en Colombia y qué hacer para ahorrar en casa y tu empresa.",
+  "url": "https://www.enel.com.co/es/fenomeno-de-el-nino.html",
+  "inLanguage": "es-CO",
+  "image": "https://www.enel.com.co/content/dam/enel-co/espa%C3%B1ol/fenomeno-del-nino/fenom-nino.png",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Enel Colombia",
+    "url": "https://www.enel.com.co/es.html",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.enel.com.co/content/dam/enel-co/im%C3%A1genes-home/logo-white.png"
+    }
+  }
+}
+</script>
+    <style>
+.f-on-description {
+    color: #fff !important;
+    font-weight: 600;
+}
+
+a.btn-cta.btn-cta--magenta {
+    margin: 5px 10px 5px 10px;
+}
+
+/*================================================
+Boton rosado
+=================================================*/
+.contenedor-boton {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.btn-siguiente {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+
+
+  min-width: 228px;
+  height: 52px;
+  padding: 0 22px;
+
+  background-color: #ff0a5b;
+  border: 2px solid #ff0a5b;
+
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  text-decoration: none !important;
+
+  box-sizing: border-box;
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease;
+}
+
+.btn-siguiente .flecha {
+  font-size: 20px;
+  line-height: 1;
+}
+
+.btn-siguiente:hover {
+  background-color: #ffffff;
+  color: #ff0a5b;
+}
+</style>
+   
+<script src="https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement.min.js" async=""></script><script src="https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement_Module_ActivityMap.min.js" async=""></script><style type="text/css">/* Chart.js */
+@-webkit-keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}@keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}.chartjs-render-monitor{-webkit-animation:chartjs-render-animation 0.001s;animation:chartjs-render-animation 0.001s;}</style><script src="https://assets.adobedtm.com/58373ae8f4f6/1b8196dc8ed3/bf656c2642c9/RCc5d2369da8c04905b5610367c54e41ab-source.min.js" async=""></script><script src="https://assets.adobedtm.com/58373ae8f4f6/1b8196dc8ed3/bf656c2642c9/RCdaefbfdcad894d33a178eec858eb89d1-source.min.js" async=""></script><script src="https://assets.adobedtm.com/58373ae8f4f6/1b8196dc8ed3/bf656c2642c9/RCc80fedd0c6404341b734882944150eff-source.min.js" async=""></script></head>
+    <body class="page-hub color-scheme--orange">
+
+    
+<script src="/etc/designs/enel-latam-com/clientlibs/main-common.min.js"></script>
+
+
+
+	 
+
+
+
+
+<script type="text/javascript"> 
+	var enel_data = {};
+	var enel_data_navigation_base = [];
+
+	//Fix manejo de apostrofes en nombres de paginas. 
+	try {
+		let rawStr = String('');
+		let tempStr = rawStr.replace(/([a-zA-Z])'([a-zA-Z])/g, '$1§$2');
+		let matches = tempStr.match(/'([^']+)'/g) || [];
+		enel_data.navigation = matches.map(s => s.slice(1, -1).replace(/§/g, "'"));
+		enel_data_navigation_base = [...enel_data.navigation];
+		
+		console.log('enel_data.navigation:', enel_data.navigation.toString);
+	} catch (e) {
+		console.error('Error al procesar enel_data.navigation:', e);
+		enel_data.navigation = [];
+		enel_data_navigation_base = [];
+	}
+
+	var countryDTM = "CO";
+	enel_data.country_state = getDtmCountryState(countryDTM);
+	enel_data.page_lang = "es";
+
+	// User information
+	dtmLoadLoginValues(enel_data);
+
+	// Layuot
+	enel_data.layout = dtmDetectLayout();
+
+	var searchKeyDtm = "";
+	if (searchKeyDtm != '') { 
+		enel_data.keyword = searchKeyDtm;
+		enel_data.results = '';
+	}	
+	if ('' != '') {
+		enel_data.map_type = '';
+	}
+	var prov = getDtmProvValue();
+	if (prov != null && typeof prov != 'undefined' && prov != '') {
+		enel_data.prov = prov;
+	}
+</script>
+
+<!-- Adobe Script -->
+<script>window.adobeDataLayer = window.adobeDataLayer || [];</script>
+<script src="https://assets.adobedtm.com/58373ae8f4f6/1b8196dc8ed3/launch-bf0b791f2a5e.min.js"></script>
+<!-- End Adobe Script -->
+
+ 
+
+
+
+<!-- <div data-sly-resource="banner-alert"></div> -->
+<div class="sticky-banner">
+</div>
+
+
+<!-- HEADER COMMON START -->
+
+
+<!-- START MODULE: GLOBAL-HEADER-->
+
+
+  
+  
+  
+  
+  
+  
+  <header id="globalheader" data-module="global-header" class="module global-header common module--initialized">
+      <!-- <input data-sly-test="true" class="redirectUrlLogin" type="hidden" data-redirectUrl="https://www.enel.com.co/es/private-area.html" data-country="enel-co" /> -->
+      <input class="redirectUrlLoginBtn" type="hidden" data-sessiondatakeyurl="https://accounts.enel.com/samlsso?spEntityID=ENEL_WEB_COL" data-logouturl="https://accounts.enel.com/samlsso?slo=true&amp;spEntityID=ENEL_WEB_COL&amp;returnTo=https://www.enel.com.co/es/AccessMyEnel.html">
+      <div class="global-header__main">
+    
+
+    <style>
+      @media screen and (max-width:767px) {
+        .global-header__logo{
+          max-width: 60px !important;
+        }
+      }
+    </style>
+    <div itemscope="" itemtype="http://schema.org/Organization" class="global-header__logo" style="max-width:109px;">
+
+      
+      
+          
+          
+          
+              <a data-bannerdtm="logo" itemprop="url" href="https://www.enel.com.co/es.html">
+          
+
+          <img itemprop="logo" src="/content/dam/enel-co/imágenes-home/logo-white.png" title="Enel Colombia" aria-label="Ir al inicio del sitio." alt="Enel Colombia" class="global-header__logo__bw">
+          <img itemprop="logo" src="/content/dam/enel-co/imágenes-home/logo-white.png" title="Enel Colombia" aria-label="Ir al inicio del sitio." alt="Enel Colombia" class="global-header__logo__color">
+        </a>
+      
+    </div>
+      <div class="global-header__links">
+          <ul>
+              <li>
+                  <a style="font-family: inherit;" data-bannerdtm="header link" href="https://www.enel.com.co/es/personas.html" target="_self">Hogares</a>
+              </li>
+          
+              <li>
+                  <a style="font-family: inherit;" data-bannerdtm="header link" href="https://www.enel.com.co/es/empresas.html" target="_self">Empresas</a>
+              </li>
+          
+              <li>
+                  <a style="font-family: inherit;" data-bannerdtm="header link" href="https://www.enel.com.co/es/conoce-enel.html" target="_self">Conoce Enel</a>
+              </li>
+          
+              <li>
+                  <a style="font-family: inherit;" data-bannerdtm="header link" href="https://www.enel.com.co/es/historias.html" target="_self">Historias</a>
+              </li>
+          
+              <li>
+                  <a style="font-family: inherit;" data-bannerdtm="header link" href="https://www.enel.com.co/es/medio-ambiente-desarrollo-sostenible.html" target="_self">Innovación y Sostenibilidad</a>
+              </li>
+          
+              <li>
+                  <a style="font-family: inherit;" data-bannerdtm="header link" href="https://www.enel.com.co/es/inversionista.html" target="_self">Inversionistas</a>
+              </li>
+          
+              <li>
+                  <a style="font-family: inherit;" data-bannerdtm="header link" href="https://www.enel.com.co/es/personas/ayuda.html" target="_self">Ayuda</a>
+              </li>
+          </ul>
+      </div>
+    <div class="global-header__btns">
+      
+
+        
+          <!-- casi di apertura modale form login - inizio -->
+          <!-- area privata caso autenticato desktop:  ovale mi enel-->
+          <!--<button class="pvtArea-btn-myEnel desktop-visible" title="Ingresar a mi cuenta enel" aria-label="Ingresar a mi cuenta enel" style="display:none" data-src="#login-wrapper" data-sly-test="false" onclick="disconnetti()"><span>Mi Enel</span></button>-->
+          
+          <!-- area privata caso autenticato mobile: omino doppio-->
+          <!-- area pubblica: omino singolo-->
+          <!-- casi di apertura modale - fine -->
+
+          <!-- casi di link a pagina di login - inizio (il brasile ha componente specializzato non passa qui)-->
+          <!-- area privata caso autenticato desktop:  ovale mi enel--><button class="pvtArea-btn-myEnel desktop-visible" style="display:none" data-src="#login-wrapper" onclick="goPrivateArea()"><span>Mi Enel</span></button>
+          <!-- area privata caso autenticato mobile: omino doppio--><button class="global-header__btn btn-user-open desktop-hidden" style="display:none" data-src="#login-wrapper" onclick="goPrivateArea()"><span class="icon-user-twice"></span></button>
+          <!-- area pubblica: omino singolo--><a class="global-header__btn btn-user" href="https://www.enel.com.co/es/AccessMyEnel.html"><span class="icon-user"></span></a>
+          <!-- area pubblica: omino singolo br-->
+          <!-- casi di link a pagina - fine -->
+         
+         <button class="global-header__btn btn-search-open" aria-label="Buscar en Enel." title="Buscar en Enel."><span class="icon-search-small"></span></button>
+         
+         <button class="global-header__btn btn-menu" aria-label="Menú." title="Menú."><span class="icon-menu"></span></button>
+
+         
+
+       </div>
+     </div>
+
+  </header>
+
+
+
+<!-- END MODULE: GLOBAL-HEADER-->
+
+<!-- START MODULE: GLOBAL-SEARCH-->
+
+
+    <div data-module="globalSearch" class="module search-form common hide module--initialized" style="background-color:#ff0f64">
+        <!-- START MODULE: GLOBAL-SEARCH-HEADER COMMON-->
+        
+        
+  <div class="search-form__header">
+   <!--<div itemscope itemtype="http://schema.org/Organization" class="search-form__logo search-form__logo_upload">
+        <sly data-sly-test.hasExternalPath="">
+            <a itemprop="url" href="" target="" data-sly-unwrap="false"><img itemprop="logo" src="/content/dam/enel-co/imágenes-home/logo-white.png" alt="Enel Colombia" aria-label="Ir al inicio del sitio." title="Enel Colombia"/>
+            </a>
+        </sly>
+        <sly data-sly-test.hasInternalPath="">
+            <a itemprop="url" href="" target="" data-sly-unwrap="false"><img itemprop="logo" src="/content/dam/enel-co/imágenes-home/logo-white.png" alt="Enel Colombia" aria-label="Ir al inicio del sitio." title="Enel Colombia"/>
+            </a>
+        </sly>
+        <sly data-sly-test="true">
+            <a itemprop="url" data-sly-attribute.href="/content/enel-co/es.html" ><img itemprop="logo" src="/content/dam/enel-co/imágenes-home/logo-white.png" alt="Enel Colombia" aria-label="Ir al inicio del sitio." title="Enel Colombia"/>
+            </a>
+        </sly>
+              
+    </div> -->
+    <div class="search-form__btns">
+      <button class="global-header__btn search-form__btn-close" aria-label="Cerrar." title="Cerrar."><span class="cross-icon"></span></button>
+    </div>
+  </div>
+
+        <!-- END MODULE: GLOBAL-SEARCH-HEADER-->
+
+        
+        <style>
+		.search-form__input::placeholder {
+        color: #CC4305 !important;
+        opacity: 1;
+        }
+        .search-form__input:-ms-input-placeholder {
+        color: #CC4305 !important;
+        }
+        .search-form__input::-ms-input-placeholder {
+        color: #CC4305 !important;
+        }
+	    </style>
+
+
+        <div class="search-form__inner">
+            <div class="container">
+                <form id="global_search_form" action="https://www.enel.com.co/es/resultados-de-busqueda.html" method="GET" autocomplete="off" data-json-url="https://www.enel.com.co/es/_jcr_content.jsonsearch.html?type=keywords">
+                    <div class="search-form__input__wrap">
+                        <input type="search" name="search" placeholder="¿Te ayudamos?" class="search-form__input" style="background-color:#ff0f64; color:#CC4305 !important;">
+                    </div>
+                    <div class="search-form__submit__wrap">
+                        <button type="submit" class="search-form__submit icon-search"><span>Submit</span></button>
+                    </div>
+                </form>
+
+                
+                <span class="search-form__content" data-bannerdtm="header quick link">
+                    <div class="search-form__links search-form__links--quick">
+                        <span class="search-form__heading" style="color:#CC4305 !important;">Sugerencias</span>
+                        
+                    </div>
+                </span>
+
+
+            </div>
+        </div>
+    </div>
+
+    <script type="text/template" id="TMPL--search-form__content">
+        <div class="search-form__links search-form__links--quick search-form__suggestions">
+            <span class="search-form__heading" style="color:#CC4305 !important;"></span>
+            <ul>
+                <% if (results) { %>
+                <% for (var i=0; i<results.length; i++) { %>
+                <li><a href="https://www.enel.com.co/es/resultados-de-busqueda.html?search=<%-results[i]%>"><%-results[i]%></a></li>
+                <% } %>
+                <% } %>
+            </ul>
+        </div>
+    </script>
+
+<!-- END MODULE: GLOBAL-SEARCH-->
+
+<!-- START MODULE: GLOBAL-SIDE-MENU-->
+
+
+    
+    <div data-module="global-megamenu" class="megamenu module hide module--initialized" style="z-index:99999">
+
+  
+    
+    
+
+<style>
+.megamenu__new {
+	display: flex !important;
+}
+
+@media screen and (max-width:768px) {
+	.megamenu__news {
+		display: none !important;
+	}
+}
+</style>
+
+	<div class="megamenu__main">
+		<div class="megamenu__main__inner">
+			<div class="megamenu__main__header">
+				
+
+    
+
+    
+
+    
+        <a href="https://www.enel.com.co/es.html" class="megamenu-content-header-logo" data-bannerdtm="megamenu-logo">
+    
+        <img src="/content/dam/enel-co/español/iconos-hub/logo.png" aria-label="Ir al inicio del sitio." title="Ir al inicio del sitio." alt="Enel Colombia">
+    </a>
+
+			</div>
+			<div class="megamenu__main__body">
+				<nav class="megamenu__navSecondary"><div class="megamenu__accordian secondaryMenu publishmode" data-bannerdtm="megamenu-secundary-navigation">
+    
+    
+  </div><div class="megamenu__accordian secondaryMenu publishmode" data-bannerdtm="megamenu-secundary-navigation">
+    <div class="megamenu__accordian__header  open" style="border-top: 0px solid">
+      Sitios Globales
+    </div>
+    <div class="megamenu__accordian__body">
+      <ul class="megamenu__links" style="display:block;">
+        <li>
+          <ul class="megamenu__submenu">
+            <li>
+              <a name="&amp;lid=conoce-al-grupo-enel&amp;lpos=megamenu" title="Conoce al Grupo Enel, Se abre en ventana nueva" target="_blank" href="https://www.enel.com/es">Conoce al Grupo Enel</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=enel-americas&amp;lpos=megamenu" title="Enel Americas, Se abre en ventana nueva" target="_blank" href="https://www.enelamericas.com">Enel Americas</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=conoce-sobre-enel-green-power&amp;lpos=megamenu" title="Conoce sobre Enel Green Power, Se abre en ventana nueva" target="_blank" href="https://www.enelgreenpower.com/es">Conoce sobre Enel Green Power</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=enel-x&amp;lpos=megamenu" title="Enel X, Se abre en ventana nueva" target="_blank" href="https://www.enelx.com/">Enel X</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=global-trading&amp;lpos=megamenu" title="Global Trading, Se abre en ventana nueva" target="_blank" href="https://globaltrading.enel.com/es.html">Global Trading</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=enel-open-innovability&amp;lpos=megamenu" title="Enel Open Innovability, Se abre en ventana nueva" target="_blank" href="https://openinnovability.enel.com/">Enel Open Innovability</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=global-procurement&amp;lpos=megamenu" title="Global Procurement, Se abre en ventana nueva" target="_blank" href="https://globalprocurement.enel.com/es.html">Global Procurement</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=conoce-sobre-enel-foundation&amp;lpos=megamenu" title="Conoce sobre Enel Foundation, Se abre en ventana nueva" target="_blank" href="https://www.enelfoundation.org/">Conoce sobre Enel Foundation</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=canal-tico&amp;lpos=megamenu" title="Canal Ético, Se abre en ventana nueva" target="_blank" href="https://secure.ethicspoint.eu/domain/media/es/gui/102504/index.html">Canal Ético</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div></nav>
+				<div class="megamenu__news"><div class="megamenu__news__inner">
+ 
+
+
+
+
+    
+    
+    
+
+
+<article class="megamenu__article megamenu__article--large" data-bannerdtm="megamenu-module">
+ <a href="https://www.enel.com.co/es/historias/a202311-colombia-avanza-en-movilidad-sostenible.html" target="_self" name="&amp;lid=conoce-cmo-en-enel-le-apostamos-a-la-movilidad-sostenible&amp;lpos=megamenu">
+  
+  <div class="megamenu__article__img">
+   
+
+
+<img src="/content/enel-co/es/megamenu/historias/archive/2023/11/colombia-avanza-en-movilidad-sostenible/_jcr_content/hero/image2.img.jpg/1790197295515.jpg" alt="Infraestructura eléctrica de Enel Colombia para la movilidad sostenible en el país. " title="infraestructura-electrica-para-movilidad-sostenible-enel-principal" class="">
+  </div>
+  
+  <div class="megamenu__article__content">
+   <p class="megamenu__article__topic">
+    
+   </p>
+   <span class="megamenu__article__title">Conoce cómo en ENEL le apostamos a la movilidad sostenible</span>
+   <div class="megamenu__article__copy"> 
+    <p>El municipio de Carmen de Carupa, Cundinamarca, tiene una razón para llenarse de energía este año nuevo.</p>
+   </div> 
+  </div>
+  
+ </a>
+</article>
+
+
+    
+    
+    
+
+
+<article class="megamenu__article " data-bannerdtm="megamenu-module2">
+ <a href="https://www.enel.com.co/es/historias/a202310-consejos-para-cuidar-historial-crediticio.html" target="_self" name="&amp;lid=cmo-cuidar-tu-historial-crediticio-5-consejos-clave-para-hacerlo&amp;lpos=megamenu">
+  
+  <div class="megamenu__article__img">
+   
+
+
+<img src="/content/enel-co/es/megamenu/historias/archive/2023/10/consejos-para-cuidar-historial-crediticio/_jcr_content/hero/image2.img.jpg/1787847374460.jpg" alt="Mujer feliz por el buen manejo financiero y de mejorar su historial crediticio." title="historial-crediticio-cfc.enel-principal" class="">
+  </div>
+  
+  <div class="megamenu__article__content">
+   <p class="megamenu__article__topic">
+    
+   </p>
+   <span class="megamenu__article__title">¿Cómo cuidar tu historial crediticio? 5 consejos clave para hacerlo</span>
+    
+  </div>
+  
+ </a>
+</article>
+
+
+    
+    
+    
+
+
+<article class="megamenu__article " data-bannerdtm="megamenu-module3">
+ 
+  
+  
+  
+  <div class="megamenu__article__content">
+   <p class="megamenu__article__topic">
+    
+   </p>
+   
+   <div class="megamenu__article__copy"> 
+    <p></p>
+   </div> 
+  </div>
+  
+ 
+</article>
+
+
+
+</div></div>
+			</div>
+		</div>
+	</div>
+
+	<nav class="megamenu__nav">
+  <div class="megamenu__nav__header">
+    
+      <ul class="megamenu__lang-links">
+        <li class="selected activeLang">
+          <a alt="es" style="text-transform: uppercase;" href="https://www.enel.com.co/es/fenomeno-de-el-nino.html">ES</a>
+        </li>
+      
+        <li class="activeLang">
+          <a alt="en" style="text-transform: uppercase;" href="https://www.enel.com.co/en.html">EN</a>
+        </li>
+      </ul>
+    
+    <button class="btn-close" aria-label="Cerrar." title="Cerrar."><span class="cross-icon"></span></button>
+  </div>
+  <div class="megamenu__nav__body">
+    
+  <div class="dotcom-megamenu__accordian open primaryMenu" id="notLoggedBox">
+	   <div class="dotcom-megamenu__accordian__header open">Acceder a mi Enel</div>
+	   <div class="dotcom-megamenu__accordian__body" style="display:block;">							 
+	       <div class="nav-login">
+	           
+	           
+	           
+	           <div class="nav-forgot"></div>
+	           <div class="nav-forgot">
+	           	<a href="https://www.enel.com.co/es/AccessMyEnel.html">Login</a>
+	           </div>
+		       
+	       </div>
+	   </div>
+  </div>
+  <div class="dotcom-megamenu__accordian open primaryMenu" id="loggedBox" style="display: none;">
+	  	<div class="user-info-wrapper">
+	          <div class="dotcom-megamenu__accordian__header open">
+	              <h3 class="user-info-heading">Bienvenido</h3>
+	              <h3 class="user-name"></h3>
+	          </div>
+	          <div class="dotcom-megamenu__accordian__body" style="display: block;">
+	              <a onclick="privateAreaCheck(this); return false;" href="https://www.enel.com.co/es/private-area.html" class="btn-cta">Ir al área cliente</a>
+	              <ul class="dotcom-megamenu__submenu">
+	                  <li><a onclick="privateAreaCheck(this); return false;" href="https://www.enel.com.co/es/private-area/MisDatos.html">Modificar perfil</a></li>
+	                  <li><a id="logoutBtn" href="javascript:disconnetti();">Logout</a></li>
+	              </ul>
+	          </div> 
+	      </div>
+  </div>
+
+
+
+
+
+<script>
+	
+	const checkUserIsLogged = () =>{
+		return sessionStorage.getItem("logoutInfo") != null;
+	};
+
+	const checkSocialLogin = ()=>{
+		return sessionStorage.getItem("socialLogin") == "true";
+  	};
+  
+  	const setSecondaryLogoutDataFromCookies = ()=>{
+		if(!checkSocialLogin()) return;
+		if(sessionStorage.getItem("logoutInfo")) return;
+		const logoutButtonData = {
+					  "customerType": "personas",
+					  "username":  getCookieValue("socialohUEmail"),
+					  "socialOneHubMail": getCookieValue("socialohUEmail"),
+					  "socialOneHubUid": getCookieValue("socialohUid"),
+					  "socialOneHubName": getCookieValue("socialohName"),
+					  "socialOneHubLastName": getCookieValue("socialohLName"),
+					  "socialOneHubMobile": getCookieValue("socialohMobile"),
+		};
+		sessionStorage.setItem("logoutInfo",JSON.stringify(logoutButtonData));
+  	};
+
+	const setStatusLogged = () =>{
+		if(checkSocialLogin()) setSecondaryLogoutDataFromCookies();
+		if(checkUserIsLogged()) {
+			try {
+				const logoutInfo = JSON.parse(sessionStorage.getItem("logoutInfo"));
+				const name = getCookieValue("socialohName") ||  logoutInfo?.socialOneHubName;
+				const lastname = getCookieValue("socialohLName") || logoutInfo?.socialOneHubLastName;
+				const usernameField = document.querySelector("h3.user-name");
+				if(usernameField != null ) usernameField.innerHTML = name + " " + lastname;
+				showLogoutFrame();
+			} catch (error) {
+				console.error(error);
+			}
+		}
+	}
+
+	const hydrateLogoutInfoFromSession = (onComplete) => {
+		if (typeof commonLatamAjaxCall !== "function") {
+			if (typeof onComplete === "function") onComplete(false);
+			return;
+		}
+
+		commonLatamAjaxCall(null, null, "checkAuthentication", "POST", function (authResponse) {
+			const authData = authResponse && authResponse.data !== undefined ? authResponse.data : authResponse;
+			const isAuthenticated = authData === true || authData === "true";
+
+			if (!isAuthenticated) {
+				if (typeof onComplete === "function") onComplete(false);
+				return;
+			}
+
+			commonLatamAjaxCall(null, null, "getProfileUIDCl", "POST", function (profileResponse) {
+				const rawProfile = profileResponse && profileResponse.data !== undefined ? profileResponse.data : profileResponse;
+				let profile = rawProfile;
+
+				if (typeof rawProfile === "string") {
+					try {
+						profile = JSON.parse(rawProfile);
+					} catch (error) {
+						profile = null;
+					}
+				}
+
+				if (!profile) {
+					if (typeof onComplete === "function") onComplete(false);
+					return;
+				}
+
+				const logoutButtonData = {
+					"customerType": "personas",
+					"username": profile?.email || "",
+					"socialOneHubMail": profile?.email || "",
+					"socialOneHubUid": profile?.enelId || "",
+					"socialOneHubName": profile?.firstName || "",
+					"socialOneHubLastName": profile?.lastName || "",
+					"socialOneHubMobile": profile?.phoneNumber || ""
+				};
+				sessionStorage.setItem("socialLogin", "true");
+				sessionStorage.setItem("logoutInfo", JSON.stringify(logoutButtonData));
+				if (typeof onComplete === "function") onComplete(true);
+			});
+		});
+	};
+
+	const ensureLoggedMenuState = () => {
+		const currentCountry = "CO";
+
+		if (currentCountry !== "CL") {
+			setStatusLogged();
+			return;
+		}
+
+		if (checkUserIsLogged() || checkSocialLogin()) {
+			setStatusLogged();
+			return;
+		}
+
+		hydrateLogoutInfoFromSession((success) => {
+			if (success) {
+				setStatusLogged();
+			} else {
+				hideLogoutFrame();
+			}
+		});
+	};
+
+	const showLogoutFrame = () =>{
+		document.querySelector("#notLoggedBox").style.display = "none";
+		document.querySelector("#loggedBox").style = {};
+	}
+
+	const hideLogoutFrame = () =>{
+		document.querySelector("#loggedBox").style.display = "none";
+		document.querySelector("#notLoggedBox").style = {};
+	}
+	
+	const checkCookieExists = (key) => {
+		return document.cookie.split(";").some((item) => item.trim().startsWith(key+"="));
+	}
+
+	const getCookieValue =(key) =>{
+		return document.cookie.split("; ").find((row) => row.startsWith(key+"="))?.split("=")[1];
+	}
+
+	$( document ).ready(function() {
+		document.querySelector(".global-header__btn.btn-menu")?.addEventListener("click", ensureLoggedMenuState);
+	});
+
+	const privateAreaCheck = (element) => {
+		const currentCountry = "CO";
+		let showAceptarTerminos = true;
+		let getProfileUID = "getProfileUID";
+
+		const redirects = {
+			"CO": "/es/personas/aceptar-terminos.html",
+			"CL": "/es/clientes/aceptar-terminos.html",
+			"PE": "/es/personas/aceptar-terminos.html",
+			"BR": "/pt/servico/aceptar-terminos.html"
+		};
+
+		jQuery.ajaxSetup({ async: false });
+
+		if(currentCountry === "CL"){
+			getProfileUID = "getProfileUIDCl";
+		}
+
+		commonLatamAjaxCall(null, '', getProfileUID, 'POST', function (response, xhr) {
+			
+			if (!response || response?.result == "KO") { console.log("usuario no logeado"); return;}
+			let result = response;
+			if (typeof response == 'string') { result = JSON.parse(response); }
+			if (result?.attributes) {
+				for (att of result.attributes) {
+					if (currentCountry == att.country) { showAceptarTerminos = false; break; };
+				}
+			}
+			jQuery.ajaxSetup({ async: true });
+			if (showAceptarTerminos) { window.location.href = redirects[currentCountry] || "#"; return;} 
+			else { window.location.href = element.href; return; }
+		});
+	}
+</script>
+
+    <div class="megamenu__accordian open primaryMenu">
+      <!--START: NAVIGATION PRIMARY-->
+
+
+
+
+<div class="megamenu__accordian__header open">
+    Links Importantes
+</div>
+
+<div class="megamenu__accordian__body" style="display: block;" data-bannerdtm="megamenu-primary-navigation">
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=hogares&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/personas.html">
+                        Hogares
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=empresas&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/empresas.html">
+                        Empresas
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=inversionistas&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/inversionista.html">
+                        Inversionistas
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=innovacin-y-sostenibilidad&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/medio-ambiente-desarrollo-sostenible.html">
+                        Innovación y Sostenibilidad
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=conoce-enel&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/conoce-enel.html">
+                        Conoce Enel
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=prensa&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/prensa.html">
+                        Prensa
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=trabaja-con-nosotros&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/conoce-enel/empleos-enel/marca-empleadora.html">
+                        Trabaja con nosotros
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+
+        
+            <ul class="megamenu__links">
+                <li>
+                    <a name="&amp;lid=ayuda&amp;lpos=megamenu" class="megamenu__links__heading " target="_self" href="/content/enel-co/es/megamenu/personas/ayuda.html">
+                        Ayuda
+                         
+                        </a>
+                    
+                </li>
+            </ul>
+        
+
+        
+    
+    
+    
+</div>
+<!--END: NAVIGATION PRIMARY-->
+
+
+    
+      <!--START: NAVIGATION PRIMARY-->
+
+
+
+
+
+
+
+<!--END: NAVIGATION PRIMARY-->
+
+
+    
+      <!--START: NAVIGATION PRIMARY-->
+
+
+
+
+
+
+
+<!--END: NAVIGATION PRIMARY-->
+
+
+    
+      <!--START: NAVIGATION PRIMARY-->
+
+
+
+
+
+
+
+<!--END: NAVIGATION PRIMARY-->
+
+
+    
+    </div>
+    
+      <!--START: NAVIGATION SECONDARY-->
+
+
+  <div class="megamenu__accordian secondaryMenu publishmode" data-bannerdtm="megamenu-secundary-navigation">
+    
+    
+  </div>
+  <div class="megamenu__accordian secondaryMenu publishmode" data-bannerdtm="megamenu-secundary-navigation">
+    <div class="megamenu__accordian__header " style="border-top: 0px solid">
+      Sitios Globales
+    </div>
+    <div class="megamenu__accordian__body">
+      <ul class="megamenu__links" style="display:block;">
+        <li>
+          <ul class="megamenu__submenu">
+            <li>
+              <a name="&amp;lid=conoce-al-grupo-enel&amp;lpos=megamenu" title="Conoce al Grupo Enel, Se abre en ventana nueva" target="_blank" href="https://www.enel.com/es">Conoce al Grupo Enel</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=enel-americas&amp;lpos=megamenu" title="Enel Americas, Se abre en ventana nueva" target="_blank" href="https://www.enelamericas.com">Enel Americas</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=conoce-sobre-enel-green-power&amp;lpos=megamenu" title="Conoce sobre Enel Green Power, Se abre en ventana nueva" target="_blank" href="https://www.enelgreenpower.com/es">Conoce sobre Enel Green Power</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=enel-x&amp;lpos=megamenu" title="Enel X, Se abre en ventana nueva" target="_blank" href="https://www.enelx.com/">Enel X</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=global-trading&amp;lpos=megamenu" title="Global Trading, Se abre en ventana nueva" target="_blank" href="https://globaltrading.enel.com/es.html">Global Trading</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=enel-open-innovability&amp;lpos=megamenu" title="Enel Open Innovability, Se abre en ventana nueva" target="_blank" href="https://openinnovability.enel.com/">Enel Open Innovability</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=global-procurement&amp;lpos=megamenu" title="Global Procurement, Se abre en ventana nueva" target="_blank" href="https://globalprocurement.enel.com/es.html">Global Procurement</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=conoce-sobre-enel-foundation&amp;lpos=megamenu" title="Conoce sobre Enel Foundation, Se abre en ventana nueva" target="_blank" href="https://www.enelfoundation.org/">Conoce sobre Enel Foundation</a>
+            </li>
+          
+            <li>
+              <a name="&amp;lid=canal-tico&amp;lpos=megamenu" title="Canal Ético, Se abre en ventana nueva" target="_blank" href="https://secure.ethicspoint.eu/domain/media/es/gui/102504/index.html">Canal Ético</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+<!--END: NAVIGATION SECONDARY-->
+
+    
+    <div class="megamenu__news__mobile"><div class="swiper-container swiper-container-horizontal"><div class="swiper-wrapper" style="transition-duration: 0ms;"><div class="swiper-slide swiper-slide-active"><article class="megamenu__article megamenu__article--large" data-bannerdtm="megamenu-module">
+ <a href="https://www.enel.com.co/es/historias/a202311-colombia-avanza-en-movilidad-sostenible.html" target="_self" name="&amp;lid=conoce-cmo-en-enel-le-apostamos-a-la-movilidad-sostenible&amp;lpos=megamenu">
+  
+  <div class="megamenu__article__img">
+   
+
+
+<img src="/content/enel-co/es/megamenu/historias/archive/2023/11/colombia-avanza-en-movilidad-sostenible/_jcr_content/hero/image2.img.jpg/1790197295515.jpg" alt="Infraestructura eléctrica de Enel Colombia para la movilidad sostenible en el país. " title="infraestructura-electrica-para-movilidad-sostenible-enel-principal" class="">
+  </div>
+  
+  <div class="megamenu__article__content">
+   <p class="megamenu__article__topic">
+    
+   </p>
+   <span class="megamenu__article__title">Conoce cómo en ENEL le apostamos a la movilidad sostenible</span>
+   <div class="megamenu__article__copy"> 
+    <p>El municipio de Carmen de Carupa, Cundinamarca, tiene una razón para llenarse de energía este año nuevo.</p>
+   </div> 
+  </div>
+  
+ </a>
+</article></div><div class="swiper-slide swiper-slide-next"><article class="megamenu__article " data-bannerdtm="megamenu-module2">
+ <a href="https://www.enel.com.co/es/historias/a202310-consejos-para-cuidar-historial-crediticio.html" target="_self" name="&amp;lid=cmo-cuidar-tu-historial-crediticio-5-consejos-clave-para-hacerlo&amp;lpos=megamenu">
+  
+  <div class="megamenu__article__img">
+   
+
+
+<img src="/content/enel-co/es/megamenu/historias/archive/2023/10/consejos-para-cuidar-historial-crediticio/_jcr_content/hero/image2.img.jpg/1787847374460.jpg" alt="Mujer feliz por el buen manejo financiero y de mejorar su historial crediticio." title="historial-crediticio-cfc.enel-principal" class="">
+  </div>
+  
+  <div class="megamenu__article__content">
+   <p class="megamenu__article__topic">
+    
+   </p>
+   <span class="megamenu__article__title">¿Cómo cuidar tu historial crediticio? 5 consejos clave para hacerlo</span>
+    
+  </div>
+  
+ </a>
+</article></div><div class="swiper-slide"><article class="megamenu__article " data-bannerdtm="megamenu-module3">
+ 
+  
+  
+  
+  <div class="megamenu__article__content">
+   <p class="megamenu__article__topic">
+    
+   </p>
+   
+   <div class="megamenu__article__copy"> 
+    <p></p>
+   </div> 
+  </div>
+  
+ 
+</article></div></div><div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"></div></div></div>
+  </div>
+</nav>
+
+
+
+  
+
+
+  
+
+  
+
+
+  
+
+  
+
+</div>
+
+<!-- END MODULE: GLOBAL-SIDE-MENU-->
+
+
+    
+
+
+<!-- HEADER COMMON END -->
+
+<main id="main" class="home-layout"><!-- HUB COMMON START -->
+
+
+
+
+
+ 
+
+    <style type="text/css">
+        .image-hero
+        {
+            background-color: gray;
+            background-image: url("/content/dam/enel-co/español/fenomeno-del-nino/Banner%20landing%20principal%20Fenomeno%20de%20El%20Nino.jpg");
+        }
+        @media screen and (min-width: 768px) {
+            .image-hero {
+                background-image: url("/content/dam/enel-co/español/fenomeno-del-nino/Banner%20landing%20principal%20Fenomeno%20de%20El%20Nino.jpg");
+            }
+        }
+        @media screen and (min-width: 1024px) {
+            .image-hero {
+                background-image: url("/content/dam/enel-co/español/fenomeno-del-nino/Banner%20landing%20principal%20Fenomeno%20de%20El%20Nino.jpg");
+            }
+        }
+    </style>
+    
+
+
+    
+    <!-- heightfix check -->
+
+    
+    
+    
+
+    
+
+    <section data-module="image-hero" class="image-hero module heroVideo vs-textcolor- image" style="background-color: #ff5a0f;" data-bannerdtm="hero">
+        
+        
+
+        <div class="hero_inner image-hero_inner video-highlight-title" data-bannerdtm="hero">
+            <div class="hero_content-wrapper">
+                <nav class="hero_breadcrumbs">
+                    <ol class="breadcrumbs component" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+                        
+                        
+                            <li class="breadcrumbs_item breadcrumbs_item--last text--breadcrumb" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                                <a itemprop="item" href="https://www.enel.com.co/es.html" class="breadcrumbs_link">
+                                    <span itemprop="name">Enel Colombia - Energía Sostenible para Hogares y Empresas </span>
+                                </a>
+                                <meta itemprop="position" content="1">
+                            </li>
+                        
+                        <li class="breadcrumbs_item breadcrumbs_item--last text--breadcrumb" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                            <a itemprop="item" href="https://www.enel.com.co/es/fenomeno-de-el-nino.html" class="breadcrumbs_link">
+                                <span itemprop="name">#CuidaTuEnergía: Enfrentando el Fenómeno de El Niño</span>
+                            </a>
+                            <meta itemprop="position" content="2">
+                        </li>
+                        
+
+                    </ol>
+                </nav>
+                <h1 class="hero_title text--page-heading">#CuidaTuEnergía: Enfrentando el Fenómeno de El Niño</h1>
+                
+                
+            </div>
+            
+
+        </div>
+    </section>
+
+
+
+
+
+
+
+
+<div style="clear:both"></div>
+<div id="navegacion-tab_contenido"></div>
+
+
+
+
+
+
+
+
+	
+
+
+
+
+    
+    
+    <div class="text parbase"><section class="anchor">
+	<div class="component rich-text container ">
+ 		<div class="rich-text_inner nosquares">
+  			
+  			
+ 		</div>
+	</div>
+</section></div>
+
+
+    
+    
+    <div class="text parbase"><section class="anchor">
+	<div class="component rich-text container reductwidth">
+ 		<div class="rich-text_inner nosquares">
+  			
+<h2 style="text-align: center;">¿Qué es el Fenómeno de El Niño?</h2>
+<p style="text-align: center;">El Fenómeno de El Niño es un evento climático que se caracteriza por alzas en las temperaturas del Océano Pacífico, causando cambios climáticos en diferentes partes del mundo. Conoce el impacto que tiene dentro de los procesos de generación, distribución y comercialización de energía en Colombia.</p>
+<p style="text-align: center;">&nbsp;</p>
+
+
+  			
+ 		</div>
+	</div>
+</section></div>
+
+
+    
+    
+    <div class="promo-offert">
+
+
+
+
+
+<style>
+
+@media screen and (max-width: 480px) {
+    .plan-promo-block-image {
+        height: auto !important;
+        width: 100%;
+        overflow: visible;
+      }
+    .plan-promo-block-image .img-bg {
+        height: 100%;
+       width: 100%;
+       background-repeat: no-repeat;   
+       background-position: center; 
+      }
+    } 
+
+     @media screen and (max-width: 768px) {
+     .plan-promo-block-image {
+       height: auto;
+       width: 100%;
+     }
+     .plan-promo-block-image .img-bg {
+       height: 100%;
+       width: 100%;
+       background-repeat: no-repeat;   
+       background-position: center;   
+    }
+}
+
+	@media screen and (min-width: 1024px){
+    .plan-promo.plan-promo--toppad {padding-top: 52px;}
+	}
+	.plan-promo_pricing-list li .pricing-details a.detailOfferLinkColor {
+		color: ;
+	}
+	
+	.plan-promo_pricing-list li .pricing-details a.detailOfferLinkColor:hover {
+		border-bottom: 1px solid ;
+	}
+	
+	a.colorWhite span.text {
+		color: #fff;
+	}
+	
+	a.colorWhite span.ico:after {
+		color: #fff;
+	}
+	.manage-block .plan-promo_content ul li img {   
+	    width: 40%;
+	    float: left;
+	    padding-right: 5%;
+	}
+</style>
+
+	<section class="plan-promo plan-promo--offwhite manage-block anchor  plan-promo--offwhite" data-bannerdtm="promo-offert">
+		
+		<div class="space-for-desktop-top">&nbsp;</div>
+	    <div style="padding-top:5px;" class="plan-promo_inner container hub_group">
+	        <div class="hub_inner">
+	            <div class="plan-promo_content">
+	                <span class="eyebrow"></span>
+	                <h2 class="title">Fenómeno de El Niño y su impacto en la energía</h2>
+	                <p class="description">Conoce qué es el Fenómeno de El Niño, cómo puede afectar al sistema eléctrico y las acciones que implementa Enel en Colombia y Centroamérica para prepararse ante este evento climático. </p>
+	               <ul>
+			   <li><a href="https://www.enel.com.co/es/fenomeno-de-el-nino/fenomeno-de-el-nino-como-impacta-la-energia.html" target="_blank" alt="Conoce más" class="link" style="color: #ff0f64 !important">Conoce más<span class="ico"></span></a></li>
+        		   </ul>
+	               	
+	            </div>
+	            <div class="plan-promo_plan-holder-parsys">
+	            	
+
+
+
+
+    
+    
+    <div class="plan-promo_plan-holder image-info image">
+
+
+
+
+<div class="plan-promo-block-image" style="background-color: #41b9e6 !important;">
+    <div class="img-bg" style="left:0%; background-image: url('/content/enel-co/es/megamenu/fenomeno-de-el-nino/jcr:content/hub-content/promo_offert_copy_co_1850136950/promo-par/image_info.img.jpg/1782857267025.jpg');">
+		<!-- <img  data-sly-use.decoration="com.enel.website.com.wcm.common.ImageDecorationHandler"
+					src="/content/enel-co/es/megamenu/fenomeno-de-el-nino/jcr:content/hub-content/promo_offert_copy_co_1850136950/promo-par/image_info.img.jpg/1782857267025.jpg"
+					data-src=""
+					width="" height=""
+					title=""
+					alt="false"
+					data-emptytext="Image"
+					class=" cq-dd-image " /> -->
+	</div>
+</div>	
+
+
+</div>
+
+
+
+	            </div>
+	        </div>
+	    </div>
+	</section>
+
+</div>
+
+
+    
+    
+    <div class="text parbase"><section class="anchor">
+	<div class="component rich-text container ">
+ 		<div class="rich-text_inner nosquares">
+  			
+  			
+ 		</div>
+	</div>
+</section></div>
+
+
+    
+    
+    <div class="text parbase"><section class="anchor">
+	<div class="component rich-text container reductwidth">
+ 		<div class="rich-text_inner nosquares">
+  			
+<div class="left anchor" style="text-align: center;">&nbsp;</div>
+<div class="button parbase" style="text-align: left;"><div class="left anchor" style="text-align: center;"><a href="https://www.enel.com.co/es/fenomeno-de-el-nino/eficiencia-energetica-para-hogares.html" class="btn-cta btn-cta--magenta" style="background-color: rgb(0,176,80);color: white;border-color: rgb(0,176,80);">Hogares</a> <a href="https://www.enel.com.co/es/fenomeno-de-el-nino/eficiencia-energetica-para-empresas.html" class="btn-cta btn-cta--magenta" style="background-color: rgb(0,176,80);color: white;border-color: rgb(0,176,80);">Empresas</a> <a href="https://www.enel.com.co/es/fenomeno-de-el-nino/eficiencia-energetica-para-pequenas-empresas.html" class="btn-cta btn-cta--magenta" style="background-color: rgb(0,176,80);color: white;border-color: rgb(0,176,80);">Pequeños Comercios</a><a href="https://www.enel.com.co/es/personas/productos-y-servicios-personas/movilidad-electrica/ahorro-energia-vehiculos-electricos.html" class="btn-cta btn-cta--magenta" style="background-color: rgb(0,176,80);color: white;border-color: rgb(0,176,80);">Vehículos</a> &nbsp;</div>
+<div class="left anchor" style="text-align: center;">&nbsp;</div>
+</div>
+
+
+  			
+ 		</div>
+	</div>
+</section></div>
+
+
+    
+    
+    <div class="text parbase"><section class="anchor">
+	<div class="component rich-text container reductwidth">
+ 		<div class="rich-text_inner nosquares">
+  			
+<h2 style="text-align: center;">Tips para el uso eficiente de la energía</h2>
+
+
+  			
+ 		</div>
+	</div>
+</section></div>
+
+
+    
+    
+    <div class="brick parbase"><div class="focus-on-preview-wrapper color-scheme--green-bg">
+	<section class="focus-on-preview focus-on-cf">
+    	<div class="focus-on-row">
+    		
+        		
+        			<div class="focus-on-cl-4">
+            			<div class="f-on-icon">
+              				<img aria-hidden="true">
+              				<div class="f-on-icon-label"></div>
+							
+            			</div>
+            			<div class="f-on-title">
+              				
+            			</div>
+            			<div class="f-on-description">
+              				● Desconecta los aparatos que no estás usando, como televisores, consolas o routers para evitar consumo innecesario.
+            			</div>
+          			</div>
+          		
+          	
+        		
+        			<div class="focus-on-cl-4">
+            			<div class="f-on-icon">
+              				<img aria-hidden="true">
+              				<div class="f-on-icon-label"></div>
+							
+            			</div>
+            			<div class="f-on-title">
+              				
+            			</div>
+            			<div class="f-on-description">
+              				● Seca la ropa al sol y aprovecha la luz natural durante el día para reducir el uso de energía en casa.
+            			</div>
+          			</div>
+          		
+          	
+        		
+        			<div class="focus-on-cl-4">
+            			<div class="f-on-icon">
+              				<img aria-hidden="true">
+              				<div class="f-on-icon-label"></div>
+							
+            			</div>
+            			<div class="f-on-title">
+              				
+            			</div>
+            			<div class="f-on-description">
+              				● Cambia los bombillos tradicionales por luces LED, que duran más y gastan menos energía.
+            			</div>
+          			</div>
+          		
+          	
+	 	</div>
+	</section>
+</div></div>
+
+
+    
+    
+    <div class="text parbase"><section class="anchor">
+	<div class="component rich-text container ">
+ 		<div class="rich-text_inner nosquares">
+  			
+  			
+ 		</div>
+	</div>
+</section></div>
+
+
+    
+    
+    <div class="text parbase"><section class="anchor">
+	<div class="component rich-text container ">
+ 		<div class="rich-text_inner nosquares">
+  			
+<div id="pdf" class="image parbase" style="text-align: center;">
+ <img src="/content/dam/enel-co/Fenomeno-de-el-nino/infografia-fenomeno-del-nino-enel.jpg" alt="Infografia sobre cómo el fenomeno del niño, impacta en la fase de generación, distribución, y comercialización. Adicional, los consejos que Enel invita a los usuarios a implementar en estos periodos" width="100%" style="margin: 0.0px auto;max-width: 1200.0px;"><br>
+ 
+</div>
+
+
+  			
+ 		</div>
+	</div>
+</section></div>
+
+
+    
+    
+    <div class="text parbase"><section class="anchor">
+	<div class="component rich-text container reductwidth">
+ 		<div class="rich-text_inner nosquares">
+  			
+<div class="left anchor" style="text-align: center;">&nbsp;</div>
+<div class="button parbase" style="text-align: center;"><div class="left anchor" style="text-align: center;"><a href="/content/dam/enel-co/Fenomeno-de-el-nino/infografia-fenomeno-del-ninno.pdf" class="btn-cta btn-cta--magenta" style="background-color: rgb(0,176,80);color: white;border-color: rgb(0,176,80);" target="_blank">Descargar Infografía</a></div>
+<div class="left anchor" style="text-align: center;">&nbsp;</div>
+</div>
+
+
+  			
+ 		</div>
+	</div>
+</section></div>
+
+
+    
+    
+    <div class="text parbase"><section data-anchor="hogares" class="anchor">
+	<div class="component rich-text container ">
+ 		<div class="rich-text_inner nosquares">
+  			
+<p id="hogares" style="visibility: hidden;">prueba</p>
+
+
+  			
+ 		</div>
+	</div>
+</section></div>
+
+
+    
+    
+    <div class="promo-offert">
+
+
+
+
+
+<style>
+
+@media screen and (max-width: 480px) {
+    .plan-promo-block-image {
+        height: auto !important;
+        width: 100%;
+        overflow: visible;
+      }
+    .plan-promo-block-image .img-bg {
+        height: 100%;
+       width: 100%;
+       background-repeat: no-repeat;   
+       background-position: center; 
+      }
+    } 
+
+     @media screen and (max-width: 768px) {
+     .plan-promo-block-image {
+       height: auto;
+       width: 100%;
+     }
+     .plan-promo-block-image .img-bg {
+       height: 100%;
+       width: 100%;
+       background-repeat: no-repeat;   
+       background-position: center;   
+    }
+}
+
+	@media screen and (min-width: 1024px){
+    .plan-promo.plan-promo--toppad {padding-top: 52px;}
+	}
+	.plan-promo_pricing-list li .pricing-details a.detailOfferLinkColor {
+		color: ;
+	}
+	
+	.plan-promo_pricing-list li .pricing-details a.detailOfferLinkColor:hover {
+		border-bottom: 1px solid ;
+	}
+	
+	a.colorWhite span.text {
+		color: #fff;
+	}
+	
+	a.colorWhite span.ico:after {
+		color: #fff;
+	}
+	.manage-block .plan-promo_content ul li img {   
+	    width: 40%;
+	    float: left;
+	    padding-right: 5%;
+	}
+</style>
+
+	<section class="plan-promo plan-promo--offwhite manage-block anchor  plan-promo--offwhite" data-bannerdtm="promo-offert2">
+		
+		<div class="space-for-desktop-top">&nbsp;</div>
+	    <div style="padding-top:5px;" class="plan-promo_inner container hub_group">
+	        <div class="hub_inner">
+	            <div class="plan-promo_content">
+	                <span class="eyebrow"></span>
+	                <h2 class="title">¿Qué puedes hacer tú durante esta temporada seca? </h2>
+	                <p class="description">Descubre acciones simples que puedes poner en práctica para aprovechar mejor la energía y reducir el consumo en casa.  </p>
+	               
+	               	
+	            </div>
+	            <div class="plan-promo_plan-holder-parsys">
+	            	
+
+
+
+
+    
+    
+    <div style="min-height:0px;" class="promo-offert-video video-large image parbase plan-promo_plan-holder">
+
+
+
+
+	
+
+    <div class="video-large component youtube-player anchor" data-bannerdtm="promo-offert3">
+      <div class="overlay">
+        
+      </div>
+      <div data-video="" class="video" style="margin: 0px 0px">
+        <video class="full-bleed-image_image" controls="controls">
+          <source src="/content/dam/enel-co/español/fenomeno-del-nino/videos/como-sobrellevar-nino.mp4" type="video/mp4">
+        </video>
+      </div>
+    </div>
+    
+
+</div>
+
+
+
+	            </div>
+	        </div>
+	    </div>
+	</section>
+
+</div>
+
+
+    
+    
+    <div class="promo-offert">
+
+
+
+
+
+<style>
+
+@media screen and (max-width: 480px) {
+    .plan-promo-block-image {
+        height: auto !important;
+        width: 100%;
+        overflow: visible;
+      }
+    .plan-promo-block-image .img-bg {
+        height: 100%;
+       width: 100%;
+       background-repeat: no-repeat;   
+       background-position: center; 
+      }
+    } 
+
+     @media screen and (max-width: 768px) {
+     .plan-promo-block-image {
+       height: auto;
+       width: 100%;
+     }
+     .plan-promo-block-image .img-bg {
+       height: 100%;
+       width: 100%;
+       background-repeat: no-repeat;   
+       background-position: center;   
+    }
+}
+
+	@media screen and (min-width: 1024px){
+    .plan-promo.plan-promo--toppad {padding-top: 52px;}
+	}
+	.plan-promo_pricing-list li .pricing-details a.detailOfferLinkColor {
+		color: ;
+	}
+	
+	.plan-promo_pricing-list li .pricing-details a.detailOfferLinkColor:hover {
+		border-bottom: 1px solid ;
+	}
+	
+	a.colorWhite span.text {
+		color: #fff;
+	}
+	
+	a.colorWhite span.ico:after {
+		color: #fff;
+	}
+	.manage-block .plan-promo_content ul li img {   
+	    width: 40%;
+	    float: left;
+	    padding-right: 5%;
+	}
+</style>
+
+	<section class="plan-promo plan-promo--offwhite manage-block anchor  plan-promo--offwhite" data-bannerdtm="promo-offert4">
+		
+		<div class="space-for-desktop-top">&nbsp;</div>
+	    <div style="padding-top:5px;" class="plan-promo_inner container hub_group">
+	        <div class="hub_inner">
+	            <div class="plan-promo_content">
+	                <span class="eyebrow"></span>
+	                <h2 class="title">Fenómeno de El Niño ¿Cómo ahorrar energía? </h2>
+	                <p class="description">Conoce hábitos que pueden ayudarte a optimizar el consumo de energía todos los días.  </p>
+	               
+	               	
+	            </div>
+	            <div class="plan-promo_plan-holder-parsys">
+	            	
+
+
+
+
+    
+    
+    <div style="min-height:0px;" class="promo-offert-video video-large image parbase plan-promo_plan-holder">
+
+
+
+
+	
+
+    <div class="video-large component youtube-player anchor" data-bannerdtm="promo-offert5">
+      <div class="overlay">
+        
+      </div>
+      <div data-video="" class="video" style="margin: 0px 0px">
+        <video class="full-bleed-image_image" controls="controls">
+          <source src="/content/dam/enel-co/español/fenomeno-del-nino/videos/ahorrar-luz.mp4" type="video/mp4">
+        </video>
+      </div>
+    </div>
+    
+
+</div>
+
+
+
+	            </div>
+	        </div>
+	    </div>
+	</section>
+
+</div>
+
+
+    
+    
+    <div class="promo-offert">
+
+
+
+
+
+<style>
+
+@media screen and (max-width: 480px) {
+    .plan-promo-block-image {
+        height: auto !important;
+        width: 100%;
+        overflow: visible;
+      }
+    .plan-promo-block-image .img-bg {
+        height: 100%;
+       width: 100%;
+       background-repeat: no-repeat;   
+       background-position: center; 
+      }
+    } 
+
+     @media screen and (max-width: 768px) {
+     .plan-promo-block-image {
+       height: auto;
+       width: 100%;
+     }
+     .plan-promo-block-image .img-bg {
+       height: 100%;
+       width: 100%;
+       background-repeat: no-repeat;   
+       background-position: center;   
+    }
+}
+
+	@media screen and (min-width: 1024px){
+    .plan-promo.plan-promo--toppad {padding-top: 52px;}
+	}
+	.plan-promo_pricing-list li .pricing-details a.detailOfferLinkColor {
+		color: ;
+	}
+	
+	.plan-promo_pricing-list li .pricing-details a.detailOfferLinkColor:hover {
+		border-bottom: 1px solid ;
+	}
+	
+	a.colorWhite span.text {
+		color: #fff;
+	}
+	
+	a.colorWhite span.ico:after {
+		color: #fff;
+	}
+	.manage-block .plan-promo_content ul li img {   
+	    width: 40%;
+	    float: left;
+	    padding-right: 5%;
+	}
+</style>
+
+	<section class="plan-promo plan-promo--offwhite manage-block anchor  plan-promo--offwhite" data-bannerdtm="promo-offert6">
+		
+		<div class="space-for-desktop-top">&nbsp;</div>
+	    <div style="padding-top:5px;" class="plan-promo_inner container hub_group">
+	        <div class="hub_inner">
+	            <div class="plan-promo_content">
+	                <span class="eyebrow"></span>
+	                <h2 class="title">Aprende a usar eficientemente la energía en casa</h2>
+	                <p class="description"> Explora recomendaciones prácticas para identificar consumos innecesarios y adoptar hábitos que te ayuden a usar la energía de forma más eficiente en casa.</p>
+	               <ul>
+			   <li><a href="/content/enel-co/es/megamenu/personas/servicio-al-cliente/energia-eficiente-consumo-invisible.html" alt="Conoce más" class="link" style="color: #ff0f64 !important">Conoce más<span class="ico"></span></a></li>
+        		   </ul>
+	               	
+	            </div>
+	            <div class="plan-promo_plan-holder-parsys">
+	            	
+
+
+
+
+    
+    
+    <div class="plan-promo_plan-holder image-info image">
+
+
+
+
+<div class="plan-promo-block-image" style="background-color: #41b9e6 !important;">
+    <div class="img-bg" style="left:0%; background-image: url('/content/enel-co/es/megamenu/fenomeno-de-el-nino/jcr:content/hub-content/promo_offert_copy_co/promo-par/image_info.img.jpg/1780608876232.jpg');">
+		<!-- <img  data-sly-use.decoration="com.enel.website.com.wcm.common.ImageDecorationHandler"
+					src="/content/enel-co/es/megamenu/fenomeno-de-el-nino/jcr:content/hub-content/promo_offert_copy_co/promo-par/image_info.img.jpg/1780608876232.jpg"
+					data-src=""
+					width="" height=""
+					title=""
+					alt="false"
+					data-emptytext="Image"
+					class=" cq-dd-image " /> -->
+	</div>
+</div>	
+
+
+</div>
+
+
+
+	            </div>
+	        </div>
+	    </div>
+	</section>
+
+</div>
+
+
+    
+    
+    <div class="promo-offert">
+
+
+
+
+
+<style>
+
+@media screen and (max-width: 480px) {
+    .plan-promo-block-image {
+        height: auto !important;
+        width: 100%;
+        overflow: visible;
+      }
+    .plan-promo-block-image .img-bg {
+        height: 100%;
+       width: 100%;
+       background-repeat: no-repeat;   
+       background-position: center; 
+      }
+    } 
+
+     @media screen and (max-width: 768px) {
+     .plan-promo-block-image {
+       height: auto;
+       width: 100%;
+     }
+     .plan-promo-block-image .img-bg {
+       height: 100%;
+       width: 100%;
+       background-repeat: no-repeat;   
+       background-position: center;   
+    }
+}
+
+	@media screen and (min-width: 1024px){
+    .plan-promo.plan-promo--toppad {padding-top: 52px;}
+	}
+	.plan-promo_pricing-list li .pricing-details a.detailOfferLinkColor {
+		color: ;
+	}
+	
+	.plan-promo_pricing-list li .pricing-details a.detailOfferLinkColor:hover {
+		border-bottom: 1px solid ;
+	}
+	
+	a.colorWhite span.text {
+		color: #fff;
+	}
+	
+	a.colorWhite span.ico:after {
+		color: #fff;
+	}
+	.manage-block .plan-promo_content ul li img {   
+	    width: 40%;
+	    float: left;
+	    padding-right: 5%;
+	}
+</style>
+
+	<section class="plan-promo plan-promo--offwhite manage-block anchor  plan-promo--offwhite" data-bannerdtm="promo-offert7">
+		
+		<div class="space-for-desktop-top">&nbsp;</div>
+	    <div style="padding-top:5px;" class="plan-promo_inner container hub_group">
+	        <div class="hub_inner">
+	            <div class="plan-promo_content">
+	                <span class="eyebrow"></span>
+	                <h2 class="title">Así funciona el programa transitorio de incentivo al uso eficiente de energía</h2>
+	                <p class="description">Descubre una iniciativa que busca promover el uso eficiente de la energía mediante incentivos para quienes reduzcan su consumo y contribuyan al cuidado de los recursos energéticos.</p>
+	               <ul>
+			   <li><a href="/content/enel-co/es/megamenu/programa-incentivo-uso-eficiente-de-energia.html" alt="Conoce más" class="link" style="color: #ff0f64 !important">Conoce más<span class="ico"></span></a></li>
+        		   </ul>
+	               	
+	            </div>
+	            <div class="plan-promo_plan-holder-parsys">
+	            	
+
+
+
+
+    
+    
+    <div class="plan-promo_plan-holder image-info image">
+
+
+
+
+<div class="plan-promo-block-image" style="background-color: #41b9e6 !important;">
+    <div class="img-bg" style="left:0%; background-image: url('/content/enel-co/es/megamenu/fenomeno-de-el-nino/jcr:content/hub-content/promo_offert_copy_co_284074765/promo-par/image_info.img.jpg/1789432744835.jpg');">
+		<!-- <img  data-sly-use.decoration="com.enel.website.com.wcm.common.ImageDecorationHandler"
+					src="/content/enel-co/es/megamenu/fenomeno-de-el-nino/jcr:content/hub-content/promo_offert_copy_co_284074765/promo-par/image_info.img.jpg/1789432744835.jpg"
+					data-src=""
+					width="" height=""
+					title=""
+					alt="false"
+					data-emptytext="Image"
+					class=" cq-dd-image " /> -->
+	</div>
+</div>	
+
+
+</div>
+
+
+
+	            </div>
+	        </div>
+	    </div>
+	</section>
+
+</div>
+
+
+    
+    
+    <div class="text parbase"><section class="anchor">
+	<div class="component rich-text container ">
+ 		<div class="rich-text_inner nosquares">
+  			
+  			
+ 		</div>
+	</div>
+</section></div>
+
+
+    
+    
+    <div class="text parbase"><section class="anchor">
+	<div class="component rich-text container reductwidth">
+ 		<div class="rich-text_inner nosquares">
+  			
+<div class="left anchor" style="text-align: center;"><a href="https://www.enel.com.co/es/fenomeno-de-el-nino/eficiencia-energetica-para-empresas.html" class="btn-cta btn-cta--magenta" target="_blank" style="background-color: rgb(0,176,80);color: white;border-color: rgb(0,176,80);">Consulta la información de uso eficiente de energía para empresas</a></div>
+
+
+  			
+ 		</div>
+	</div>
+</section></div>
+
+
+    
+    
+    <div class="text parbase"><section class="anchor">
+	<div class="component rich-text container reductwidth">
+ 		<div class="rich-text_inner nosquares">
+  			
+<p style="text-align: center;">Cuidemos nuestra energía para mantener un suministro estable durante esta temporada.​</p>
+<p style="text-align: center;"><i><u><b>¡Cada acción cuenta para proteger nuestros recursos!</b></u></i></p>
+
+
+  			
+ 		</div>
+	</div>
+</section></div>
+
+
+    
+    
+    <div class="text parbase"><section class="anchor">
+	<div class="component rich-text container ">
+ 		<div class="rich-text_inner nosquares">
+  			
+  			
+ 		</div>
+	</div>
+</section></div>
+
+
+
+
+
+
+<!-- HUB COMMON END --></main>
+<style>
+    @media screen and (min-width: 1024px) {
+        body main#main {
+            background-position: 100%;
+            background-attachment: fixed;
+            background-size: cover;
+            width: 100%;
+            background-repeat: no-repeat;
+        }
+    }
+    @media screen and (max-width: 1023px) {
+        body main#main {
+            background-position: 100% 0%;
+            background-attachment: fixed;
+            background-size: auto;
+            width: 100%;
+            background-repeat: no-repeat;
+        }
+    }
+</style>
+<!-- START MODULE: LOCALISATION COMMON-->
+
+
+
+<!-- END MODULE: LOCALISATION-->
+<!-- START MODULE: TOP HEADER COMMON-->
+
+<!-- END MODULE: TOP HEADER-->
+<footer data-module="footer" class="footer module">
+    
+<div class="footer-container">
+  <div class="footer-content">
+    <div class="footer-section footer-legal" data-bannerdtm="footer">
+      <ul class="footer-copyright">
+        
+          <li class="footer-legal-item footer-legal-text">© Enel Colombia S.A. ESP 2026</li>
+        
+        
+        
+          <li class="footer-legal-item footer-legal-text">Todos los derechos reservados</li>
+        
+        
+      </ul>
+      <ul class="footer-legal-links">
+        <li class="footer-legal-item">
+          <a href="https://www.enel.com.co/es/aviso-privacidad.html" target="_blank">Legal</a>
+        </li>
+      
+        <li class="footer-legal-item">
+          <a href="https://www.enel.com.co/es/politica-de-cookies/politica-de-cookies.html" target="_blank">Política de Cookies</a>
+        </li>
+      
+        <li class="footer-legal-item">
+          <a href="https://www.enel.com.co/es/politica-de-tratamiento-de-datos.html" target="_blank">Política privacidad de datos</a>
+        </li>
+      
+        <li class="footer-legal-item">
+          <a href="https://www.enel.com.co/es/mapa-sitio.html" target="_blank">Mapa del sitio</a>
+        </li>
+      <li class="footer-legal-item"><div id="teconsent" consent="0,1,2" aria-label="Open Cookie Preferences Modal" class="truste_caIcon_display" role="complementary"><script src="https://consent.trustarc.com/asset/notice.js/v/1192e72" async="async" crossorigin="" importance="high"></script><a id="icon-id08969260321663285" tabindex="0" role="link" lang="es" aria-haspopup="dialog" aria-label="Cookie Preferences, opens a dedicated popup modal window" class="truste_cursor_pointer" style="cursor: pointer;">Preferencias sobre cookies</a></div></li></ul>
+    </div>
+	<div class="footer-section footer-social">
+      <p></p>
+      <ul>
+        
+        
+        
+        
+        
+        
+        
+      	
+      </ul>
+    </div>
+  </div>
+</div>
+<style>
+  *,
+  :after,
+  :before {
+      box-sizing: inherit;
+      font-family:var(--RobertEnel),icomoon4, icomoon3, icomoon2, icomoon;
+  }
+  .svg-icon-x {
+    background-image: url("/etc/designs/enel-latam-com/clientlibs/main/css/image/icons/x.svg");
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  @font-face {
+    font-family: 'icomoon4';
+    src:  url('/etc/designs/enel-latam-com/clientlibs/main/css/fonts/icomoon4.eot?pwja14');
+    src:  url('/etc/designs/enel-latam-com/clientlibs/main/css/fonts/icomoon4.eot?pwja14#iefix') format('embedded-opentype'),
+      url('/etc/designs/enel-latam-com/clientlibs/main/css/fonts/icomoon4.ttf?pwja14') format('truetype'),
+      url('/etc/designs/enel-latam-com/clientlibs/main/css/fonts/icomoon4.woff?pwja14') format('woff'),
+      url('/etc/designs/enel-latam-com/clientlibs/main/css/fonts/icomoon4.svg?pwja14#icomoon4') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+
+  [class^="xtwitter-icon"], [class*=" xtwitter-icon"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon4' !important;
+  /*  speak: never; */
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* .xtwitter-icon-twitter {
+    top: -1px;
+  } */
+
+  .xtwitter-icon-twitter:before {
+    content: "\e900";
+  }
+
+  .footer-social a.xtwitter-icon-twitter::before{
+  /*  font-size: 18px !important; */
+    margin-top: 3px;
+  }
+
+  .footer-social a::before{
+    position: absolute;
+  }
+</style>
+
+
+
+<!-- Pop-up login -->
+
+<script type="text/javascript">
+$(document).ready(function(){
+ if($('#centralLink').length > 0){
+   $('#centralLink').attr("href", $('#centralLink').data("link-center"));
+   $('#sxLink').attr("href", $('#sxLink').data("link-left"));
+   $('#dxLink').attr("href", $('#dxLink').data("link-right"));
+ }
+});
+</script>
+<script>
+function goPrivateArea() {
+	 if(window.location.href.indexOf("enel.cl") != -1
+	     || window.location.href.indexOf("enel.pe") != -1
+	     || window.location.href.indexOf("enel.co") != -1 ){
+		 if(window.location.href.indexOf("www.enel.cl") > -1){
+		 	window.location.href = 'https://accounts.enel.com/samlsso?spEntityID=ENEL_WEB_CIL';
+		 }else if(window.location.href.indexOf("www-hfx65.enel.cl") > -1){
+		 	window.location.href = 'https://accounts-coll.enel.com:9443/samlsso?spEntityID=ENEL_WEB_CIL_PRE';
+		 }else if(window.location.href.indexOf("qa65.enel.cl") > -1){
+		 	window.location.href = 'https://accounts-coll.enel.com:9443/samlsso?spEntityID=ENEL_WEB_CIL';
+		 }else {
+	   		window.location.href = $(".redirectUrlLoginBtn")[0].dataset.sessiondatakeyurl;
+	     }
+		 }else{
+	           var currentUrl = (window.location.pathname);
+	           commonLatamAjaxCall(currentUrl, null, "checkAuthentication", "POST", function(result){
+	               if(typeof result != 'undefined' && typeof result != 'undefined' && result == true){
+	                   if ($(".redirectUrlLogin")[0].dataset.redirecturl != undefined && $(".redirectUrlLogin")[0].dataset.redirecturl != "") {
+	                           window.location.replace($(".redirectUrlLogin")[0].dataset.redirecturl);
+	                       }
+	               } else {
+	                   $.fancybox.open( $('#login-wrapper'));
+	               }
+	           });
+	     }
+	}
+</script>
+
+
+</footer>
+
+
+
+
+
+
+
+ 
+
+ 
+    
+<script src="/etc/designs/enel-latam-com/clientlibs/cortesmap.min.js"></script>
+<script src="/etc/designs/enel-latam-com/clientlibs/carrouselmap.min.js"></script>
+
+
+
+
+    
+<script src="/etc/designs/enel-latam-com/clientlibs/main.min.js"></script>
+
+
+
+
+    
+<script src="/etc/designs/enel-latam-com/clientlibs/owlCarousel.min.js"></script>
+
+
+
+
+    
+<script src="/etc/designs/enel-latam-com/clientlibs/twitter-hub.min.js"></script>
+
+
+
+
+    
+<script src="/etc/designs/enel-co/clientlib-site.min.js"></script>
+
+
+
+
+
+
+<script>
+    //Checkbox TyC
+    const showLinkedModal = (element) =>{ element.firstElementChild.click();}
+
+    //TRIM password and username in login and password recover
+    const trimEndSpaces = ()=>{
+        const idList = ["#confirmar-contrasena", "#contrasena", "#username", "#privatepwd", "#pwdCompany", "#usernameEmpresa"];
+        idList.forEach(id =>{
+            let element = document.querySelector(id);
+            if(element){
+                element.value = element.value.trimEnd();
+                //console.log("trim value: "+element.value);
+            }
+        });
+    };
+
+    //cards-general-co slide to function:
+    function slideTo(element){
+        //document.querySelectorAll(".carousel-indicators li").forEach(e => e.classList.remove("active"));
+        let data = element.dataset;
+        //element.classList.add("active");
+        document.querySelector(data.target+data.slideTo).scrollIntoView({block:"nearest", behavior:"smooth"});
+        console.log(data.target + data.slideTo);
+    }
+    
+    let currentTabScroll = 0;
+
+    const arrowScrollLeft = ()=>{
+        let tabs = document.querySelectorAll(".tabs__label-wrapper .tabs__label");
+        currentTabScroll-=2;
+        if(currentTabScroll<1)  currentTabScroll = 0;
+        if(currentTabScroll >= tabs.length-3) currentTabScroll--;
+        tabs[currentTabScroll].scrollIntoView({block:"nearest", behavior:"smooth"});
+    }
+
+    const arrowScrollRight = ()=>{
+        let tabs = document.querySelectorAll(".tabs__label-wrapper .tabs__label");
+        currentTabScroll+=2;
+        if(currentTabScroll>=tabs.length) currentTabScroll=tabs.length-1;
+        if(currentTabScroll<3) currentTabScroll++;
+        tabs[currentTabScroll].scrollIntoView({block:"nearest", behavior:"smooth"});
+    }
+
+    const autoLinkTarget = ()=>{
+        document.querySelectorAll(".div-link a").forEach(lnk=>{
+            if(lnk.className.includes("link-co-external")) lnk.target = "_blank";
+            else lnk.target = "_self";
+        });
+    }
+    autoLinkTarget();
+
+    function setTabActive(element){
+        document.querySelectorAll(".tabs__label").forEach(e=>{
+            let elementClass = e.className.replace("tab_active", "");
+            e.setAttribute("class", elementClass);
+        });
+        element.setAttribute("class", "tabs__label tab_active");
+    }
+
+    function changeTab(tabNumber){
+        document.getElementById("tab-container-1").style.display="none";
+        document.getElementById("tab-container-2").style.display="none";
+        document.getElementById("tab-container-3").style.display="none";
+        document.getElementById("tab-container-4").style.display="none";
+        document.getElementById("tab-container-5").style.display="none";
+        document.getElementById("tab-container-6").style.display="none";
+        document.getElementById("tab-container-7").style.display="none";
+        document.getElementById("tab-container-8").style.display="none";
+        document.getElementById("tab-container-9").style.display="none";
+        document.getElementById("tab-container-10").style.display="none";
+        
+        var id = "tab-container-" + tabNumber;
+        
+        document.getElementById(id).style.display="block";
+        
+    }
+
+    function removeWhiteSpaceMobileCard(){
+        let cardImgDiv = document.querySelectorAll(".tile_image-wrapper");
+        if(window.matchMedia("(max-width: 767px)").matches){
+            cardImgDiv.forEach(div =>{
+                if(div.style.backgroundImage == 'url("")'){
+                    div.style.display = "none";
+                    div.parentElement.style.height="auto";
+                    div.parentElement.style.padding = "0px";
+                }
+            });
+        } else {
+            cardImgDiv.forEach(div =>{
+                if(div.style.backgroundImage == 'url("")'){
+                    div.style.display = "inherit";
+                    div.parentElement.style = "";
+                }
+            });
+        }
+    }
+
+    removeWhiteSpaceMobileCard();
+    window.addEventListener("resize", removeWhiteSpaceMobileCard);
+
+    //TOGGLE SHOW PASSWORD
+    const toggleShowPassword = (element) => {
+        
+        const password = element.previousElementSibling;
+        const eyeClosed = element.firstElementChild;
+        const eyeOpen = element.lastElementChild; 
+
+        if (password.type === "password") {
+            eyeClosed.style.display = "inherit";
+            eyeOpen.style.display = "none";
+            password.type='text';
+        } else {
+            eyeClosed.style.display = "none";
+            eyeOpen.style.display = "inherit";
+            password.type = "password";
+        }
+    }
+
+    //SHOW ERROR ON WHITESPACE
+    const addErrorOnWhitespace = (element)=>{
+        if(element.value.includes(" ")) addError(element, "La contraseña no debe contener espacios en blanco");
+        else removeError(element);
+    }
+    //TRIM
+    const trimValue = (element) =>{
+	    element.value=element.value.trim();
+    }
+</script>
+
+
+
+    
+<script src="/etc/designs/enel-latam-com/clientlibs/careers.min.js"></script>
+
+
+
+
+    
+<script src="/etc/designs/enel-latam-com/clientlibs/hubGalleryPagination.min.js"></script>
+
+
+
+
+    
+<script src="/etc/designs/enel-co/cortesmapcsv.min.js"></script>
+
+
+   
+ 
+<script>            
+  var touchsupport = ('ontouchstart' in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0)
+  if (!touchsupport) { // browser doesn't support touch
+      document.documentElement.className += "no-touch";
+  }
+</script>
+<script>
+if ($(".dotcom-header__btn")[0] != undefined) {
+	var main = $("#main")[0];
+	main.setAttribute("data-starting-point", "main");
+	
+	$('[data-module="global-megamenu"]').attr('data-starting-point', 'main');
+	$('[data-module="footer"]').attr('data-starting-point', 'main');
+}
+</script>
+
+<script type="text/javascript">
+if (window._satellite) {
+	window._satellite.pageBottom();
+}
+ </script>
+<div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="><div class="lb-nav"><a class="lb-prev" href=""></a><a class="lb-next" href=""></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div><script>
+document .body.addEventListener( "click" , function (event) {
+if (event && event.target && event.target.id === 'truste-consent-button' ) {
+  setTimeout(function(){window.location.reload(); }, 1000 );
+}
+});
+</script><style type="text/css">
+#consent_blackbar{
+position: fixed;
+bottom: 0px
+}
+</style>
+<div id="consent_blackbar"></div>
+ 
+<script async="async" src="//consent.trustarc.com/notice?domain=colombia-enel.com&amp;c=teconsent&amp;js=nj&amp;noticeType=bb&amp;gtm=1&amp;text=true&amp;language=es&amp;cookieLink=https://www.enel.com.co/es/politica-de-cookies/politica-de-cookies.html&amp;privacypolicylink=https://www.enel.com.co/es/politica-de-tratamiento-de-datos.html" crossorigin="" id="truste_0.84177264301091"></script><script>
+	var _STATE = {};
+	function runOnce () {
+		if (!_STATE.hasRunOnce && window .truste && truste.eu && truste.eu.prefclose) {
+			console .log( "doing run once" );
+			_STATE.oldValue = truste.eu.bindMap.prefCookie &&
+			truste.eu.bindMap.prefCookie.split( ':' )[ 0 ].replace( /[^\d.]/g , '-' );
+			_STATE.oldMethod = truste.eu.prefclose;
+			truste.eu.prefclose = function () {
+				_STATE.oldMethod();
+				if (truste.eu.bindMap.prefCookie && truste.eu.bindMap.prefCookie.split( ':' )[ 0 ].replace( /[^\d.]/g , '-' ) !== _STATE.oldValue) setTimeout( function () { window .location.reload(); }, 20 );
+			};
+			_STATE.hasRunOnce = true ;
+			_STATE.i && clearInterval(_STATE.i);
+		}
+	}
+	_STATE.i = setInterval(runOnce, 10 );
+</script></body></html>

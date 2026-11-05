@@ -1,0 +1,19 @@
+ID,Dominio,URL_Formulario,Paginas_AEM,Estado,Tiene_Footer,Logo_Superfinanciera,Texto_Enel_ESP,Cantidad_Checkboxes,Accion_Requerida
+1,info-enel.com,https://enelsud.info-enel.com/leads-cfc-mayo-2022,10,Requiere ajuste,SI,NO,SI,1,Agregar pie de página con logo Superfinanciera y las 3 casillas comerciales
+2,info-enel.com,https://enelsud.info-enel.com/FacturaVirtual_Enel_Web,11,Requiere ajuste,NO,NO,NO,2,Agregar pie de página completo con logo Superfinanciera y casilla de privacidad
+3,info-enel.com,https://enelsud.info-enel.com/formulario-cultura-legalidad,11,Requiere ajuste,NO,NO,NO,0,Agregar pie de página completo y casilla de política de privacidad
+4,info-enel.com,https://enelsud.info-enel.com/enel-reporte-anonimo,14,Requiere ajuste,NO,NO,NO,0,Agregar pie de página completo y casilla de política de privacidad
+5,info-enel.com,https://enelsud.info-enel.com/Formulario-Energy-Management,9,Requiere ajuste,SI,NO,NO,0,Actualizar pie de página y agregar casillas de aceptación
+6,info-enel.com,https://enelsud.info-enel.com/PagoVirtEmpresas,3,Requiere ajuste,SI,NO,NO,0,Actualizar pie de página y agregar casilla de política de privacidad
+7,info-enel.com,https://enelsud.info-enel.com/SFacturaDigital,4,Requiere ajuste,SI,NO,NO,2,Actualizar pie de página con logo Superfinanciera
+8,info-enel.com,https://enelsud.info-enel.com/EFacturaCorp,1,Requiere ajuste,SI,NO,NO,0,Actualizar pie de página y agregar casilla de política de privacidad
+9,info-enel.com,http://enelsud.info-enel.com/Copropiedades,1,Requiere corrección crítica,NO,NO,NO,0,URL responde 404 en servidor externo. Corregir enlace en AEM o desplegar landing
+10,info-enel.com,http://enelsud.info-enel.com/FacturaDigital,1,Requiere ajuste,SI,NO,NO,2,Migrar a HTTPS y actualizar pie de página con logo Superfinanciera
+11,info-enel.com,http://enelsud.info-enel.com/RetiroEfactura,1,Requiere ajuste,SI,NO,NO,0,"Migrar a HTTPS/RetiroEfacturaV, actualizar pie de página y casilla de privacidad"
+12,customer.enelx.com,https://cloud.customer.enelx.com/leads-obras-org,13,Cumple (Al día),SI,SI,SI,4,"Pie de página, logo Superfinanciera y casillas completas"
+13,customer.enelx.com,https://cloud.customer.enelx.com/contacto-empresas-2026,35,Cumple (Al día),SI,SI,SI,4,"Pie de página, logo Superfinanciera y casillas completas"
+14,customer.enelx.com,https://cloud.customer.enelx.com/contacto-ciudades-2026,48,Cumple (Al día),SI,SI,SI,4,"Pie de página, logo Superfinanciera y casillas completas"
+15,customer.enelx.com,https://cloud.customer.enelx.com/contacto-mr-no-regulado-2026,2,Cumple (Al día),SI,SI,SI,4,"Pie de página, logo Superfinanciera y casillas completas"
+16,customer.enelx.com,https://cloud.customer.enelx.com/leads-juicebox-2026,4,Requiere ajuste,SI,SI,SI,4,Ajustar los textos visibles de las 3 casillas comerciales
+17,customer.enelx.com,https://cloud.customer.enelx.com/leads-asistencias-organico-portafolio,9,Requiere ajuste,SI,NO,NO,4,Agregar logo de Vigilado Superintendencia Financiera en pie de página
+18,customer.enelx.com,https://cloud.customer.enelx.com/leads-mr-no-regulado-2026,1,Requiere corrección crítica,NO,NO,NO,0,URL responde 404. Reemplazar en AEM por contacto-mr-no-regulado-2026

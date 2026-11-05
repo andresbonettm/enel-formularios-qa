@@ -1,0 +1,305 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<head><meta name="ROBOTS" content="INDEX,FOLLOW"><meta name="keywords" content=""><meta name="description" content="">
+    <title>Retiro Factura Virtual | Enel Colombia</title>
+    <link rel="stylesheet" type="text/css" href="https://assets.enelcol.com.co/2019/landings/julio/20190717_Retiro-factura-virtual/node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="https://assets.enelcol.com.co/2019/landings/julio/20190717_Retiro-factura-virtual/css/sale.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="og:image" content="https://www.enel.com.co/etc/designs/enel-co/favicon.ico">
+    <link rel="shortcut icon" href="https://www.enel.com.co/etc/designs/enel-co/favicon.ico">
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.js"></script>
+    <script type="text/javascript" src="https://assets.enelcol.com.co/2019/landings/julio/20190717_Retiro-factura-virtual/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-K6QDNGK');
+    </script>
+    <!-- End Google Tag Manager -->
+  <script> window.adobeDataLayer = window.adobeDataLayer || []; </script>
+<script src="https://assets.adobedtm.com/58373ae8f4f6/1b8196dc8ed3/launch-bf0b791f2a5e.min.js" async></script>
+
+</head>
+<body ng-app="app">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K6QDNGK" height="0" width="0" style="display:none;visibility:hidden">
+        </iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+<section>
+    <header>
+        <div class="orange">
+            <a href="https://urldefense.com/v3/__https://www.enel.com.co/__;!!OjemSMKBgg!znkwcpbkwA4V_edd_xxtHlLwy2YFudaR2zVLoUlAI1pwVKGlXETXgJi9iaGfmy9E$" target="_blank"><img src="https://www.enel.com.co/content/dam/enel-co/espa%C3%B1ol/enel_logo_white.png" width="190px"></a>
+        </div>
+    </header>
+    <div class="form container">
+        <h1>Retiro de la Factura Virtual</h1>
+        <p><strong>Ingresa tus datos</strong> y haz clic en el botón enviar para dejar de recibir la factura de energía
+            en tu correo electrónico.</p>
+        <div ng-controller="formController">
+            <form method="post" id="data_saleforce" name="data_saleforce" ng-submit="submit('https://enelsud.info-enel.com/retirofacturav')"
+                  novalidate>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+                        <div class="field tex">
+                            <input tabindex="1" type="text" name="name" id="name" placeholder="Nombres*"
+                                   ng-model="saleforce.name" required ng-pattern="pattern_words">
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+                        <div class="field tex">
+                            <input tabindex="2" type="text" name="lastname" id="lastname" placeholder="Apellidos*"
+                                   ng-model="saleforce.lastname" required ng-pattern="pattern_words">
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+                        <div class="field doc">
+                            <select class="how" tabindex="3" name="type_document" id="type_document"
+                                    ng-model="saleforce.type_document" required ng-pattern="pattern_words">
+                                <option value="">Seleccione el tipo de documento*</option>
+                                <option value="cc">Cédula de ciudadanía</option>
+                                <option value="ce">Cédula de extranjería</option>
+                                <option value="pa">Pasaporte</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+                        <div class="field doc">
+                            <input tabindex="4" class="ced" minlength="6" limit-to="10" type="number" name="n_document"
+                                   id="n_document" placeholder="Número de documento*"
+                                   ng-model="saleforce.n_document"
+                                   ng-pattern="pattern" required>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+                        <div class="field mail">
+                            <input class="mail" tabindex="5" type="email" name="email" id="email"
+                                   placeholder="Correo electrónico principal*"
+                                   ng-model="saleforce.email"  ng-pattern="pattern_email" required>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+                        <div class="field mail">
+                            <input class="mail" tabindex="6" type="email" name="email_secondary" id="email_secondary"
+                                   placeholder="Correo electrónico secundario"
+                                   ng-model="saleforce.email_secondary" ng-pattern="pattern_email">
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+                        <div class="field phone">
+                            <input tabindex="7" limit-to="10" class="cel" type="number" name="phone"
+                                   id="phone" placeholder="Celular" ng-model="saleforce.phone" minlength="10"
+                                   maxlength="10" ng-pattern="pattern">
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+                        <div class="field calidad">
+                            <select class="how " name="quality" id="quality" tabindex="8" ng-model="quality"
+                                    ="">
+                                <option value="" selected="selected">En calidad de:</option>
+                                <option value="Propietario">Propietario</option>
+                                <option value="Arrendatario">Arrendatario</option>
+                                <option value="Encargado">Encargado</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+                           <div class="field n_client   ">
+                              <input class="client" type="number" name="n_client" id="n_client" limit-to="7" placeholder="N° de cliente*" ng-model="saleforce.n_client" ng-pattern="/^[0-9]+$/" minlength="7" required="" tabindex="9">
+                            
+            <img class="score" src="https://assets.enelcol.com.co/2021/landings/20210623_Landing_Retiro_FacturaVirtual_B2B/img/score.png" height="36px">
+                            
+            <input class="verification" type="number" name="n_verification" limit-to="1" id="n_verification" ng-model="saleforce.n_verification" ng-pattern="/^[0-9]+$/" minlength="1" required="" tabindex="10">
+                           </div>
+                    </div>
+                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+                           <div class="field"></div>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+                        <div class="field bullet espec">
+                            <h3>Motivo Retiro*</h3>
+                        </div>
+                        <div class="field bullet">
+                            <input type="radio" id="reason_1" name="reason" tabindex="11" ng-model="saleforce.reason"
+                                   value="1" required>
+                            <label for="reason_1">Prefiere documento físico</label>
+                        </div>
+                        <div class="field bullet">
+                            <input type="radio" id="reason_2" name="reason" ng-model="saleforce.reason" value="2" required>
+                            <label for="reason_2">No es propietario</label>
+                        </div>
+                        <div class="field bullet">
+                            <input type="radio" id="reason_3" name="reason" ng-model="saleforce.reason" value="3" required>
+                            <label for="reason_3">Ya no vive en el predio</label>
+                        </div>
+                        <div class="field bullet">
+                            <input type="radio" id="reason_4" name="reason" ng-model="saleforce.reason" value="4" required>
+                            <label for="reason_4">Encontró inconsistencias en la información</label>
+                        </div>
+                        <div class="field bullet">
+                            <input type="radio" id="reason_5" name="reason" ng-model="saleforce.reason" value="5" required>
+                            <label for="reason_5">No la recibió</label>
+                        </div>
+                        <div class="field bullet">
+                            <input type="radio" id="reason_6" name="reason" ng-model="saleforce.reason" value="6" required>
+                            <label for="reason_6">No tengo recordación del pago</label>
+                        </div>
+                        <div class="field bullet">
+                            <input type="radio" id="reason_7" name="reason" ng-model="saleforce.reason" value="7" required>
+                            <label for="reason_7">No es confiable el envío</label>
+                        </div>
+                         <div class="field bullet">
+                            <input type="radio" id="reason_8" name="reason" ng-model="saleforce.reason" value="8" required>
+                            <label for="reason_8">No tiene acceso a correo electrónico</label>
+                        </div>
+                        <div class="field bullet">
+                            <input type="radio" id="reason_9" name="reason" ng-model="saleforce.reason" value="9" required>
+                            <label for="reason_9" class="other_label">Otro, cual</label>
+                            <input type="text" name="other" id="other" ng-model="saleforce.other" value="other" checked="">
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+                        <div class="field obse espec">
+                            <h3>Observaciones</h3>
+                            <textarea tabindex="12" type="text" name="observation" id="observation"
+                                      ng-model="saleforce.observation">
+
+                            </textarea>
+                        </div>
+                        <div class="field bullet">
+                            <div>
+                              <input tabindex="6" ng-model="saleforce.information" type="radio" name="information" id="information" ng-pattern="/^[0-9]+$/" checked="" value="0" required />
+                              <span class="checkmark"></span>
+                            </div>
+                            <div>
+                              <label for="information"
+                                     > *Conforme a la ley 1581 del 2012 y la política de tratamiento de datos personales, con la desuscripción (retiro) de la factura virtual usted autoriza que sus datos sean tratados por las empresas del Grupo Enel en Colombia para todos los fines relacionados con la gestión de su solicitud, sus productos activos, la prestación del servicio público de energía eléctrica de acuerdo con el contrato de servicio público, y para la generación, almacenamiento, comercialización y distribución de recursos energéticos. Recuerde que tiene derecho a conocer, actualizar, rectificar y cuando proceda, suprimir sus datos y revocar la autorización dada para su tratamiento, a través de los canales indicados en la política publicada en www.enel.com.co en la cual también encontrará la identificación de las empresas que pertenecen al Grupo Enel en Colombia. La política puede ser consultada                                 <a href="https://www.enel.com.co/es/politica-de-tratamiento-de-datos.html" target="_blank"> aquí.</a
+                                  ></label
+                                >
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+                        <p class="required">* Campos obligatorios</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <div class="field topMargin">
+
+                            <input tabindex="13" type="submit" value="Enviar" ng-disabled="data_saleforce.$invalid"
+                                   disabled="disabled">
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!--Footer-->
+    <footer class="page-footer font-small unique-color-dark pt-0">
+
+        <div style="background-color: #000;">
+            <div class="row_footer">
+                <!--Grid row-->
+                <div class="row py-4 align-items-center">
+
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 border-right">
+                        <p class="conoce">Conoce más en <a href="https://urldefense.com/v3/__https://www.enel.com.co/es/personas.html__;!!OjemSMKBgg!znkwcpbkwA4V_edd_xxtHlLwy2YFudaR2zVLoUlAI1pwVKGlXETXgJi9iTWGXopM$" target="_blank">www.enel.com.co</a></p>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-5 border-right">
+                        <div class="row store">
+                            <p>Descarga nuestra app</p>
+                            <a href="https://urldefense.com/v3/__https://apps.apple.com/co/app/enel-codensa/id827512131__;!!OjemSMKBgg!znkwcpbkwA4V_edd_xxtHlLwy2YFudaR2zVLoUlAI1pwVKGlXETXgJi9iVfO8i5g$" target="_blank"><img src="https://assets.enelcol.com.co/2019/landings/julio/20190717_Retiro-factura-virtual/img/landing-retiro-factura_20.png" class="img-responsive"/></a>
+                            <a href="https://urldefense.com/v3/__https://play.google.com/store/apps/details?id=com.proximate.codensa&amp;hl=es_419__;!!OjemSMKBgg!znkwcpbkwA4V_edd_xxtHlLwy2YFudaR2zVLoUlAI1pwVKGlXETXgJi9iTGXaJyU$" target="_blank"><img src="https://assets.enelcol.com.co/2019/landings/julio/20190717_Retiro-factura-virtual/img/landing-retiro-factura_22.png" class="img-responsive"/></a>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
+                        <div class="row redes">
+                            <p>Síguenos en:</p>
+                            <a href="https://urldefense.com/v3/__https://www.facebook.com/EnelColombia__;!!OjemSMKBgg!znkwcpbkwA4V_edd_xxtHlLwy2YFudaR2zVLoUlAI1pwVKGlXETXgJi9iVc6o7sX$" target="_blank"><img src="https://assets.enelcol.com.co/2019/landings/julio/20190717_Retiro-factura-virtual/img/facebook.png" class="img-responsive"/></a>
+                            <a href="https://urldefense.com/v3/__https://twitter.com/EnelColombia__;!!OjemSMKBgg!znkwcpbkwA4V_edd_xxtHlLwy2YFudaR2zVLoUlAI1pwVKGlXETXgJi9iXhFSVyU$" target="_blank"><img src="https://assets.enelcol.com.co/2019/landings/julio/20190717_Retiro-factura-virtual/img/twitter.png" class="img-responsive"/></a>
+                            <a href="https://urldefense.com/v3/__https://www.youtube.com/c/EnelColombia__;!!OjemSMKBgg!znkwcpbkwA4V_edd_xxtHlLwy2YFudaR2zVLoUlAI1pwVKGlXETXgJi9iZBo41_2$" target="_blank"><img src="https://assets.enelcol.com.co/2019/landings/julio/20190717_Retiro-factura-virtual/img/youtube.png" class="img-responsive"/></a>
+                            <a href="https://urldefense.com/v3/__https://www.linkedin.com/company/enel-colombia/__;!!OjemSMKBgg!znkwcpbkwA4V_edd_xxtHlLwy2YFudaR2zVLoUlAI1pwVKGlXETXgJi9iTwEq8Q0$" target="_blank"><img src="https://assets.enelcol.com.co/2019/landings/julio/20190717_Retiro-factura-virtual/img/linke.png" class="img-responsive"/></a>
+                        </div>
+                    </div>
+                </div>
+                <!--Grid row-->
+            </div>
+        </div>
+    </footer>
+</section>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.5/angular.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="text/javascript">
+    (function () {
+        angular.module('app', [])
+            .controller('formController', ['$scope', '$http', function ($scope, $http) {
+                $scope.saleforce = [];
+                $scope.validate = false;
+                $scope.lastValidate = false;
+                $scope.valueButton = "Ingresa los campos obligatorios";
+                $scope.pattern = /^[0-9]+$/;
+                $scope.pattern_words = /^[a-zA-Z_áéíóúñ\s]*$/;
+                $scope.pattern_email = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+                $scope.submit = function (url) {
+                    var urlData = jQuery('#data_saleforce').serialize();
+
+                    $scope.data_saleforce.$invalid = true;
+                    jQuery.post(url, urlData, null, 'jsonp').done(function (data) {
+                        document.location.href="https://enelsud.info-enel.com/TpRetiroEfactura";
+                    }).fail(function (data) {
+                        document.location.href="https://enelsud.info-enel.com/TpRetiroEfactura";
+                    });
+                };
+            }]).directive("limitTo", [function () {
+            return {
+                restrict: "A",
+                link: function (scope, elem, attrs) {
+                    var limit = parseInt(attrs.limitTo);
+                    angular.element(elem).on("keypress", function (e) {
+                        if (this.value.length == limit) e.preventDefault();
+                    });
+                }
+            }
+        }]);
+    })();
+
+    function hideModalOverlay() {
+        $('.modalOverlay').hide();
+    }
+
+    //fix for IE7 and IE8
+    $(function () {
+        if (!$.support.placeholder) {
+            $("[placeholder]").focus(function () {
+                if ($(this).val() == $(this).attr("placeholder")) $(this).val("");
+            }).blur(function () {
+                if ($(this).val() == "") $(this).val($(this).attr("placeholder"));
+            }).blur();
+
+            $("[placeholder]").parents("form").submit(function () {
+                $(this).find('[placeholder]').each(function () {
+                    if ($(this).val() == $(this).attr("placeholder")) {
+                        $(this).val("");
+                    }
+                });
+            });
+        }
+    });
+</script>
+
+<script>(function(a,m,i,g,o,s){o=a.createElement(g);s=a.getElementsByTagName(i)[0];o.src=m.origin+m.pathname+"/_t?eventType=CLOUDPAGESVISIT";o.width=0;o.height=0;o.style.display="none";s.appendChild(o);})(document,window.location,"body","img");</script>
+
+ <script src="https:&#x2F;&#x2F;7295600.collect.igodigital.com&#x2F;collect.js"></script>
+ <script>
+  if (_etmc && typeof _etmc.push === 'function') {
+   _etmc.push(['setOrgId', '7295600']);
+   _etmc.push(['trackPageView']);
+  }
+ </script>
+
+</body>
+</html>
