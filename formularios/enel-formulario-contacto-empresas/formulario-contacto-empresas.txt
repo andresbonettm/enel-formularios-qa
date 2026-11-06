@@ -389,7 +389,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="contenedor">
         <div class="half aside_left">
             <div class="img-container">
-                <img src="https://www.enel.com.cohttps://www.enel.com.co/content/dam/enel-co/im%C3%A1genes-home/logo-white.png" alt="Logo Enel">
+                <img src="https://www.enel.com.co/content/dam/enel-co/im%C3%A1genes-home/logo-white.png" alt="Logo Enel">
             </div>
             <h2>Contáctanos Empresas</h2>
             <p>En Enel queremos estar cerca de ti respondiendo y dando solución a todas tus dudas y consultas. Te invitamos a completar el siguiente formulario y te responderemos a la brevedad.</p>
