@@ -120,7 +120,7 @@
     <header class="header-logo">
         <div class="container d-flex justify-content-between align-items-center">
             <a href="https://www.enel.com.co/es.html">
-                <img src="https://www.enel.com.co/content/dam/enel-co/im%C3%A1genes-home/logo-white.png" alt="Enel Colombia">
+                <img src="https://www.enel.com.cohttps://www.enel.com.co/content/dam/enel-co/im%C3%A1genes-home/logo-white.png" alt="Enel Colombia">
             </a>
             <span class="badge badge-light p-2" style="font-size:12px; border:1px solid #cbd5e1;">Enel Colombia S.A. ESP</span>
         </div>

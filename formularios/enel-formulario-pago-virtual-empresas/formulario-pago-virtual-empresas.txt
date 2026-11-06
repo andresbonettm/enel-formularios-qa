@@ -28,7 +28,7 @@
 <section>
     <header><meta name="ROBOTS" content="INDEX, FOLLOW"><meta name="keywords" content=""><meta name="description" content="">
         <div class="orange">
-            <a href="http://www.enel.com.co/" target="_blank"><img src="https://assets.enelcol.com.co/2019/landings/marzo/20190326_Landing_pago_factura_virtual/img/logo.png"></a>
+            <a href="http://www.enel.com.co/" target="_blank"><img src="https://www.enel.com.co/content/dam/enel-co/im%C3%A1genes-home/logo-white.png"></a>
         </div>
     </header>
     <div class="form container">

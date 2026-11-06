@@ -714,7 +714,7 @@
 <body>
     <div class="logo-container">
         <div class="enelLogo">
-            <img src="https://assets.enelcol.com.co/2021/landings/20210211_Landing_cfc/images/logo-enel.png" alt="enel">
+            <img src="https://www.enel.com.co/content/dam/enel-co/im%C3%A1genes-home/logo-white.png" alt="enel">
         </div>
     </div>
     <div class="form-container ng-scope" ng-app="app" ng-controller="formController">
